@@ -2,9 +2,13 @@ import { useState, useEffect, useMemo } from "react";
 import { STATE_CONFIG, STATE_META, REGION_ORDER } from "./states.config";
 
 // ─── Coming-soon states (VacancyClock UI only) ─────────────────────────────────
+// Remove a state from this list when it's added to states.config.js
+// Phase 3A (added June 2026): PA, NY, NC, NJ, GA, IL
+// Phase 3B (next): OH, FL, TX, CA, WA, CO, CT, OR
 const COMING_SOON = {
-  CA:"California", NY:"New York", TX:"Texas", FL:"Florida", IL:"Illinois",
-  WA:"Washington", GA:"Georgia", OH:"Ohio", PA:"Pennsylvania", NC:"North Carolina"
+  CA:"California", TX:"Texas", FL:"Florida",
+  WA:"Washington", OH:"Ohio", CO:"Colorado", CT:"Connecticut", OR:"Oregon",
+  AZ:"Arizona", MI:"Michigan", WI:"Wisconsin", TN:"Tennessee",
 };
 
 const ALL_DOMAINS = [
