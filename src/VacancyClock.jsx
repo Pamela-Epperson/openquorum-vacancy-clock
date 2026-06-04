@@ -1,4 +1,4 @@
-import { useState, useEffect, useMemo } from "react";
+import { useState, useEffect, useMemo, useCallback } from "react";
 import { STATE_CONFIG, STATE_META, REGION_ORDER } from "./states.config";
 
 // ─── Coming-soon states (VacancyClock UI only) ─────────────────────────────────
@@ -60,7 +60,9 @@ function EmbedModal({stateCode,onClose}){
 }
 
 export default function VacancyClock(){
-  const [stateCode,setStateCode]=useState("MD");
+  const [stateCode,setStateCode]=useState(null);
+  const [locStatus,setLocStatus]=useState("detecting"); // "detecting"|"detected"|"not-live"|"failed"
+  const [locLabel,setLocLabel]=useState("");
   const [domain,setDomain]=useState("all");
   const [sortBy,setSortBy]=useState("days");
   const [sortDir,setSortDir]=useState("desc");
@@ -69,10 +71,45 @@ export default function VacancyClock(){
   const [showNote,setShowNote]=useState(false);
   const [tick,setTick]=useState(0);
 
+  // IP-based geolocation — no permission prompt, no API key required
+  useEffect(()=>{
+    fetch("https://ipapi.co/json/")
+      .then(r=>r.json())
+      .then(d=>{
+        const s=d.region_code;
+        const regionName=d.region||"";
+        if(s&&STATE_CONFIG[s]){
+          setStateCode(s);
+          setLocStatus("detected");
+          setLocLabel(STATE_CONFIG[s].label);
+        } else if(s){
+          // User's state not yet live — show picker with message
+          setStateCode(null);
+          setLocStatus("not-live");
+          setLocLabel(regionName||s);
+        } else {
+          setStateCode(Object.keys(STATE_CONFIG)[0]);
+          setLocStatus("failed");
+        }
+      })
+      .catch(()=>{
+        setStateCode(Object.keys(STATE_CONFIG)[0]);
+        setLocStatus("failed");
+      });
+  },[]);
+
+  const handleStateChange=useCallback((code)=>{
+    setStateCode(code);
+    setLocStatus("chosen");
+    setDomain("all");
+    setShowMenu(false);
+    setShowNote(false);
+  },[]);
+
   useEffect(()=>{const t=setInterval(()=>setTick(n=>n+1),60000);return()=>clearInterval(t);},[]);
 
-  const cfg=STATE_CONFIG[stateCode];
-  const enriched=useMemo(()=>cfg.boards.map(b=>({...b,days:calcDays(b.vacantSince),pct:Math.round(b.vacantSeats/b.totalSeats*100)})),[stateCode,tick]);
+  const cfg=stateCode?STATE_CONFIG[stateCode]:null;
+  const enriched=useMemo(()=>cfg?cfg.boards.map(b=>({...b,days:calcDays(b.vacantSince),pct:Math.round(b.vacantSeats/b.totalSeats*100)})):[],[stateCode,tick,cfg]);
   const usedDomains=useMemo(()=>new Set(enriched.map(b=>b.domain)),[enriched]);
 
   const filtered=useMemo(()=>{
@@ -86,8 +123,8 @@ export default function VacancyClock(){
   const totalVacant=enriched.reduce((s,b)=>s+b.vacantSeats,0);
   const totalSeats=enriched.reduce((s,b)=>s+b.totalSeats,0);
   const critical=enriched.filter(b=>b.days>=365).length;
-  const avgDays=Math.round(enriched.reduce((s,b)=>s+b.days,0)/enriched.length);
-  const maxDays=Math.max(...enriched.map(b=>b.days));
+  const avgDays=enriched.length?Math.round(enriched.reduce((s,b)=>s+b.days,0)/enriched.length):0;
+  const maxDays=enriched.length?Math.max(...enriched.map(b=>b.days)):0;
 
   const toggleSort=col=>{if(sortBy===col)setSortDir(d=>d==="desc"?"asc":"desc");else{setSortBy(col);setSortDir("desc");}};
   const SortBtn=({col,label})=><button onClick={()=>toggleSort(col)} style={{background:"none",border:"none",cursor:"pointer",fontSize:11,fontWeight:500,color:sortBy===col?"#1D9E75":"#888",padding:"0 2px",display:"flex",alignItems:"center",gap:3,whiteSpace:"nowrap"}}>{label}{sortBy===col?(sortDir==="desc"?" ↓":" ↑"):" ↕"}</button>;
@@ -97,9 +134,35 @@ export default function VacancyClock(){
     .map(r=>({region:r, states:Object.entries(STATE_CONFIG).filter(([,s])=>s.region===r)}))
     .filter(({states})=>states.length>0);
 
+  // Dropdown for state picker (shared between loading and loaded states)
+  const StateMenu=()=>(
+    <div style={{position:"absolute",top:"calc(100% + 6px)",left:0,background:"#fff",border:"1px solid #eee",borderRadius:10,minWidth:240,zIndex:200,boxShadow:"0 4px 24px rgba(0,0,0,0.12)",overflow:"hidden",maxHeight:500,overflowY:"auto"}}>
+      {byRegion.map(({region,states})=>(
+        <div key={region}>
+          <p style={{margin:0,padding:"8px 14px 4px",fontSize:10,color:"#aaa",textTransform:"uppercase",letterSpacing:"0.08em",borderTop:region!==byRegion[0].region?"1px solid #f0f0f0":undefined}}>{region} · live data</p>
+          {states.map(([code,s])=>(
+            <button key={code} onClick={()=>handleStateChange(code)}
+              style={{display:"block",width:"100%",textAlign:"left",padding:"8px 14px",border:"none",background:stateCode===code?"#E1F5EE":"transparent",color:stateCode===code?"#0F6E56":"#333",fontSize:13,cursor:"pointer",fontWeight:stateCode===code?600:400}}>
+              {s.label}{stateCode===code?" ✓":""}
+            </button>
+          ))}
+        </div>
+      ))}
+      <p style={{margin:"4px 0 0",padding:"6px 14px 4px",fontSize:10,color:"#aaa",textTransform:"uppercase",letterSpacing:"0.08em",borderTop:"1px solid #f0f0f0"}}>Coming soon</p>
+      {Object.entries(COMING_SOON).map(([c,n])=>(
+        <div key={c} style={{padding:"5px 14px",fontSize:12,color:"#bbb",display:"flex",justifyContent:"space-between"}}>
+          <span>{n}</span><span style={{fontSize:10,background:"#f5f5f5",padding:"1px 6px",borderRadius:20}}>in progress</span>
+        </div>
+      ))}
+      <div style={{padding:"8px 12px",borderTop:"1px solid #f0f0f0",marginTop:4}}>
+        <button style={{width:"100%",padding:"6px 0",border:"1px dashed #1D9E75",borderRadius:8,background:"transparent",color:"#1D9E75",fontSize:12,cursor:"pointer",fontWeight:500}}>+ Request your state</button>
+      </div>
+    </div>
+  );
+
   return(
     <div style={{fontFamily:"system-ui,-apple-system,sans-serif",maxWidth:1100,margin:"0 auto",padding:"0 0 2rem",color:"#1a1a1a"}} onClick={()=>showMenu&&setShowMenu(false)}>
-      {showEmbed&&<EmbedModal stateCode={stateCode} onClose={()=>setShowEmbed(false)}/>}
+      {showEmbed&&stateCode&&<EmbedModal stateCode={stateCode} onClose={()=>setShowEmbed(false)}/>}
 
       {/* Header */}
       <div style={{borderBottom:"1px solid #eee",paddingBottom:"1rem",marginBottom:"1.25rem"}}>
@@ -108,46 +171,67 @@ export default function VacancyClock(){
             <div style={{display:"flex",alignItems:"center",gap:10,marginBottom:4,flexWrap:"wrap"}}>
               <span style={{fontSize:20,fontWeight:600,letterSpacing:"-0.02em"}}>Open<span style={{color:"#1D9E75"}}>Quorum</span></span>
 
-              {/* State picker */}
+              {/* State picker — shows location state or manual picker */}
               <div style={{position:"relative"}} onClick={e=>e.stopPropagation()}>
-                <button onClick={()=>setShowMenu(v=>!v)} style={{display:"flex",alignItems:"center",gap:6,padding:"4px 12px",borderRadius:20,border:"1.5px solid #1D9E75",background:"#E1F5EE",color:"#0F6E56",fontWeight:600,fontSize:12,cursor:"pointer"}}>
-                  {cfg.label} <span style={{fontSize:10}}>▾</span>
-                </button>
-                {showMenu&&(
-                  <div style={{position:"absolute",top:"calc(100% + 6px)",left:0,background:"#fff",border:"1px solid #eee",borderRadius:10,minWidth:240,zIndex:200,boxShadow:"0 4px 24px rgba(0,0,0,0.12)",overflow:"hidden",maxHeight:500,overflowY:"auto"}}>
-                    {byRegion.map(({region,states})=>(
-                      <div key={region}>
-                        <p style={{margin:0,padding:"8px 14px 4px",fontSize:10,color:"#aaa",textTransform:"uppercase",letterSpacing:"0.08em",borderTop:region!==byRegion[0].region?"1px solid #f0f0f0":undefined}}>{region} · live data</p>
-                        {states.map(([code,s])=>(
-                          <button key={code} onClick={()=>{setStateCode(code);setDomain("all");setShowMenu(false);setShowNote(false);}}
-                            style={{display:"block",width:"100%",textAlign:"left",padding:"8px 14px",border:"none",background:stateCode===code?"#E1F5EE":"transparent",color:stateCode===code?"#0F6E56":"#333",fontSize:13,cursor:"pointer",fontWeight:stateCode===code?600:400}}>
-                            {s.label}{stateCode===code?" ✓":""}
-                          </button>
-                        ))}
-                      </div>
-                    ))}
-                    <p style={{margin:"4px 0 0",padding:"6px 14px 4px",fontSize:10,color:"#aaa",textTransform:"uppercase",letterSpacing:"0.08em",borderTop:"1px solid #f0f0f0"}}>Coming soon</p>
-                    {Object.entries(COMING_SOON).map(([c,n])=>(
-                      <div key={c} style={{padding:"5px 14px",fontSize:12,color:"#bbb",display:"flex",justifyContent:"space-between"}}>
-                        <span>{n}</span><span style={{fontSize:10,background:"#f5f5f5",padding:"1px 6px",borderRadius:20}}>in progress</span>
-                      </div>
-                    ))}
-                    <div style={{padding:"8px 12px",borderTop:"1px solid #f0f0f0",marginTop:4}}>
-                      <button style={{width:"100%",padding:"6px 0",border:"1px dashed #1D9E75",borderRadius:8,background:"transparent",color:"#1D9E75",fontSize:12,cursor:"pointer",fontWeight:500}}>+ Request your state</button>
-                    </div>
-                  </div>
+                {locStatus==="detecting"?(
+                  <span style={{fontSize:12,color:"#aaa",padding:"4px 10px",borderRadius:20,border:"1.5px solid #eee",display:"inline-flex",alignItems:"center",gap:6}}>
+                    <span style={{width:8,height:8,border:"1.5px solid #aaa",borderTopColor:"transparent",borderRadius:"50%",display:"inline-block",animation:"spin 0.8s linear infinite"}}/>
+                    Detecting location…
+                  </span>
+                ):(
+                  <>
+                    <button onClick={()=>setShowMenu(v=>!v)}
+                      style={{display:"flex",alignItems:"center",gap:6,padding:"4px 12px",borderRadius:20,border:"1.5px solid #1D9E75",background:"#E1F5EE",color:"#0F6E56",fontWeight:600,fontSize:12,cursor:"pointer"}}>
+                      {locStatus==="detected"&&"📍 "}{cfg?cfg.label:"Choose your state"} <span style={{fontSize:10}}>▾</span>
+                    </button>
+                    {showMenu&&<StateMenu/>}
+                  </>
                 )}
               </div>
+
+              {/* Location status badge */}
+              {locStatus==="detected"&&(
+                <span style={{fontSize:11,padding:"3px 9px",borderRadius:20,background:"#E1F5EE",color:"#0F6E56"}}>
+                  Location detected
+                </span>
+              )}
+              {locStatus==="not-live"&&(
+                <span style={{fontSize:11,padding:"3px 9px",borderRadius:20,background:"#FAEEDA",color:"#633806"}}>
+                  {locLabel} coming soon — choose a state below
+                </span>
+              )}
               <span style={{fontSize:11,padding:"3px 8px",borderRadius:20,background:"#f0f0f0",color:"#999"}}>Sample data · scraper in development</span>
+              <style>{`@keyframes spin{to{transform:rotate(360deg)}}`}</style>
             </div>
-            <p style={{margin:0,fontSize:12,color:"#888"}}>Vacancy Clock · {cfg.dataSource}</p>
+            <p style={{margin:0,fontSize:12,color:"#888"}}>{cfg?`Vacancy Clock · ${cfg.dataSource}`:"Vacancy Clock · openquorum.org"}</p>
           </div>
           <div style={{display:"flex",gap:8,flexWrap:"wrap"}}>
-            <button onClick={()=>setShowEmbed(true)} style={{padding:"7px 14px",borderRadius:8,border:"1px solid #1D9E75",background:"transparent",color:"#1D9E75",cursor:"pointer",fontSize:12,fontWeight:500}}>&lt;/&gt; Embed</button>
-            <a href={cfg.applyUrl} target="_blank" rel="noreferrer" style={{padding:"7px 14px",borderRadius:8,border:"1px solid #ddd",background:"transparent",color:"#555",fontSize:12,fontWeight:500,textDecoration:"none"}}>Apply ↗</a>
+            {stateCode&&<button onClick={()=>setShowEmbed(true)} style={{padding:"7px 14px",borderRadius:8,border:"1px solid #1D9E75",background:"transparent",color:"#1D9E75",cursor:"pointer",fontSize:12,fontWeight:500}}>&lt;/&gt; Embed</button>}
+            {cfg&&<a href={cfg.applyUrl} target="_blank" rel="noreferrer" style={{padding:"7px 14px",borderRadius:8,border:"1px solid #ddd",background:"transparent",color:"#555",fontSize:12,fontWeight:500,textDecoration:"none"}}>Apply ↗</a>}
           </div>
         </div>
       </div>
+
+      {/* State not yet live — show picker prominently */}
+      {!stateCode&&locStatus!=="detecting"&&(
+        <div style={{textAlign:"center",padding:"3rem 1rem"}}>
+          <p style={{fontSize:15,fontWeight:500,color:"#1a1a1a",marginBottom:8}}>
+            {locStatus==="not-live"?`${locLabel} isn't live yet — pick a state to explore:`:"Choose your state to get started:"}
+          </p>
+          <div style={{display:"flex",flexWrap:"wrap",gap:8,justifyContent:"center",maxWidth:600,margin:"0 auto"}}>
+            {Object.entries(STATE_CONFIG).map(([code,s])=>(
+              <button key={code} onClick={()=>handleStateChange(code)}
+                style={{padding:"8px 18px",borderRadius:20,border:`1.5px solid ${s.color}`,background:s.bg,color:s.color,fontWeight:600,fontSize:13,cursor:"pointer"}}>
+                {s.label}
+              </button>
+            ))}
+          </div>
+          <p style={{marginTop:"1.5rem",fontSize:12,color:"#aaa"}}>More states added regularly · <span style={{color:"#1D9E75",cursor:"pointer"}}>request yours</span></p>
+        </div>
+      )}
+
+      {/* Board data — only renders when a state is selected */}
+      {cfg&&(<>
 
       {/* Context / Audit banners */}
       {(cfg.contextNote||cfg.auditNote)&&(
@@ -244,6 +328,7 @@ export default function VacancyClock(){
           <button onClick={()=>navigator.clipboard?.writeText(`${cfg.label} has ${totalVacant} unfilled state board seats — some vacant for over ${(maxDays/365).toFixed(1)} years. Track at openquorum.org`)} style={{padding:"5px 12px",borderRadius:8,border:"1px solid #1D9E75",background:"transparent",color:"#1D9E75",cursor:"pointer",fontSize:11,fontWeight:500}}>Share data</button>
         </div>
       </div>
+      </>)}
     </div>
   );
 }
