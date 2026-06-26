@@ -49,9 +49,9 @@ function EmbedModal({stateCode,onClose}){
   const [copied,setCopied]=useState(false);
   const code=`<script src="https://openquorum.org/widget.js"></script>\n<oq-vacancy-clock state="${stateCode.toLowerCase()}" theme="auto"></oq-vacancy-clock>`;
   return(
-    <div style={{position:"fixed",inset:0,background:"rgba(0,0,0,0.4)",display:"flex",alignItems:"center",justifyContent:"center",zIndex:1000}} onClick={onClose}>
-      <div style={{background:"#fff",borderRadius:12,padding:"1.5rem",maxWidth:480,width:"90%"}} onClick={e=>e.stopPropagation()}>
-        <div style={{display:"flex",justifyContent:"space-between",marginBottom:10}}><p style={{margin:0,fontSize:14,fontWeight:500}}>Embed — {STATE_CONFIG[stateCode].label}</p><button onClick={onClose} style={{border:"none",background:"none",cursor:"pointer",fontSize:18,color:"#666"}}>×</button></div>
+    <div style={{position:"fixed",inset:0,background:"rgba(0,0,0,0.4)",display:"flex",alignItems:"center",justifyContent:"center",zIndex:1000}} onClick={onClose} aria-hidden="true">
+      <div role="dialog" aria-modal="true" aria-labelledby="embed-modal-title" style={{background:"#fff",borderRadius:12,padding:"1.5rem",maxWidth:480,width:"90%"}} onClick={e=>e.stopPropagation()}>
+        <div style={{display:"flex",justifyContent:"space-between",marginBottom:10}}><p id="embed-modal-title" style={{margin:0,fontSize:14,fontWeight:500}}>Embed — {STATE_CONFIG[stateCode].label}</p><button onClick={onClose} aria-label="Close embed dialog" style={{border:"none",background:"none",cursor:"pointer",fontSize:18,color:"#666"}}>×</button></div>
         <div style={{background:"#f5f5f5",borderRadius:8,padding:"12px 14px",fontFamily:"monospace",fontSize:12,marginBottom:12,lineHeight:1.7,whiteSpace:"pre-wrap",wordBreak:"break-all"}}>{code}</div>
         <button onClick={()=>{navigator.clipboard?.writeText(code);setCopied(true);setTimeout(()=>setCopied(false),2000)}} style={{width:"100%",padding:"8px 0",borderRadius:8,border:"1px solid #1D9E75",background:copied?"#1D9E75":"transparent",color:copied?"#fff":"#1D9E75",cursor:"pointer",fontSize:13,fontWeight:500}}>{copied?"Copied!":"Copy embed code"}</button>
       </div>
