@@ -42,7 +42,7 @@ function DaysBadge({days}){
 
 function VacancyBar({total,vacant}){
   const pct=Math.round((vacant/total)*100), c=pct>=50?"#E24B4A":pct>=30?"#EF9F27":"#1D9E75";
-  return <div style={{display:"flex",alignItems:"center",gap:8}}><div style={{flex:1,height:4,background:"#e0e0e0",borderRadius:2,overflow:"hidden"}}><div style={{height:4,width:`${pct}%`,background:c,borderRadius:2}}/></div><span style={{fontSize:11,color:"#888",minWidth:38,textAlign:"right"}}>{vacant}/{total}</span></div>;
+  return <div style={{display:"flex",alignItems:"center",gap:8}}><div style={{flex:1,height:4,background:"#e0e0e0",borderRadius:2,overflow:"hidden"}}><div style={{height:4,width:`${pct}%`,background:c,borderRadius:2}}/></div><span style={{fontSize:11,color:"#666",minWidth:38,textAlign:"right"}}>{vacant}/{total}</span></div>;
 }
 
 function EmbedModal({stateCode,onClose}){
@@ -51,7 +51,7 @@ function EmbedModal({stateCode,onClose}){
   return(
     <div style={{position:"fixed",inset:0,background:"rgba(0,0,0,0.4)",display:"flex",alignItems:"center",justifyContent:"center",zIndex:1000}} onClick={onClose}>
       <div style={{background:"#fff",borderRadius:12,padding:"1.5rem",maxWidth:480,width:"90%"}} onClick={e=>e.stopPropagation()}>
-        <div style={{display:"flex",justifyContent:"space-between",marginBottom:10}}><p style={{margin:0,fontSize:14,fontWeight:500}}>Embed — {STATE_CONFIG[stateCode].label}</p><button onClick={onClose} style={{border:"none",background:"none",cursor:"pointer",fontSize:18,color:"#888"}}>×</button></div>
+        <div style={{display:"flex",justifyContent:"space-between",marginBottom:10}}><p style={{margin:0,fontSize:14,fontWeight:500}}>Embed — {STATE_CONFIG[stateCode].label}</p><button onClick={onClose} style={{border:"none",background:"none",cursor:"pointer",fontSize:18,color:"#666"}}>×</button></div>
         <div style={{background:"#f5f5f5",borderRadius:8,padding:"12px 14px",fontFamily:"monospace",fontSize:12,marginBottom:12,lineHeight:1.7,whiteSpace:"pre-wrap",wordBreak:"break-all"}}>{code}</div>
         <button onClick={()=>{navigator.clipboard?.writeText(code);setCopied(true);setTimeout(()=>setCopied(false),2000)}} style={{width:"100%",padding:"8px 0",borderRadius:8,border:"1px solid #1D9E75",background:copied?"#1D9E75":"transparent",color:copied?"#fff":"#1D9E75",cursor:"pointer",fontSize:13,fontWeight:500}}>{copied?"Copied!":"Copy embed code"}</button>
       </div>
@@ -70,6 +70,7 @@ export default function VacancyClock(){
   const [showMenu,setShowMenu]=useState(false);
   const [showNote,setShowNote]=useState(false);
   const [tick,setTick]=useState(0);
+  const [paused,setPaused]=useState(false);
 
   // IP-based geolocation — no permission prompt, no API key required
   useEffect(()=>{
@@ -106,7 +107,7 @@ export default function VacancyClock(){
     setShowNote(false);
   },[]);
 
-  useEffect(()=>{const t=setInterval(()=>setTick(n=>n+1),60000);return()=>clearInterval(t);},[]);
+  useEffect(()=>{if(paused)return;const t=setInterval(()=>setTick(n=>n+1),60000);return()=>clearInterval(t);},[paused]);
 
   const cfg=stateCode?STATE_CONFIG[stateCode]:null;
   const enriched=useMemo(()=>cfg?cfg.boards.map(b=>({...b,days:calcDays(b.vacantSince),pct:Math.round(b.vacantSeats/b.totalSeats*100)})):[],[stateCode,tick,cfg]);
@@ -127,7 +128,7 @@ export default function VacancyClock(){
   const maxDays=enriched.length?Math.max(...enriched.map(b=>b.days)):0;
 
   const toggleSort=col=>{if(sortBy===col)setSortDir(d=>d==="desc"?"asc":"desc");else{setSortBy(col);setSortDir("desc");}};
-  const SortBtn=({col,label})=><button onClick={()=>toggleSort(col)} style={{background:"none",border:"none",cursor:"pointer",fontSize:11,fontWeight:500,color:sortBy===col?"#1D9E75":"#888",padding:"0 2px",display:"flex",alignItems:"center",gap:3,whiteSpace:"nowrap"}}>{label}{sortBy===col?(sortDir==="desc"?" ↓":" ↑"):" ↕"}</button>;
+  const SortBtn=({col,label})=><button onClick={()=>toggleSort(col)} style={{background:"none",border:"none",cursor:"pointer",fontSize:11,fontWeight:500,color:sortBy===col?"#1D9E75":"#666",padding:"0 2px",display:"flex",alignItems:"center",gap:3,whiteSpace:"nowrap"}}>{label}{sortBy===col?(sortDir==="desc"?" ↓":" ↑"):" ↕"}</button>;
 
   // Build region → states map dynamically from shared config
   const byRegion=REGION_ORDER
@@ -139,7 +140,7 @@ export default function VacancyClock(){
     <div style={{position:"absolute",top:"calc(100% + 6px)",left:0,background:"#fff",border:"1px solid #eee",borderRadius:10,minWidth:240,zIndex:200,boxShadow:"0 4px 24px rgba(0,0,0,0.12)",overflow:"hidden",maxHeight:500,overflowY:"auto"}}>
       {byRegion.map(({region,states})=>(
         <div key={region}>
-          <p style={{margin:0,padding:"8px 14px 4px",fontSize:10,color:"#aaa",textTransform:"uppercase",letterSpacing:"0.08em",borderTop:region!==byRegion[0].region?"1px solid #f0f0f0":undefined}}>{region} · live data</p>
+          <p style={{margin:0,padding:"8px 14px 4px",fontSize:10,color:"#767676",textTransform:"uppercase",letterSpacing:"0.08em",borderTop:region!==byRegion[0].region?"1px solid #f0f0f0":undefined}}>{region} · live data</p>
           {states.map(([code,s])=>(
             <button key={code} onClick={()=>handleStateChange(code)}
               style={{display:"block",width:"100%",textAlign:"left",padding:"8px 14px",border:"none",background:stateCode===code?"#E1F5EE":"transparent",color:stateCode===code?"#0F6E56":"#333",fontSize:13,cursor:"pointer",fontWeight:stateCode===code?600:400}}>
@@ -148,9 +149,9 @@ export default function VacancyClock(){
           ))}
         </div>
       ))}
-      <p style={{margin:"4px 0 0",padding:"6px 14px 4px",fontSize:10,color:"#aaa",textTransform:"uppercase",letterSpacing:"0.08em",borderTop:"1px solid #f0f0f0"}}>Coming soon</p>
+      <p style={{margin:"4px 0 0",padding:"6px 14px 4px",fontSize:10,color:"#767676",textTransform:"uppercase",letterSpacing:"0.08em",borderTop:"1px solid #f0f0f0"}}>Coming soon</p>
       {Object.entries(COMING_SOON).map(([c,n])=>(
-        <div key={c} style={{padding:"5px 14px",fontSize:12,color:"#bbb",display:"flex",justifyContent:"space-between"}}>
+        <div key={c} style={{padding:"5px 14px",fontSize:12,color:"#767676",display:"flex",justifyContent:"space-between"}}>
           <span>{n}</span><span style={{fontSize:10,background:"#f5f5f5",padding:"1px 6px",borderRadius:20}}>in progress</span>
         </div>
       ))}
@@ -174,7 +175,7 @@ export default function VacancyClock(){
               {/* State picker — shows location state or manual picker */}
               <div style={{position:"relative"}} onClick={e=>e.stopPropagation()}>
                 {locStatus==="detecting"?(
-                  <span style={{fontSize:12,color:"#aaa",padding:"4px 10px",borderRadius:20,border:"1.5px solid #eee",display:"inline-flex",alignItems:"center",gap:6}}>
+                  <span style={{fontSize:12,color:"#767676",padding:"4px 10px",borderRadius:20,border:"1.5px solid #eee",display:"inline-flex",alignItems:"center",gap:6}}>
                     <span style={{width:8,height:8,border:"1.5px solid #aaa",borderTopColor:"transparent",borderRadius:"50%",display:"inline-block",animation:"spin 0.8s linear infinite"}}/>
                     Detecting location…
                   </span>
@@ -200,10 +201,10 @@ export default function VacancyClock(){
                   {locLabel} coming soon — choose a state below
                 </span>
               )}
-              <span style={{fontSize:11,padding:"3px 8px",borderRadius:20,background:"#f0f0f0",color:"#999"}}>Sample data · scraper in development</span>
-              <style>{`@keyframes spin{to{transform:rotate(360deg)}}`}</style>
+              <span style={{fontSize:11,padding:"3px 8px",borderRadius:20,background:"#f0f0f0",color:"#666"}}>Sample data · scraper in development</span>
+              <style>{`@keyframes spin{to{transform:rotate(360deg)}}@media(prefers-reduced-motion:reduce){*{animation-duration:0.01ms!important;animation-iteration-count:1!important;transition-duration:0.01ms!important}}`}</style>
             </div>
-            <p style={{margin:0,fontSize:12,color:"#888"}}>{cfg?`Vacancy Clock · ${cfg.dataSource}`:"Vacancy Clock · openquorum.org"}</p>
+            <p style={{margin:0,fontSize:12,color:"#666"}}>{cfg?`Vacancy Clock · ${cfg.dataSource}`:"Vacancy Clock · openquorum.org"}</p>
           </div>
           <div style={{display:"flex",gap:8,flexWrap:"wrap"}}>
             {stateCode&&<button onClick={()=>setShowEmbed(true)} style={{padding:"7px 14px",borderRadius:8,border:"1px solid #1D9E75",background:"transparent",color:"#1D9E75",cursor:"pointer",fontSize:12,fontWeight:500}}>&lt;/&gt; Embed</button>}
@@ -226,7 +227,7 @@ export default function VacancyClock(){
               </button>
             ))}
           </div>
-          <p style={{marginTop:"1.5rem",fontSize:12,color:"#aaa"}}>More states added regularly · <span style={{color:"#1D9E75",cursor:"pointer"}}>request yours</span></p>
+          <p style={{marginTop:"1.5rem",fontSize:12,color:"#767676"}}>More states added regularly · <span style={{color:"#1D9E75",cursor:"pointer"}}>request yours</span></p>
         </div>
       )}
 
@@ -263,9 +264,9 @@ export default function VacancyClock(){
           {label:"Vacancy rate",     value:`${Math.round(totalVacant/totalSeats*100)}%`, sub:cfg.totalBoardsNote,              accent:"#EF9F27"},
         ].map(s=>(
           <div key={s.label} style={{background:"#f8f8f7",borderRadius:8,padding:"0.85rem 1rem"}}>
-            <p style={{margin:"0 0 3px",fontSize:11,color:"#888",textTransform:"uppercase",letterSpacing:"0.06em"}}>{s.label}</p>
+            <p style={{margin:"0 0 3px",fontSize:11,color:"#666",textTransform:"uppercase",letterSpacing:"0.06em"}}>{s.label}</p>
             <p style={{margin:"0 0 2px",fontSize:20,fontWeight:600,color:s.accent,letterSpacing:"-0.02em"}}>{s.value}</p>
-            <p style={{margin:0,fontSize:11,color:"#aaa"}}>{s.sub}</p>
+            <p style={{margin:0,fontSize:11,color:"#767676"}}>{s.sub}</p>
           </div>
         ))}
       </div>
@@ -281,11 +282,20 @@ export default function VacancyClock(){
 
       {/* Sort row */}
       <div style={{display:"flex",gap:14,alignItems:"center",marginBottom:"0.75rem",paddingBottom:"0.5rem",borderBottom:"1px solid #f0f0f0"}}>
-        <span style={{fontSize:11,color:"#aaa",textTransform:"uppercase",letterSpacing:"0.06em"}}>Sort</span>
+        <span style={{fontSize:11,color:"#767676",textTransform:"uppercase",letterSpacing:"0.06em"}}>Sort</span>
         <SortBtn col="days" label="Days vacant"/>
         <SortBtn col="pct"  label="% unfilled"/>
         <SortBtn col="name" label="Board name"/>
-        <span style={{marginLeft:"auto",fontSize:11,color:"#aaa"}}>{filtered.length} boards</span>
+        <span style={{marginLeft:"auto",display:"flex",alignItems:"center",gap:10}}>
+          <button
+            onClick={()=>setPaused(p=>!p)}
+            aria-label={paused?"Resume live day counter updates":"Pause live day counter updates"}
+            title={paused?"Resume live updates":"Pause live updates"}
+            style={{padding:"2px 9px",borderRadius:20,border:"1px solid #ddd",background:paused?"#f5f5f5":"transparent",color:"#666",cursor:"pointer",fontSize:11,display:"flex",alignItems:"center",gap:4,fontFamily:"inherit"}}>
+            {paused?"▶ Resume":"⏸ Pause"}
+          </button>
+          <span style={{fontSize:11,color:"#767676"}}>{filtered.length} boards</span>
+        </span>
       </div>
 
       {/* Board rows */}
@@ -304,14 +314,14 @@ export default function VacancyClock(){
                     {b.criticalNote&&<span style={{fontSize:10,color:"#A32D2D",background:"#FCEBEB",padding:"2px 7px",borderRadius:20}}>{b.criticalNote}</span>}
                   </div>
                   <div style={{display:"flex",gap:14,flexWrap:"wrap"}}>
-                    <span style={{fontSize:11,color:"#888"}}>Authority: <strong style={{color:"#555",fontWeight:500}}>{b.authority}</strong></span>
-                    <span style={{fontSize:11,color:"#888"}}>Serves: <strong style={{color:"#555",fontWeight:500}}>{b.constituent}</strong></span>
+                    <span style={{fontSize:11,color:"#666"}}>Authority: <strong style={{color:"#555",fontWeight:500}}>{b.authority}</strong></span>
+                    <span style={{fontSize:11,color:"#666"}}>Serves: <strong style={{color:"#555",fontWeight:500}}>{b.constituent}</strong></span>
                   </div>
                   <div style={{marginTop:8,maxWidth:200}}><VacancyBar total={b.totalSeats} vacant={b.vacantSeats}/></div>
                 </div>
                 <div style={{textAlign:"right",display:"flex",flexDirection:"column",alignItems:"flex-end",gap:6}}>
                   <DaysBadge days={b.days}/>
-                  <span style={{fontSize:10,color:"#bbb"}}>since {new Date(b.vacantSince).toLocaleDateString("en-US",{month:"short",year:"numeric"})}</span>
+                  <span style={{fontSize:10,color:"#767676"}}>since {new Date(b.vacantSince).toLocaleDateString("en-US",{month:"short",year:"numeric"})}</span>
                   <a href={cfg.applyUrl} target="_blank" rel="noreferrer" style={{fontSize:11,color:"#1D9E75",textDecoration:"none",fontWeight:500}}>Apply →</a>
                 </div>
               </div>
@@ -322,9 +332,9 @@ export default function VacancyClock(){
 
       {/* Footer */}
       <div style={{marginTop:"1.5rem",paddingTop:"1rem",borderTop:"1px solid #f0f0f0",display:"flex",justifyContent:"space-between",alignItems:"center",flexWrap:"wrap",gap:8}}>
-        <p style={{margin:0,fontSize:11,color:"#bbb"}}>Data: <a href={`https://${cfg.dataSource}`} style={{color:"#1D9E75",textDecoration:"none"}}>{cfg.dataSource}</a> · <a href={cfg.applyUrl} style={{color:"#1D9E75",textDecoration:"none"}}>{cfg.applyLabel}</a> · <a href="https://github.com/openquorum" style={{color:"#1D9E75",textDecoration:"none"}}>GitHub</a></p>
+        <p style={{margin:0,fontSize:11,color:"#767676"}}>Data: <a href={`https://${cfg.dataSource}`} style={{color:"#1D9E75",textDecoration:"none"}}>{cfg.dataSource}</a> · <a href={cfg.applyUrl} style={{color:"#1D9E75",textDecoration:"none"}}>{cfg.applyLabel}</a> · <a href="https://github.com/openquorum" style={{color:"#1D9E75",textDecoration:"none"}}>GitHub</a></p>
         <div style={{display:"flex",gap:6}}>
-          <button onClick={()=>setShowEmbed(true)} style={{padding:"5px 12px",borderRadius:8,border:"1px solid #ddd",background:"transparent",color:"#888",cursor:"pointer",fontSize:11}}>Embed</button>
+          <button onClick={()=>setShowEmbed(true)} style={{padding:"5px 12px",borderRadius:8,border:"1px solid #ddd",background:"transparent",color:"#666",cursor:"pointer",fontSize:11}}>Embed</button>
           <button onClick={()=>navigator.clipboard?.writeText(`${cfg.label} has ${totalVacant} unfilled state board seats — some vacant for over ${(maxDays/365).toFixed(1)} years. Track at openquorum.org`)} style={{padding:"5px 12px",borderRadius:8,border:"1px solid #1D9E75",background:"transparent",color:"#1D9E75",cursor:"pointer",fontSize:11,fontWeight:500}}>Share data</button>
         </div>
       </div>
