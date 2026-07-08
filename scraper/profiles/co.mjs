@@ -6,9 +6,10 @@
 // the Blue Book PDF or the board's statute page.
 import * as cheerio from "cheerio";
 import { classifyDomain } from "../lib/domains.mjs";
+import { browserFetch } from "../lib/http.mjs";
 
 export async function scrape({ endpoint, applyUrl, authority }) {
-  const res = await fetch(endpoint, { headers: { "User-Agent": "OpenQuorumScraper/1.0 (+openquorum.org)" } });
+  const res = await browserFetch(endpoint);
   if (!res.ok) throw new Error(`CO fetch ${res.status}`);
   const $ = cheerio.load(await res.text());
   const today = new Date().toISOString().slice(0, 10);

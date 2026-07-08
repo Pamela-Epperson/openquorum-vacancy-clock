@@ -1,19 +1,29 @@
 // Oregon — Workday CXS JSON API behind oregon.wd5.myworkdayjobs.com/Boards.
-// Standard Workday pattern (POST /wday/cxs/<tenant>/<site>/jobs). Could not be
-// network-tested from the build sandbox — VERIFY ON FIRST ACTIONS RUN.
+// Workday requires a session handshake: GET the site page first (collect
+// cookies + CSRF token), then POST the jobs query with them.
 // Emits PROVISIONAL rows (Workday posts openings, not board seat totals).
 import { classifyDomain } from "../lib/domains.mjs";
+import { browserFetch, cookieJar } from "../lib/http.mjs";
 
 export async function scrape({ endpoint, applyUrl, authority }) {
+  const jar = cookieJar();
+  // Handshake — sets PLAY_SESSION / CALYPSO_CSRF_TOKEN cookies
+  await browserFetch("https://oregon.wd5.myworkdayjobs.com/en-US/Boards", {}, { jar });
+  const csrf = jar.get("CALYPSO_CSRF_TOKEN");
+
   const today = new Date().toISOString().slice(0, 10);
   const rows = [];
   let offset = 0, total = Infinity, id = 1;
   while (offset < total && offset < 500) {
-    const res = await fetch(endpoint, {
+    const res = await browserFetch(endpoint, {
       method: "POST",
-      headers: { "Content-Type": "application/json", "User-Agent": "OpenQuorumScraper/1.0 (+openquorum.org)" },
+      headers: {
+        "Content-Type": "application/json",
+        "Accept": "application/json",
+        ...(csrf ? { "X-CALYPSO-CSRF-TOKEN": csrf } : {}),
+      },
       body: JSON.stringify({ appliedFacets: {}, limit: 20, offset, searchText: "" }),
-    });
+    }, { jar });
     if (!res.ok) throw new Error(`OR Workday ${res.status}`);
     const data = await res.json();
     total = data.total ?? 0;
@@ -26,7 +36,7 @@ export async function scrape({ endpoint, applyUrl, authority }) {
         domain: classifyDomain(name),
         totalSeats: null,
         vacantSeats: 1,
-        vacantSince: null,                    // postedOn is relative text; leave null rather than guess
+        vacantSince: null,
         authority,
         constituent: null,
         applyUrl: p.externalPath ? `https://oregon.wd5.myworkdayjobs.com/en-US/Boards${p.externalPath}` : applyUrl,

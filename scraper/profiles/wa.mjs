@@ -1,15 +1,31 @@
 // Washington — monthly "Current and Upcoming Gubernatorial Appointment
 // Opportunities" PDF linked from the opportunities page.
-// Two-step: find the newest PDF link on the page, then extract text rows.
-// PDF layout varies month to month — rows are PROVISIONAL and the parser is
-// deliberately conservative: it emits one row per detected board line and
-// never invents counts or dates. VERIFY OUTPUT ON FIRST ACTIONS RUN.
+// Filter tuned against the July 2026 report: board names are Title Case lines
+// ("Arts Commission", "Pipeline Safety, Citizens' Committee on"); noise is
+// description sentences (start lowercase or with a verb/article) and seat
+// detail lines (start with digits). Conservative by design — a missed board
+// beats an invented one.
 import * as cheerio from "cheerio";
 import { classifyDomain } from "../lib/domains.mjs";
+import { browserFetch } from "../lib/http.mjs";
+
+const NOISE_START = /^(The|A|An|This|It|In|As|Advises|Assists|Establishes|Promotes|Provides|Oversees|Reviews|Supports|Serves|Sets|Administers|Coordinates|Develops|Manages|Ensures|Encourages|Makes|Member|Members|Open|Term|Position)\b/;
+const ALLOWED_LAST = /(^[A-Z][\w''&().-]*|on|of|for|to|the)$/;
+
+export function isBoardNameLine(line) {
+  if (line.length < 8 || line.length > 110) return false;
+  if (!/^[A-Z]/.test(line)) return false;                        // descriptions/continuations start lowercase or with digits
+  if (NOISE_START.test(line)) return false;                      // sentence starts
+  if (/profile link/i.test(line)) return false;                  // hyperlink caption
+  if (!/\b(Board|Commission|Council|Committee|Authority|Task Force)\b/.test(line)) return false;
+  const last = line.split(" ").pop();
+  if (!ALLOWED_LAST.test(last)) return false;                    // drop lines wrapped mid-name
+  if (/\d{2,}/.test(line)) return false;                         // seat-count/date detail lines
+  return true;
+}
 
 export async function scrape({ endpoint, applyUrl, authority }) {
-  const ua = { headers: { "User-Agent": "OpenQuorumScraper/1.0 (+openquorum.org)" } };
-  const page = await fetch(endpoint, ua);
+  const page = await browserFetch(endpoint);
   if (!page.ok) throw new Error(`WA page ${page.status}`);
   const $ = cheerio.load(await page.text());
   let pdfUrl = null;
@@ -21,7 +37,7 @@ export async function scrape({ endpoint, applyUrl, authority }) {
   if (!pdfUrl) throw new Error("WA: opportunities PDF link not found");
 
   const { default: pdfParse } = await import("pdf-parse/lib/pdf-parse.js");
-  const buf = Buffer.from(await (await fetch(pdfUrl, ua)).arrayBuffer());
+  const buf = Buffer.from(await (await browserFetch(pdfUrl)).arrayBuffer());
   const text = (await pdfParse(buf)).text;
 
   const today = new Date().toISOString().slice(0, 10);
@@ -30,17 +46,13 @@ export async function scrape({ endpoint, applyUrl, authority }) {
   const seen = new Set();
   for (const raw of text.split("\n")) {
     const line = raw.replace(/\s+/g, " ").trim();
-    // Board lines in the report contain Board/Commission/Council/Committee/Authority naming
-    if (!/\b(Board|Commission|Council|Committee|Authority|Task Force)\b/i.test(line)) continue;
-    if (line.length < 10 || line.length > 140) continue;
-    if (/^(page|report|governor|issue area)/i.test(line)) continue;
-    const name = line.replace(/\s*\d+\s*$/, "").trim();
-    if (seen.has(name)) { const r = rows.find(r => r.name === name); if (r) r.vacantSeats += 1; continue; }
-    seen.add(name);
+    if (!isBoardNameLine(line)) continue;
+    if (seen.has(line)) { const r = rows.find(r => r.name === line); if (r) r.vacantSeats += 1; continue; }
+    seen.add(line);
     rows.push({
       id: id++,
-      name,
-      domain: classifyDomain(name),
+      name: line,
+      domain: classifyDomain(line),
       totalSeats: null,
       vacantSeats: 1,
       vacantSince: null,
