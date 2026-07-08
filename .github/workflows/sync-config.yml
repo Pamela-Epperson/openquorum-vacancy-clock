@@ -1,0 +1,34 @@
+name: Sync states.config.js to sibling repos
+# When states.config.js changes on main (e.g. a scraper PR merges), push the
+# identical file to OpenQuorum-SeatFinder and openquorum-impactmap so all three
+# tools stay on one source of truth — zero manual re-uploads.
+# ONE-TIME SETUP: add a repo secret OQ_SYNC_TOKEN (classic PAT with `repo`
+# scope, or fine-grained token with contents:write on both sibling repos).
+on:
+  push:
+    branches: [main]
+    paths: ["src/states.config.js"]
+  workflow_dispatch:
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Push config to sibling repos
+        env:
+          TOKEN: ${{ secrets.OQ_SYNC_TOKEN }}
+        run: |
+          if [ -z "$TOKEN" ]; then echo "OQ_SYNC_TOKEN secret not set — see scraper/README.md"; exit 1; fi
+          git config --global user.name  "openquorum-sync[bot]"
+          git config --global user.email "openquorum-sync@users.noreply.github.com"
+          for repo in OpenQuorum-SeatFinder openquorum-impactmap; do
+            git clone --depth 1 "https://x-access-token:${TOKEN}@github.com/Pamela-Epperson/${repo}.git" /tmp/$repo
+            cp src/states.config.js /tmp/$repo/src/states.config.js
+            cd /tmp/$repo
+            if git diff --quiet; then echo "$repo already in sync"; cd -; continue; fi
+            git add src/states.config.js
+            git commit -m "Sync states.config.js from openquorum-vacancy-clock"
+            git push
+            cd -
+          done
