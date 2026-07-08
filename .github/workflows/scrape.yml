@@ -1,1 +1,41 @@
+name: Scrape state board data
+on:
+  schedule:
+    - cron: "0 11 * * 1"   # Mondays 11:00 UTC (~6am ET)
+  workflow_dispatch:
+    inputs:
+      states:
+        description: "Space-separated state codes (blank = all in registry)"
+        required: false
+        default: ""
 
+permissions:
+  contents: write
+  pull-requests: write
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - name: Install scraper deps
+        run: npm install --prefix scraper --no-audit --no-fund
+      - name: Scrape
+        run: NODE_PATH=scraper/node_modules node scraper/scrape.mjs ${{ inputs.states }}
+      - name: Attempt promotion for promote:true states
+        run: |
+          for f in data/scraped/*.json; do
+            st=$(basename "$f" .json); [ "$st" = "_report" ] && continue
+            NODE_PATH=scraper/node_modules node scraper/lib/write-config.mjs "$st" || true
+          done
+      - name: Open PR with scraped data
+        uses: peter-evans/create-pull-request@v6
+        with:
+          branch: scraper/weekly-update
+          title: "Scraper: state board data update"
+          commit-message: "Scraper: weekly state board data update"
+          body-path: data/scraped/_report.txt
+          labels: scraper
