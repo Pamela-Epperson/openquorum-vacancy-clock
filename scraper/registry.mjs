@@ -30,7 +30,7 @@ export const REGISTRY = {
     applyAuthority: "Governor's Executive Appointments Office",
     dataSource: "oregon.wd5.myworkdayjobs.com/Boards",
     totalBoardsNote: "Board openings posted via Workday",
-    promote: false,
+    promote: true,
   },
   // Researched July 8, 2026 — profiles not yet written (next tranche):
   // CA: gov.ca.gov/join-the-administration/government-appointments/current-opportunities/
