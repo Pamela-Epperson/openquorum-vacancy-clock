@@ -28,10 +28,28 @@ const [color, bg] = PALETTE[st.charCodeAt(0) % PALETTE.length];
 const label = { CO:"Colorado", WA:"Washington", OR:"Oregon", CA:"California", FL:"Florida", OH:"Ohio", TX:"Texas", CT:"Connecticut" }[st] || st;
 const region = { CO:"West", WA:"West", OR:"West", CA:"West", FL:"South", OH:"Midwest", TX:"South", CT:"Northeast" }[st] || "West";
 
+// Generic skill tags by domain — lets scraped boards participate in
+// SeatFinder matching until board-specific requirements are researched.
+const DOMAIN_REQUIRES = {
+  health:      ["Health Policy","Program & Project Management","Research & Analysis"],
+  education:   ["Education Policy","Workforce Development","Research & Analysis"],
+  equity:      ["Equity Policy","Community Outreach","Advocacy"],
+  environment: ["Environmental Policy","Research & Analysis","Policy"],
+  housing:     ["Housing Policy","Program & Project Management","Policy"],
+  disability:  ["Disability Policy","Advocacy","Federal compliance"],
+  justice:     ["Justice Reform","Public Sector Leadership","Research & Analysis"],
+};
+
 // id range: next free hundreds block
 const maxId = Math.max(...[...cfg.matchAll(/id:\s*(\d{3,4})\b/g)].map(m => +m[1]));
 const base = (Math.floor(maxId / 100) + 1) * 100;
-const rowsJs = staged.rows.map((r, i) => "      " + JSON.stringify({ ...r, id: base + i + 1 })).join(",\n");
+const rowsJs = staged.rows.map((r, i) => "      " + JSON.stringify({
+  ...r,
+  id: base + i + 1,
+  mandate: r.mandate || "",
+  requires: (r.requires && r.requires.length) ? r.requires : (DOMAIN_REQUIRES[r.domain] || []),
+  confirmation: r.confirmation ?? false,
+})).join(",\n");
 
 const entry = `
   // ─── ${label} ─── status: live (scraper: ${reg.profile}) ───
