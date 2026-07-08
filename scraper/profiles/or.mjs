@@ -53,8 +53,11 @@ export async function scrape({ endpoint, applyUrl, authority }) {
         if (dres.ok) {
           const detail = await dres.json();
           const desc = stripHtml(detail?.jobPostingInfo?.jobDescription);
-          totalSeats = extractTotalSeats(desc);
-          mandate = extractMandate(desc);
+          // Oregon uses one generic application boilerplate for all postings —
+          // treat it as no description rather than a board-specific mandate.
+          const isBoilerplate = /^Board and Commission Member Application/i.test(desc);
+          totalSeats = isBoilerplate ? null : extractTotalSeats(desc);
+          mandate = isBoilerplate ? null : extractMandate(desc);
         }
       } catch { /* detail fetch failed — row stays provisional */ }
       await new Promise(r => setTimeout(r, 300));             // polite pacing

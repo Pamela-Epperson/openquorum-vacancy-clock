@@ -18,7 +18,15 @@ for (const st of states) {
   if (!cfg) { report.push(`${st}: not in registry — skipped`); continue; }
   try {
     const { scrape } = await import(`./profiles/${cfg.profile}.mjs`);
-    const rows = await scrape({ endpoint: cfg.endpoint, applyUrl: cfg.applyUrl, authority: cfg.applyAuthority });
+    let rows = await scrape({ endpoint: cfg.endpoint, applyUrl: cfg.applyUrl, authority: cfg.applyAuthority });
+    // Merge human-verified enrichment overlay (statute-sourced seat totals,
+    // mandates, constituents) if one exists for this state.
+    try {
+      const { ENRICHMENTS } = await import(`./enrichments/${st}.mjs`);
+      rows = rows.map(r => ENRICHMENTS[r.name] ? { ...r, ...ENRICHMENTS[r.name] } : r);
+      const enriched = rows.filter(r => ENRICHMENTS[r.name]).length;
+      if (enriched) console.log(`${st}: overlay applied to ${enriched} boards`);
+    } catch { /* no overlay for this state — fine */ }
     const summary = summarize(st, rows);
     writeFileSync(`data/scraped/${st}.json`, JSON.stringify({ scrapedAt: new Date().toISOString(), registry: cfg, summary, rows }, null, 2));
     report.push(`${st}: ${summary.total} rows (${summary.full} full / ${summary.provisional} provisional)` +

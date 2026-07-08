@@ -15,11 +15,16 @@ const reg = REGISTRY[st];
 if (!reg.promote) { console.error(`${st}: promote:false in registry — review the scrape PR first, then flip it.`); process.exit(1); }
 
 const staged = JSON.parse(readFileSync(`data/scraped/${st}.json`, "utf8"));
-const bad = staged.rows.map(r => ({ r, v: validateRow(r) })).filter(x => !x.v.full);
-if (bad.length) {
-  console.error(`${st}: ${bad.length}/${staged.rows.length} rows are provisional — enrich before promotion. First issue: ${bad[0].r.name} → ${bad[0].v.problems.join(",")}`);
+// Publish the verified subset (like the pilot states seeded a researched subset):
+// full-contract rows go live; provisional rows stay staged in data/scraped/.
+const fullRows = staged.rows.filter(r => validateRow(r).full);
+const held = staged.rows.length - fullRows.length;
+if (fullRows.length === 0) {
+  console.error(`${st}: 0 of ${staged.rows.length} rows pass the full contract — nothing to promote yet.`);
   process.exit(1);
 }
+staged.rows = fullRows;
+console.log(`${st}: promoting ${fullRows.length} verified boards; ${held} provisional rows remain staged (tracked, not published).`);
 
 const CONFIG = "src/states.config.js";
 let cfg = readFileSync(CONFIG, "utf8");
@@ -63,7 +68,7 @@ const entry = `
     applyVerified:${JSON.stringify(new Date().toISOString().slice(0,10))},
     dataSource:${JSON.stringify(reg.dataSource)},
     scraper:{ endpoint:${JSON.stringify(reg.endpoint)}, lastPulled:${JSON.stringify(staged.scrapedAt)}, selectorProfile:${JSON.stringify(reg.profile)} },
-    totalBoardsNote:${JSON.stringify(reg.totalBoardsNote || null)},
+    totalBoardsNote:${JSON.stringify((reg.totalBoardsNote || "") + " · " + staged.rows.length + " verified of " + (staged.rows.length + held) + " openings tracked")},
     contextNote:null,
     auditNote:null,
     boards:[
