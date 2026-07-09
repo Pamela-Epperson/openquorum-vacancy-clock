@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-07-08T14:34:24.268Z",
+  "scrapedAt": "2026-07-09T00:46:31.036Z",
   "registry": {
     "profile": "wa",
     "endpoint": "https://governor.wa.gov/boards-and-commissions/boards-commissions/current-and-upcoming-appointment-opportunities",
@@ -7,16 +7,16 @@
     "applyAuthority": "Governor's Boards & Commissions Office",
     "dataSource": "governor.wa.gov/boards-and-commissions",
     "totalBoardsNote": "230+ boards · monthly opportunities report",
-    "promote": false
+    "promote": true
   },
   "summary": {
     "state": "WA",
     "total": 123,
-    "full": 0,
-    "provisional": 123,
+    "full": 7,
+    "provisional": 116,
     "missingFields": {
-      "totalSeats": 123,
-      "constituent": 123
+      "totalSeats": 116,
+      "constituent": 116
     }
   },
   "rows": [
@@ -31,7 +31,7 @@
       "constituent": null,
       "applyUrl": "https://governor.wa.gov/boards-and-commissions/boards-commissions/apply-serve",
       "sourceUrl": "https://governor.wa.gov/sites/default/files/2025-01/MonthlyOutreachReport_1.pdf",
-      "lastVerified": "2026-07-08",
+      "lastVerified": "2026-07-09",
       "criticalNote": "Listed in monthly opportunities report"
     },
     {
@@ -45,7 +45,7 @@
       "constituent": null,
       "applyUrl": "https://governor.wa.gov/boards-and-commissions/boards-commissions/apply-serve",
       "sourceUrl": "https://governor.wa.gov/sites/default/files/2025-01/MonthlyOutreachReport_1.pdf",
-      "lastVerified": "2026-07-08",
+      "lastVerified": "2026-07-09",
       "criticalNote": "Listed in monthly opportunities report"
     },
     {
@@ -59,22 +59,24 @@
       "constituent": null,
       "applyUrl": "https://governor.wa.gov/boards-and-commissions/boards-commissions/apply-serve",
       "sourceUrl": "https://governor.wa.gov/sites/default/files/2025-01/MonthlyOutreachReport_1.pdf",
-      "lastVerified": "2026-07-08",
+      "lastVerified": "2026-07-09",
       "criticalNote": "Listed in monthly opportunities report"
     },
     {
       "id": 4,
       "name": "Charter School Commission",
       "domain": "education",
-      "totalSeats": null,
+      "totalSeats": 9,
       "vacantSeats": 1,
       "vacantSince": null,
       "authority": "Governor's Boards & Commissions Office",
-      "constituent": null,
+      "constituent": "Washington charter public school students & families",
       "applyUrl": "https://governor.wa.gov/boards-and-commissions/boards-commissions/apply-serve",
       "sourceUrl": "https://governor.wa.gov/sites/default/files/2025-01/MonthlyOutreachReport_1.pdf",
-      "lastVerified": "2026-07-08",
-      "criticalNote": "Listed in monthly opportunities report"
+      "lastVerified": "2026-07-09",
+      "criticalNote": "Listed in monthly opportunities report",
+      "mandate": "Authorizes and oversees high-quality charter public schools, with a focus on expanding opportunity for at-risk students. Nine members appointed by the Governor, the President of the Senate, and the Speaker of the House (RCW 28A.710.070).",
+      "seatSource": "https://app.leg.wa.gov/RCW/default.aspx?cite=28A.710.070"
     },
     {
       "id": 5,
@@ -87,7 +89,7 @@
       "constituent": null,
       "applyUrl": "https://governor.wa.gov/boards-and-commissions/boards-commissions/apply-serve",
       "sourceUrl": "https://governor.wa.gov/sites/default/files/2025-01/MonthlyOutreachReport_1.pdf",
-      "lastVerified": "2026-07-08",
+      "lastVerified": "2026-07-09",
       "criticalNote": "Listed in monthly opportunities report"
     },
     {
@@ -101,7 +103,7 @@
       "constituent": null,
       "applyUrl": "https://governor.wa.gov/boards-and-commissions/boards-commissions/apply-serve",
       "sourceUrl": "https://governor.wa.gov/sites/default/files/2025-01/MonthlyOutreachReport_1.pdf",
-      "lastVerified": "2026-07-08",
+      "lastVerified": "2026-07-09",
       "criticalNote": "Listed in monthly opportunities report"
     },
     {
@@ -115,7 +117,7 @@
       "constituent": null,
       "applyUrl": "https://governor.wa.gov/boards-and-commissions/boards-commissions/apply-serve",
       "sourceUrl": "https://governor.wa.gov/sites/default/files/2025-01/MonthlyOutreachReport_1.pdf",
-      "lastVerified": "2026-07-08",
+      "lastVerified": "2026-07-09",
       "criticalNote": "Listed in monthly opportunities report"
     },
     {
@@ -129,7 +131,7 @@
       "constituent": null,
       "applyUrl": "https://governor.wa.gov/boards-and-commissions/boards-commissions/apply-serve",
       "sourceUrl": "https://governor.wa.gov/sites/default/files/2025-01/MonthlyOutreachReport_1.pdf",
-      "lastVerified": "2026-07-08",
+      "lastVerified": "2026-07-09",
       "criticalNote": "Listed in monthly opportunities report"
     },
     {
@@ -143,7 +145,7 @@
       "constituent": null,
       "applyUrl": "https://governor.wa.gov/boards-and-commissions/boards-commissions/apply-serve",
       "sourceUrl": "https://governor.wa.gov/sites/default/files/2025-01/MonthlyOutreachReport_1.pdf",
-      "lastVerified": "2026-07-08",
+      "lastVerified": "2026-07-09",
       "criticalNote": "Listed in monthly opportunities report"
     },
     {
@@ -157,7 +159,7 @@
       "constituent": null,
       "applyUrl": "https://governor.wa.gov/boards-and-commissions/boards-commissions/apply-serve",
       "sourceUrl": "https://governor.wa.gov/sites/default/files/2025-01/MonthlyOutreachReport_1.pdf",
-      "lastVerified": "2026-07-08",
+      "lastVerified": "2026-07-09",
       "criticalNote": "Listed in monthly opportunities report"
     },
     {
@@ -171,7 +173,7 @@
       "constituent": null,
       "applyUrl": "https://governor.wa.gov/boards-and-commissions/boards-commissions/apply-serve",
       "sourceUrl": "https://governor.wa.gov/sites/default/files/2025-01/MonthlyOutreachReport_1.pdf",
-      "lastVerified": "2026-07-08",
+      "lastVerified": "2026-07-09",
       "criticalNote": "Listed in monthly opportunities report"
     },
     {
@@ -185,7 +187,7 @@
       "constituent": null,
       "applyUrl": "https://governor.wa.gov/boards-and-commissions/boards-commissions/apply-serve",
       "sourceUrl": "https://governor.wa.gov/sites/default/files/2025-01/MonthlyOutreachReport_1.pdf",
-      "lastVerified": "2026-07-08",
+      "lastVerified": "2026-07-09",
       "criticalNote": "Listed in monthly opportunities report"
     },
     {
@@ -199,7 +201,7 @@
       "constituent": null,
       "applyUrl": "https://governor.wa.gov/boards-and-commissions/boards-commissions/apply-serve",
       "sourceUrl": "https://governor.wa.gov/sites/default/files/2025-01/MonthlyOutreachReport_1.pdf",
-      "lastVerified": "2026-07-08",
+      "lastVerified": "2026-07-09",
       "criticalNote": "Listed in monthly opportunities report"
     },
     {
@@ -213,7 +215,7 @@
       "constituent": null,
       "applyUrl": "https://governor.wa.gov/boards-and-commissions/boards-commissions/apply-serve",
       "sourceUrl": "https://governor.wa.gov/sites/default/files/2025-01/MonthlyOutreachReport_1.pdf",
-      "lastVerified": "2026-07-08",
+      "lastVerified": "2026-07-09",
       "criticalNote": "Listed in monthly opportunities report"
     },
     {
@@ -227,7 +229,7 @@
       "constituent": null,
       "applyUrl": "https://governor.wa.gov/boards-and-commissions/boards-commissions/apply-serve",
       "sourceUrl": "https://governor.wa.gov/sites/default/files/2025-01/MonthlyOutreachReport_1.pdf",
-      "lastVerified": "2026-07-08",
+      "lastVerified": "2026-07-09",
       "criticalNote": "Listed in monthly opportunities report"
     },
     {
@@ -241,22 +243,24 @@
       "constituent": null,
       "applyUrl": "https://governor.wa.gov/boards-and-commissions/boards-commissions/apply-serve",
       "sourceUrl": "https://governor.wa.gov/sites/default/files/2025-01/MonthlyOutreachReport_1.pdf",
-      "lastVerified": "2026-07-08",
+      "lastVerified": "2026-07-09",
       "criticalNote": "Listed in monthly opportunities report"
     },
     {
       "id": 17,
       "name": "Student Achievement Council, Washington",
       "domain": "education",
-      "totalSeats": null,
+      "totalSeats": 10,
       "vacantSeats": 1,
       "vacantSince": null,
       "authority": "Governor's Boards & Commissions Office",
-      "constituent": null,
+      "constituent": "Washington college students & higher-ed learners",
       "applyUrl": "https://governor.wa.gov/boards-and-commissions/boards-commissions/apply-serve",
       "sourceUrl": "https://governor.wa.gov/sites/default/files/2025-01/MonthlyOutreachReport_1.pdf",
-      "lastVerified": "2026-07-08",
-      "criticalNote": "Listed in monthly opportunities report"
+      "lastVerified": "2026-07-09",
+      "criticalNote": "Listed in monthly opportunities report",
+      "mandate": "Sets statewide higher-education goals and strategy and administers student financial aid programs. Ten voting members — six citizen members appointed by the Governor and confirmed by the Senate (two of them students) plus four education-sector representatives (RCW 28B.77.005).",
+      "seatSource": "https://app.leg.wa.gov/RCW/default.aspx?cite=28B.77.005"
     },
     {
       "id": 18,
@@ -269,7 +273,7 @@
       "constituent": null,
       "applyUrl": "https://governor.wa.gov/boards-and-commissions/boards-commissions/apply-serve",
       "sourceUrl": "https://governor.wa.gov/sites/default/files/2025-01/MonthlyOutreachReport_1.pdf",
-      "lastVerified": "2026-07-08",
+      "lastVerified": "2026-07-09",
       "criticalNote": "Listed in monthly opportunities report"
     },
     {
@@ -283,7 +287,7 @@
       "constituent": null,
       "applyUrl": "https://governor.wa.gov/boards-and-commissions/boards-commissions/apply-serve",
       "sourceUrl": "https://governor.wa.gov/sites/default/files/2025-01/MonthlyOutreachReport_1.pdf",
-      "lastVerified": "2026-07-08",
+      "lastVerified": "2026-07-09",
       "criticalNote": "Listed in monthly opportunities report"
     },
     {
@@ -297,7 +301,7 @@
       "constituent": null,
       "applyUrl": "https://governor.wa.gov/boards-and-commissions/boards-commissions/apply-serve",
       "sourceUrl": "https://governor.wa.gov/sites/default/files/2025-01/MonthlyOutreachReport_1.pdf",
-      "lastVerified": "2026-07-08",
+      "lastVerified": "2026-07-09",
       "criticalNote": "Listed in monthly opportunities report"
     },
     {
@@ -311,7 +315,7 @@
       "constituent": null,
       "applyUrl": "https://governor.wa.gov/boards-and-commissions/boards-commissions/apply-serve",
       "sourceUrl": "https://governor.wa.gov/sites/default/files/2025-01/MonthlyOutreachReport_1.pdf",
-      "lastVerified": "2026-07-08",
+      "lastVerified": "2026-07-09",
       "criticalNote": "Listed in monthly opportunities report"
     },
     {
@@ -325,7 +329,7 @@
       "constituent": null,
       "applyUrl": "https://governor.wa.gov/boards-and-commissions/boards-commissions/apply-serve",
       "sourceUrl": "https://governor.wa.gov/sites/default/files/2025-01/MonthlyOutreachReport_1.pdf",
-      "lastVerified": "2026-07-08",
+      "lastVerified": "2026-07-09",
       "criticalNote": "Listed in monthly opportunities report"
     },
     {
@@ -339,7 +343,7 @@
       "constituent": null,
       "applyUrl": "https://governor.wa.gov/boards-and-commissions/boards-commissions/apply-serve",
       "sourceUrl": "https://governor.wa.gov/sites/default/files/2025-01/MonthlyOutreachReport_1.pdf",
-      "lastVerified": "2026-07-08",
+      "lastVerified": "2026-07-09",
       "criticalNote": "Listed in monthly opportunities report"
     },
     {
@@ -353,7 +357,7 @@
       "constituent": null,
       "applyUrl": "https://governor.wa.gov/boards-and-commissions/boards-commissions/apply-serve",
       "sourceUrl": "https://governor.wa.gov/sites/default/files/2025-01/MonthlyOutreachReport_1.pdf",
-      "lastVerified": "2026-07-08",
+      "lastVerified": "2026-07-09",
       "criticalNote": "Listed in monthly opportunities report"
     },
     {
@@ -367,7 +371,7 @@
       "constituent": null,
       "applyUrl": "https://governor.wa.gov/boards-and-commissions/boards-commissions/apply-serve",
       "sourceUrl": "https://governor.wa.gov/sites/default/files/2025-01/MonthlyOutreachReport_1.pdf",
-      "lastVerified": "2026-07-08",
+      "lastVerified": "2026-07-09",
       "criticalNote": "Listed in monthly opportunities report"
     },
     {
@@ -381,7 +385,7 @@
       "constituent": null,
       "applyUrl": "https://governor.wa.gov/boards-and-commissions/boards-commissions/apply-serve",
       "sourceUrl": "https://governor.wa.gov/sites/default/files/2025-01/MonthlyOutreachReport_1.pdf",
-      "lastVerified": "2026-07-08",
+      "lastVerified": "2026-07-09",
       "criticalNote": "Listed in monthly opportunities report"
     },
     {
@@ -395,7 +399,7 @@
       "constituent": null,
       "applyUrl": "https://governor.wa.gov/boards-and-commissions/boards-commissions/apply-serve",
       "sourceUrl": "https://governor.wa.gov/sites/default/files/2025-01/MonthlyOutreachReport_1.pdf",
-      "lastVerified": "2026-07-08",
+      "lastVerified": "2026-07-09",
       "criticalNote": "Listed in monthly opportunities report"
     },
     {
@@ -409,7 +413,7 @@
       "constituent": null,
       "applyUrl": "https://governor.wa.gov/boards-and-commissions/boards-commissions/apply-serve",
       "sourceUrl": "https://governor.wa.gov/sites/default/files/2025-01/MonthlyOutreachReport_1.pdf",
-      "lastVerified": "2026-07-08",
+      "lastVerified": "2026-07-09",
       "criticalNote": "Listed in monthly opportunities report"
     },
     {
@@ -423,7 +427,7 @@
       "constituent": null,
       "applyUrl": "https://governor.wa.gov/boards-and-commissions/boards-commissions/apply-serve",
       "sourceUrl": "https://governor.wa.gov/sites/default/files/2025-01/MonthlyOutreachReport_1.pdf",
-      "lastVerified": "2026-07-08",
+      "lastVerified": "2026-07-09",
       "criticalNote": "Listed in monthly opportunities report"
     },
     {
@@ -437,7 +441,7 @@
       "constituent": null,
       "applyUrl": "https://governor.wa.gov/boards-and-commissions/boards-commissions/apply-serve",
       "sourceUrl": "https://governor.wa.gov/sites/default/files/2025-01/MonthlyOutreachReport_1.pdf",
-      "lastVerified": "2026-07-08",
+      "lastVerified": "2026-07-09",
       "criticalNote": "Listed in monthly opportunities report"
     },
     {
@@ -451,7 +455,7 @@
       "constituent": null,
       "applyUrl": "https://governor.wa.gov/boards-and-commissions/boards-commissions/apply-serve",
       "sourceUrl": "https://governor.wa.gov/sites/default/files/2025-01/MonthlyOutreachReport_1.pdf",
-      "lastVerified": "2026-07-08",
+      "lastVerified": "2026-07-09",
       "criticalNote": "Listed in monthly opportunities report"
     },
     {
@@ -465,7 +469,7 @@
       "constituent": null,
       "applyUrl": "https://governor.wa.gov/boards-and-commissions/boards-commissions/apply-serve",
       "sourceUrl": "https://governor.wa.gov/sites/default/files/2025-01/MonthlyOutreachReport_1.pdf",
-      "lastVerified": "2026-07-08",
+      "lastVerified": "2026-07-09",
       "criticalNote": "Listed in monthly opportunities report"
     },
     {
@@ -479,7 +483,7 @@
       "constituent": null,
       "applyUrl": "https://governor.wa.gov/boards-and-commissions/boards-commissions/apply-serve",
       "sourceUrl": "https://governor.wa.gov/sites/default/files/2025-01/MonthlyOutreachReport_1.pdf",
-      "lastVerified": "2026-07-08",
+      "lastVerified": "2026-07-09",
       "criticalNote": "Listed in monthly opportunities report"
     },
     {
@@ -493,7 +497,7 @@
       "constituent": null,
       "applyUrl": "https://governor.wa.gov/boards-and-commissions/boards-commissions/apply-serve",
       "sourceUrl": "https://governor.wa.gov/sites/default/files/2025-01/MonthlyOutreachReport_1.pdf",
-      "lastVerified": "2026-07-08",
+      "lastVerified": "2026-07-09",
       "criticalNote": "Listed in monthly opportunities report"
     },
     {
@@ -507,22 +511,24 @@
       "constituent": null,
       "applyUrl": "https://governor.wa.gov/boards-and-commissions/boards-commissions/apply-serve",
       "sourceUrl": "https://governor.wa.gov/sites/default/files/2025-01/MonthlyOutreachReport_1.pdf",
-      "lastVerified": "2026-07-08",
+      "lastVerified": "2026-07-09",
       "criticalNote": "Listed in monthly opportunities report"
     },
     {
       "id": 36,
       "name": "Human Rights Commission",
       "domain": "equity",
-      "totalSeats": null,
+      "totalSeats": 5,
       "vacantSeats": 1,
       "vacantSince": null,
       "authority": "Governor's Boards & Commissions Office",
-      "constituent": null,
+      "constituent": "All Washingtonians · protection from discrimination",
       "applyUrl": "https://governor.wa.gov/boards-and-commissions/boards-commissions/apply-serve",
       "sourceUrl": "https://governor.wa.gov/sites/default/files/2025-01/MonthlyOutreachReport_1.pdf",
-      "lastVerified": "2026-07-08",
-      "criticalNote": "Listed in monthly opportunities report"
+      "lastVerified": "2026-07-09",
+      "criticalNote": "Listed in monthly opportunities report",
+      "mandate": "Enforces the Washington Law Against Discrimination and works to eliminate and prevent discrimination in employment, housing, public accommodation, credit, and insurance. Five members appointed by the Governor with the advice and consent of the Senate (RCW 49.60.050).",
+      "seatSource": "https://app.leg.wa.gov/RCW/default.aspx?cite=49.60.050"
     },
     {
       "id": 37,
@@ -535,7 +541,7 @@
       "constituent": null,
       "applyUrl": "https://governor.wa.gov/boards-and-commissions/boards-commissions/apply-serve",
       "sourceUrl": "https://governor.wa.gov/sites/default/files/2025-01/MonthlyOutreachReport_1.pdf",
-      "lastVerified": "2026-07-08",
+      "lastVerified": "2026-07-09",
       "criticalNote": "Listed in monthly opportunities report"
     },
     {
@@ -549,7 +555,7 @@
       "constituent": null,
       "applyUrl": "https://governor.wa.gov/boards-and-commissions/boards-commissions/apply-serve",
       "sourceUrl": "https://governor.wa.gov/sites/default/files/2025-01/MonthlyOutreachReport_1.pdf",
-      "lastVerified": "2026-07-08",
+      "lastVerified": "2026-07-09",
       "criticalNote": "Listed in monthly opportunities report"
     },
     {
@@ -563,7 +569,7 @@
       "constituent": null,
       "applyUrl": "https://governor.wa.gov/boards-and-commissions/boards-commissions/apply-serve",
       "sourceUrl": "https://governor.wa.gov/sites/default/files/2025-01/MonthlyOutreachReport_1.pdf",
-      "lastVerified": "2026-07-08",
+      "lastVerified": "2026-07-09",
       "criticalNote": "Listed in monthly opportunities report"
     },
     {
@@ -577,7 +583,7 @@
       "constituent": null,
       "applyUrl": "https://governor.wa.gov/boards-and-commissions/boards-commissions/apply-serve",
       "sourceUrl": "https://governor.wa.gov/sites/default/files/2025-01/MonthlyOutreachReport_1.pdf",
-      "lastVerified": "2026-07-08",
+      "lastVerified": "2026-07-09",
       "criticalNote": "Listed in monthly opportunities report"
     },
     {
@@ -591,7 +597,7 @@
       "constituent": null,
       "applyUrl": "https://governor.wa.gov/boards-and-commissions/boards-commissions/apply-serve",
       "sourceUrl": "https://governor.wa.gov/sites/default/files/2025-01/MonthlyOutreachReport_1.pdf",
-      "lastVerified": "2026-07-08",
+      "lastVerified": "2026-07-09",
       "criticalNote": "Listed in monthly opportunities report"
     },
     {
@@ -605,7 +611,7 @@
       "constituent": null,
       "applyUrl": "https://governor.wa.gov/boards-and-commissions/boards-commissions/apply-serve",
       "sourceUrl": "https://governor.wa.gov/sites/default/files/2025-01/MonthlyOutreachReport_1.pdf",
-      "lastVerified": "2026-07-08",
+      "lastVerified": "2026-07-09",
       "criticalNote": "Listed in monthly opportunities report"
     },
     {
@@ -619,22 +625,24 @@
       "constituent": null,
       "applyUrl": "https://governor.wa.gov/boards-and-commissions/boards-commissions/apply-serve",
       "sourceUrl": "https://governor.wa.gov/sites/default/files/2025-01/MonthlyOutreachReport_1.pdf",
-      "lastVerified": "2026-07-08",
+      "lastVerified": "2026-07-09",
       "criticalNote": "Listed in monthly opportunities report"
     },
     {
       "id": 44,
       "name": "Women’s Commission, Washington State",
       "domain": "equity",
-      "totalSeats": null,
+      "totalSeats": 9,
       "vacantSeats": 1,
       "vacantSince": null,
       "authority": "Governor's Boards & Commissions Office",
-      "constituent": null,
+      "constituent": "Women & girls across Washington State",
       "applyUrl": "https://governor.wa.gov/boards-and-commissions/boards-commissions/apply-serve",
       "sourceUrl": "https://governor.wa.gov/sites/default/files/2025-01/MonthlyOutreachReport_1.pdf",
-      "lastVerified": "2026-07-08",
-      "criticalNote": "Listed in monthly opportunities report"
+      "lastVerified": "2026-07-09",
+      "criticalNote": "Listed in monthly opportunities report",
+      "mandate": "Advises the Governor, Legislature, and state agencies on issues affecting women and works to improve the well-being of women and girls in Washington. Nine members appointed by the Governor with the advice and consent of the Senate (chapter 43.119 RCW).",
+      "seatSource": "https://app.leg.wa.gov/RCW/default.aspx?cite=43.119&full=true"
     },
     {
       "id": 45,
@@ -647,7 +655,7 @@
       "constituent": null,
       "applyUrl": "https://governor.wa.gov/boards-and-commissions/boards-commissions/apply-serve",
       "sourceUrl": "https://governor.wa.gov/sites/default/files/2025-01/MonthlyOutreachReport_1.pdf",
-      "lastVerified": "2026-07-08",
+      "lastVerified": "2026-07-09",
       "criticalNote": "Listed in monthly opportunities report"
     },
     {
@@ -661,7 +669,7 @@
       "constituent": null,
       "applyUrl": "https://governor.wa.gov/boards-and-commissions/boards-commissions/apply-serve",
       "sourceUrl": "https://governor.wa.gov/sites/default/files/2025-01/MonthlyOutreachReport_1.pdf",
-      "lastVerified": "2026-07-08",
+      "lastVerified": "2026-07-09",
       "criticalNote": "Listed in monthly opportunities report"
     },
     {
@@ -675,7 +683,7 @@
       "constituent": null,
       "applyUrl": "https://governor.wa.gov/boards-and-commissions/boards-commissions/apply-serve",
       "sourceUrl": "https://governor.wa.gov/sites/default/files/2025-01/MonthlyOutreachReport_1.pdf",
-      "lastVerified": "2026-07-08",
+      "lastVerified": "2026-07-09",
       "criticalNote": "Listed in monthly opportunities report"
     },
     {
@@ -689,7 +697,7 @@
       "constituent": null,
       "applyUrl": "https://governor.wa.gov/boards-and-commissions/boards-commissions/apply-serve",
       "sourceUrl": "https://governor.wa.gov/sites/default/files/2025-01/MonthlyOutreachReport_1.pdf",
-      "lastVerified": "2026-07-08",
+      "lastVerified": "2026-07-09",
       "criticalNote": "Listed in monthly opportunities report"
     },
     {
@@ -703,7 +711,7 @@
       "constituent": null,
       "applyUrl": "https://governor.wa.gov/boards-and-commissions/boards-commissions/apply-serve",
       "sourceUrl": "https://governor.wa.gov/sites/default/files/2025-01/MonthlyOutreachReport_1.pdf",
-      "lastVerified": "2026-07-08",
+      "lastVerified": "2026-07-09",
       "criticalNote": "Listed in monthly opportunities report"
     },
     {
@@ -717,22 +725,24 @@
       "constituent": null,
       "applyUrl": "https://governor.wa.gov/boards-and-commissions/boards-commissions/apply-serve",
       "sourceUrl": "https://governor.wa.gov/sites/default/files/2025-01/MonthlyOutreachReport_1.pdf",
-      "lastVerified": "2026-07-08",
+      "lastVerified": "2026-07-09",
       "criticalNote": "Listed in monthly opportunities report"
     },
     {
       "id": 51,
       "name": "Health, State Board of",
       "domain": "health",
-      "totalSeats": null,
+      "totalSeats": 10,
       "vacantSeats": 1,
       "vacantSince": null,
       "authority": "Governor's Boards & Commissions Office",
-      "constituent": null,
+      "constituent": "All Washington residents · public health policy",
       "applyUrl": "https://governor.wa.gov/boards-and-commissions/boards-commissions/apply-serve",
       "sourceUrl": "https://governor.wa.gov/sites/default/files/2025-01/MonthlyOutreachReport_1.pdf",
-      "lastVerified": "2026-07-08",
-      "criticalNote": "Listed in monthly opportunities report"
+      "lastVerified": "2026-07-09",
+      "criticalNote": "Listed in monthly opportunities report",
+      "mandate": "Sets statewide public health policy and adopts rules on communicable disease, drinking water, and environmental health. Composed of ten members — the Secretary of Health (or designee) and nine gubernatorial appointees including health professionals, local officials, and consumer representatives (RCW 43.20.030).",
+      "seatSource": "https://app.leg.wa.gov/RCW/default.aspx?cite=43.20.030"
     },
     {
       "id": 52,
@@ -745,7 +755,7 @@
       "constituent": null,
       "applyUrl": "https://governor.wa.gov/boards-and-commissions/boards-commissions/apply-serve",
       "sourceUrl": "https://governor.wa.gov/sites/default/files/2025-01/MonthlyOutreachReport_1.pdf",
-      "lastVerified": "2026-07-08",
+      "lastVerified": "2026-07-09",
       "criticalNote": "Listed in monthly opportunities report"
     },
     {
@@ -759,7 +769,7 @@
       "constituent": null,
       "applyUrl": "https://governor.wa.gov/boards-and-commissions/boards-commissions/apply-serve",
       "sourceUrl": "https://governor.wa.gov/sites/default/files/2025-01/MonthlyOutreachReport_1.pdf",
-      "lastVerified": "2026-07-08",
+      "lastVerified": "2026-07-09",
       "criticalNote": "Listed in monthly opportunities report"
     },
     {
@@ -773,7 +783,7 @@
       "constituent": null,
       "applyUrl": "https://governor.wa.gov/boards-and-commissions/boards-commissions/apply-serve",
       "sourceUrl": "https://governor.wa.gov/sites/default/files/2025-01/MonthlyOutreachReport_1.pdf",
-      "lastVerified": "2026-07-08",
+      "lastVerified": "2026-07-09",
       "criticalNote": "Listed in monthly opportunities report"
     },
     {
@@ -787,7 +797,7 @@
       "constituent": null,
       "applyUrl": "https://governor.wa.gov/boards-and-commissions/boards-commissions/apply-serve",
       "sourceUrl": "https://governor.wa.gov/sites/default/files/2025-01/MonthlyOutreachReport_1.pdf",
-      "lastVerified": "2026-07-08",
+      "lastVerified": "2026-07-09",
       "criticalNote": "Listed in monthly opportunities report"
     },
     {
@@ -801,7 +811,7 @@
       "constituent": null,
       "applyUrl": "https://governor.wa.gov/boards-and-commissions/boards-commissions/apply-serve",
       "sourceUrl": "https://governor.wa.gov/sites/default/files/2025-01/MonthlyOutreachReport_1.pdf",
-      "lastVerified": "2026-07-08",
+      "lastVerified": "2026-07-09",
       "criticalNote": "Listed in monthly opportunities report"
     },
     {
@@ -815,22 +825,24 @@
       "constituent": null,
       "applyUrl": "https://governor.wa.gov/boards-and-commissions/boards-commissions/apply-serve",
       "sourceUrl": "https://governor.wa.gov/sites/default/files/2025-01/MonthlyOutreachReport_1.pdf",
-      "lastVerified": "2026-07-08",
+      "lastVerified": "2026-07-09",
       "criticalNote": "Listed in monthly opportunities report"
     },
     {
       "id": 58,
       "name": "Nursing, Washington State Board of",
       "domain": "health",
-      "totalSeats": null,
+      "totalSeats": 17,
       "vacantSeats": 1,
       "vacantSince": null,
       "authority": "Governor's Boards & Commissions Office",
-      "constituent": null,
+      "constituent": "Washington patients · nursing licensure & safety",
       "applyUrl": "https://governor.wa.gov/boards-and-commissions/boards-commissions/apply-serve",
       "sourceUrl": "https://governor.wa.gov/sites/default/files/2025-01/MonthlyOutreachReport_1.pdf",
-      "lastVerified": "2026-07-08",
-      "criticalNote": "Listed in monthly opportunities report"
+      "lastVerified": "2026-07-09",
+      "criticalNote": "Listed in monthly opportunities report",
+      "mandate": "Licenses and regulates registered nurses, advanced practice nurses, practical nurses, and nursing assistants, and sets standards to protect patient safety. Seventeen members appointed by the Governor to four-year terms (RCW 18.79.070).",
+      "seatSource": "https://app.leg.wa.gov/RCW/default.aspx?cite=18.79.070"
     },
     {
       "id": 59,
@@ -843,7 +855,7 @@
       "constituent": null,
       "applyUrl": "https://governor.wa.gov/boards-and-commissions/boards-commissions/apply-serve",
       "sourceUrl": "https://governor.wa.gov/sites/default/files/2025-01/MonthlyOutreachReport_1.pdf",
-      "lastVerified": "2026-07-08",
+      "lastVerified": "2026-07-09",
       "criticalNote": "Listed in monthly opportunities report"
     },
     {
@@ -857,7 +869,7 @@
       "constituent": null,
       "applyUrl": "https://governor.wa.gov/boards-and-commissions/boards-commissions/apply-serve",
       "sourceUrl": "https://governor.wa.gov/sites/default/files/2025-01/MonthlyOutreachReport_1.pdf",
-      "lastVerified": "2026-07-08",
+      "lastVerified": "2026-07-09",
       "criticalNote": "Listed in monthly opportunities report"
     },
     {
@@ -871,7 +883,7 @@
       "constituent": null,
       "applyUrl": "https://governor.wa.gov/boards-and-commissions/boards-commissions/apply-serve",
       "sourceUrl": "https://governor.wa.gov/sites/default/files/2025-01/MonthlyOutreachReport_1.pdf",
-      "lastVerified": "2026-07-08",
+      "lastVerified": "2026-07-09",
       "criticalNote": "Listed in monthly opportunities report"
     },
     {
@@ -885,7 +897,7 @@
       "constituent": null,
       "applyUrl": "https://governor.wa.gov/boards-and-commissions/boards-commissions/apply-serve",
       "sourceUrl": "https://governor.wa.gov/sites/default/files/2025-01/MonthlyOutreachReport_1.pdf",
-      "lastVerified": "2026-07-08",
+      "lastVerified": "2026-07-09",
       "criticalNote": "Listed in monthly opportunities report"
     },
     {
@@ -899,7 +911,7 @@
       "constituent": null,
       "applyUrl": "https://governor.wa.gov/boards-and-commissions/boards-commissions/apply-serve",
       "sourceUrl": "https://governor.wa.gov/sites/default/files/2025-01/MonthlyOutreachReport_1.pdf",
-      "lastVerified": "2026-07-08",
+      "lastVerified": "2026-07-09",
       "criticalNote": "Listed in monthly opportunities report"
     },
     {
@@ -913,7 +925,7 @@
       "constituent": null,
       "applyUrl": "https://governor.wa.gov/boards-and-commissions/boards-commissions/apply-serve",
       "sourceUrl": "https://governor.wa.gov/sites/default/files/2025-01/MonthlyOutreachReport_1.pdf",
-      "lastVerified": "2026-07-08",
+      "lastVerified": "2026-07-09",
       "criticalNote": "Listed in monthly opportunities report"
     },
     {
@@ -927,7 +939,7 @@
       "constituent": null,
       "applyUrl": "https://governor.wa.gov/boards-and-commissions/boards-commissions/apply-serve",
       "sourceUrl": "https://governor.wa.gov/sites/default/files/2025-01/MonthlyOutreachReport_1.pdf",
-      "lastVerified": "2026-07-08",
+      "lastVerified": "2026-07-09",
       "criticalNote": "Listed in monthly opportunities report"
     },
     {
@@ -941,7 +953,7 @@
       "constituent": null,
       "applyUrl": "https://governor.wa.gov/boards-and-commissions/boards-commissions/apply-serve",
       "sourceUrl": "https://governor.wa.gov/sites/default/files/2025-01/MonthlyOutreachReport_1.pdf",
-      "lastVerified": "2026-07-08",
+      "lastVerified": "2026-07-09",
       "criticalNote": "Listed in monthly opportunities report"
     },
     {
@@ -955,22 +967,24 @@
       "constituent": null,
       "applyUrl": "https://governor.wa.gov/boards-and-commissions/boards-commissions/apply-serve",
       "sourceUrl": "https://governor.wa.gov/sites/default/files/2025-01/MonthlyOutreachReport_1.pdf",
-      "lastVerified": "2026-07-08",
+      "lastVerified": "2026-07-09",
       "criticalNote": "Listed in monthly opportunities report"
     },
     {
       "id": 68,
       "name": "Universal Health Care Commission",
       "domain": "health",
-      "totalSeats": null,
+      "totalSeats": 15,
       "vacantSeats": 1,
       "vacantSince": null,
       "authority": "Governor's Boards & Commissions Office",
-      "constituent": null,
+      "constituent": "All Washingtonians · path to universal coverage",
       "applyUrl": "https://governor.wa.gov/boards-and-commissions/boards-commissions/apply-serve",
       "sourceUrl": "https://governor.wa.gov/sites/default/files/2025-01/MonthlyOutreachReport_1.pdf",
-      "lastVerified": "2026-07-08",
-      "criticalNote": "Listed in monthly opportunities report"
+      "lastVerified": "2026-07-09",
+      "criticalNote": "Listed in monthly opportunities report",
+      "mandate": "Develops the framework and recommendations for a universal health care system in Washington, including financing and delivery design. Fifteen members — six appointed by the Governor plus legislative and state-agency members (RCW 41.05.840).",
+      "seatSource": "https://app.leg.wa.gov/RCW/default.aspx?cite=41.05.840"
     },
     {
       "id": 69,
@@ -983,7 +997,7 @@
       "constituent": null,
       "applyUrl": "https://governor.wa.gov/boards-and-commissions/boards-commissions/apply-serve",
       "sourceUrl": "https://governor.wa.gov/sites/default/files/2025-01/MonthlyOutreachReport_1.pdf",
-      "lastVerified": "2026-07-08",
+      "lastVerified": "2026-07-09",
       "criticalNote": "Listed in monthly opportunities report"
     },
     {
@@ -997,7 +1011,7 @@
       "constituent": null,
       "applyUrl": "https://governor.wa.gov/boards-and-commissions/boards-commissions/apply-serve",
       "sourceUrl": "https://governor.wa.gov/sites/default/files/2025-01/MonthlyOutreachReport_1.pdf",
-      "lastVerified": "2026-07-08",
+      "lastVerified": "2026-07-09",
       "criticalNote": "Listed in monthly opportunities report"
     },
     {
@@ -1011,7 +1025,7 @@
       "constituent": null,
       "applyUrl": "https://governor.wa.gov/boards-and-commissions/boards-commissions/apply-serve",
       "sourceUrl": "https://governor.wa.gov/sites/default/files/2025-01/MonthlyOutreachReport_1.pdf",
-      "lastVerified": "2026-07-08",
+      "lastVerified": "2026-07-09",
       "criticalNote": "Listed in monthly opportunities report"
     },
     {
@@ -1025,7 +1039,7 @@
       "constituent": null,
       "applyUrl": "https://governor.wa.gov/boards-and-commissions/boards-commissions/apply-serve",
       "sourceUrl": "https://governor.wa.gov/sites/default/files/2025-01/MonthlyOutreachReport_1.pdf",
-      "lastVerified": "2026-07-08",
+      "lastVerified": "2026-07-09",
       "criticalNote": "Listed in monthly opportunities report"
     },
     {
@@ -1039,7 +1053,7 @@
       "constituent": null,
       "applyUrl": "https://governor.wa.gov/boards-and-commissions/boards-commissions/apply-serve",
       "sourceUrl": "https://governor.wa.gov/sites/default/files/2025-01/MonthlyOutreachReport_1.pdf",
-      "lastVerified": "2026-07-08",
+      "lastVerified": "2026-07-09",
       "criticalNote": "Listed in monthly opportunities report"
     },
     {
@@ -1053,7 +1067,7 @@
       "constituent": null,
       "applyUrl": "https://governor.wa.gov/boards-and-commissions/boards-commissions/apply-serve",
       "sourceUrl": "https://governor.wa.gov/sites/default/files/2025-01/MonthlyOutreachReport_1.pdf",
-      "lastVerified": "2026-07-08",
+      "lastVerified": "2026-07-09",
       "criticalNote": "Listed in monthly opportunities report"
     },
     {
@@ -1067,7 +1081,7 @@
       "constituent": null,
       "applyUrl": "https://governor.wa.gov/boards-and-commissions/boards-commissions/apply-serve",
       "sourceUrl": "https://governor.wa.gov/sites/default/files/2025-01/MonthlyOutreachReport_1.pdf",
-      "lastVerified": "2026-07-08",
+      "lastVerified": "2026-07-09",
       "criticalNote": "Listed in monthly opportunities report"
     },
     {
@@ -1081,7 +1095,7 @@
       "constituent": null,
       "applyUrl": "https://governor.wa.gov/boards-and-commissions/boards-commissions/apply-serve",
       "sourceUrl": "https://governor.wa.gov/sites/default/files/2025-01/MonthlyOutreachReport_1.pdf",
-      "lastVerified": "2026-07-08",
+      "lastVerified": "2026-07-09",
       "criticalNote": "Listed in monthly opportunities report"
     },
     {
@@ -1095,7 +1109,7 @@
       "constituent": null,
       "applyUrl": "https://governor.wa.gov/boards-and-commissions/boards-commissions/apply-serve",
       "sourceUrl": "https://governor.wa.gov/sites/default/files/2025-01/MonthlyOutreachReport_1.pdf",
-      "lastVerified": "2026-07-08",
+      "lastVerified": "2026-07-09",
       "criticalNote": "Listed in monthly opportunities report"
     },
     {
@@ -1109,7 +1123,7 @@
       "constituent": null,
       "applyUrl": "https://governor.wa.gov/boards-and-commissions/boards-commissions/apply-serve",
       "sourceUrl": "https://governor.wa.gov/sites/default/files/2025-01/MonthlyOutreachReport_1.pdf",
-      "lastVerified": "2026-07-08",
+      "lastVerified": "2026-07-09",
       "criticalNote": "Listed in monthly opportunities report"
     },
     {
@@ -1123,7 +1137,7 @@
       "constituent": null,
       "applyUrl": "https://governor.wa.gov/boards-and-commissions/boards-commissions/apply-serve",
       "sourceUrl": "https://governor.wa.gov/sites/default/files/2025-01/MonthlyOutreachReport_1.pdf",
-      "lastVerified": "2026-07-08",
+      "lastVerified": "2026-07-09",
       "criticalNote": "Listed in monthly opportunities report"
     },
     {
@@ -1137,7 +1151,7 @@
       "constituent": null,
       "applyUrl": "https://governor.wa.gov/boards-and-commissions/boards-commissions/apply-serve",
       "sourceUrl": "https://governor.wa.gov/sites/default/files/2025-01/MonthlyOutreachReport_1.pdf",
-      "lastVerified": "2026-07-08",
+      "lastVerified": "2026-07-09",
       "criticalNote": "Listed in monthly opportunities report"
     },
     {
@@ -1151,7 +1165,7 @@
       "constituent": null,
       "applyUrl": "https://governor.wa.gov/boards-and-commissions/boards-commissions/apply-serve",
       "sourceUrl": "https://governor.wa.gov/sites/default/files/2025-01/MonthlyOutreachReport_1.pdf",
-      "lastVerified": "2026-07-08",
+      "lastVerified": "2026-07-09",
       "criticalNote": "Listed in monthly opportunities report"
     },
     {
@@ -1165,7 +1179,7 @@
       "constituent": null,
       "applyUrl": "https://governor.wa.gov/boards-and-commissions/boards-commissions/apply-serve",
       "sourceUrl": "https://governor.wa.gov/sites/default/files/2025-01/MonthlyOutreachReport_1.pdf",
-      "lastVerified": "2026-07-08",
+      "lastVerified": "2026-07-09",
       "criticalNote": "Listed in monthly opportunities report"
     },
     {
@@ -1179,7 +1193,7 @@
       "constituent": null,
       "applyUrl": "https://governor.wa.gov/boards-and-commissions/boards-commissions/apply-serve",
       "sourceUrl": "https://governor.wa.gov/sites/default/files/2025-01/MonthlyOutreachReport_1.pdf",
-      "lastVerified": "2026-07-08",
+      "lastVerified": "2026-07-09",
       "criticalNote": "Listed in monthly opportunities report"
     },
     {
@@ -1193,7 +1207,7 @@
       "constituent": null,
       "applyUrl": "https://governor.wa.gov/boards-and-commissions/boards-commissions/apply-serve",
       "sourceUrl": "https://governor.wa.gov/sites/default/files/2025-01/MonthlyOutreachReport_1.pdf",
-      "lastVerified": "2026-07-08",
+      "lastVerified": "2026-07-09",
       "criticalNote": "Listed in monthly opportunities report"
     },
     {
@@ -1207,7 +1221,7 @@
       "constituent": null,
       "applyUrl": "https://governor.wa.gov/boards-and-commissions/boards-commissions/apply-serve",
       "sourceUrl": "https://governor.wa.gov/sites/default/files/2025-01/MonthlyOutreachReport_1.pdf",
-      "lastVerified": "2026-07-08",
+      "lastVerified": "2026-07-09",
       "criticalNote": "Listed in monthly opportunities report"
     },
     {
@@ -1221,7 +1235,7 @@
       "constituent": null,
       "applyUrl": "https://governor.wa.gov/boards-and-commissions/boards-commissions/apply-serve",
       "sourceUrl": "https://governor.wa.gov/sites/default/files/2025-01/MonthlyOutreachReport_1.pdf",
-      "lastVerified": "2026-07-08",
+      "lastVerified": "2026-07-09",
       "criticalNote": "Listed in monthly opportunities report"
     },
     {
@@ -1235,7 +1249,7 @@
       "constituent": null,
       "applyUrl": "https://governor.wa.gov/boards-and-commissions/boards-commissions/apply-serve",
       "sourceUrl": "https://governor.wa.gov/sites/default/files/2025-01/MonthlyOutreachReport_1.pdf",
-      "lastVerified": "2026-07-08",
+      "lastVerified": "2026-07-09",
       "criticalNote": "Listed in monthly opportunities report"
     },
     {
@@ -1249,7 +1263,7 @@
       "constituent": null,
       "applyUrl": "https://governor.wa.gov/boards-and-commissions/boards-commissions/apply-serve",
       "sourceUrl": "https://governor.wa.gov/sites/default/files/2025-01/MonthlyOutreachReport_1.pdf",
-      "lastVerified": "2026-07-08",
+      "lastVerified": "2026-07-09",
       "criticalNote": "Listed in monthly opportunities report"
     },
     {
@@ -1263,7 +1277,7 @@
       "constituent": null,
       "applyUrl": "https://governor.wa.gov/boards-and-commissions/boards-commissions/apply-serve",
       "sourceUrl": "https://governor.wa.gov/sites/default/files/2025-01/MonthlyOutreachReport_1.pdf",
-      "lastVerified": "2026-07-08",
+      "lastVerified": "2026-07-09",
       "criticalNote": "Listed in monthly opportunities report"
     },
     {
@@ -1277,7 +1291,7 @@
       "constituent": null,
       "applyUrl": "https://governor.wa.gov/boards-and-commissions/boards-commissions/apply-serve",
       "sourceUrl": "https://governor.wa.gov/sites/default/files/2025-01/MonthlyOutreachReport_1.pdf",
-      "lastVerified": "2026-07-08",
+      "lastVerified": "2026-07-09",
       "criticalNote": "Listed in monthly opportunities report"
     },
     {
@@ -1291,7 +1305,7 @@
       "constituent": null,
       "applyUrl": "https://governor.wa.gov/boards-and-commissions/boards-commissions/apply-serve",
       "sourceUrl": "https://governor.wa.gov/sites/default/files/2025-01/MonthlyOutreachReport_1.pdf",
-      "lastVerified": "2026-07-08",
+      "lastVerified": "2026-07-09",
       "criticalNote": "Listed in monthly opportunities report"
     },
     {
@@ -1305,7 +1319,7 @@
       "constituent": null,
       "applyUrl": "https://governor.wa.gov/boards-and-commissions/boards-commissions/apply-serve",
       "sourceUrl": "https://governor.wa.gov/sites/default/files/2025-01/MonthlyOutreachReport_1.pdf",
-      "lastVerified": "2026-07-08",
+      "lastVerified": "2026-07-09",
       "criticalNote": "Listed in monthly opportunities report"
     },
     {
@@ -1319,7 +1333,7 @@
       "constituent": null,
       "applyUrl": "https://governor.wa.gov/boards-and-commissions/boards-commissions/apply-serve",
       "sourceUrl": "https://governor.wa.gov/sites/default/files/2025-01/MonthlyOutreachReport_1.pdf",
-      "lastVerified": "2026-07-08",
+      "lastVerified": "2026-07-09",
       "criticalNote": "Listed in monthly opportunities report"
     },
     {
@@ -1333,7 +1347,7 @@
       "constituent": null,
       "applyUrl": "https://governor.wa.gov/boards-and-commissions/boards-commissions/apply-serve",
       "sourceUrl": "https://governor.wa.gov/sites/default/files/2025-01/MonthlyOutreachReport_1.pdf",
-      "lastVerified": "2026-07-08",
+      "lastVerified": "2026-07-09",
       "criticalNote": "Listed in monthly opportunities report"
     },
     {
@@ -1347,7 +1361,7 @@
       "constituent": null,
       "applyUrl": "https://governor.wa.gov/boards-and-commissions/boards-commissions/apply-serve",
       "sourceUrl": "https://governor.wa.gov/sites/default/files/2025-01/MonthlyOutreachReport_1.pdf",
-      "lastVerified": "2026-07-08",
+      "lastVerified": "2026-07-09",
       "criticalNote": "Listed in monthly opportunities report"
     },
     {
@@ -1361,7 +1375,7 @@
       "constituent": null,
       "applyUrl": "https://governor.wa.gov/boards-and-commissions/boards-commissions/apply-serve",
       "sourceUrl": "https://governor.wa.gov/sites/default/files/2025-01/MonthlyOutreachReport_1.pdf",
-      "lastVerified": "2026-07-08",
+      "lastVerified": "2026-07-09",
       "criticalNote": "Listed in monthly opportunities report"
     },
     {
@@ -1375,7 +1389,7 @@
       "constituent": null,
       "applyUrl": "https://governor.wa.gov/boards-and-commissions/boards-commissions/apply-serve",
       "sourceUrl": "https://governor.wa.gov/sites/default/files/2025-01/MonthlyOutreachReport_1.pdf",
-      "lastVerified": "2026-07-08",
+      "lastVerified": "2026-07-09",
       "criticalNote": "Listed in monthly opportunities report"
     },
     {
@@ -1389,7 +1403,7 @@
       "constituent": null,
       "applyUrl": "https://governor.wa.gov/boards-and-commissions/boards-commissions/apply-serve",
       "sourceUrl": "https://governor.wa.gov/sites/default/files/2025-01/MonthlyOutreachReport_1.pdf",
-      "lastVerified": "2026-07-08",
+      "lastVerified": "2026-07-09",
       "criticalNote": "Listed in monthly opportunities report"
     },
     {
@@ -1403,7 +1417,7 @@
       "constituent": null,
       "applyUrl": "https://governor.wa.gov/boards-and-commissions/boards-commissions/apply-serve",
       "sourceUrl": "https://governor.wa.gov/sites/default/files/2025-01/MonthlyOutreachReport_1.pdf",
-      "lastVerified": "2026-07-08",
+      "lastVerified": "2026-07-09",
       "criticalNote": "Listed in monthly opportunities report"
     },
     {
@@ -1417,7 +1431,7 @@
       "constituent": null,
       "applyUrl": "https://governor.wa.gov/boards-and-commissions/boards-commissions/apply-serve",
       "sourceUrl": "https://governor.wa.gov/sites/default/files/2025-01/MonthlyOutreachReport_1.pdf",
-      "lastVerified": "2026-07-08",
+      "lastVerified": "2026-07-09",
       "criticalNote": "Listed in monthly opportunities report"
     },
     {
@@ -1431,7 +1445,7 @@
       "constituent": null,
       "applyUrl": "https://governor.wa.gov/boards-and-commissions/boards-commissions/apply-serve",
       "sourceUrl": "https://governor.wa.gov/sites/default/files/2025-01/MonthlyOutreachReport_1.pdf",
-      "lastVerified": "2026-07-08",
+      "lastVerified": "2026-07-09",
       "criticalNote": "Listed in monthly opportunities report"
     },
     {
@@ -1445,7 +1459,7 @@
       "constituent": null,
       "applyUrl": "https://governor.wa.gov/boards-and-commissions/boards-commissions/apply-serve",
       "sourceUrl": "https://governor.wa.gov/sites/default/files/2025-01/MonthlyOutreachReport_1.pdf",
-      "lastVerified": "2026-07-08",
+      "lastVerified": "2026-07-09",
       "criticalNote": "Listed in monthly opportunities report"
     },
     {
@@ -1459,7 +1473,7 @@
       "constituent": null,
       "applyUrl": "https://governor.wa.gov/boards-and-commissions/boards-commissions/apply-serve",
       "sourceUrl": "https://governor.wa.gov/sites/default/files/2025-01/MonthlyOutreachReport_1.pdf",
-      "lastVerified": "2026-07-08",
+      "lastVerified": "2026-07-09",
       "criticalNote": "Listed in monthly opportunities report"
     },
     {
@@ -1473,7 +1487,7 @@
       "constituent": null,
       "applyUrl": "https://governor.wa.gov/boards-and-commissions/boards-commissions/apply-serve",
       "sourceUrl": "https://governor.wa.gov/sites/default/files/2025-01/MonthlyOutreachReport_1.pdf",
-      "lastVerified": "2026-07-08",
+      "lastVerified": "2026-07-09",
       "criticalNote": "Listed in monthly opportunities report"
     },
     {
@@ -1487,7 +1501,7 @@
       "constituent": null,
       "applyUrl": "https://governor.wa.gov/boards-and-commissions/boards-commissions/apply-serve",
       "sourceUrl": "https://governor.wa.gov/sites/default/files/2025-01/MonthlyOutreachReport_1.pdf",
-      "lastVerified": "2026-07-08",
+      "lastVerified": "2026-07-09",
       "criticalNote": "Listed in monthly opportunities report"
     },
     {
@@ -1501,7 +1515,7 @@
       "constituent": null,
       "applyUrl": "https://governor.wa.gov/boards-and-commissions/boards-commissions/apply-serve",
       "sourceUrl": "https://governor.wa.gov/sites/default/files/2025-01/MonthlyOutreachReport_1.pdf",
-      "lastVerified": "2026-07-08",
+      "lastVerified": "2026-07-09",
       "criticalNote": "Listed in monthly opportunities report"
     },
     {
@@ -1515,7 +1529,7 @@
       "constituent": null,
       "applyUrl": "https://governor.wa.gov/boards-and-commissions/boards-commissions/apply-serve",
       "sourceUrl": "https://governor.wa.gov/sites/default/files/2025-01/MonthlyOutreachReport_1.pdf",
-      "lastVerified": "2026-07-08",
+      "lastVerified": "2026-07-09",
       "criticalNote": "Listed in monthly opportunities report"
     },
     {
@@ -1529,7 +1543,7 @@
       "constituent": null,
       "applyUrl": "https://governor.wa.gov/boards-and-commissions/boards-commissions/apply-serve",
       "sourceUrl": "https://governor.wa.gov/sites/default/files/2025-01/MonthlyOutreachReport_1.pdf",
-      "lastVerified": "2026-07-08",
+      "lastVerified": "2026-07-09",
       "criticalNote": "Listed in monthly opportunities report"
     },
     {
@@ -1543,7 +1557,7 @@
       "constituent": null,
       "applyUrl": "https://governor.wa.gov/boards-and-commissions/boards-commissions/apply-serve",
       "sourceUrl": "https://governor.wa.gov/sites/default/files/2025-01/MonthlyOutreachReport_1.pdf",
-      "lastVerified": "2026-07-08",
+      "lastVerified": "2026-07-09",
       "criticalNote": "Listed in monthly opportunities report"
     },
     {
@@ -1557,7 +1571,7 @@
       "constituent": null,
       "applyUrl": "https://governor.wa.gov/boards-and-commissions/boards-commissions/apply-serve",
       "sourceUrl": "https://governor.wa.gov/sites/default/files/2025-01/MonthlyOutreachReport_1.pdf",
-      "lastVerified": "2026-07-08",
+      "lastVerified": "2026-07-09",
       "criticalNote": "Listed in monthly opportunities report"
     },
     {
@@ -1571,7 +1585,7 @@
       "constituent": null,
       "applyUrl": "https://governor.wa.gov/boards-and-commissions/boards-commissions/apply-serve",
       "sourceUrl": "https://governor.wa.gov/sites/default/files/2025-01/MonthlyOutreachReport_1.pdf",
-      "lastVerified": "2026-07-08",
+      "lastVerified": "2026-07-09",
       "criticalNote": "Listed in monthly opportunities report"
     },
     {
@@ -1585,7 +1599,7 @@
       "constituent": null,
       "applyUrl": "https://governor.wa.gov/boards-and-commissions/boards-commissions/apply-serve",
       "sourceUrl": "https://governor.wa.gov/sites/default/files/2025-01/MonthlyOutreachReport_1.pdf",
-      "lastVerified": "2026-07-08",
+      "lastVerified": "2026-07-09",
       "criticalNote": "Listed in monthly opportunities report"
     },
     {
@@ -1599,7 +1613,7 @@
       "constituent": null,
       "applyUrl": "https://governor.wa.gov/boards-and-commissions/boards-commissions/apply-serve",
       "sourceUrl": "https://governor.wa.gov/sites/default/files/2025-01/MonthlyOutreachReport_1.pdf",
-      "lastVerified": "2026-07-08",
+      "lastVerified": "2026-07-09",
       "criticalNote": "Listed in monthly opportunities report"
     },
     {
@@ -1613,7 +1627,7 @@
       "constituent": null,
       "applyUrl": "https://governor.wa.gov/boards-and-commissions/boards-commissions/apply-serve",
       "sourceUrl": "https://governor.wa.gov/sites/default/files/2025-01/MonthlyOutreachReport_1.pdf",
-      "lastVerified": "2026-07-08",
+      "lastVerified": "2026-07-09",
       "criticalNote": "Listed in monthly opportunities report"
     },
     {
@@ -1627,7 +1641,7 @@
       "constituent": null,
       "applyUrl": "https://governor.wa.gov/boards-and-commissions/boards-commissions/apply-serve",
       "sourceUrl": "https://governor.wa.gov/sites/default/files/2025-01/MonthlyOutreachReport_1.pdf",
-      "lastVerified": "2026-07-08",
+      "lastVerified": "2026-07-09",
       "criticalNote": "Listed in monthly opportunities report"
     },
     {
@@ -1641,7 +1655,7 @@
       "constituent": null,
       "applyUrl": "https://governor.wa.gov/boards-and-commissions/boards-commissions/apply-serve",
       "sourceUrl": "https://governor.wa.gov/sites/default/files/2025-01/MonthlyOutreachReport_1.pdf",
-      "lastVerified": "2026-07-08",
+      "lastVerified": "2026-07-09",
       "criticalNote": "Listed in monthly opportunities report"
     },
     {
@@ -1655,7 +1669,7 @@
       "constituent": null,
       "applyUrl": "https://governor.wa.gov/boards-and-commissions/boards-commissions/apply-serve",
       "sourceUrl": "https://governor.wa.gov/sites/default/files/2025-01/MonthlyOutreachReport_1.pdf",
-      "lastVerified": "2026-07-08",
+      "lastVerified": "2026-07-09",
       "criticalNote": "Listed in monthly opportunities report"
     },
     {
@@ -1669,7 +1683,7 @@
       "constituent": null,
       "applyUrl": "https://governor.wa.gov/boards-and-commissions/boards-commissions/apply-serve",
       "sourceUrl": "https://governor.wa.gov/sites/default/files/2025-01/MonthlyOutreachReport_1.pdf",
-      "lastVerified": "2026-07-08",
+      "lastVerified": "2026-07-09",
       "criticalNote": "Listed in monthly opportunities report"
     },
     {
@@ -1683,7 +1697,7 @@
       "constituent": null,
       "applyUrl": "https://governor.wa.gov/boards-and-commissions/boards-commissions/apply-serve",
       "sourceUrl": "https://governor.wa.gov/sites/default/files/2025-01/MonthlyOutreachReport_1.pdf",
-      "lastVerified": "2026-07-08",
+      "lastVerified": "2026-07-09",
       "criticalNote": "Listed in monthly opportunities report"
     },
     {
@@ -1697,7 +1711,7 @@
       "constituent": null,
       "applyUrl": "https://governor.wa.gov/boards-and-commissions/boards-commissions/apply-serve",
       "sourceUrl": "https://governor.wa.gov/sites/default/files/2025-01/MonthlyOutreachReport_1.pdf",
-      "lastVerified": "2026-07-08",
+      "lastVerified": "2026-07-09",
       "criticalNote": "Listed in monthly opportunities report"
     },
     {
@@ -1711,7 +1725,7 @@
       "constituent": null,
       "applyUrl": "https://governor.wa.gov/boards-and-commissions/boards-commissions/apply-serve",
       "sourceUrl": "https://governor.wa.gov/sites/default/files/2025-01/MonthlyOutreachReport_1.pdf",
-      "lastVerified": "2026-07-08",
+      "lastVerified": "2026-07-09",
       "criticalNote": "Listed in monthly opportunities report"
     },
     {
@@ -1725,7 +1739,7 @@
       "constituent": null,
       "applyUrl": "https://governor.wa.gov/boards-and-commissions/boards-commissions/apply-serve",
       "sourceUrl": "https://governor.wa.gov/sites/default/files/2025-01/MonthlyOutreachReport_1.pdf",
-      "lastVerified": "2026-07-08",
+      "lastVerified": "2026-07-09",
       "criticalNote": "Listed in monthly opportunities report"
     },
     {
@@ -1739,7 +1753,7 @@
       "constituent": null,
       "applyUrl": "https://governor.wa.gov/boards-and-commissions/boards-commissions/apply-serve",
       "sourceUrl": "https://governor.wa.gov/sites/default/files/2025-01/MonthlyOutreachReport_1.pdf",
-      "lastVerified": "2026-07-08",
+      "lastVerified": "2026-07-09",
       "criticalNote": "Listed in monthly opportunities report"
     }
   ]
