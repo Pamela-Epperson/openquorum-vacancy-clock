@@ -21,7 +21,7 @@ export const REGISTRY = {
     applyAuthority: "Governor's Boards & Commissions Office",
     dataSource: "governor.wa.gov/boards-and-commissions",
     totalBoardsNote: "230+ boards · monthly opportunities report",
-    promote: false,
+    promote: true, // enrichments/WA.mjs: 7 statute-verified boards ready (Jul 8 2026)
   },
   OR: {
     profile: "or",
@@ -30,11 +30,18 @@ export const REGISTRY = {
     applyAuthority: "Governor's Executive Appointments Office",
     dataSource: "oregon.wd5.myworkdayjobs.com/Boards",
     totalBoardsNote: "Board openings posted via Workday",
-    promote: true,
+    promote: false,
+  },
+  CA: {
+    profile: "ca",
+    endpoint: "https://www.gov.ca.gov/join-the-administration/government-appointments/",
+    applyUrl: "https://govca.avature.net/GOVCACareers/Home",
+    applyAuthority: "Governor's Appointments Office",
+    dataSource: "gov.ca.gov/join-the-administration/government-appointments",
+    totalBoardsNote: "Current Board Vacancies report (PDF), Governor's Appointments Unit",
+    promote: false, // profile new — verify first scrape PR, then add enrichments/CA.mjs before promoting
   },
   // Researched July 8, 2026 — profiles not yet written (next tranche):
-  // CA: gov.ca.gov/join-the-administration/government-appointments/current-opportunities/
-  //     apply: https://www.gov.ca.gov/appointments-application/ · Governor's Appointments Office
   // FL: flgov.com remaining_vacancies.pdf · apply: eogforms.eog.myflorida.com/pages/seatapplication.aspx
   //     · Governor's Appointments Office
   // OH: governor.ohio.gov/administration/boards-and-commissions (term expirations)
