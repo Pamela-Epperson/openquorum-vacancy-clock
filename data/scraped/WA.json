@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-07-15T17:59:44.294Z",
+  "scrapedAt": "2026-07-15T18:32:20.367Z",
   "registry": {
     "profile": "wa",
     "endpoint": "https://governor.wa.gov/boards-and-commissions/boards-commissions/current-and-upcoming-appointment-opportunities",
@@ -12,11 +12,11 @@
   "summary": {
     "state": "WA",
     "total": 129,
-    "full": 6,
-    "provisional": 123,
+    "full": 9,
+    "provisional": 120,
     "missingFields": {
-      "totalSeats": 123,
-      "constituent": 123
+      "totalSeats": 120,
+      "constituent": 120
     }
   },
   "rows": [
@@ -474,15 +474,17 @@
       "id": 33,
       "name": "Workforce Training and Education Coordinating Board",
       "domain": "education",
-      "totalSeats": null,
+      "totalSeats": 9,
       "vacantSeats": 1,
       "vacantSince": null,
       "authority": "Governor's Boards & Commissions Office",
-      "constituent": null,
+      "constituent": "Washington job seekers, workers & employers",
       "applyUrl": "https://governor.wa.gov/boards-and-commissions/boards-commissions/apply-serve",
       "sourceUrl": "https://governor.wa.gov/sites/default/files/2025-01/MonthlyOutreachReport_1.pdf",
       "lastVerified": "2026-07-15",
-      "criticalNote": "Listed in monthly opportunities report"
+      "criticalNote": "6 of 9 voting seats are governor-appointed",
+      "mandate": "Coordinates Washington's workforce development system. Nine voting members — three business, three labor, three agency ex officio (RCW 28C.18.020).",
+      "seatSource": "https://app.leg.wa.gov/rcw/default.aspx?cite=28C.18.020"
     },
     {
       "id": 34,
@@ -942,15 +944,17 @@
       "id": 66,
       "name": "Medical Commission, Washington",
       "domain": "health",
-      "totalSeats": null,
+      "totalSeats": 21,
       "vacantSeats": 1,
       "vacantSince": null,
       "authority": "Governor's Boards & Commissions Office",
-      "constituent": null,
+      "constituent": "Washington patients & licensed physicians",
       "applyUrl": "https://governor.wa.gov/boards-and-commissions/boards-commissions/apply-serve",
       "sourceUrl": "https://governor.wa.gov/sites/default/files/2025-01/MonthlyOutreachReport_1.pdf",
       "lastVerified": "2026-07-15",
-      "criticalNote": "Listed in monthly opportunities report"
+      "criticalNote": "Listed in monthly opportunities report",
+      "mandate": "Licenses and disciplines physicians and physician assistants. Twenty-one members — thirteen physicians, two physician assistants, six public members (RCW 18.71.015).",
+      "seatSource": "https://app.leg.wa.gov/rcw/default.aspx?cite=18.71.015"
     },
     {
       "id": 67,
@@ -1170,15 +1174,17 @@
       "id": 82,
       "name": "Affordable Housing Advisory Board",
       "domain": "housing",
-      "totalSeats": null,
+      "totalSeats": 25,
       "vacantSeats": 1,
       "vacantSince": null,
       "authority": "Governor's Boards & Commissions Office",
-      "constituent": null,
+      "constituent": "Washingtonians needing affordable housing",
       "applyUrl": "https://governor.wa.gov/boards-and-commissions/boards-commissions/apply-serve",
       "sourceUrl": "https://governor.wa.gov/sites/default/files/2025-01/MonthlyOutreachReport_1.pdf",
       "lastVerified": "2026-07-15",
-      "criticalNote": "Listed in monthly opportunities report"
+      "criticalNote": "3 of 25 seats are ex officio nonvoting",
+      "mandate": "Advises the Department of Commerce on housing and housing finance policy. Twenty-five members including three ex officio nonvoting (RCW 43.185B.020).",
+      "seatSource": "https://app.leg.wa.gov/rcw/default.aspx?cite=43.185B.020"
     },
     {
       "id": 83,
