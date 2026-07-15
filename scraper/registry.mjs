@@ -43,7 +43,7 @@ export const REGISTRY = {
   },
   FL: {
     profile: "fl",
-    endpoint: "https://www.flgov.com/wp-content/uploads/appointments/remaining_vacancies.pdf",
+    endpoint: "https://www.flgov.com/eog/leadership/appointments",
     applyUrl: "https://eogforms.eog.myflorida.com/pages/seatapplication.aspx",
     applyAuthority: "Governor's Appointments Office",
     dataSource: "flgov.com/eog/leadership/appointments",
@@ -57,7 +57,7 @@ export const REGISTRY = {
     applyAuthority: "Governor's Boards & Commissions Office",
     dataSource: "governor.ohio.gov/administration/boards-and-commissions",
     totalBoardsNote: "2026 term-expirations list, Governor's office",
-    promote: false, // verify first scrape PR, then add enrichments/OH.mjs
+    promote: true, // enrichments/OH.mjs: 5 ORC-verified boards (Jul 15 2026) // verify first scrape PR, then add enrichments/OH.mjs
   },
   TX: {
     profile: "tx",
@@ -68,6 +68,31 @@ export const REGISTRY = {
     totalBoardsNote: "Appointed-positions directory · applications accepted year-round (no central vacancy list)",
     promote: false, // INVENTORY MODE — enrich seat totals from statute links before promoting
   },
+  AZ: {
+    profile: "az",
+    endpoint: "https://bc.azgovernor.gov/",
+    applyUrl: "https://bc.azgovernor.gov/boards-and-commissions-application",
+    applyAuthority: "Governor's Office of Boards & Commissions",
+    dataSource: "bc.azgovernor.gov",
+    totalBoardsNote: "220 active boards · Governor's vacancy report",
+    promote: false, // verify first scrape PR, then add enrichments/AZ.mjs
+  },
+  MO: {
+    profile: "mo",
+    endpoint: "https://boards.mo.gov/userpages/boardsearch.aspx",
+    applyUrl: "https://apps1.mo.gov/boardsapp/UserPages/Login.aspx",
+    applyAuthority: "Governor's Office — Boards & Commissions",
+    dataSource: "boards.mo.gov",
+    totalBoardsNote: "Current vacancies & expired terms list, boards.mo.gov",
+    promote: false, // verify first scrape PR, then add enrichments/MO.mjs
+  },
+  // UT — VERIFIED July 15, 2026: boards.utah.gov (400+ boards; apply at
+  // boards.utah.gov/s/how-to-apply, Governor's Office). Site is Salesforce
+  // Experience Cloud (JS-rendered) — needs API inspection before a profile.
+  // IA — VERIFIED July 15, 2026: new IAppoint system (iappoint.iowa.gov,
+  // launched Nov 2025; 180+ boards, Governor's Office). JS app — inspect
+  // boards-iappoint.iowa.gov/boards for a JSON endpoint before a profile.
+
   // CT — apply path VERIFIED July 15, 2026; NO central vacancy list exists, so no
   // profile yet. Data-source options (pick one to build): (a) seed research like
   // the pilots from the SOTS State Register & Manual board listings, (b) monitor

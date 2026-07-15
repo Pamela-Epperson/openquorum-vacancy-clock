@@ -9,7 +9,22 @@ const NOISE_START = /^(The|A|An|This|It|In|As|Page|Report|Updated|Governor|Execu
 
 export async function scrape({ endpoint, applyUrl, authority }) {
   const { default: pdfParse } = await import("pdf-parse/lib/pdf-parse.js");
-  const res = await browserFetch(endpoint);
+  // Endpoint is the Appointments Office PAGE — discover the current vacancies
+  // PDF link there (the direct PDF URL rots between report editions).
+  let pdfUrl = endpoint.endsWith(".pdf") ? endpoint : null;
+  if (!pdfUrl) {
+    const cheerio = await import("cheerio");
+    const page = await browserFetch(endpoint);
+    if (!page.ok) throw new Error(`FL page ${page.status}`);
+    const $ = cheerio.load(await page.text());
+    $("a[href*='.pdf']").each((_, a) => {
+      const href = $(a).attr("href") || "";
+      if (/vacanc/i.test(href + $(a).text()) && !pdfUrl)
+        pdfUrl = new URL(href, "https://www.flgov.com").href;
+    });
+    if (!pdfUrl) throw new Error("FL: vacancies PDF link not found on appointments page");
+  }
+  const res = await browserFetch(pdfUrl);
   if (!res.ok) throw new Error(`FL PDF ${res.status}`);
   const text = (await pdfParse(Buffer.from(await res.arrayBuffer()))).text;
 
@@ -27,7 +42,7 @@ export async function scrape({ endpoint, applyUrl, authority }) {
       id: id++, name, domain: classifyDomain(name),
       totalSeats: null, vacantSeats: 1, vacantSince: null,
       authority, constituent: null, applyUrl,
-      sourceUrl: endpoint, lastVerified: today,
+      sourceUrl: pdfUrl, lastVerified: today,
       criticalNote: "Listed in Governor's remaining-vacancies report",
     };
     seen.set(name, row); rows.push(row);

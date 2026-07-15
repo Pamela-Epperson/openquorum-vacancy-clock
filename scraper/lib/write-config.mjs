@@ -52,7 +52,8 @@ const DOMAIN_REQUIRES = {
 };
 
 // id range: next free hundreds block
-const maxId = Math.max(...[...cfg.matchAll(/id:\s*(\d{3,4})\b/g)].map(m => +m[1]));
+// match both hand-written `id:301` and JSON `"id":1301` forms
+const maxId = Math.max(...[...cfg.matchAll(/"?id"?:\s*(\d{3,5})\b/g)].map(m => +m[1]));
 const base = (Math.floor(maxId / 100) + 1) * 100;
 const rowsJs = staged.rows.map((r, i) => "      " + JSON.stringify({
   ...r,
@@ -101,7 +102,11 @@ if (isScraperLive) {
   const keep = (re, fallback) => (existing.match(re) || [null, fallback])[1];
   const exColor = keep(/color:"(#[0-9A-Fa-f]{6})"/, color);
   const exBg    = keep(/bg:"(#[0-9A-Fa-f]{6})"/, bg);
-  const exBase  = (() => { const m = existing.match(/id:\s*(\d{3,5})/); return m ? Math.floor(+m[1] / 100) * 100 : base; })();
+  // Renumber from the current global max — guarantees cross-state uniqueness
+  // (fixes historical collisions where several scraped states shared 1301+).
+  const cfgWithoutThis = cfg.slice(0, blockStart) + cfg.slice(blockEnd);
+  const exMax = Math.max(...[...cfgWithoutThis.matchAll(/"?id"?:\s*(\d{3,5})\b/g)].map(m => +m[1]), 1200);
+  const exBase = (Math.floor(exMax / 100) + 1) * 100;
   const rowsJs2 = staged.rows.map((r, i2) => "      " + JSON.stringify({
     ...r, id: exBase + i2 + 1,
     mandate: r.mandate || "",
