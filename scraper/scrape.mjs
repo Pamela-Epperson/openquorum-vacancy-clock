@@ -16,6 +16,7 @@ const report = [];
 for (const st of states) {
   const cfg = REGISTRY[st];
   if (!cfg) { report.push(`${st}: not in registry — skipped`); continue; }
+  if (cfg.profile === "manual") { report.push(`${st}: manual state — staged data maintained by hand in data/scraped/${st}.json`); continue; }
   try {
     const { scrape } = await import(`./profiles/${cfg.profile}.mjs`);
     let rows = await scrape({ endpoint: cfg.endpoint, applyUrl: cfg.applyUrl, authority: cfg.applyAuthority });

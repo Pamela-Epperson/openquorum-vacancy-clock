@@ -12,6 +12,17 @@ export async function scrape({ endpoint, applyUrl, authority }) {
   // Endpoint is the Appointments Office PAGE — discover the current vacancies
   // PDF link there (the direct PDF URL rots between report editions).
   let pdfUrl = endpoint.endsWith(".pdf") ? endpoint : null;
+  // Known published location — try it directly first (the appointments page
+  // doesn't always link it in server-rendered HTML).
+  if (!pdfUrl) {
+    try {
+      const probe = await browserFetch("https://www.flgov.com/wp-content/uploads/appointments/remaining_vacancies.pdf", {}, { retries: 0 });
+      if (probe.ok && (probe.headers.get("content-type") || "").includes("pdf")) {
+        const buf0 = Buffer.from(await probe.arrayBuffer());
+        if (buf0.length > 1000) { pdfUrl = "https://www.flgov.com/wp-content/uploads/appointments/remaining_vacancies.pdf"; }
+      }
+    } catch { /* fall through to page discovery */ }
+  }
   if (!pdfUrl) {
     const cheerio = await import("cheerio");
     const page = await browserFetch(endpoint);

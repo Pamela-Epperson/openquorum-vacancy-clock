@@ -66,7 +66,8 @@ export const REGISTRY = {
     applyAuthority: "Governor's Appointments Office",
     dataSource: "gov.texas.gov/organization/appointments",
     totalBoardsNote: "Appointed-positions directory · applications accepted year-round (no central vacancy list)",
-    promote: false, // INVENTORY MODE — enrich seat totals from statute links before promoting
+    contextNote: "Texas publishes no central vacancy list — boards shown are appointment opportunities; terms are staggered six-year and applications are accepted year-round through the Governor's Appointments Office.",
+    promote: true, // enrichments/TX.mjs: 4 statute-verified boards (Jul 16 2026) — INVENTORY MODE // INVENTORY MODE — enrich seat totals from statute links before promoting
   },
   AZ: {
     profile: "az",
@@ -75,7 +76,7 @@ export const REGISTRY = {
     applyAuthority: "Governor's Office of Boards & Commissions",
     dataSource: "bc.azgovernor.gov",
     totalBoardsNote: "220 active boards · Governor's vacancy report",
-    promote: false, // verify first scrape PR, then add enrichments/AZ.mjs
+    promote: true, // enrichments/AZ.mjs: 3 ARS-verified boards (Jul 16 2026) // verify first scrape PR, then add enrichments/AZ.mjs
   },
   MO: {
     profile: "mo",
@@ -93,19 +94,16 @@ export const REGISTRY = {
   // launched Nov 2025; 180+ boards, Governor's Office). JS app — inspect
   // boards-iappoint.iowa.gov/boards for a JSON endpoint before a profile.
 
-  // CT — apply path VERIFIED July 15, 2026; NO central vacancy list exists, so no
-  // profile yet. Data-source options (pick one to build): (a) seed research like
-  // the pilots from the SOTS State Register & Manual board listings, (b) monitor
-  // the DAS recruitment posting, (c) records request for the appointments
-  // tracking list. applyUrl below is the official application route.
-  // CT: {
-  //   profile: null,
-  //   endpoint: null,
-  //   applyUrl: "https://www.jobapscloud.com/CT/sup/bulpreview.asp?R1=190219&R2=1234BC&R3=BCM",
-  //   applyAuthority: "Governor's Office via DAS Statewide HR (DAS.SHRM@ct.gov)",
-  //   dataSource: "portal.ct.gov/government/departments-and-agencies/boards-councils-and-commissions",
-  //   promote: false,
-  // },
+  CT: {
+    profile: "manual",   // no scrapeable vacancy source — data/scraped/CT.json is maintained by hand
+    endpoint: null,
+    applyUrl: "https://www.jobapscloud.com/CT/sup/bulpreview.asp?R1=190219&R2=1234BC&R3=BCM",
+    applyAuthority: "Governor's Office via DAS Statewide HR",
+    dataSource: "portal.ct.gov/government/departments-and-agencies/boards-councils-and-commissions",
+    totalBoardsNote: "Hand-verified seed · CT publishes no central vacancy list",
+    contextNote: "Connecticut publishes no central board-vacancy list. Boards shown are hand-verified appointment opportunities — apply any time through the DAS Boards, Councils and Commissions recruitment (DAS.SHRM@ct.gov).",
+    promote: true, // data/scraped/CT.json: 3 CGS-verified boards (Jul 16 2026) — INVENTORY MODE
+  },
 
   // Researched July 8, 2026 — profiles not yet written (next tranche):
   //     · Governor's Appointments Office

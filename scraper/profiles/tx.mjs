@@ -40,7 +40,8 @@ export async function scrape({ endpoint, applyUrl, authority }) {
         vacantSeats: 0,                        // INVENTORY MODE — TX publishes no vacancy list
         vacantSince: null,
         authority, constituent: null, applyUrl,
-        sourceUrl: statuteHref || endpoint,    // statute link = enrichment pointer
+        sourceUrl: endpoint,                   // directory page (statute links are often http://)
+        statuteUrl: statuteHref,               // statute link = enrichment pointer
         lastVerified: today,
         criticalNote: "Texas accepts applications year-round; staggered 6-year terms",
       });

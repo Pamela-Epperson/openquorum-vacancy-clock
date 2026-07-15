@@ -26,11 +26,27 @@ export async function scrape({ endpoint, applyUrl, authority }) {
 
   const today = new Date().toISOString().slice(0, 10);
   const rows = []; const seen = new Map(); let id = 1;
+  // AZ report prints board names in ALL CAPS, wrapping long names across
+  // lines. Accept only all-caps lines (kills prose leaks) and merge a line
+  // lacking a terminal token with the next caps line (rejoins wraps).
+  const TERMINAL = /\b(BOARD|COMMISSION|COUNCIL|COMMITTEE|AUTHORITY|TASK FORCE|EXAMINERS|DIRECTORS)\s*$/;
+  const capsLines = [];
+  let carry = "";
   for (const raw of text.split("\n")) {
     const line = raw.replace(/\s+/g, " ").trim();
+    if (!line) continue;
+    const isCaps = line === line.toUpperCase() && /[A-Z]/.test(line);
+    if (!isCaps) { carry = ""; continue; }
+    const joined = carry ? `${carry} ${line}` : line;
+    if (TERMINAL.test(joined) || /\b(BOARD|COMMISSION|COUNCIL|COMMITTEE|AUTHORITY)\b/.test(joined) && joined.length > 20 && TERMINAL.test(line)) {
+      capsLines.push(joined); carry = "";
+    } else if (joined.length < 90) { carry = joined; }
+    else { carry = ""; }
+  }
+  for (const line of capsLines) {
     if (line.length < 8 || line.length > 120) continue;
-    if (!/^[A-Z]/.test(line) || NOISE_START.test(line)) continue;
-    if (!/\b(Board|Commission|Council|Committee|Authority|Task Force)\b/i.test(line)) continue;
+    if (NOISE_START.test(line)) continue;
+    if (!/\b(BOARD|COMMISSION|COUNCIL|COMMITTEE|AUTHORITY|TASK FORCE)\b/.test(line)) continue;
     const name = line.replace(/\s*\d+\s*$/, "").trim();
     if (/\d{4}/.test(name)) continue;
     if (seen.has(name)) { seen.get(name).vacantSeats += 1; continue; }

@@ -76,7 +76,7 @@ const entry = `
     dataSource:${JSON.stringify(reg.dataSource)},
     scraper:{ endpoint:${JSON.stringify(reg.endpoint)}, lastPulled:${JSON.stringify(staged.scrapedAt)}, selectorProfile:${JSON.stringify(reg.profile)} },
     totalBoardsNote:${JSON.stringify((reg.totalBoardsNote || "") + " · " + staged.rows.length + " verified of " + (staged.rows.length + held) + " openings tracked")},
-    contextNote:null,
+    contextNote:${JSON.stringify(reg.contextNote || null)},
     auditNote:null,
     boards:[
 ${rowsJs}
