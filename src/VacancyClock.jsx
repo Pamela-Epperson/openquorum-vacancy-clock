@@ -34,10 +34,11 @@ const INK = {
   body:"#43433E",    // secondary body text
 };
 
-const calcDays = d => Math.floor((new Date()-new Date(d))/86400000);
-const severity = d => d>=365?"critical":d>=180?"warning":"active";
+const calcDays = d => d ? Math.floor((new Date()-new Date(d))/86400000) : null; // scraped rows may not publish a vacancy date
+const severity = d => d==null?"active":d>=365?"critical":d>=180?"warning":"active";
 
 function DaysBadge({days}){
+  if(days==null) return <span style={{display:"inline-flex",alignItems:"center",padding:"3px 10px",borderRadius:20,fontSize:12,fontWeight:500,background:"#F1F1EF",color:"#54544E",whiteSpace:"nowrap"}}>date not published</span>;
   const s={critical:{bg:"#FCEBEB",color:"#791F1F",border:"1px solid #F09595"},warning:{bg:"#FAEEDA",color:"#633806",border:"1px solid #FAC775"},active:{bg:"#E1F5EE",color:"#085041",border:"1px solid #9FE1CB"}}[severity(days)];
   return <span style={{display:"inline-flex",alignItems:"center",gap:4,padding:"3px 10px",borderRadius:20,fontSize:12,fontWeight:500,...s,whiteSpace:"nowrap"}}>{severity(days)==="critical"&&<span style={{fontSize:9}}>●</span>}{days.toLocaleString()} days{days>=365?` · ${(days/365).toFixed(1)}y`:""}</span>;
 }
@@ -142,16 +143,17 @@ export default function VacancyClock(){
   const filtered=useMemo(()=>{
     const data=domain==="all"?enriched:enriched.filter(b=>b.domain===domain);
     return [...data].sort((a,b)=>{
-      const av=sortBy==="name"?a.name:a[sortBy],bv=sortBy==="name"?b.name:b[sortBy];
+      const av=(sortBy==="name"?a.name:a[sortBy]) ?? -1,bv=(sortBy==="name"?b.name:b[sortBy]) ?? -1;
       return typeof av==="string"?(sortDir==="asc"?av.localeCompare(bv):bv.localeCompare(av)):(sortDir==="asc"?av-bv:bv-av);
     });
   },[enriched,domain,sortBy,sortDir]);
 
   const totalVacant=enriched.reduce((s,b)=>s+b.vacantSeats,0);
   const totalSeats=enriched.reduce((s,b)=>s+b.totalSeats,0);
-  const critical=enriched.filter(b=>b.days>=365).length;
-  const avgDays=enriched.length?Math.round(enriched.reduce((s,b)=>s+b.days,0)/enriched.length):0;
-  const maxDays=enriched.length?Math.max(...enriched.map(b=>b.days)):0;
+  const dated=enriched.filter(b=>b.days!=null);
+  const critical=dated.filter(b=>b.days>=365).length;
+  const avgDays=dated.length?Math.round(dated.reduce((s,b)=>s+b.days,0)/dated.length):0;
+  const maxDays=dated.length?Math.max(...dated.map(b=>b.days)):0;
 
   const toggleSort=col=>{if(sortBy===col)setSortDir(d=>d==="desc"?"asc":"desc");else{setSortBy(col);setSortDir("desc");}};
   const SortBtn=({col,label})=><button onClick={()=>toggleSort(col)} style={{background:"none",border:"none",cursor:"pointer",fontSize:11,fontWeight:600,color:sortBy===col?"#1D9E75":INK.body,padding:"0 2px",display:"flex",alignItems:"center",gap:3,whiteSpace:"nowrap"}}>{label}{sortBy===col?(sortDir==="desc"?" ↓":" ↑"):" ↕"}</button>;
@@ -372,7 +374,7 @@ export default function VacancyClock(){
                 </div>
                 <div style={{textAlign:"right",display:"flex",flexDirection:"column",alignItems:"flex-end",gap:6}}>
                   <DaysBadge days={b.days}/>
-                  <span style={{fontSize:10,fontWeight:500,color:INK.micro}}>since {new Date(b.vacantSince).toLocaleDateString("en-US",{month:"short",year:"numeric"})}</span>
+                  {b.vacantSince&&<span style={{fontSize:10,fontWeight:500,color:INK.micro}}>since {new Date(b.vacantSince).toLocaleDateString("en-US",{month:"short",year:"numeric"})}</span>}
                   {b.sourceUrl&&<a href={b.sourceUrl} target="_blank" rel="noreferrer" title={`Source: ${b.sourceUrl} · last verified ${b.lastVerified}`} style={{fontSize:10,color:INK.micro,textDecoration:"none"}}>Source ↗</a>}
                   <a href={b.applyUrl||cfg.applyUrl} target="_blank" rel="noreferrer" title={`Apply via ${cfg.applyAuthority}`} aria-label={`Apply to ${b.name} via ${cfg.applyAuthority}`} style={{fontSize:11,color:"#1D9E75",textDecoration:"none",fontWeight:500}}>Apply →</a>
                 </div>
@@ -386,7 +388,7 @@ export default function VacancyClock(){
       <div style={{marginTop:"1.5rem",paddingTop:"1rem",borderTop:"1px solid #f0f0f0",display:"flex",justifyContent:"space-between",alignItems:"center",flexWrap:"wrap",gap:8}}>
         <p style={{margin:0,fontSize:11,fontWeight:500,color:INK.micro}}>Data: <a href={`https://${cfg.dataSource}`} target="_blank" rel="noreferrer" style={{color:"#1D9E75",textDecoration:"none"}}>{cfg.dataSource}</a> · Apply via <a href={cfg.applyUrl} target="_blank" rel="noreferrer" style={{color:"#1D9E75",textDecoration:"none"}}>{cfg.applyAuthority}</a> · <a href="https://github.com/Pamela-Epperson" target="_blank" rel="noreferrer" style={{color:"#1D9E75",textDecoration:"none"}}>GitHub</a></p>
         <div style={{display:"flex",gap:6,alignItems:"center"}}>
-          <button onClick={()=>navigator.clipboard?.writeText(`${cfg.label} has ${totalVacant} unfilled state board seats — some vacant for over ${(maxDays/365).toFixed(1)} years. Track at openquorum.org`)} style={{padding:"6px 14px",borderRadius:8,border:"1px solid #1D9E75",background:"transparent",color:"#1D9E75",cursor:"pointer",fontSize:11,fontWeight:500,lineHeight:1.4}}>Share data</button>
+          <button onClick={()=>navigator.clipboard?.writeText(maxDays>0?`${cfg.label} has ${totalVacant} unfilled state board seats — some vacant for over ${(maxDays/365).toFixed(1)} years. Track at openquorum.org`:`${cfg.label} board appointment opportunities are tracked and verified at openquorum.org — find your seat.`)} style={{padding:"6px 14px",borderRadius:8,border:"1px solid #1D9E75",background:"transparent",color:"#1D9E75",cursor:"pointer",fontSize:11,fontWeight:500,lineHeight:1.4}}>Share data</button>
           <button onClick={()=>setShowEmbed(true)} style={{padding:"6px 14px",borderRadius:8,border:"1px solid #1D9E75",background:"transparent",color:"#1D9E75",cursor:"pointer",fontSize:11,fontWeight:500,lineHeight:1.4}}>Embed</button>
         </div>
       </div>
