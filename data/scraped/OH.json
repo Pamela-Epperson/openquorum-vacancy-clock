@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-07-15T18:00:27.505Z",
+  "scrapedAt": "2026-07-15T18:32:47.626Z",
   "registry": {
     "profile": "oh",
     "endpoint": "https://governor.ohio.gov/wps/portal/gov/governor/administration/boards-and-commissions/boards-and-commissions-term-expirations-term-expiration-for-2026",
@@ -7,16 +7,16 @@
     "applyAuthority": "Governor's Boards & Commissions Office",
     "dataSource": "governor.ohio.gov/administration/boards-and-commissions",
     "totalBoardsNote": "2026 term-expirations list, Governor's office",
-    "promote": false
+    "promote": true
   },
   "summary": {
     "state": "OH",
     "total": 102,
-    "full": 0,
-    "provisional": 102,
+    "full": 5,
+    "provisional": 97,
     "missingFields": {
-      "totalSeats": 102,
-      "constituent": 102
+      "totalSeats": 97,
+      "constituent": 97
     }
   },
   "rows": [
@@ -220,15 +220,17 @@
       "id": 15,
       "name": "State Medical Board",
       "domain": "health",
-      "totalSeats": null,
+      "totalSeats": 12,
       "vacantSeats": 1,
       "vacantSince": null,
       "authority": "Governor's Boards & Commissions Office",
-      "constituent": null,
+      "constituent": "Ohio patients & licensed physicians",
       "applyUrl": "https://governor.ohio.gov/wps/portal/gov/governor/administration/boards-and-commissions/boards-and-commissions-application2021",
       "sourceUrl": "https://governor.ohio.gov/wps/portal/gov/governor/administration/boards-and-commissions/boards-and-commissions-term-expirations-term-expiration-for-2026",
       "lastVerified": "2026-07-15",
-      "criticalNote": "Term expiring per Governor's 2026 expirations list"
+      "criticalNote": "Term expiring per Governor's 2026 expirations list",
+      "mandate": "Licenses and disciplines Ohio's physicians. Twelve members appointed by the Governor with Senate consent — eight licensed physicians and surgeons (ORC 4731.01).",
+      "seatSource": "https://codes.ohio.gov/ohio-revised-code/section-4731.01"
     },
     {
       "id": 16,
@@ -458,15 +460,17 @@
       "id": 32,
       "name": "Opportunities for Ohioans with Disabilities Council",
       "domain": "disability",
-      "totalSeats": null,
+      "totalSeats": 15,
       "vacantSeats": 1,
       "vacantSince": null,
       "authority": "Governor's Boards & Commissions Office",
-      "constituent": null,
+      "constituent": "Ohioans with disabilities seeking employment",
       "applyUrl": "https://governor.ohio.gov/wps/portal/gov/governor/administration/boards-and-commissions/boards-and-commissions-application2021",
       "sourceUrl": "https://governor.ohio.gov/wps/portal/gov/governor/administration/boards-and-commissions/boards-and-commissions-term-expirations-term-expiration-for-2026",
       "lastVerified": "2026-07-15",
-      "criticalNote": "Term expiring per Governor's 2026 expirations list"
+      "criticalNote": "Term expiring per Governor's 2026 expirations list",
+      "mandate": "State rehabilitation council advising OOD on vocational rehabilitation policy and services. Fifteen governor-appointed members, majority individuals with disabilities (ORC 3304.12).",
+      "seatSource": "https://codes.ohio.gov/orc/3304.12"
     },
     {
       "id": 33,
@@ -835,16 +839,18 @@
     {
       "id": 59,
       "name": "Commission on Minority Health",
-      "domain": "health",
-      "totalSeats": null,
+      "domain": "equity",
+      "totalSeats": 21,
       "vacantSeats": 1,
       "vacantSince": null,
       "authority": "Governor's Boards & Commissions Office",
-      "constituent": null,
+      "constituent": "Ohio's minority communities · health equity",
       "applyUrl": "https://governor.ohio.gov/wps/portal/gov/governor/administration/boards-and-commissions/boards-and-commissions-application2021",
       "sourceUrl": "https://governor.ohio.gov/wps/portal/gov/governor/administration/boards-and-commissions/boards-and-commissions-term-expirations-term-expiration-for-2026",
       "lastVerified": "2026-07-15",
-      "criticalNote": "Term expiring per Governor's 2026 expirations list"
+      "criticalNote": "9 of 21 seats are governor-appointed",
+      "mandate": "Addresses health disparities affecting minority Ohioans through grants, policy, and community programs. Twenty-one members; nine appointed by the Governor from health professions (ORC 3701.78).",
+      "seatSource": "https://codes.ohio.gov/orc/3701.78"
     },
     {
       "id": 60,
@@ -1340,29 +1346,33 @@
       "id": 95,
       "name": "Board of Nursing",
       "domain": "health",
-      "totalSeats": null,
+      "totalSeats": 13,
       "vacantSeats": 1,
       "vacantSince": null,
       "authority": "Governor's Boards & Commissions Office",
-      "constituent": null,
+      "constituent": "Ohio patients & licensed nurses",
       "applyUrl": "https://governor.ohio.gov/wps/portal/gov/governor/administration/boards-and-commissions/boards-and-commissions-application2021",
       "sourceUrl": "https://governor.ohio.gov/wps/portal/gov/governor/administration/boards-and-commissions/boards-and-commissions-term-expirations-term-expiration-for-2026",
       "lastVerified": "2026-07-15",
-      "criticalNote": "Term expiring per Governor's 2026 expirations list"
+      "criticalNote": "Term expiring per Governor's 2026 expirations list",
+      "mandate": "Regulates Ohio's nursing profession. Thirteen members — eight registered nurses, four licensed practical nurses, one consumer representative (ORC 4723.02).",
+      "seatSource": "https://codes.ohio.gov/ohio-revised-code/section-4723.02"
     },
     {
       "id": 96,
       "name": "State Board of Education",
       "domain": "education",
-      "totalSeats": null,
+      "totalSeats": 19,
       "vacantSeats": 1,
       "vacantSince": null,
       "authority": "Governor's Boards & Commissions Office",
-      "constituent": null,
+      "constituent": "Ohio K-12 students & families",
       "applyUrl": "https://governor.ohio.gov/wps/portal/gov/governor/administration/boards-and-commissions/boards-and-commissions-application2021",
       "sourceUrl": "https://governor.ohio.gov/wps/portal/gov/governor/administration/boards-and-commissions/boards-and-commissions-term-expirations-term-expiration-for-2026",
       "lastVerified": "2026-07-15",
-      "criticalNote": "Term expiring per Governor's 2026 expirations list"
+      "criticalNote": "Only 8 of 19 seats are governor-appointed",
+      "mandate": "Oversees educator licensure and school district territory; 19 members — 11 elected by district, 8 appointed by the Governor with Senate consent.",
+      "seatSource": "https://sboe.ohio.gov/about-the-state-board/board-members/02-board-members"
     },
     {
       "id": 97,
