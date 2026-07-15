@@ -43,12 +43,21 @@ export async function scrape({ endpoint, applyUrl, authority }) {
     const line = raw.replace(/\s+/g, " ").trim();
     if (!line || HEADER.test(line)) { pending = null; continue; }
 
-    if (/^Vacancy\(/i.test(line)) {          // an open-seat line
-      if (cur) cur.vacantSeats += 1;
+    // Open-seat line(s) — pdf-parse sometimes merges several "Vacancy(...)"
+    // entries onto one line on later pages, so count occurrences.
+    const vacancyHits = (line.match(/Vacancy\(/gi) || []).length;
+    if (vacancyHits > 0 && !/ Vacancies$/.test(line)) {
+      if (cur) cur.vacantSeats += vacancyHits;
       continue;
     }
-    if (line === "Vacancies") {               // marker: `pending` was a board name
+    // Marker line. Two shapes: isolated "Vacancies" (page 1 layout), or the
+    // merged "<Board name> Vacancies" single line pdf-parse produces on
+    // later pages — handle both.
+    const merged = line !== "Vacancies" && / Vacancies$/.test(line);
+    if (line === "Vacancies" || merged) {
+      if (merged) pending = line.replace(/\s*Vacancies$/, "").trim();
       if (!pending) continue;
+      if (/^\d+([\/\-.]\d+)*$/.test(pending) || /^Page \d+/i.test(pending)) { pending = null; continue; } // page numbers/dates
       if (byName.has(pending)) { cur = byName.get(pending); }
       else {
         cur = {

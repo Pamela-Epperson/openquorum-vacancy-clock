@@ -14,6 +14,7 @@ export async function scrape({ endpoint, applyUrl, authority }) {
   const $ = cheerio.load(await res.text());
   const today = new Date().toISOString().slice(0, 10);
   const rows = [];
+  const byName = new Map();   // boards can appear under multiple months + "Due to Resignation" — dedupe, summing openings
   let id = 1;
   $("h2").each((_, h) => {
     const heading = $(h).text().trim();
@@ -24,7 +25,13 @@ export async function scrape({ endpoint, applyUrl, authority }) {
     list.children("li").each((_, li) => {
       const name = $(li).clone().children("ul").remove().end().text().trim().replace(/\s+/g, " ");
       if (!name) return;
-      rows.push({
+      if (byName.has(name)) {
+        const r = byName.get(name);
+        r.vacantSeats += 1;
+        if (isResign) r.criticalNote = "Immediate opening — resignation";
+        return;
+      }
+      const row = {
         id: id++,
         name,
         domain: classifyDomain(name),
@@ -37,7 +44,9 @@ export async function scrape({ endpoint, applyUrl, authority }) {
         sourceUrl: endpoint,
         lastVerified: today,
         criticalNote: isResign ? "Immediate opening — resignation" : `Opening: ${heading}`,
-      });
+      };
+      byName.set(name, row);
+      rows.push(row);
     });
   });
   if (rows.length === 0) throw new Error("CO parser found no rows — page structure may have changed");

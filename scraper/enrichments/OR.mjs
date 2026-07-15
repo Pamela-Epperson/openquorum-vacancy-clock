@@ -55,4 +55,23 @@ export const ENRICHMENTS = {
     seatSource: "https://oregon.public.law/statutes/ors_410.320",
     criticalNote: "Statute sets a minimum of 21 members",
   },
+  "Alcohol and Drug Policy Commission": {
+    totalSeats: 17, domain: "health",
+    constituent: "Oregonians affected by substance use disorders",
+    mandate: "Advises on Oregon's substance use disorder policy and system strategy. Up to 17 voting members appointed by the Governor, Senate-confirmed (ORS 430.221).",
+    seatSource: "https://oregon.public.law/statutes/ors_430.221",
+    criticalNote: "Statute caps voting membership at 17",
+  },
+  "Board of Agriculture": {
+    totalSeats: 10, domain: "environment",
+    constituent: "Oregon agricultural producers & consumers",
+    mandate: "Advises the Oregon Department of Agriculture on policy; 10 members — seven active producers, two consumer representatives, plus the Soil and Water Conservation Commission chair (ORS 561.372).",
+    seatSource: "https://oregon.public.law/statutes/ors_561.372",
+  },
+  "Board of Medical Imaging": {
+    totalSeats: 12, domain: "health",
+    constituent: "Patients & licensed medical imaging professionals",
+    mandate: "Licenses and regulates Oregon's medical imaging professionals. Twelve members: four physicians, three public members, five modality licensees (ORS 688.545).",
+    seatSource: "https://oregon.public.law/statutes/ors_688.545",
+  },
 };

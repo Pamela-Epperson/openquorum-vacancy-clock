@@ -28,6 +28,12 @@ console.log(`${st}: promoting ${fullRows.length} verified boards; ${held} provis
 
 const CONFIG = "src/states.config.js";
 let cfg = readFileSync(CONFIG, "utf8");
+
+// ── Refresh path: state is ALREADY LIVE and scraper-managed ───────────────────
+// Matches only entries created by this writer (marker "status: live (scraper: X)").
+// Hand-curated pilot states carry "(researched seed data)" and are NEVER touched.
+const liveMarkerRe = new RegExp(`\n  // ─── .+ ─── status: live \\(scraper: [\\w-]+\\) ───[^\n]*\n  ${st}: \\{`);
+const isScraperLive = liveMarkerRe.test(cfg);
 const PALETTE = [["#0E6B5C","#E0F4F0"],["#7A3E8F","#F4EBF7"],["#8A5A0B","#FAF1DE"],["#2F6B9A","#E8F1F8"]];
 const [color, bg] = PALETTE[st.charCodeAt(0) % PALETTE.length];
 const label = { CO:"Colorado", WA:"Washington", OR:"Oregon", CA:"California", FL:"Florida", OH:"Ohio", TX:"Texas", CT:"Connecticut" }[st] || st;
@@ -76,11 +82,46 @@ ${rowsJs}
     ]
   },
 `;
-const anchor = "\n  // ─── Scaffolded states (awaiting scraper)";
-if (!cfg.includes(anchor)) { console.error("config anchor not found"); process.exit(1); }
-cfg = cfg.replace(anchor, entry + anchor);
-const listRe = new RegExp(`\\s*\\["${st}","[^"]+","[^"]+"\\],?`);
-if (!listRe.test(cfg)) { console.error(`${st} not found in SCAFFOLDED_LIST`); process.exit(1); }
-cfg = cfg.replace(listRe, "");
-writeFileSync(CONFIG, cfg);
-console.log(`${st}: promoted to live with ${staged.rows.length} rows (ids ${base + 1}+). Review the diff, then merge — the sync workflow updates the other repos automatically.`);
+if (isScraperLive) {
+  // ── REFRESH an existing scraper-managed live entry in place ──
+  const markerMatch = cfg.match(liveMarkerRe);
+  const blockStart = cfg.indexOf(markerMatch[0]);
+  const braceStart = cfg.indexOf(`${st}: {`, blockStart) + `${st}: `.length;
+  let depth = 0, i = braceStart;
+  while (true) {
+    const c = cfg[i];
+    if (c === "{") depth++;
+    else if (c === "}") { depth--; if (depth === 0) break; }
+    i++;
+  }
+  let blockEnd = i + 1;
+  if (cfg[blockEnd] === ",") blockEnd++;
+  const existing = cfg.slice(blockStart, blockEnd);
+  // preserve the entry's existing palette + id block for stable diffs
+  const keep = (re, fallback) => (existing.match(re) || [null, fallback])[1];
+  const exColor = keep(/color:"(#[0-9A-Fa-f]{6})"/, color);
+  const exBg    = keep(/bg:"(#[0-9A-Fa-f]{6})"/, bg);
+  const exBase  = (() => { const m = existing.match(/id:\s*(\d{3,5})/); return m ? Math.floor(+m[1] / 100) * 100 : base; })();
+  const rowsJs2 = staged.rows.map((r, i2) => "      " + JSON.stringify({
+    ...r, id: exBase + i2 + 1,
+    mandate: r.mandate || "",
+    requires: (r.requires && r.requires.length) ? r.requires : (DOMAIN_REQUIRES[r.domain] || []),
+    confirmation: r.confirmation ?? false,
+  })).join(",\n");
+  const refreshed = entry
+    .replace(/color:"#[0-9A-Fa-f]{6}", bg:"#[0-9A-Fa-f]{6}"/, `color:"${exColor}", bg:"${exBg}"`)
+    .replace(/boards:\[\n[\s\S]*\n    \]/, `boards:[\n${rowsJs2}\n    ]`);
+  cfg = cfg.slice(0, blockStart) + refreshed.replace(/^\n/, "\n") + cfg.slice(blockEnd);
+  writeFileSync(CONFIG, cfg);
+  console.log(`${st}: LIVE entry refreshed — ${staged.rows.length} verified boards (ids ${exBase + 1}+), scraper.lastPulled updated. Review diff, merge, sync handles the rest.`);
+} else {
+  // ── PROMOTE a scaffolded state to live (original path) ──
+  const anchor = "\n  // ─── Scaffolded states (awaiting scraper)";
+  if (!cfg.includes(anchor)) { console.error("config anchor not found"); process.exit(1); }
+  cfg = cfg.replace(anchor, entry + anchor);
+  const listRe = new RegExp(`\\s*\\["${st}","[^"]+","[^"]+"\\],?`);
+  if (!listRe.test(cfg)) { console.error(`${st} not found in SCAFFOLDED_LIST`); process.exit(1); }
+  cfg = cfg.replace(listRe, "");
+  writeFileSync(CONFIG, cfg);
+  console.log(`${st}: promoted to live with ${staged.rows.length} rows (ids ${base + 1}+). Review the diff, then merge — the sync workflow updates the other repos automatically.`);
+}
