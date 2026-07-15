@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-07-15T18:32:51.292Z",
+  "scrapedAt": "2026-07-15T20:52:37.599Z",
   "registry": {
     "profile": "az",
     "endpoint": "https://bc.azgovernor.gov/",
@@ -7,63 +7,21 @@
     "applyAuthority": "Governor's Office of Boards & Commissions",
     "dataSource": "bc.azgovernor.gov",
     "totalBoardsNote": "220 active boards · Governor's vacancy report",
-    "promote": false
+    "promote": true
   },
   "summary": {
     "state": "AZ",
-    "total": 102,
-    "full": 0,
-    "provisional": 102,
+    "total": 47,
+    "full": 2,
+    "provisional": 45,
     "missingFields": {
-      "totalSeats": 102,
-      "constituent": 102
+      "totalSeats": 45,
+      "constituent": 45
     }
   },
   "rows": [
     {
       "id": 1,
-      "name": "Attached is a report providing a summary of each board and commission with vacant",
-      "domain": "justice",
-      "totalSeats": null,
-      "vacantSeats": 1,
-      "vacantSince": null,
-      "authority": "Governor's Office of Boards & Commissions",
-      "constituent": null,
-      "applyUrl": "https://bc.azgovernor.gov/boards-and-commissions-application",
-      "sourceUrl": "https://bc.azgovernor.gov/sites/default/files/vacancy-report-7-6-2026.pdf",
-      "lastVerified": "2026-07-15",
-      "criticalNote": "Listed in Governor's vacancy report"
-    },
-    {
-      "id": 2,
-      "name": "BOARD/COMMISSION VACANCY LIST",
-      "domain": "justice",
-      "totalSeats": null,
-      "vacantSeats": 41,
-      "vacantSince": null,
-      "authority": "Governor's Office of Boards & Commissions",
-      "constituent": null,
-      "applyUrl": "https://bc.azgovernor.gov/boards-and-commissions-application",
-      "sourceUrl": "https://bc.azgovernor.gov/sites/default/files/vacancy-report-7-6-2026.pdf",
-      "lastVerified": "2026-07-15",
-      "criticalNote": "Listed in Governor's vacancy report"
-    },
-    {
-      "id": 3,
-      "name": "ABLE ACT OVERSIGHT COMMITTEE",
-      "domain": "justice",
-      "totalSeats": null,
-      "vacantSeats": 1,
-      "vacantSince": null,
-      "authority": "Governor's Office of Boards & Commissions",
-      "constituent": null,
-      "applyUrl": "https://bc.azgovernor.gov/boards-and-commissions-application",
-      "sourceUrl": "https://bc.azgovernor.gov/sites/default/files/vacancy-report-7-6-2026.pdf",
-      "lastVerified": "2026-07-15",
-      "criticalNote": "Listed in Governor's vacancy report"
-    },
-    {
-      "id": 4,
       "name": "AZSITE CONSORTIUM ADVISORY COMMITTEE",
       "domain": "justice",
       "totalSeats": null,
@@ -77,39 +35,27 @@
       "criticalNote": "Listed in Governor's vacancy report"
     },
     {
-      "id": 5,
+      "id": 2,
       "name": "ACUPUNCTURE BOARD OF EXAMINERS",
-      "domain": "justice",
-      "totalSeats": null,
-      "vacantSeats": 1,
-      "vacantSince": null,
-      "authority": "Governor's Office of Boards & Commissions",
-      "constituent": null,
-      "applyUrl": "https://bc.azgovernor.gov/boards-and-commissions-application",
-      "sourceUrl": "https://bc.azgovernor.gov/sites/default/files/vacancy-report-7-6-2026.pdf",
-      "lastVerified": "2026-07-15",
-      "criticalNote": "Listed in Governor's vacancy report"
-    },
-    {
-      "id": 6,
-      "name": "ADVISORY COUNCIL ON INDIAN HEALTH CARE",
       "domain": "health",
-      "totalSeats": null,
+      "totalSeats": 7,
       "vacantSeats": 1,
       "vacantSince": null,
       "authority": "Governor's Office of Boards & Commissions",
-      "constituent": null,
+      "constituent": "Arizona patients & licensed acupuncturists",
       "applyUrl": "https://bc.azgovernor.gov/boards-and-commissions-application",
       "sourceUrl": "https://bc.azgovernor.gov/sites/default/files/vacancy-report-7-6-2026.pdf",
       "lastVerified": "2026-07-15",
-      "criticalNote": "Listed in Governor's vacancy report"
+      "criticalNote": "Listed in Governor's vacancy report",
+      "mandate": "Licenses and regulates acupuncture practice. Seven governor-appointed members — four licensed practitioners, one physician, two public members (A.R.S. § 32-3902).",
+      "seatSource": "https://www.azleg.gov/ars/32/03902.htm"
     },
     {
-      "id": 7,
+      "id": 3,
       "name": "COMMITTEE",
       "domain": "justice",
       "totalSeats": null,
-      "vacantSeats": 2,
+      "vacantSeats": 1,
       "vacantSince": null,
       "authority": "Governor's Office of Boards & Commissions",
       "constituent": null,
@@ -119,7 +65,7 @@
       "criticalNote": "Listed in Governor's vacancy report"
     },
     {
-      "id": 8,
+      "id": 4,
       "name": "AGRICULTURAL EMPLOYMENT RELATIONS BOARD",
       "domain": "justice",
       "totalSeats": null,
@@ -133,9 +79,9 @@
       "criticalNote": "Listed in Governor's vacancy report"
     },
     {
-      "id": 9,
-      "name": "MANAGEMENT PRACTICES ADVISORY COMMITTEE",
-      "domain": "justice",
+      "id": 5,
+      "name": "AGRICULTURAL WATER CONSERVATION BEST MANAGEMENT PRACTICES ADVISORY COMMITTEE",
+      "domain": "environment",
       "totalSeats": null,
       "vacantSeats": 1,
       "vacantSince": null,
@@ -147,7 +93,7 @@
       "criticalNote": "Listed in Governor's vacancy report"
     },
     {
-      "id": 10,
+      "id": 6,
       "name": "ARIZONA AUTOMOBILE THEFT AUTHORITY",
       "domain": "justice",
       "totalSeats": null,
@@ -161,105 +107,7 @@
       "criticalNote": "Listed in Governor's vacancy report"
     },
     {
-      "id": 11,
-      "name": "ARIZONA COMMISSION FOR THE DEAF AND HARD OF",
-      "domain": "disability",
-      "totalSeats": null,
-      "vacantSeats": 1,
-      "vacantSince": null,
-      "authority": "Governor's Office of Boards & Commissions",
-      "constituent": null,
-      "applyUrl": "https://bc.azgovernor.gov/boards-and-commissions-application",
-      "sourceUrl": "https://bc.azgovernor.gov/sites/default/files/vacancy-report-7-6-2026.pdf",
-      "lastVerified": "2026-07-15",
-      "criticalNote": "Listed in Governor's vacancy report"
-    },
-    {
-      "id": 12,
-      "name": "ARIZONA CRIMINAL JUSTICE COMMISSION",
-      "domain": "justice",
-      "totalSeats": null,
-      "vacantSeats": 1,
-      "vacantSince": null,
-      "authority": "Governor's Office of Boards & Commissions",
-      "constituent": null,
-      "applyUrl": "https://bc.azgovernor.gov/boards-and-commissions-application",
-      "sourceUrl": "https://bc.azgovernor.gov/sites/default/files/vacancy-report-7-6-2026.pdf",
-      "lastVerified": "2026-07-15",
-      "criticalNote": "Listed in Governor's vacancy report"
-    },
-    {
-      "id": 13,
-      "name": "REGIONAL ADVISORY COUNCIL, CENTRAL",
-      "domain": "justice",
-      "totalSeats": null,
-      "vacantSeats": 1,
-      "vacantSince": null,
-      "authority": "Governor's Office of Boards & Commissions",
-      "constituent": null,
-      "applyUrl": "https://bc.azgovernor.gov/boards-and-commissions-application",
-      "sourceUrl": "https://bc.azgovernor.gov/sites/default/files/vacancy-report-7-6-2026.pdf",
-      "lastVerified": "2026-07-15",
-      "criticalNote": "Listed in Governor's vacancy report"
-    },
-    {
-      "id": 14,
-      "name": "REGIONAL ADVISORY COUNCIL, EAST",
-      "domain": "justice",
-      "totalSeats": null,
-      "vacantSeats": 1,
-      "vacantSince": null,
-      "authority": "Governor's Office of Boards & Commissions",
-      "constituent": null,
-      "applyUrl": "https://bc.azgovernor.gov/boards-and-commissions-application",
-      "sourceUrl": "https://bc.azgovernor.gov/sites/default/files/vacancy-report-7-6-2026.pdf",
-      "lastVerified": "2026-07-15",
-      "criticalNote": "Listed in Governor's vacancy report"
-    },
-    {
-      "id": 15,
-      "name": "REGIONAL ADVISORY COUNCIL, NORTH",
-      "domain": "justice",
-      "totalSeats": null,
-      "vacantSeats": 1,
-      "vacantSince": null,
-      "authority": "Governor's Office of Boards & Commissions",
-      "constituent": null,
-      "applyUrl": "https://bc.azgovernor.gov/boards-and-commissions-application",
-      "sourceUrl": "https://bc.azgovernor.gov/sites/default/files/vacancy-report-7-6-2026.pdf",
-      "lastVerified": "2026-07-15",
-      "criticalNote": "Listed in Governor's vacancy report"
-    },
-    {
-      "id": 16,
-      "name": "REGIONAL ADVISORY COUNCIL, SOUTH",
-      "domain": "justice",
-      "totalSeats": null,
-      "vacantSeats": 1,
-      "vacantSince": null,
-      "authority": "Governor's Office of Boards & Commissions",
-      "constituent": null,
-      "applyUrl": "https://bc.azgovernor.gov/boards-and-commissions-application",
-      "sourceUrl": "https://bc.azgovernor.gov/sites/default/files/vacancy-report-7-6-2026.pdf",
-      "lastVerified": "2026-07-15",
-      "criticalNote": "Listed in Governor's vacancy report"
-    },
-    {
-      "id": 17,
-      "name": "REGIONAL ADVISORY COUNCIL, WEST",
-      "domain": "justice",
-      "totalSeats": null,
-      "vacantSeats": 1,
-      "vacantSince": null,
-      "authority": "Governor's Office of Boards & Commissions",
-      "constituent": null,
-      "applyUrl": "https://bc.azgovernor.gov/boards-and-commissions-application",
-      "sourceUrl": "https://bc.azgovernor.gov/sites/default/files/vacancy-report-7-6-2026.pdf",
-      "lastVerified": "2026-07-15",
-      "criticalNote": "Listed in Governor's vacancy report"
-    },
-    {
-      "id": 18,
+      "id": 7,
       "name": "HEALTH BOARD",
       "domain": "health",
       "totalSeats": null,
@@ -273,21 +121,7 @@
       "criticalNote": "Listed in Governor's vacancy report"
     },
     {
-      "id": 19,
-      "name": "Appointment to Board requires confirmation by the Arizona State Senate.",
-      "domain": "justice",
-      "totalSeats": null,
-      "vacantSeats": 12,
-      "vacantSince": null,
-      "authority": "Governor's Office of Boards & Commissions",
-      "constituent": null,
-      "applyUrl": "https://bc.azgovernor.gov/boards-and-commissions-application",
-      "sourceUrl": "https://bc.azgovernor.gov/sites/default/files/vacancy-report-7-6-2026.pdf",
-      "lastVerified": "2026-07-15",
-      "criticalNote": "Listed in Governor's vacancy report"
-    },
-    {
-      "id": 20,
+      "id": 8,
       "name": "ARIZONA FALLEN FIREFIGHTER MEMORIAL COMMITTEE",
       "domain": "justice",
       "totalSeats": null,
@@ -301,8 +135,8 @@
       "criticalNote": "Listed in Governor's vacancy report"
     },
     {
-      "id": 21,
-      "name": "ARIZONA GAME AND FISH COMMISSION APPOINTMENT",
+      "id": 9,
+      "name": "ARIZONA GAME AND FISH COMMISSION APPOINTMENT RECOMMENDATION BOARD",
       "domain": "justice",
       "totalSeats": null,
       "vacantSeats": 1,
@@ -315,49 +149,7 @@
       "criticalNote": "Listed in Governor's vacancy report"
     },
     {
-      "id": 22,
-      "name": "RECOMMENDATION BOARD",
-      "domain": "justice",
-      "totalSeats": null,
-      "vacantSeats": 1,
-      "vacantSince": null,
-      "authority": "Governor's Office of Boards & Commissions",
-      "constituent": null,
-      "applyUrl": "https://bc.azgovernor.gov/boards-and-commissions-application",
-      "sourceUrl": "https://bc.azgovernor.gov/sites/default/files/vacancy-report-7-6-2026.pdf",
-      "lastVerified": "2026-07-15",
-      "criticalNote": "Listed in Governor's vacancy report"
-    },
-    {
-      "id": 23,
-      "name": "ARIZONA GEOGRAPHIC INFORMATION COUNCIL",
-      "domain": "justice",
-      "totalSeats": null,
-      "vacantSeats": 1,
-      "vacantSince": null,
-      "authority": "Governor's Office of Boards & Commissions",
-      "constituent": null,
-      "applyUrl": "https://bc.azgovernor.gov/boards-and-commissions-application",
-      "sourceUrl": "https://bc.azgovernor.gov/sites/default/files/vacancy-report-7-6-2026.pdf",
-      "lastVerified": "2026-07-15",
-      "criticalNote": "Listed in Governor's vacancy report"
-    },
-    {
-      "id": 24,
-      "name": "ARIZONA GOVERNOR’S COUNCIL ON BLINDNESS AND",
-      "domain": "disability",
-      "totalSeats": null,
-      "vacantSeats": 1,
-      "vacantSince": null,
-      "authority": "Governor's Office of Boards & Commissions",
-      "constituent": null,
-      "applyUrl": "https://bc.azgovernor.gov/boards-and-commissions-application",
-      "sourceUrl": "https://bc.azgovernor.gov/sites/default/files/vacancy-report-7-6-2026.pdf",
-      "lastVerified": "2026-07-15",
-      "criticalNote": "Listed in Governor's vacancy report"
-    },
-    {
-      "id": 25,
+      "id": 10,
       "name": "ARIZONA GRAIN RESEARCH AND PROMOTION COUNCIL",
       "domain": "justice",
       "totalSeats": null,
@@ -371,7 +163,7 @@
       "criticalNote": "Listed in Governor's vacancy report"
     },
     {
-      "id": 26,
+      "id": 11,
       "name": "ARIZONA HISTORICAL SOCIETY BOARD OF DIRECTORS",
       "domain": "justice",
       "totalSeats": null,
@@ -385,7 +177,7 @@
       "criticalNote": "Listed in Governor's vacancy report"
     },
     {
-      "id": 27,
+      "id": 12,
       "name": "ARIZONA HUMANITIES COUNCIL",
       "domain": "justice",
       "totalSeats": null,
@@ -399,50 +191,24 @@
       "criticalNote": "Listed in Governor's vacancy report"
     },
     {
-      "id": 28,
-      "name": "ARIZONA JUVENILE JUSTICE COMMISSION",
-      "domain": "justice",
-      "totalSeats": null,
-      "vacantSeats": 1,
-      "vacantSince": null,
-      "authority": "Governor's Office of Boards & Commissions",
-      "constituent": null,
-      "applyUrl": "https://bc.azgovernor.gov/boards-and-commissions-application",
-      "sourceUrl": "https://bc.azgovernor.gov/sites/default/files/vacancy-report-7-6-2026.pdf",
-      "lastVerified": "2026-07-15",
-      "criticalNote": "Listed in Governor's vacancy report"
-    },
-    {
-      "id": 29,
-      "name": "ARIZONA MEDAL OF VALOR REVIEW BOARD",
-      "domain": "justice",
-      "totalSeats": null,
-      "vacantSeats": 1,
-      "vacantSince": null,
-      "authority": "Governor's Office of Boards & Commissions",
-      "constituent": null,
-      "applyUrl": "https://bc.azgovernor.gov/boards-and-commissions-application",
-      "sourceUrl": "https://bc.azgovernor.gov/sites/default/files/vacancy-report-7-6-2026.pdf",
-      "lastVerified": "2026-07-15",
-      "criticalNote": "Listed in Governor's vacancy report"
-    },
-    {
-      "id": 30,
+      "id": 13,
       "name": "ARIZONA MEDICAL BOARD",
       "domain": "health",
-      "totalSeats": null,
+      "totalSeats": 12,
       "vacantSeats": 1,
       "vacantSince": null,
       "authority": "Governor's Office of Boards & Commissions",
-      "constituent": null,
+      "constituent": "Arizona patients & licensed physicians",
       "applyUrl": "https://bc.azgovernor.gov/boards-and-commissions-application",
       "sourceUrl": "https://bc.azgovernor.gov/sites/default/files/vacancy-report-7-6-2026.pdf",
       "lastVerified": "2026-07-15",
-      "criticalNote": "Listed in Governor's vacancy report"
+      "criticalNote": "Listed in Governor's vacancy report",
+      "mandate": "Licenses and disciplines Arizona's allopathic physicians. Twelve governor-appointed members — eight practicing physicians and four public members (A.R.S. § 32-1402).",
+      "seatSource": "https://www.azleg.gov/ars/32/01402.htm"
     },
     {
-      "id": 31,
-      "name": "COMMISSION",
+      "id": 14,
+      "name": "ARIZONA NAVIGABLE STREAMS ADJUDICATION COMMISSION",
       "domain": "justice",
       "totalSeats": null,
       "vacantSeats": 1,
@@ -455,35 +221,7 @@
       "criticalNote": "Listed in Governor's vacancy report"
     },
     {
-      "id": 32,
-      "name": "Appointment to Commission requires confirmation by the Arizona State Senate.",
-      "domain": "justice",
-      "totalSeats": null,
-      "vacantSeats": 7,
-      "vacantSince": null,
-      "authority": "Governor's Office of Boards & Commissions",
-      "constituent": null,
-      "applyUrl": "https://bc.azgovernor.gov/boards-and-commissions-application",
-      "sourceUrl": "https://bc.azgovernor.gov/sites/default/files/vacancy-report-7-6-2026.pdf",
-      "lastVerified": "2026-07-15",
-      "criticalNote": "Listed in Governor's vacancy report"
-    },
-    {
-      "id": 33,
-      "name": "ARIZONA PARENTS COMMISSION ON DRUG EDUCATION",
-      "domain": "health",
-      "totalSeats": null,
-      "vacantSeats": 1,
-      "vacantSince": null,
-      "authority": "Governor's Office of Boards & Commissions",
-      "constituent": null,
-      "applyUrl": "https://bc.azgovernor.gov/boards-and-commissions-application",
-      "sourceUrl": "https://bc.azgovernor.gov/sites/default/files/vacancy-report-7-6-2026.pdf",
-      "lastVerified": "2026-07-15",
-      "criticalNote": "Listed in Governor's vacancy report"
-    },
-    {
-      "id": 34,
+      "id": 15,
       "name": "ARIZONA RACING COMMISSION",
       "domain": "justice",
       "totalSeats": null,
@@ -497,35 +235,7 @@
       "criticalNote": "Listed in Governor's vacancy report"
     },
     {
-      "id": 35,
-      "name": "ARIZONA REGULATORY BOARD OF PHYSICIAN",
-      "domain": "justice",
-      "totalSeats": null,
-      "vacantSeats": 1,
-      "vacantSince": null,
-      "authority": "Governor's Office of Boards & Commissions",
-      "constituent": null,
-      "applyUrl": "https://bc.azgovernor.gov/boards-and-commissions-application",
-      "sourceUrl": "https://bc.azgovernor.gov/sites/default/files/vacancy-report-7-6-2026.pdf",
-      "lastVerified": "2026-07-15",
-      "criticalNote": "Listed in Governor's vacancy report"
-    },
-    {
-      "id": 36,
-      "name": "ARIZONA STATE CITIZEN CORPS COUNCIL",
-      "domain": "justice",
-      "totalSeats": null,
-      "vacantSeats": 1,
-      "vacantSince": null,
-      "authority": "Governor's Office of Boards & Commissions",
-      "constituent": null,
-      "applyUrl": "https://bc.azgovernor.gov/boards-and-commissions-application",
-      "sourceUrl": "https://bc.azgovernor.gov/sites/default/files/vacancy-report-7-6-2026.pdf",
-      "lastVerified": "2026-07-15",
-      "criticalNote": "Listed in Governor's vacancy report"
-    },
-    {
-      "id": 37,
+      "id": 16,
       "name": "ARIZONA STATE PARKS BOARD",
       "domain": "environment",
       "totalSeats": null,
@@ -539,35 +249,7 @@
       "criticalNote": "Listed in Governor's vacancy report"
     },
     {
-      "id": 38,
-      "name": "ARIZONA STATE REHABILITATION ADVISORY COUNCIL",
-      "domain": "justice",
-      "totalSeats": null,
-      "vacantSeats": 1,
-      "vacantSince": null,
-      "authority": "Governor's Office of Boards & Commissions",
-      "constituent": null,
-      "applyUrl": "https://bc.azgovernor.gov/boards-and-commissions-application",
-      "sourceUrl": "https://bc.azgovernor.gov/sites/default/files/vacancy-report-7-6-2026.pdf",
-      "lastVerified": "2026-07-15",
-      "criticalNote": "Listed in Governor's vacancy report"
-    },
-    {
-      "id": 39,
-      "name": "State Rehabilitation Advisory Council",
-      "domain": "justice",
-      "totalSeats": null,
-      "vacantSeats": 1,
-      "vacantSince": null,
-      "authority": "Governor's Office of Boards & Commissions",
-      "constituent": null,
-      "applyUrl": "https://bc.azgovernor.gov/boards-and-commissions-application",
-      "sourceUrl": "https://bc.azgovernor.gov/sites/default/files/vacancy-report-7-6-2026.pdf",
-      "lastVerified": "2026-07-15",
-      "criticalNote": "Listed in Governor's vacancy report"
-    },
-    {
-      "id": 40,
+      "id": 17,
       "name": "ARIZONA STATE RETIREMENT SYSTEM BOARD",
       "domain": "justice",
       "totalSeats": null,
@@ -581,35 +263,7 @@
       "criticalNote": "Listed in Governor's vacancy report"
     },
     {
-      "id": 41,
-      "name": "ARIZONA SCHOOL FOR THE DEAF AND BLIND BOARD OF",
-      "domain": "education",
-      "totalSeats": null,
-      "vacantSeats": 1,
-      "vacantSince": null,
-      "authority": "Governor's Office of Boards & Commissions",
-      "constituent": null,
-      "applyUrl": "https://bc.azgovernor.gov/boards-and-commissions-application",
-      "sourceUrl": "https://bc.azgovernor.gov/sites/default/files/vacancy-report-7-6-2026.pdf",
-      "lastVerified": "2026-07-15",
-      "criticalNote": "Listed in Governor's vacancy report"
-    },
-    {
-      "id": 42,
-      "name": "Deaf/Hard of Hearing Commission",
-      "domain": "disability",
-      "totalSeats": null,
-      "vacantSeats": 1,
-      "vacantSince": null,
-      "authority": "Governor's Office of Boards & Commissions",
-      "constituent": null,
-      "applyUrl": "https://bc.azgovernor.gov/boards-and-commissions-application",
-      "sourceUrl": "https://bc.azgovernor.gov/sites/default/files/vacancy-report-7-6-2026.pdf",
-      "lastVerified": "2026-07-15",
-      "criticalNote": "Listed in Governor's vacancy report"
-    },
-    {
-      "id": 43,
+      "id": 18,
       "name": "ARIZONA STATE VETERINARY EXAMINING BOARD",
       "domain": "justice",
       "totalSeats": null,
@@ -623,21 +277,7 @@
       "criticalNote": "Listed in Governor's vacancy report"
     },
     {
-      "id": 44,
-      "name": "Arizona. The Board receives and investigates consumer complaints.",
-      "domain": "justice",
-      "totalSeats": null,
-      "vacantSeats": 1,
-      "vacantSince": null,
-      "authority": "Governor's Office of Boards & Commissions",
-      "constituent": null,
-      "applyUrl": "https://bc.azgovernor.gov/boards-and-commissions-application",
-      "sourceUrl": "https://bc.azgovernor.gov/sites/default/files/vacancy-report-7-6-2026.pdf",
-      "lastVerified": "2026-07-15",
-      "criticalNote": "Listed in Governor's vacancy report"
-    },
-    {
-      "id": 45,
+      "id": 19,
       "name": "ARIZONA UNIFORM STATE LAW COMMISSION",
       "domain": "justice",
       "totalSeats": null,
@@ -651,7 +291,7 @@
       "criticalNote": "Listed in Governor's vacancy report"
     },
     {
-      "id": 46,
+      "id": 20,
       "name": "BARBERING AND COSMETOLOGY BOARD",
       "domain": "justice",
       "totalSeats": null,
@@ -665,7 +305,7 @@
       "criticalNote": "Listed in Governor's vacancy report"
     },
     {
-      "id": 47,
+      "id": 21,
       "name": "BOARD OF BEHAVIORAL HEALTH EXAMINERS",
       "domain": "health",
       "totalSeats": null,
@@ -679,7 +319,7 @@
       "criticalNote": "Listed in Governor's vacancy report"
     },
     {
-      "id": 48,
+      "id": 22,
       "name": "COUNSELING ACADEMIC REVIEW COMMITTEE",
       "domain": "justice",
       "totalSeats": null,
@@ -693,21 +333,7 @@
       "criticalNote": "Listed in Governor's vacancy report"
     },
     {
-      "id": 49,
-      "name": "BOARD OF BEHAVIORAL HEALTH EXAMINERS MARRIAGE",
-      "domain": "health",
-      "totalSeats": null,
-      "vacantSeats": 1,
-      "vacantSince": null,
-      "authority": "Governor's Office of Boards & Commissions",
-      "constituent": null,
-      "applyUrl": "https://bc.azgovernor.gov/boards-and-commissions-application",
-      "sourceUrl": "https://bc.azgovernor.gov/sites/default/files/vacancy-report-7-6-2026.pdf",
-      "lastVerified": "2026-07-15",
-      "criticalNote": "Listed in Governor's vacancy report"
-    },
-    {
-      "id": 50,
+      "id": 23,
       "name": "AND FAMILY ACADEMIC REVIEW COMMITTEE",
       "domain": "justice",
       "totalSeats": null,
@@ -721,8 +347,8 @@
       "criticalNote": "Listed in Governor's vacancy report"
     },
     {
-      "id": 51,
-      "name": "BOARD OF BEHAVIORAL HEALTH EXAMINERS SOCIAL",
+      "id": 24,
+      "name": "BOARD OF BEHAVIORAL HEALTH EXAMINERS SOCIAL WORK ACADEMIC REVIEW COMMITTEE",
       "domain": "health",
       "totalSeats": null,
       "vacantSeats": 1,
@@ -735,35 +361,7 @@
       "criticalNote": "Listed in Governor's vacancy report"
     },
     {
-      "id": 52,
-      "name": "WORK ACADEMIC REVIEW COMMITTEE",
-      "domain": "justice",
-      "totalSeats": null,
-      "vacantSeats": 1,
-      "vacantSince": null,
-      "authority": "Governor's Office of Boards & Commissions",
-      "constituent": null,
-      "applyUrl": "https://bc.azgovernor.gov/boards-and-commissions-application",
-      "sourceUrl": "https://bc.azgovernor.gov/sites/default/files/vacancy-report-7-6-2026.pdf",
-      "lastVerified": "2026-07-15",
-      "criticalNote": "Listed in Governor's vacancy report"
-    },
-    {
-      "id": 53,
-      "name": "Board of Behavioral Health Examiners to ensure educational requirements are met.",
-      "domain": "health",
-      "totalSeats": null,
-      "vacantSeats": 1,
-      "vacantSince": null,
-      "authority": "Governor's Office of Boards & Commissions",
-      "constituent": null,
-      "applyUrl": "https://bc.azgovernor.gov/boards-and-commissions-application",
-      "sourceUrl": "https://bc.azgovernor.gov/sites/default/files/vacancy-report-7-6-2026.pdf",
-      "lastVerified": "2026-07-15",
-      "criticalNote": "Listed in Governor's vacancy report"
-    },
-    {
-      "id": 54,
+      "id": 25,
       "name": "BOARD OF CHIROPRACTIC EXAMINERS",
       "domain": "justice",
       "totalSeats": null,
@@ -777,22 +375,8 @@
       "criticalNote": "Listed in Governor's vacancy report"
     },
     {
-      "id": 55,
-      "name": "BOARD OF EXAMINERS OF NURSING CARE INSTITUTION",
-      "domain": "health",
-      "totalSeats": null,
-      "vacantSeats": 1,
-      "vacantSince": null,
-      "authority": "Governor's Office of Boards & Commissions",
-      "constituent": null,
-      "applyUrl": "https://bc.azgovernor.gov/boards-and-commissions-application",
-      "sourceUrl": "https://bc.azgovernor.gov/sites/default/files/vacancy-report-7-6-2026.pdf",
-      "lastVerified": "2026-07-15",
-      "criticalNote": "Listed in Governor's vacancy report"
-    },
-    {
-      "id": 56,
-      "name": "BOARD OF HOMEOPATHIC AND INTEGRATED MEDICINE",
+      "id": 26,
+      "name": "BOARD OF HOMEOPATHIC AND INTEGRATED MEDICINE EXAMINERS",
       "domain": "justice",
       "totalSeats": null,
       "vacantSeats": 1,
@@ -805,21 +389,7 @@
       "criticalNote": "Listed in Governor's vacancy report"
     },
     {
-      "id": 57,
-      "name": "BOARD OF MANUFACTURED HOUSING",
-      "domain": "housing",
-      "totalSeats": null,
-      "vacantSeats": 1,
-      "vacantSince": null,
-      "authority": "Governor's Office of Boards & Commissions",
-      "constituent": null,
-      "applyUrl": "https://bc.azgovernor.gov/boards-and-commissions-application",
-      "sourceUrl": "https://bc.azgovernor.gov/sites/default/files/vacancy-report-7-6-2026.pdf",
-      "lastVerified": "2026-07-15",
-      "criticalNote": "Listed in Governor's vacancy report"
-    },
-    {
-      "id": 58,
+      "id": 27,
       "name": "BOARD OF OCCUPATIONAL THERAPY EXAMINERS",
       "domain": "justice",
       "totalSeats": null,
@@ -833,35 +403,7 @@
       "criticalNote": "Listed in Governor's vacancy report"
     },
     {
-      "id": 59,
-      "name": "BOARD OF PHYSICAL THERAPY",
-      "domain": "justice",
-      "totalSeats": null,
-      "vacantSeats": 1,
-      "vacantSince": null,
-      "authority": "Governor's Office of Boards & Commissions",
-      "constituent": null,
-      "applyUrl": "https://bc.azgovernor.gov/boards-and-commissions-application",
-      "sourceUrl": "https://bc.azgovernor.gov/sites/default/files/vacancy-report-7-6-2026.pdf",
-      "lastVerified": "2026-07-15",
-      "criticalNote": "Listed in Governor's vacancy report"
-    },
-    {
-      "id": 60,
-      "name": "BOARD OF PODIATRY EXAMINERS",
-      "domain": "justice",
-      "totalSeats": null,
-      "vacantSeats": 1,
-      "vacantSince": null,
-      "authority": "Governor's Office of Boards & Commissions",
-      "constituent": null,
-      "applyUrl": "https://bc.azgovernor.gov/boards-and-commissions-application",
-      "sourceUrl": "https://bc.azgovernor.gov/sites/default/files/vacancy-report-7-6-2026.pdf",
-      "lastVerified": "2026-07-15",
-      "criticalNote": "Listed in Governor's vacancy report"
-    },
-    {
-      "id": 61,
+      "id": 28,
       "name": "CITRUS, FRUIT, AND VEGETABLE ADVISORY COUNCIL",
       "domain": "justice",
       "totalSeats": null,
@@ -875,119 +417,7 @@
       "criticalNote": "Listed in Governor's vacancy report"
     },
     {
-      "id": 62,
-      "name": "COMMISSION ON APPELLATE COURT APPOINTMENTS",
-      "domain": "justice",
-      "totalSeats": null,
-      "vacantSeats": 1,
-      "vacantSince": null,
-      "authority": "Governor's Office of Boards & Commissions",
-      "constituent": null,
-      "applyUrl": "https://bc.azgovernor.gov/boards-and-commissions-application",
-      "sourceUrl": "https://bc.azgovernor.gov/sites/default/files/vacancy-report-7-6-2026.pdf",
-      "lastVerified": "2026-07-15",
-      "criticalNote": "Listed in Governor's vacancy report"
-    },
-    {
-      "id": 63,
-      "name": "Appointment to the Commission requires confirmation by the Arizona State Senate.",
-      "domain": "justice",
-      "totalSeats": null,
-      "vacantSeats": 2,
-      "vacantSince": null,
-      "authority": "Governor's Office of Boards & Commissions",
-      "constituent": null,
-      "applyUrl": "https://bc.azgovernor.gov/boards-and-commissions-application",
-      "sourceUrl": "https://bc.azgovernor.gov/sites/default/files/vacancy-report-7-6-2026.pdf",
-      "lastVerified": "2026-07-15",
-      "criticalNote": "Listed in Governor's vacancy report"
-    },
-    {
-      "id": 64,
-      "name": "COMMISSION ON JUDICIAL CONDUCT",
-      "domain": "justice",
-      "totalSeats": null,
-      "vacantSeats": 1,
-      "vacantSince": null,
-      "authority": "Governor's Office of Boards & Commissions",
-      "constituent": null,
-      "applyUrl": "https://bc.azgovernor.gov/boards-and-commissions-application",
-      "sourceUrl": "https://bc.azgovernor.gov/sites/default/files/vacancy-report-7-6-2026.pdf",
-      "lastVerified": "2026-07-15",
-      "criticalNote": "Listed in Governor's vacancy report"
-    },
-    {
-      "id": 65,
-      "name": "COMMISSION ON TRIAL COURT APPOINTMENTS,",
-      "domain": "justice",
-      "totalSeats": null,
-      "vacantSeats": 2,
-      "vacantSince": null,
-      "authority": "Governor's Office of Boards & Commissions",
-      "constituent": null,
-      "applyUrl": "https://bc.azgovernor.gov/boards-and-commissions-application",
-      "sourceUrl": "https://bc.azgovernor.gov/sites/default/files/vacancy-report-7-6-2026.pdf",
-      "lastVerified": "2026-07-15",
-      "criticalNote": "Listed in Governor's vacancy report"
-    },
-    {
-      "id": 66,
-      "name": "COMMISSION ON TRIAL COURT APPOINTMENTS, PIMA",
-      "domain": "justice",
-      "totalSeats": null,
-      "vacantSeats": 1,
-      "vacantSince": null,
-      "authority": "Governor's Office of Boards & Commissions",
-      "constituent": null,
-      "applyUrl": "https://bc.azgovernor.gov/boards-and-commissions-application",
-      "sourceUrl": "https://bc.azgovernor.gov/sites/default/files/vacancy-report-7-6-2026.pdf",
-      "lastVerified": "2026-07-15",
-      "criticalNote": "Listed in Governor's vacancy report"
-    },
-    {
-      "id": 67,
-      "name": "COMMISSION ON TRIAL COURT APPOINTMENTS, PINAL",
-      "domain": "justice",
-      "totalSeats": null,
-      "vacantSeats": 1,
-      "vacantSince": null,
-      "authority": "Governor's Office of Boards & Commissions",
-      "constituent": null,
-      "applyUrl": "https://bc.azgovernor.gov/boards-and-commissions-application",
-      "sourceUrl": "https://bc.azgovernor.gov/sites/default/files/vacancy-report-7-6-2026.pdf",
-      "lastVerified": "2026-07-15",
-      "criticalNote": "Listed in Governor's vacancy report"
-    },
-    {
-      "id": 68,
-      "name": "CONSTABLE ETHICS STANDARDS AND TRAINING BOARD",
-      "domain": "justice",
-      "totalSeats": null,
-      "vacantSeats": 1,
-      "vacantSince": null,
-      "authority": "Governor's Office of Boards & Commissions",
-      "constituent": null,
-      "applyUrl": "https://bc.azgovernor.gov/boards-and-commissions-application",
-      "sourceUrl": "https://bc.azgovernor.gov/sites/default/files/vacancy-report-7-6-2026.pdf",
-      "lastVerified": "2026-07-15",
-      "criticalNote": "Listed in Governor's vacancy report"
-    },
-    {
-      "id": 69,
-      "name": "AZ Multihousing Association Board",
-      "domain": "housing",
-      "totalSeats": null,
-      "vacantSeats": 1,
-      "vacantSince": null,
-      "authority": "Governor's Office of Boards & Commissions",
-      "constituent": null,
-      "applyUrl": "https://bc.azgovernor.gov/boards-and-commissions-application",
-      "sourceUrl": "https://bc.azgovernor.gov/sites/default/files/vacancy-report-7-6-2026.pdf",
-      "lastVerified": "2026-07-15",
-      "criticalNote": "Listed in Governor's vacancy report"
-    },
-    {
-      "id": 70,
+      "id": 29,
       "name": "COTTON RESEARCH AND PROTECTION COUNCIL",
       "domain": "justice",
       "totalSeats": null,
@@ -1001,21 +431,7 @@
       "criticalNote": "Listed in Governor's vacancy report"
     },
     {
-      "id": 71,
-      "name": "COUNCIL ON CHILD SAFETY AND FAMILY EMPOWERMENT",
-      "domain": "justice",
-      "totalSeats": null,
-      "vacantSeats": 1,
-      "vacantSince": null,
-      "authority": "Governor's Office of Boards & Commissions",
-      "constituent": null,
-      "applyUrl": "https://bc.azgovernor.gov/boards-and-commissions-application",
-      "sourceUrl": "https://bc.azgovernor.gov/sites/default/files/vacancy-report-7-6-2026.pdf",
-      "lastVerified": "2026-07-15",
-      "criticalNote": "Listed in Governor's vacancy report"
-    },
-    {
-      "id": 72,
+      "id": 30,
       "name": "DEVELOPMENTAL DISABILITIES ADVISORY COUNCIL",
       "domain": "disability",
       "totalSeats": null,
@@ -1029,7 +445,7 @@
       "criticalNote": "Listed in Governor's vacancy report"
     },
     {
-      "id": 73,
+      "id": 31,
       "name": "DEVELOPMENTAL DISABILITIES PLANNING COUNCIL",
       "domain": "disability",
       "totalSeats": null,
@@ -1043,21 +459,7 @@
       "criticalNote": "Listed in Governor's vacancy report"
     },
     {
-      "id": 74,
-      "name": "EMERGENCY MEDICAL SERVICES COUNCIL",
-      "domain": "health",
-      "totalSeats": null,
-      "vacantSeats": 1,
-      "vacantSince": null,
-      "authority": "Governor's Office of Boards & Commissions",
-      "constituent": null,
-      "applyUrl": "https://bc.azgovernor.gov/boards-and-commissions-application",
-      "sourceUrl": "https://bc.azgovernor.gov/sites/default/files/vacancy-report-7-6-2026.pdf",
-      "lastVerified": "2026-07-15",
-      "criticalNote": "Listed in Governor's vacancy report"
-    },
-    {
-      "id": 75,
+      "id": 32,
       "name": "GAME AND FISH COMMISSION",
       "domain": "justice",
       "totalSeats": null,
@@ -1071,21 +473,7 @@
       "criticalNote": "Listed in Governor's vacancy report"
     },
     {
-      "id": 76,
-      "name": "INTERAGENCY COORDINATING COUNCIL FOR INFANTS",
-      "domain": "justice",
-      "totalSeats": null,
-      "vacantSeats": 1,
-      "vacantSince": null,
-      "authority": "Governor's Office of Boards & Commissions",
-      "constituent": null,
-      "applyUrl": "https://bc.azgovernor.gov/boards-and-commissions-application",
-      "sourceUrl": "https://bc.azgovernor.gov/sites/default/files/vacancy-report-7-6-2026.pdf",
-      "lastVerified": "2026-07-15",
-      "criticalNote": "Listed in Governor's vacancy report"
-    },
-    {
-      "id": 77,
+      "id": 33,
       "name": "LIVESTOCK AND AGRICULTURE COMMITTEE",
       "domain": "justice",
       "totalSeats": null,
@@ -1099,7 +487,7 @@
       "criticalNote": "Listed in Governor's vacancy report"
     },
     {
-      "id": 78,
+      "id": 34,
       "name": "MEDICAL DIRECTION COMMISSION",
       "domain": "health",
       "totalSeats": null,
@@ -1113,7 +501,7 @@
       "criticalNote": "Listed in Governor's vacancy report"
     },
     {
-      "id": 79,
+      "id": 35,
       "name": "EDUCATIONAL MUSEUM ADVISORY COUNCIL",
       "domain": "education",
       "totalSeats": null,
@@ -1127,35 +515,7 @@
       "criticalNote": "Listed in Governor's vacancy report"
     },
     {
-      "id": 80,
-      "name": "NOMINATING COMMITTEE FOR THE COMMISSION ON",
-      "domain": "justice",
-      "totalSeats": null,
-      "vacantSeats": 1,
-      "vacantSince": null,
-      "authority": "Governor's Office of Boards & Commissions",
-      "constituent": null,
-      "applyUrl": "https://bc.azgovernor.gov/boards-and-commissions-application",
-      "sourceUrl": "https://bc.azgovernor.gov/sites/default/files/vacancy-report-7-6-2026.pdf",
-      "lastVerified": "2026-07-15",
-      "criticalNote": "Listed in Governor's vacancy report"
-    },
-    {
-      "id": 81,
-      "name": "Commission on Appellate Court Appointments.",
-      "domain": "justice",
-      "totalSeats": null,
-      "vacantSeats": 1,
-      "vacantSince": null,
-      "authority": "Governor's Office of Boards & Commissions",
-      "constituent": null,
-      "applyUrl": "https://bc.azgovernor.gov/boards-and-commissions-application",
-      "sourceUrl": "https://bc.azgovernor.gov/sites/default/files/vacancy-report-7-6-2026.pdf",
-      "lastVerified": "2026-07-15",
-      "criticalNote": "Listed in Governor's vacancy report"
-    },
-    {
-      "id": 82,
+      "id": 36,
       "name": "OVERDIMENSIONAL PERMIT COUNCIL",
       "domain": "justice",
       "totalSeats": null,
@@ -1169,7 +529,21 @@
       "criticalNote": "Listed in Governor's vacancy report"
     },
     {
-      "id": 83,
+      "id": 37,
+      "name": "POST 9/11 MILITARY FAMILY RELIEF FUND ADVISORY COMMITTEE",
+      "domain": "justice",
+      "totalSeats": null,
+      "vacantSeats": 1,
+      "vacantSince": null,
+      "authority": "Governor's Office of Boards & Commissions",
+      "constituent": null,
+      "applyUrl": "https://bc.azgovernor.gov/boards-and-commissions-application",
+      "sourceUrl": "https://bc.azgovernor.gov/sites/default/files/vacancy-report-7-6-2026.pdf",
+      "lastVerified": "2026-07-15",
+      "criticalNote": "Listed in Governor's vacancy report"
+    },
+    {
+      "id": 38,
       "name": "PRE 9/11 MILITARY FAMILY RELIEF ADVISORY COMMITTEE",
       "domain": "justice",
       "totalSeats": null,
@@ -1183,7 +557,7 @@
       "criticalNote": "Listed in Governor's vacancy report"
     },
     {
-      "id": 84,
+      "id": 39,
       "name": "PROPERTY TAX OVERSIGHT COMMISSION",
       "domain": "justice",
       "totalSeats": null,
@@ -1197,22 +571,8 @@
       "criticalNote": "Listed in Governor's vacancy report"
     },
     {
-      "id": 85,
-      "name": "PROSECUTING ATTORNEYS ADVISORY COUNCIL",
-      "domain": "justice",
-      "totalSeats": null,
-      "vacantSeats": 1,
-      "vacantSince": null,
-      "authority": "Governor's Office of Boards & Commissions",
-      "constituent": null,
-      "applyUrl": "https://bc.azgovernor.gov/boards-and-commissions-application",
-      "sourceUrl": "https://bc.azgovernor.gov/sites/default/files/vacancy-report-7-6-2026.pdf",
-      "lastVerified": "2026-07-15",
-      "criticalNote": "Listed in Governor's vacancy report"
-    },
-    {
-      "id": 86,
-      "name": "ARIZONA STATE UNIVERSITY LOCAL BOARD",
+      "id": 40,
+      "name": "PUBLIC SAFETY PERSONNEL RETIREMENT SYSTEM ARIZONA STATE UNIVERSITY LOCAL BOARD",
       "domain": "education",
       "totalSeats": null,
       "vacantSeats": 1,
@@ -1225,8 +585,8 @@
       "criticalNote": "Listed in Governor's vacancy report"
     },
     {
-      "id": 87,
-      "name": "ATTORNEY GENERAL LOCAL BOARD",
+      "id": 41,
+      "name": "PUBLIC SAFETY PERSONNEL RETIREMENT SYSTEM ATTORNEY GENERAL LOCAL BOARD",
       "domain": "justice",
       "totalSeats": null,
       "vacantSeats": 1,
@@ -1239,8 +599,8 @@
       "criticalNote": "Listed in Governor's vacancy report"
     },
     {
-      "id": 88,
-      "name": "LOCAL BOARD",
+      "id": 42,
+      "name": "DEPARTMENT OF EMERGENCY AND MILITARY AFFAIRS LOCAL BOARD",
       "domain": "justice",
       "totalSeats": null,
       "vacantSeats": 1,
@@ -1253,9 +613,9 @@
       "criticalNote": "Listed in Governor's vacancy report"
     },
     {
-      "id": 89,
-      "name": "ADVISORY COUNCIL",
-      "domain": "justice",
+      "id": 43,
+      "name": "RANEGRAS PLAIN AMA GROUNDWATER USERS ADVISORY COUNCIL",
+      "domain": "environment",
       "totalSeats": null,
       "vacantSeats": 1,
       "vacantSince": null,
@@ -1267,21 +627,7 @@
       "criticalNote": "Listed in Governor's vacancy report"
     },
     {
-      "id": 90,
-      "name": "SCHOOL FACILITIES OVERSIGHT BOARD",
-      "domain": "education",
-      "totalSeats": null,
-      "vacantSeats": 1,
-      "vacantSince": null,
-      "authority": "Governor's Office of Boards & Commissions",
-      "constituent": null,
-      "applyUrl": "https://bc.azgovernor.gov/boards-and-commissions-application",
-      "sourceUrl": "https://bc.azgovernor.gov/sites/default/files/vacancy-report-7-6-2026.pdf",
-      "lastVerified": "2026-07-15",
-      "criticalNote": "Listed in Governor's vacancy report"
-    },
-    {
-      "id": 91,
+      "id": 44,
       "name": "SEX OFFENDER MANAGEMENT BOARD",
       "domain": "justice",
       "totalSeats": null,
@@ -1295,7 +641,7 @@
       "criticalNote": "Listed in Governor's vacancy report"
     },
     {
-      "id": 92,
+      "id": 45,
       "name": "STATE BOARD OF DENTAL EXAMINERS",
       "domain": "health",
       "totalSeats": null,
@@ -1309,91 +655,7 @@
       "criticalNote": "Listed in Governor's vacancy report"
     },
     {
-      "id": 93,
-      "name": "STATE BOARD OF EQUALIZATION",
-      "domain": "justice",
-      "totalSeats": null,
-      "vacantSeats": 1,
-      "vacantSince": null,
-      "authority": "Governor's Office of Boards & Commissions",
-      "constituent": null,
-      "applyUrl": "https://bc.azgovernor.gov/boards-and-commissions-application",
-      "sourceUrl": "https://bc.azgovernor.gov/sites/default/files/vacancy-report-7-6-2026.pdf",
-      "lastVerified": "2026-07-15",
-      "criticalNote": "Listed in Governor's vacancy report"
-    },
-    {
-      "id": 94,
-      "name": "STATE BOARD OF TAX APPEALS",
-      "domain": "justice",
-      "totalSeats": null,
-      "vacantSeats": 1,
-      "vacantSince": null,
-      "authority": "Governor's Office of Boards & Commissions",
-      "constituent": null,
-      "applyUrl": "https://bc.azgovernor.gov/boards-and-commissions-application",
-      "sourceUrl": "https://bc.azgovernor.gov/sites/default/files/vacancy-report-7-6-2026.pdf",
-      "lastVerified": "2026-07-15",
-      "criticalNote": "Listed in Governor's vacancy report"
-    },
-    {
-      "id": 95,
-      "name": "STATE BOARD OF TECHNICAL REGISTRATION",
-      "domain": "justice",
-      "totalSeats": null,
-      "vacantSeats": 1,
-      "vacantSince": null,
-      "authority": "Governor's Office of Boards & Commissions",
-      "constituent": null,
-      "applyUrl": "https://bc.azgovernor.gov/boards-and-commissions-application",
-      "sourceUrl": "https://bc.azgovernor.gov/sites/default/files/vacancy-report-7-6-2026.pdf",
-      "lastVerified": "2026-07-15",
-      "criticalNote": "Listed in Governor's vacancy report"
-    },
-    {
-      "id": 96,
-      "name": "STATE COUNCIL ON THE EDUCATION FOR MILITARY",
-      "domain": "education",
-      "totalSeats": null,
-      "vacantSeats": 1,
-      "vacantSince": null,
-      "authority": "Governor's Office of Boards & Commissions",
-      "constituent": null,
-      "applyUrl": "https://bc.azgovernor.gov/boards-and-commissions-application",
-      "sourceUrl": "https://bc.azgovernor.gov/sites/default/files/vacancy-report-7-6-2026.pdf",
-      "lastVerified": "2026-07-15",
-      "criticalNote": "Listed in Governor's vacancy report"
-    },
-    {
-      "id": 97,
-      "name": "Arizona Board of Regents President or",
-      "domain": "justice",
-      "totalSeats": null,
-      "vacantSeats": 1,
-      "vacantSince": null,
-      "authority": "Governor's Office of Boards & Commissions",
-      "constituent": null,
-      "applyUrl": "https://bc.azgovernor.gov/boards-and-commissions-application",
-      "sourceUrl": "https://bc.azgovernor.gov/sites/default/files/vacancy-report-7-6-2026.pdf",
-      "lastVerified": "2026-07-15",
-      "criticalNote": "Listed in Governor's vacancy report"
-    },
-    {
-      "id": 98,
-      "name": "State Board of Education President or (vacant) – At Pleasure",
-      "domain": "education",
-      "totalSeats": null,
-      "vacantSeats": 1,
-      "vacantSince": null,
-      "authority": "Governor's Office of Boards & Commissions",
-      "constituent": null,
-      "applyUrl": "https://bc.azgovernor.gov/boards-and-commissions-application",
-      "sourceUrl": "https://bc.azgovernor.gov/sites/default/files/vacancy-report-7-6-2026.pdf",
-      "lastVerified": "2026-07-15",
-      "criticalNote": "Listed in Governor's vacancy report"
-    },
-    {
-      "id": 99,
+      "id": 46,
       "name": "STATE PERSONNEL BOARD",
       "domain": "justice",
       "totalSeats": null,
@@ -1407,37 +669,9 @@
       "criticalNote": "Listed in Governor's vacancy report"
     },
     {
-      "id": 100,
+      "id": 47,
       "name": "STATEWIDE INDEPENDENT LIVING COUNCIL",
       "domain": "disability",
-      "totalSeats": null,
-      "vacantSeats": 1,
-      "vacantSince": null,
-      "authority": "Governor's Office of Boards & Commissions",
-      "constituent": null,
-      "applyUrl": "https://bc.azgovernor.gov/boards-and-commissions-application",
-      "sourceUrl": "https://bc.azgovernor.gov/sites/default/files/vacancy-report-7-6-2026.pdf",
-      "lastVerified": "2026-07-15",
-      "criticalNote": "Listed in Governor's vacancy report"
-    },
-    {
-      "id": 101,
-      "name": "STUDENT TRANSPORTATION ADVISORY COUNCIL",
-      "domain": "education",
-      "totalSeats": null,
-      "vacantSeats": 1,
-      "vacantSince": null,
-      "authority": "Governor's Office of Boards & Commissions",
-      "constituent": null,
-      "applyUrl": "https://bc.azgovernor.gov/boards-and-commissions-application",
-      "sourceUrl": "https://bc.azgovernor.gov/sites/default/files/vacancy-report-7-6-2026.pdf",
-      "lastVerified": "2026-07-15",
-      "criticalNote": "Listed in Governor's vacancy report"
-    },
-    {
-      "id": 102,
-      "name": "TELEHEALTH ADVISORY COMMITTEE ON TELEHEALTH",
-      "domain": "health",
       "totalSeats": null,
       "vacantSeats": 1,
       "vacantSince": null,
