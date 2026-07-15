@@ -1,0 +1,63 @@
+{
+ "scrapedAt": "2026-07-16T00:00:00Z",
+ "registry": {
+  "profile": "manual"
+ },
+ "summary": {
+  "state": "CT",
+  "total": 3,
+  "full": 3,
+  "provisional": 0,
+  "missingFields": {}
+ },
+ "rows": [
+  {
+   "id": 1,
+   "name": "Connecticut Medical Examining Board",
+   "domain": "health",
+   "totalSeats": 21,
+   "vacantSeats": 0,
+   "vacantSince": null,
+   "authority": "Governor's Office via DAS Statewide HR",
+   "constituent": "Connecticut patients & licensed physicians",
+   "mandate": "Licenses and disciplines Connecticut physicians. Twenty-one governor-appointed members \u2014 thirteen physicians, one physician assistant, seven public members (CGS \u00a7 20-8a).",
+   "requires": [],
+   "applyUrl": "https://www.jobapscloud.com/CT/sup/bulpreview.asp?R1=190219&R2=1234BC&R3=BCM",
+   "sourceUrl": "https://law.justia.com/codes/connecticut/title-20/chapter-370/section-20-8a/",
+   "lastVerified": "2026-07-16",
+   "criticalNote": "DPH roster listed 2 vacancies at last review \u2014 apply via DAS"
+  },
+  {
+   "id": 2,
+   "name": "Connecticut State Board of Education",
+   "domain": "education",
+   "totalSeats": 14,
+   "vacantSeats": 0,
+   "vacantSince": null,
+   "authority": "Governor's Office via DAS Statewide HR",
+   "constituent": "Connecticut K-12 students & families",
+   "mandate": "Oversees Connecticut's public elementary and secondary education. Fourteen members \u2014 nine governor-appointed voting members, three ex officio, two student members (CGS \u00a7 10-1).",
+   "requires": [],
+   "applyUrl": "https://www.jobapscloud.com/CT/sup/bulpreview.asp?R1=190219&R2=1234BC&R3=BCM",
+   "sourceUrl": "https://law.justia.com/codes/connecticut/title-10/chapter-163/section-10-1/",
+   "lastVerified": "2026-07-16",
+   "criticalNote": "9 of 14 seats are governor-appointed"
+  },
+  {
+   "id": 3,
+   "name": "Connecticut Council on Developmental Disabilities",
+   "domain": "disability",
+   "totalSeats": 24,
+   "vacantSeats": 0,
+   "vacantSince": null,
+   "authority": "Governor's Office via DAS Statewide HR",
+   "constituent": "Connecticut residents with developmental disabilities",
+   "mandate": "Federally mandated DD Council advocating for Connecticut residents with developmental disabilities. Twenty-four governor-appointed members.",
+   "requires": [],
+   "applyUrl": "https://www.jobapscloud.com/CT/sup/bulpreview.asp?R1=190219&R2=1234BC&R3=BCM",
+   "sourceUrl": "https://portal.ct.gov/CTCDD/About/About-Us/Who-We-Are-and-What-We-Do",
+   "lastVerified": "2026-07-16",
+   "criticalNote": "Inventory listing \u2014 CT publishes no central vacancy list"
+  }
+ ]
+}
