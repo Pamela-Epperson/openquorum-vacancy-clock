@@ -18,6 +18,8 @@ export const ENRICHMENTS = {
   "South Carolina Commission for the Blind": BLIND,
   "SC Commission for the Blind": BLIND,
   "State Housing Finance and Development Authority": HOUSING,
+  "South Carolina State Housing, Finance and Development Authority": HOUSING,   // exact SOS-PDF spelling (with comma)
+  "State Housing, Finance and Development Authority": HOUSING,
   "South Carolina State Housing Finance and Development Authority": HOUSING,
   "SC State Housing Finance and Development Authority": HOUSING,
   "Housing Finance and Development Authority": HOUSING,
