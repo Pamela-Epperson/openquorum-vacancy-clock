@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-07-16T23:22:26.711Z",
+  "scrapedAt": "2026-07-16T23:55:07.821Z",
   "registry": {
     "profile": "sc",
     "endpoint": "https://search.scsos.com/files/Web_PositionVacancy_List.pdf",
@@ -12,11 +12,11 @@
   "summary": {
     "state": "SC",
     "total": 123,
-    "full": 0,
-    "provisional": 123,
+    "full": 1,
+    "provisional": 122,
     "missingFields": {
-      "totalSeats": 123,
-      "constituent": 123
+      "totalSeats": 122,
+      "constituent": 122
     }
   },
   "rows": [
@@ -1214,15 +1214,17 @@
       "id": 86,
       "name": "South Carolina State Housing, Finance and Development Authority",
       "domain": "housing",
-      "totalSeats": null,
+      "totalSeats": 9,
       "vacantSeats": 1,
       "vacantSince": null,
       "authority": "Governor's Appointments Office",
-      "constituent": null,
+      "constituent": "South Carolinians needing affordable housing",
       "applyUrl": "https://governor.sc.gov/executive-branch/appointments",
       "sourceUrl": "https://search.scsos.com/files/Web_PositionVacancy_List.pdf",
       "lastVerified": "2026-07-16",
-      "criticalNote": "Listed in SC Secretary of State vacancy list"
+      "criticalNote": "7 of 9 seats are governor-appointed",
+      "mandate": "Oversees SC Housing's affordable-housing finance programs. Nine commissioners — seven governor-appointed with Senate consent plus two ex officio (S.C. Code Title 31, Ch. 13).",
+      "seatSource": "https://www.scstatehouse.gov/code/t31c013.php"
     },
     {
       "id": 87,
