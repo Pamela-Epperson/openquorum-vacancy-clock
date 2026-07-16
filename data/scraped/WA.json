@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-07-09T00:46:31.036Z",
+  "scrapedAt": "2026-07-16T23:21:40.484Z",
   "registry": {
     "profile": "wa",
     "endpoint": "https://governor.wa.gov/boards-and-commissions/boards-commissions/current-and-upcoming-appointment-opportunities",
@@ -11,12 +11,12 @@
   },
   "summary": {
     "state": "WA",
-    "total": 123,
-    "full": 7,
-    "provisional": 116,
+    "total": 129,
+    "full": 9,
+    "provisional": 120,
     "missingFields": {
-      "totalSeats": 116,
-      "constituent": 116
+      "totalSeats": 120,
+      "constituent": 120
     }
   },
   "rows": [
@@ -31,7 +31,7 @@
       "constituent": null,
       "applyUrl": "https://governor.wa.gov/boards-and-commissions/boards-commissions/apply-serve",
       "sourceUrl": "https://governor.wa.gov/sites/default/files/2025-01/MonthlyOutreachReport_1.pdf",
-      "lastVerified": "2026-07-09",
+      "lastVerified": "2026-07-16",
       "criticalNote": "Listed in monthly opportunities report"
     },
     {
@@ -45,7 +45,7 @@
       "constituent": null,
       "applyUrl": "https://governor.wa.gov/boards-and-commissions/boards-commissions/apply-serve",
       "sourceUrl": "https://governor.wa.gov/sites/default/files/2025-01/MonthlyOutreachReport_1.pdf",
-      "lastVerified": "2026-07-09",
+      "lastVerified": "2026-07-16",
       "criticalNote": "Listed in monthly opportunities report"
     },
     {
@@ -59,28 +59,12 @@
       "constituent": null,
       "applyUrl": "https://governor.wa.gov/boards-and-commissions/boards-commissions/apply-serve",
       "sourceUrl": "https://governor.wa.gov/sites/default/files/2025-01/MonthlyOutreachReport_1.pdf",
-      "lastVerified": "2026-07-09",
+      "lastVerified": "2026-07-16",
       "criticalNote": "Listed in monthly opportunities report"
     },
     {
       "id": 4,
-      "name": "Charter School Commission",
-      "domain": "education",
-      "totalSeats": 9,
-      "vacantSeats": 1,
-      "vacantSince": null,
-      "authority": "Governor's Boards & Commissions Office",
-      "constituent": "Washington charter public school students & families",
-      "applyUrl": "https://governor.wa.gov/boards-and-commissions/boards-commissions/apply-serve",
-      "sourceUrl": "https://governor.wa.gov/sites/default/files/2025-01/MonthlyOutreachReport_1.pdf",
-      "lastVerified": "2026-07-09",
-      "criticalNote": "Listed in monthly opportunities report",
-      "mandate": "Authorizes and oversees high-quality charter public schools, with a focus on expanding opportunity for at-risk students. Nine members appointed by the Governor, the President of the Senate, and the Speaker of the House (RCW 28A.710.070).",
-      "seatSource": "https://app.leg.wa.gov/RCW/default.aspx?cite=28A.710.070"
-    },
-    {
-      "id": 5,
-      "name": "Columbia Basin College Board of Trustees",
+      "name": "Bellingham Technical College Board of Trustees",
       "domain": "education",
       "totalSeats": null,
       "vacantSeats": 1,
@@ -89,11 +73,95 @@
       "constituent": null,
       "applyUrl": "https://governor.wa.gov/boards-and-commissions/boards-commissions/apply-serve",
       "sourceUrl": "https://governor.wa.gov/sites/default/files/2025-01/MonthlyOutreachReport_1.pdf",
-      "lastVerified": "2026-07-09",
+      "lastVerified": "2026-07-16",
+      "criticalNote": "Listed in monthly opportunities report"
+    },
+    {
+      "id": 5,
+      "name": "Big Bend Community College Board of Trustees",
+      "domain": "education",
+      "totalSeats": null,
+      "vacantSeats": 1,
+      "vacantSince": null,
+      "authority": "Governor's Boards & Commissions Office",
+      "constituent": null,
+      "applyUrl": "https://governor.wa.gov/boards-and-commissions/boards-commissions/apply-serve",
+      "sourceUrl": "https://governor.wa.gov/sites/default/files/2025-01/MonthlyOutreachReport_1.pdf",
+      "lastVerified": "2026-07-16",
       "criticalNote": "Listed in monthly opportunities report"
     },
     {
       "id": 6,
+      "name": "Central Washington University Board of Trustees",
+      "domain": "education",
+      "totalSeats": null,
+      "vacantSeats": 1,
+      "vacantSince": null,
+      "authority": "Governor's Boards & Commissions Office",
+      "constituent": null,
+      "applyUrl": "https://governor.wa.gov/boards-and-commissions/boards-commissions/apply-serve",
+      "sourceUrl": "https://governor.wa.gov/sites/default/files/2025-01/MonthlyOutreachReport_1.pdf",
+      "lastVerified": "2026-07-16",
+      "criticalNote": "Listed in monthly opportunities report"
+    },
+    {
+      "id": 7,
+      "name": "Centralia College Board of Trustees",
+      "domain": "education",
+      "totalSeats": null,
+      "vacantSeats": 1,
+      "vacantSince": null,
+      "authority": "Governor's Boards & Commissions Office",
+      "constituent": null,
+      "applyUrl": "https://governor.wa.gov/boards-and-commissions/boards-commissions/apply-serve",
+      "sourceUrl": "https://governor.wa.gov/sites/default/files/2025-01/MonthlyOutreachReport_1.pdf",
+      "lastVerified": "2026-07-16",
+      "criticalNote": "Listed in monthly opportunities report"
+    },
+    {
+      "id": 8,
+      "name": "Clark College Board of Trustees",
+      "domain": "education",
+      "totalSeats": null,
+      "vacantSeats": 1,
+      "vacantSince": null,
+      "authority": "Governor's Boards & Commissions Office",
+      "constituent": null,
+      "applyUrl": "https://governor.wa.gov/boards-and-commissions/boards-commissions/apply-serve",
+      "sourceUrl": "https://governor.wa.gov/sites/default/files/2025-01/MonthlyOutreachReport_1.pdf",
+      "lastVerified": "2026-07-16",
+      "criticalNote": "Listed in monthly opportunities report"
+    },
+    {
+      "id": 9,
+      "name": "Community and Technical Colleges, State Board for",
+      "domain": "education",
+      "totalSeats": null,
+      "vacantSeats": 1,
+      "vacantSince": null,
+      "authority": "Governor's Boards & Commissions Office",
+      "constituent": null,
+      "applyUrl": "https://governor.wa.gov/boards-and-commissions/boards-commissions/apply-serve",
+      "sourceUrl": "https://governor.wa.gov/sites/default/files/2025-01/MonthlyOutreachReport_1.pdf",
+      "lastVerified": "2026-07-16",
+      "criticalNote": "Listed in monthly opportunities report"
+    },
+    {
+      "id": 10,
+      "name": "Edmonds College Board of Trustees",
+      "domain": "education",
+      "totalSeats": null,
+      "vacantSeats": 1,
+      "vacantSince": null,
+      "authority": "Governor's Boards & Commissions Office",
+      "constituent": null,
+      "applyUrl": "https://governor.wa.gov/boards-and-commissions/boards-commissions/apply-serve",
+      "sourceUrl": "https://governor.wa.gov/sites/default/files/2025-01/MonthlyOutreachReport_1.pdf",
+      "lastVerified": "2026-07-16",
+      "criticalNote": "Listed in monthly opportunities report"
+    },
+    {
+      "id": 11,
       "name": "Everett Community College Board of Trustees",
       "domain": "education",
       "totalSeats": null,
@@ -103,11 +171,25 @@
       "constituent": null,
       "applyUrl": "https://governor.wa.gov/boards-and-commissions/boards-commissions/apply-serve",
       "sourceUrl": "https://governor.wa.gov/sites/default/files/2025-01/MonthlyOutreachReport_1.pdf",
-      "lastVerified": "2026-07-09",
+      "lastVerified": "2026-07-16",
       "criticalNote": "Listed in monthly opportunities report"
     },
     {
-      "id": 7,
+      "id": 12,
+      "name": "Evergreen State College Board of Trustees, The",
+      "domain": "education",
+      "totalSeats": null,
+      "vacantSeats": 1,
+      "vacantSince": null,
+      "authority": "Governor's Boards & Commissions Office",
+      "constituent": null,
+      "applyUrl": "https://governor.wa.gov/boards-and-commissions/boards-commissions/apply-serve",
+      "sourceUrl": "https://governor.wa.gov/sites/default/files/2025-01/MonthlyOutreachReport_1.pdf",
+      "lastVerified": "2026-07-16",
+      "criticalNote": "Listed in monthly opportunities report"
+    },
+    {
+      "id": 13,
       "name": "Grays Harbor College Board of Trustees",
       "domain": "education",
       "totalSeats": null,
@@ -117,11 +199,11 @@
       "constituent": null,
       "applyUrl": "https://governor.wa.gov/boards-and-commissions/boards-commissions/apply-serve",
       "sourceUrl": "https://governor.wa.gov/sites/default/files/2025-01/MonthlyOutreachReport_1.pdf",
-      "lastVerified": "2026-07-09",
+      "lastVerified": "2026-07-16",
       "criticalNote": "Listed in monthly opportunities report"
     },
     {
-      "id": 8,
+      "id": 14,
       "name": "Green River College Board of Trustees",
       "domain": "education",
       "totalSeats": null,
@@ -131,11 +213,39 @@
       "constituent": null,
       "applyUrl": "https://governor.wa.gov/boards-and-commissions/boards-commissions/apply-serve",
       "sourceUrl": "https://governor.wa.gov/sites/default/files/2025-01/MonthlyOutreachReport_1.pdf",
-      "lastVerified": "2026-07-09",
+      "lastVerified": "2026-07-16",
       "criticalNote": "Listed in monthly opportunities report"
     },
     {
-      "id": 9,
+      "id": 15,
+      "name": "Highline College Board of Trustees",
+      "domain": "education",
+      "totalSeats": null,
+      "vacantSeats": 1,
+      "vacantSince": null,
+      "authority": "Governor's Boards & Commissions Office",
+      "constituent": null,
+      "applyUrl": "https://governor.wa.gov/boards-and-commissions/boards-commissions/apply-serve",
+      "sourceUrl": "https://governor.wa.gov/sites/default/files/2025-01/MonthlyOutreachReport_1.pdf",
+      "lastVerified": "2026-07-16",
+      "criticalNote": "Listed in monthly opportunities report"
+    },
+    {
+      "id": 16,
+      "name": "Lake Washington Institute of Technology Board of Trustees",
+      "domain": "justice",
+      "totalSeats": null,
+      "vacantSeats": 1,
+      "vacantSince": null,
+      "authority": "Governor's Boards & Commissions Office",
+      "constituent": null,
+      "applyUrl": "https://governor.wa.gov/boards-and-commissions/boards-commissions/apply-serve",
+      "sourceUrl": "https://governor.wa.gov/sites/default/files/2025-01/MonthlyOutreachReport_1.pdf",
+      "lastVerified": "2026-07-16",
+      "criticalNote": "Listed in monthly opportunities report"
+    },
+    {
+      "id": 17,
       "name": "Lower Columbia College Board of Trustees",
       "domain": "education",
       "totalSeats": null,
@@ -145,11 +255,25 @@
       "constituent": null,
       "applyUrl": "https://governor.wa.gov/boards-and-commissions/boards-commissions/apply-serve",
       "sourceUrl": "https://governor.wa.gov/sites/default/files/2025-01/MonthlyOutreachReport_1.pdf",
-      "lastVerified": "2026-07-09",
+      "lastVerified": "2026-07-16",
       "criticalNote": "Listed in monthly opportunities report"
     },
     {
-      "id": 10,
+      "id": 18,
+      "name": "Olympic College Board of Trustees",
+      "domain": "education",
+      "totalSeats": null,
+      "vacantSeats": 1,
+      "vacantSince": null,
+      "authority": "Governor's Boards & Commissions Office",
+      "constituent": null,
+      "applyUrl": "https://governor.wa.gov/boards-and-commissions/boards-commissions/apply-serve",
+      "sourceUrl": "https://governor.wa.gov/sites/default/files/2025-01/MonthlyOutreachReport_1.pdf",
+      "lastVerified": "2026-07-16",
+      "criticalNote": "Listed in monthly opportunities report"
+    },
+    {
+      "id": 19,
       "name": "Opportunity Scholarship Board",
       "domain": "justice",
       "totalSeats": null,
@@ -159,11 +283,25 @@
       "constituent": null,
       "applyUrl": "https://governor.wa.gov/boards-and-commissions/boards-commissions/apply-serve",
       "sourceUrl": "https://governor.wa.gov/sites/default/files/2025-01/MonthlyOutreachReport_1.pdf",
-      "lastVerified": "2026-07-09",
+      "lastVerified": "2026-07-16",
       "criticalNote": "Listed in monthly opportunities report"
     },
     {
-      "id": 11,
+      "id": 20,
+      "name": "Pierce College Board of Trustees",
+      "domain": "education",
+      "totalSeats": null,
+      "vacantSeats": 1,
+      "vacantSince": null,
+      "authority": "Governor's Boards & Commissions Office",
+      "constituent": null,
+      "applyUrl": "https://governor.wa.gov/boards-and-commissions/boards-commissions/apply-serve",
+      "sourceUrl": "https://governor.wa.gov/sites/default/files/2025-01/MonthlyOutreachReport_1.pdf",
+      "lastVerified": "2026-07-16",
+      "criticalNote": "Listed in monthly opportunities report"
+    },
+    {
+      "id": 21,
       "name": "Professional Educator Standards Board",
       "domain": "justice",
       "totalSeats": null,
@@ -173,11 +311,11 @@
       "constituent": null,
       "applyUrl": "https://governor.wa.gov/boards-and-commissions/boards-commissions/apply-serve",
       "sourceUrl": "https://governor.wa.gov/sites/default/files/2025-01/MonthlyOutreachReport_1.pdf",
-      "lastVerified": "2026-07-09",
+      "lastVerified": "2026-07-16",
       "criticalNote": "Listed in monthly opportunities report"
     },
     {
-      "id": 12,
+      "id": 22,
       "name": "Renton Technical College Board of Trustees",
       "domain": "education",
       "totalSeats": null,
@@ -187,12 +325,12 @@
       "constituent": null,
       "applyUrl": "https://governor.wa.gov/boards-and-commissions/boards-commissions/apply-serve",
       "sourceUrl": "https://governor.wa.gov/sites/default/files/2025-01/MonthlyOutreachReport_1.pdf",
-      "lastVerified": "2026-07-09",
+      "lastVerified": "2026-07-16",
       "criticalNote": "Listed in monthly opportunities report"
     },
     {
-      "id": 13,
-      "name": "School Employees' Benefits Board",
+      "id": 23,
+      "name": "Seattle College District Board of Trustees",
       "domain": "education",
       "totalSeats": null,
       "vacantSeats": 1,
@@ -201,12 +339,12 @@
       "constituent": null,
       "applyUrl": "https://governor.wa.gov/boards-and-commissions/boards-commissions/apply-serve",
       "sourceUrl": "https://governor.wa.gov/sites/default/files/2025-01/MonthlyOutreachReport_1.pdf",
-      "lastVerified": "2026-07-09",
+      "lastVerified": "2026-07-16",
       "criticalNote": "Listed in monthly opportunities report"
     },
     {
-      "id": 14,
-      "name": "Shoreline Community College Board of Trustees",
+      "id": 24,
+      "name": "Skagit Valley College Board of Trustees",
       "domain": "education",
       "totalSeats": null,
       "vacantSeats": 1,
@@ -215,11 +353,11 @@
       "constituent": null,
       "applyUrl": "https://governor.wa.gov/boards-and-commissions/boards-commissions/apply-serve",
       "sourceUrl": "https://governor.wa.gov/sites/default/files/2025-01/MonthlyOutreachReport_1.pdf",
-      "lastVerified": "2026-07-09",
+      "lastVerified": "2026-07-16",
       "criticalNote": "Listed in monthly opportunities report"
     },
     {
-      "id": 15,
+      "id": 25,
       "name": "South Puget Sound Community College Board of Trustees",
       "domain": "education",
       "totalSeats": null,
@@ -229,11 +367,11 @@
       "constituent": null,
       "applyUrl": "https://governor.wa.gov/boards-and-commissions/boards-commissions/apply-serve",
       "sourceUrl": "https://governor.wa.gov/sites/default/files/2025-01/MonthlyOutreachReport_1.pdf",
-      "lastVerified": "2026-07-09",
+      "lastVerified": "2026-07-16",
       "criticalNote": "Listed in monthly opportunities report"
     },
     {
-      "id": 16,
+      "id": 26,
       "name": "Spokane Colleges Board of Trustees",
       "domain": "education",
       "totalSeats": null,
@@ -243,11 +381,11 @@
       "constituent": null,
       "applyUrl": "https://governor.wa.gov/boards-and-commissions/boards-commissions/apply-serve",
       "sourceUrl": "https://governor.wa.gov/sites/default/files/2025-01/MonthlyOutreachReport_1.pdf",
-      "lastVerified": "2026-07-09",
+      "lastVerified": "2026-07-16",
       "criticalNote": "Listed in monthly opportunities report"
     },
     {
-      "id": 17,
+      "id": 27,
       "name": "Student Achievement Council, Washington",
       "domain": "education",
       "totalSeats": 10,
@@ -257,13 +395,27 @@
       "constituent": "Washington college students & higher-ed learners",
       "applyUrl": "https://governor.wa.gov/boards-and-commissions/boards-commissions/apply-serve",
       "sourceUrl": "https://governor.wa.gov/sites/default/files/2025-01/MonthlyOutreachReport_1.pdf",
-      "lastVerified": "2026-07-09",
+      "lastVerified": "2026-07-16",
       "criticalNote": "Listed in monthly opportunities report",
       "mandate": "Sets statewide higher-education goals and strategy and administers student financial aid programs. Ten voting members — six citizen members appointed by the Governor and confirmed by the Senate (two of them students) plus four education-sector representatives (RCW 28B.77.005).",
       "seatSource": "https://app.leg.wa.gov/RCW/default.aspx?cite=28B.77.005"
     },
     {
-      "id": 18,
+      "id": 28,
+      "name": "Tacoma Community College Board of Trustees",
+      "domain": "education",
+      "totalSeats": null,
+      "vacantSeats": 1,
+      "vacantSince": null,
+      "authority": "Governor's Boards & Commissions Office",
+      "constituent": null,
+      "applyUrl": "https://governor.wa.gov/boards-and-commissions/boards-commissions/apply-serve",
+      "sourceUrl": "https://governor.wa.gov/sites/default/files/2025-01/MonthlyOutreachReport_1.pdf",
+      "lastVerified": "2026-07-16",
+      "criticalNote": "Listed in monthly opportunities report"
+    },
+    {
+      "id": 29,
       "name": "Walla Walla Community College Board of Trustees",
       "domain": "education",
       "totalSeats": null,
@@ -273,11 +425,11 @@
       "constituent": null,
       "applyUrl": "https://governor.wa.gov/boards-and-commissions/boards-commissions/apply-serve",
       "sourceUrl": "https://governor.wa.gov/sites/default/files/2025-01/MonthlyOutreachReport_1.pdf",
-      "lastVerified": "2026-07-09",
+      "lastVerified": "2026-07-16",
       "criticalNote": "Listed in monthly opportunities report"
     },
     {
-      "id": 19,
+      "id": 30,
       "name": "Wenatchee Valley College Board of Trustees",
       "domain": "education",
       "totalSeats": null,
@@ -287,11 +439,11 @@
       "constituent": null,
       "applyUrl": "https://governor.wa.gov/boards-and-commissions/boards-commissions/apply-serve",
       "sourceUrl": "https://governor.wa.gov/sites/default/files/2025-01/MonthlyOutreachReport_1.pdf",
-      "lastVerified": "2026-07-09",
+      "lastVerified": "2026-07-16",
       "criticalNote": "Listed in monthly opportunities report"
     },
     {
-      "id": 20,
+      "id": 31,
       "name": "Whatcom Community College Board of Trustees",
       "domain": "education",
       "totalSeats": null,
@@ -301,11 +453,11 @@
       "constituent": null,
       "applyUrl": "https://governor.wa.gov/boards-and-commissions/boards-commissions/apply-serve",
       "sourceUrl": "https://governor.wa.gov/sites/default/files/2025-01/MonthlyOutreachReport_1.pdf",
-      "lastVerified": "2026-07-09",
+      "lastVerified": "2026-07-16",
       "criticalNote": "Listed in monthly opportunities report"
     },
     {
-      "id": 21,
+      "id": 32,
       "name": "Workforce Education Investment Accountability and Oversight Board",
       "domain": "education",
       "totalSeats": null,
@@ -315,12 +467,28 @@
       "constituent": null,
       "applyUrl": "https://governor.wa.gov/boards-and-commissions/boards-commissions/apply-serve",
       "sourceUrl": "https://governor.wa.gov/sites/default/files/2025-01/MonthlyOutreachReport_1.pdf",
-      "lastVerified": "2026-07-09",
+      "lastVerified": "2026-07-16",
       "criticalNote": "Listed in monthly opportunities report"
     },
     {
-      "id": 22,
+      "id": 33,
       "name": "Workforce Training and Education Coordinating Board",
+      "domain": "education",
+      "totalSeats": 9,
+      "vacantSeats": 1,
+      "vacantSince": null,
+      "authority": "Governor's Boards & Commissions Office",
+      "constituent": "Washington job seekers, workers & employers",
+      "applyUrl": "https://governor.wa.gov/boards-and-commissions/boards-commissions/apply-serve",
+      "sourceUrl": "https://governor.wa.gov/sites/default/files/2025-01/MonthlyOutreachReport_1.pdf",
+      "lastVerified": "2026-07-16",
+      "criticalNote": "6 of 9 voting seats are governor-appointed",
+      "mandate": "Coordinates Washington's workforce development system. Nine voting members — three business, three labor, three agency ex officio (RCW 28C.18.020).",
+      "seatSource": "https://app.leg.wa.gov/rcw/default.aspx?cite=28C.18.020"
+    },
+    {
+      "id": 34,
+      "name": "Workforce Development Council",
       "domain": "education",
       "totalSeats": null,
       "vacantSeats": 1,
@@ -329,11 +497,11 @@
       "constituent": null,
       "applyUrl": "https://governor.wa.gov/boards-and-commissions/boards-commissions/apply-serve",
       "sourceUrl": "https://governor.wa.gov/sites/default/files/2025-01/MonthlyOutreachReport_1.pdf",
-      "lastVerified": "2026-07-09",
+      "lastVerified": "2026-07-16",
       "criticalNote": "Listed in monthly opportunities report"
     },
     {
-      "id": 23,
+      "id": 35,
       "name": "Yakima Valley Community College Board of Trustees",
       "domain": "education",
       "totalSeats": null,
@@ -343,11 +511,11 @@
       "constituent": null,
       "applyUrl": "https://governor.wa.gov/boards-and-commissions/boards-commissions/apply-serve",
       "sourceUrl": "https://governor.wa.gov/sites/default/files/2025-01/MonthlyOutreachReport_1.pdf",
-      "lastVerified": "2026-07-09",
+      "lastVerified": "2026-07-16",
       "criticalNote": "Listed in monthly opportunities report"
     },
     {
-      "id": 24,
+      "id": 36,
       "name": "African American Affairs, Commission on",
       "domain": "equity",
       "totalSeats": null,
@@ -357,25 +525,11 @@
       "constituent": null,
       "applyUrl": "https://governor.wa.gov/boards-and-commissions/boards-commissions/apply-serve",
       "sourceUrl": "https://governor.wa.gov/sites/default/files/2025-01/MonthlyOutreachReport_1.pdf",
-      "lastVerified": "2026-07-09",
+      "lastVerified": "2026-07-16",
       "criticalNote": "Listed in monthly opportunities report"
     },
     {
-      "id": 25,
-      "name": "Arts Commission",
-      "domain": "justice",
-      "totalSeats": null,
-      "vacantSeats": 1,
-      "vacantSince": null,
-      "authority": "Governor's Boards & Commissions Office",
-      "constituent": null,
-      "applyUrl": "https://governor.wa.gov/boards-and-commissions/boards-commissions/apply-serve",
-      "sourceUrl": "https://governor.wa.gov/sites/default/files/2025-01/MonthlyOutreachReport_1.pdf",
-      "lastVerified": "2026-07-09",
-      "criticalNote": "Listed in monthly opportunities report"
-    },
-    {
-      "id": 26,
+      "id": 37,
       "name": "Asian Pacific American Affairs, Commission on",
       "domain": "equity",
       "totalSeats": null,
@@ -385,11 +539,11 @@
       "constituent": null,
       "applyUrl": "https://governor.wa.gov/boards-and-commissions/boards-commissions/apply-serve",
       "sourceUrl": "https://governor.wa.gov/sites/default/files/2025-01/MonthlyOutreachReport_1.pdf",
-      "lastVerified": "2026-07-09",
+      "lastVerified": "2026-07-16",
       "criticalNote": "Listed in monthly opportunities report"
     },
     {
-      "id": 27,
+      "id": 38,
       "name": "Capital Projects Advisory Review Board",
       "domain": "justice",
       "totalSeats": null,
@@ -399,11 +553,11 @@
       "constituent": null,
       "applyUrl": "https://governor.wa.gov/boards-and-commissions/boards-commissions/apply-serve",
       "sourceUrl": "https://governor.wa.gov/sites/default/files/2025-01/MonthlyOutreachReport_1.pdf",
-      "lastVerified": "2026-07-09",
+      "lastVerified": "2026-07-16",
       "criticalNote": "Listed in monthly opportunities report"
     },
     {
-      "id": 28,
+      "id": 39,
       "name": "Capitol Furnishings Preservation Committee",
       "domain": "justice",
       "totalSeats": null,
@@ -413,11 +567,11 @@
       "constituent": null,
       "applyUrl": "https://governor.wa.gov/boards-and-commissions/boards-commissions/apply-serve",
       "sourceUrl": "https://governor.wa.gov/sites/default/files/2025-01/MonthlyOutreachReport_1.pdf",
-      "lastVerified": "2026-07-09",
+      "lastVerified": "2026-07-16",
       "criticalNote": "Listed in monthly opportunities report"
     },
     {
-      "id": 29,
+      "id": 40,
       "name": "Collection Agency Board",
       "domain": "justice",
       "totalSeats": null,
@@ -427,11 +581,11 @@
       "constituent": null,
       "applyUrl": "https://governor.wa.gov/boards-and-commissions/boards-commissions/apply-serve",
       "sourceUrl": "https://governor.wa.gov/sites/default/files/2025-01/MonthlyOutreachReport_1.pdf",
-      "lastVerified": "2026-07-09",
+      "lastVerified": "2026-07-16",
       "criticalNote": "Listed in monthly opportunities report"
     },
     {
-      "id": 30,
+      "id": 41,
       "name": "Engineers and Land Surveyors, Board of Registration for Professional",
       "domain": "environment",
       "totalSeats": null,
@@ -441,11 +595,11 @@
       "constituent": null,
       "applyUrl": "https://governor.wa.gov/boards-and-commissions/boards-commissions/apply-serve",
       "sourceUrl": "https://governor.wa.gov/sites/default/files/2025-01/MonthlyOutreachReport_1.pdf",
-      "lastVerified": "2026-07-09",
+      "lastVerified": "2026-07-16",
       "criticalNote": "Listed in monthly opportunities report"
     },
     {
-      "id": 31,
+      "id": 42,
       "name": "Executive Ethics Board",
       "domain": "justice",
       "totalSeats": null,
@@ -455,11 +609,11 @@
       "constituent": null,
       "applyUrl": "https://governor.wa.gov/boards-and-commissions/boards-commissions/apply-serve",
       "sourceUrl": "https://governor.wa.gov/sites/default/files/2025-01/MonthlyOutreachReport_1.pdf",
-      "lastVerified": "2026-07-09",
+      "lastVerified": "2026-07-16",
       "criticalNote": "Listed in monthly opportunities report"
     },
     {
-      "id": 32,
+      "id": 43,
       "name": "Filmworks (Motion Picture Competitiveness Program) Board of Directors, Washington",
       "domain": "justice",
       "totalSeats": null,
@@ -469,11 +623,11 @@
       "constituent": null,
       "applyUrl": "https://governor.wa.gov/boards-and-commissions/boards-commissions/apply-serve",
       "sourceUrl": "https://governor.wa.gov/sites/default/files/2025-01/MonthlyOutreachReport_1.pdf",
-      "lastVerified": "2026-07-09",
+      "lastVerified": "2026-07-16",
       "criticalNote": "Listed in monthly opportunities report"
     },
     {
-      "id": 33,
+      "id": 44,
       "name": "Funeral and Cemetery Board",
       "domain": "justice",
       "totalSeats": null,
@@ -483,11 +637,11 @@
       "constituent": null,
       "applyUrl": "https://governor.wa.gov/boards-and-commissions/boards-commissions/apply-serve",
       "sourceUrl": "https://governor.wa.gov/sites/default/files/2025-01/MonthlyOutreachReport_1.pdf",
-      "lastVerified": "2026-07-09",
+      "lastVerified": "2026-07-16",
       "criticalNote": "Listed in monthly opportunities report"
     },
     {
-      "id": 34,
+      "id": 45,
       "name": "Hispanic Affairs, Commission on",
       "domain": "equity",
       "totalSeats": null,
@@ -497,11 +651,11 @@
       "constituent": null,
       "applyUrl": "https://governor.wa.gov/boards-and-commissions/boards-commissions/apply-serve",
       "sourceUrl": "https://governor.wa.gov/sites/default/files/2025-01/MonthlyOutreachReport_1.pdf",
-      "lastVerified": "2026-07-09",
+      "lastVerified": "2026-07-16",
       "criticalNote": "Listed in monthly opportunities report"
     },
     {
-      "id": 35,
+      "id": 46,
       "name": "Historic Preservation, Advisory Council on",
       "domain": "justice",
       "totalSeats": null,
@@ -511,11 +665,11 @@
       "constituent": null,
       "applyUrl": "https://governor.wa.gov/boards-and-commissions/boards-commissions/apply-serve",
       "sourceUrl": "https://governor.wa.gov/sites/default/files/2025-01/MonthlyOutreachReport_1.pdf",
-      "lastVerified": "2026-07-09",
+      "lastVerified": "2026-07-16",
       "criticalNote": "Listed in monthly opportunities report"
     },
     {
-      "id": 36,
+      "id": 47,
       "name": "Human Rights Commission",
       "domain": "equity",
       "totalSeats": 5,
@@ -525,13 +679,13 @@
       "constituent": "All Washingtonians · protection from discrimination",
       "applyUrl": "https://governor.wa.gov/boards-and-commissions/boards-commissions/apply-serve",
       "sourceUrl": "https://governor.wa.gov/sites/default/files/2025-01/MonthlyOutreachReport_1.pdf",
-      "lastVerified": "2026-07-09",
+      "lastVerified": "2026-07-16",
       "criticalNote": "Listed in monthly opportunities report",
       "mandate": "Enforces the Washington Law Against Discrimination and works to eliminate and prevent discrimination in employment, housing, public accommodation, credit, and insurance. Five members appointed by the Governor with the advice and consent of the Senate (RCW 49.60.050).",
       "seatSource": "https://app.leg.wa.gov/RCW/default.aspx?cite=49.60.050"
     },
     {
-      "id": 37,
+      "id": 48,
       "name": "Humanities Washington Board of Trustees",
       "domain": "justice",
       "totalSeats": null,
@@ -541,11 +695,11 @@
       "constituent": null,
       "applyUrl": "https://governor.wa.gov/boards-and-commissions/boards-commissions/apply-serve",
       "sourceUrl": "https://governor.wa.gov/sites/default/files/2025-01/MonthlyOutreachReport_1.pdf",
-      "lastVerified": "2026-07-09",
+      "lastVerified": "2026-07-16",
       "criticalNote": "Listed in monthly opportunities report"
     },
     {
-      "id": 38,
+      "id": 49,
       "name": "Landscape Architects, Board of Registration for",
       "domain": "environment",
       "totalSeats": null,
@@ -555,11 +709,11 @@
       "constituent": null,
       "applyUrl": "https://governor.wa.gov/boards-and-commissions/boards-commissions/apply-serve",
       "sourceUrl": "https://governor.wa.gov/sites/default/files/2025-01/MonthlyOutreachReport_1.pdf",
-      "lastVerified": "2026-07-09",
+      "lastVerified": "2026-07-16",
       "criticalNote": "Listed in monthly opportunities report"
     },
     {
-      "id": 39,
+      "id": 50,
       "name": "Lottery Commission",
       "domain": "justice",
       "totalSeats": null,
@@ -569,11 +723,11 @@
       "constituent": null,
       "applyUrl": "https://governor.wa.gov/boards-and-commissions/boards-commissions/apply-serve",
       "sourceUrl": "https://governor.wa.gov/sites/default/files/2025-01/MonthlyOutreachReport_1.pdf",
-      "lastVerified": "2026-07-09",
+      "lastVerified": "2026-07-16",
       "criticalNote": "Listed in monthly opportunities report"
     },
     {
-      "id": 40,
+      "id": 51,
       "name": "Public Records Exemptions Accountability Committee (Sunshine Committee)",
       "domain": "justice",
       "totalSeats": null,
@@ -583,11 +737,11 @@
       "constituent": null,
       "applyUrl": "https://governor.wa.gov/boards-and-commissions/boards-commissions/apply-serve",
       "sourceUrl": "https://governor.wa.gov/sites/default/files/2025-01/MonthlyOutreachReport_1.pdf",
-      "lastVerified": "2026-07-09",
+      "lastVerified": "2026-07-16",
       "criticalNote": "Listed in monthly opportunities report"
     },
     {
-      "id": 41,
+      "id": 52,
       "name": "Real Estate Commission",
       "domain": "justice",
       "totalSeats": null,
@@ -597,11 +751,11 @@
       "constituent": null,
       "applyUrl": "https://governor.wa.gov/boards-and-commissions/boards-commissions/apply-serve",
       "sourceUrl": "https://governor.wa.gov/sites/default/files/2025-01/MonthlyOutreachReport_1.pdf",
-      "lastVerified": "2026-07-09",
+      "lastVerified": "2026-07-16",
       "criticalNote": "Listed in monthly opportunities report"
     },
     {
-      "id": 42,
+      "id": 53,
       "name": "Veterans Affairs Advisory Committee",
       "domain": "justice",
       "totalSeats": null,
@@ -611,11 +765,11 @@
       "constituent": null,
       "applyUrl": "https://governor.wa.gov/boards-and-commissions/boards-commissions/apply-serve",
       "sourceUrl": "https://governor.wa.gov/sites/default/files/2025-01/MonthlyOutreachReport_1.pdf",
-      "lastVerified": "2026-07-09",
+      "lastVerified": "2026-07-16",
       "criticalNote": "Listed in monthly opportunities report"
     },
     {
-      "id": 43,
+      "id": 54,
       "name": "Volunteer Firefighters and Reserve Officers, Board for",
       "domain": "justice",
       "totalSeats": null,
@@ -625,11 +779,11 @@
       "constituent": null,
       "applyUrl": "https://governor.wa.gov/boards-and-commissions/boards-commissions/apply-serve",
       "sourceUrl": "https://governor.wa.gov/sites/default/files/2025-01/MonthlyOutreachReport_1.pdf",
-      "lastVerified": "2026-07-09",
+      "lastVerified": "2026-07-16",
       "criticalNote": "Listed in monthly opportunities report"
     },
     {
-      "id": 44,
+      "id": 55,
       "name": "Women’s Commission, Washington State",
       "domain": "equity",
       "totalSeats": 9,
@@ -639,13 +793,13 @@
       "constituent": "Women & girls across Washington State",
       "applyUrl": "https://governor.wa.gov/boards-and-commissions/boards-commissions/apply-serve",
       "sourceUrl": "https://governor.wa.gov/sites/default/files/2025-01/MonthlyOutreachReport_1.pdf",
-      "lastVerified": "2026-07-09",
+      "lastVerified": "2026-07-16",
       "criticalNote": "Listed in monthly opportunities report",
       "mandate": "Advises the Governor, Legislature, and state agencies on issues affecting women and works to improve the well-being of women and girls in Washington. Nine members appointed by the Governor with the advice and consent of the Senate (chapter 43.119 RCW).",
       "seatSource": "https://app.leg.wa.gov/RCW/default.aspx?cite=43.119&full=true"
     },
     {
-      "id": 45,
+      "id": 56,
       "name": "Chiropractic Quality Assurance Commission",
       "domain": "justice",
       "totalSeats": null,
@@ -655,11 +809,11 @@
       "constituent": null,
       "applyUrl": "https://governor.wa.gov/boards-and-commissions/boards-commissions/apply-serve",
       "sourceUrl": "https://governor.wa.gov/sites/default/files/2025-01/MonthlyOutreachReport_1.pdf",
-      "lastVerified": "2026-07-09",
+      "lastVerified": "2026-07-16",
       "criticalNote": "Listed in monthly opportunities report"
     },
     {
-      "id": 46,
+      "id": 57,
       "name": "Dental Quality Assurance Commission",
       "domain": "health",
       "totalSeats": null,
@@ -669,11 +823,11 @@
       "constituent": null,
       "applyUrl": "https://governor.wa.gov/boards-and-commissions/boards-commissions/apply-serve",
       "sourceUrl": "https://governor.wa.gov/sites/default/files/2025-01/MonthlyOutreachReport_1.pdf",
-      "lastVerified": "2026-07-09",
+      "lastVerified": "2026-07-16",
       "criticalNote": "Listed in monthly opportunities report"
     },
     {
-      "id": 47,
+      "id": 58,
       "name": "Developmental Disabilities Council",
       "domain": "disability",
       "totalSeats": null,
@@ -683,11 +837,11 @@
       "constituent": null,
       "applyUrl": "https://governor.wa.gov/boards-and-commissions/boards-commissions/apply-serve",
       "sourceUrl": "https://governor.wa.gov/sites/default/files/2025-01/MonthlyOutreachReport_1.pdf",
-      "lastVerified": "2026-07-09",
+      "lastVerified": "2026-07-16",
       "criticalNote": "Listed in monthly opportunities report"
     },
     {
-      "id": 48,
+      "id": 59,
       "name": "Health Care Cost Transparency Board",
       "domain": "health",
       "totalSeats": null,
@@ -697,11 +851,11 @@
       "constituent": null,
       "applyUrl": "https://governor.wa.gov/boards-and-commissions/boards-commissions/apply-serve",
       "sourceUrl": "https://governor.wa.gov/sites/default/files/2025-01/MonthlyOutreachReport_1.pdf",
-      "lastVerified": "2026-07-09",
+      "lastVerified": "2026-07-16",
       "criticalNote": "Listed in monthly opportunities report"
     },
     {
-      "id": 49,
+      "id": 60,
       "name": "Health Insurance Pool Board of Directors, Washington State",
       "domain": "health",
       "totalSeats": null,
@@ -711,11 +865,11 @@
       "constituent": null,
       "applyUrl": "https://governor.wa.gov/boards-and-commissions/boards-commissions/apply-serve",
       "sourceUrl": "https://governor.wa.gov/sites/default/files/2025-01/MonthlyOutreachReport_1.pdf",
-      "lastVerified": "2026-07-09",
+      "lastVerified": "2026-07-16",
       "criticalNote": "Listed in monthly opportunities report"
     },
     {
-      "id": 50,
+      "id": 61,
       "name": "Health Sciences and Services Authority of Spokane County",
       "domain": "health",
       "totalSeats": null,
@@ -725,11 +879,11 @@
       "constituent": null,
       "applyUrl": "https://governor.wa.gov/boards-and-commissions/boards-commissions/apply-serve",
       "sourceUrl": "https://governor.wa.gov/sites/default/files/2025-01/MonthlyOutreachReport_1.pdf",
-      "lastVerified": "2026-07-09",
+      "lastVerified": "2026-07-16",
       "criticalNote": "Listed in monthly opportunities report"
     },
     {
-      "id": 51,
+      "id": 62,
       "name": "Health, State Board of",
       "domain": "health",
       "totalSeats": 10,
@@ -739,13 +893,13 @@
       "constituent": "All Washington residents · public health policy",
       "applyUrl": "https://governor.wa.gov/boards-and-commissions/boards-commissions/apply-serve",
       "sourceUrl": "https://governor.wa.gov/sites/default/files/2025-01/MonthlyOutreachReport_1.pdf",
-      "lastVerified": "2026-07-09",
+      "lastVerified": "2026-07-16",
       "criticalNote": "Listed in monthly opportunities report",
       "mandate": "Sets statewide public health policy and adopts rules on communicable disease, drinking water, and environmental health. Composed of ten members — the Secretary of Health (or designee) and nine gubernatorial appointees including health professionals, local officials, and consumer representatives (RCW 43.20.030).",
       "seatSource": "https://app.leg.wa.gov/RCW/default.aspx?cite=43.20.030"
     },
     {
-      "id": 52,
+      "id": 63,
       "name": "Hearing and Speech, Board of",
       "domain": "justice",
       "totalSeats": null,
@@ -755,11 +909,11 @@
       "constituent": null,
       "applyUrl": "https://governor.wa.gov/boards-and-commissions/boards-commissions/apply-serve",
       "sourceUrl": "https://governor.wa.gov/sites/default/files/2025-01/MonthlyOutreachReport_1.pdf",
-      "lastVerified": "2026-07-09",
+      "lastVerified": "2026-07-16",
       "criticalNote": "Listed in monthly opportunities report"
     },
     {
-      "id": 53,
+      "id": 64,
       "name": "Long-Term Services and Supports Trust Commission",
       "domain": "justice",
       "totalSeats": null,
@@ -769,11 +923,11 @@
       "constituent": null,
       "applyUrl": "https://governor.wa.gov/boards-and-commissions/boards-commissions/apply-serve",
       "sourceUrl": "https://governor.wa.gov/sites/default/files/2025-01/MonthlyOutreachReport_1.pdf",
-      "lastVerified": "2026-07-09",
+      "lastVerified": "2026-07-16",
       "criticalNote": "Listed in monthly opportunities report"
     },
     {
-      "id": 54,
+      "id": 65,
       "name": "Massage Examining Board",
       "domain": "justice",
       "totalSeats": null,
@@ -783,25 +937,27 @@
       "constituent": null,
       "applyUrl": "https://governor.wa.gov/boards-and-commissions/boards-commissions/apply-serve",
       "sourceUrl": "https://governor.wa.gov/sites/default/files/2025-01/MonthlyOutreachReport_1.pdf",
-      "lastVerified": "2026-07-09",
+      "lastVerified": "2026-07-16",
       "criticalNote": "Listed in monthly opportunities report"
     },
     {
-      "id": 55,
+      "id": 66,
       "name": "Medical Commission, Washington",
       "domain": "health",
-      "totalSeats": null,
+      "totalSeats": 21,
       "vacantSeats": 1,
       "vacantSince": null,
       "authority": "Governor's Boards & Commissions Office",
-      "constituent": null,
+      "constituent": "Washington patients & licensed physicians",
       "applyUrl": "https://governor.wa.gov/boards-and-commissions/boards-commissions/apply-serve",
       "sourceUrl": "https://governor.wa.gov/sites/default/files/2025-01/MonthlyOutreachReport_1.pdf",
-      "lastVerified": "2026-07-09",
-      "criticalNote": "Listed in monthly opportunities report"
+      "lastVerified": "2026-07-16",
+      "criticalNote": "Listed in monthly opportunities report",
+      "mandate": "Licenses and disciplines physicians and physician assistants. Twenty-one members — thirteen physicians, two physician assistants, six public members (RCW 18.71.015).",
+      "seatSource": "https://app.leg.wa.gov/rcw/default.aspx?cite=18.71.015"
     },
     {
-      "id": 56,
+      "id": 67,
       "name": "Naturopathy, State Board of",
       "domain": "justice",
       "totalSeats": null,
@@ -811,11 +967,11 @@
       "constituent": null,
       "applyUrl": "https://governor.wa.gov/boards-and-commissions/boards-commissions/apply-serve",
       "sourceUrl": "https://governor.wa.gov/sites/default/files/2025-01/MonthlyOutreachReport_1.pdf",
-      "lastVerified": "2026-07-09",
+      "lastVerified": "2026-07-16",
       "criticalNote": "Listed in monthly opportunities report"
     },
     {
-      "id": 57,
+      "id": 68,
       "name": "Nursing Home Administrators, Board of",
       "domain": "health",
       "totalSeats": null,
@@ -825,11 +981,11 @@
       "constituent": null,
       "applyUrl": "https://governor.wa.gov/boards-and-commissions/boards-commissions/apply-serve",
       "sourceUrl": "https://governor.wa.gov/sites/default/files/2025-01/MonthlyOutreachReport_1.pdf",
-      "lastVerified": "2026-07-09",
+      "lastVerified": "2026-07-16",
       "criticalNote": "Listed in monthly opportunities report"
     },
     {
-      "id": 58,
+      "id": 69,
       "name": "Nursing, Washington State Board of",
       "domain": "health",
       "totalSeats": 17,
@@ -839,13 +995,13 @@
       "constituent": "Washington patients · nursing licensure & safety",
       "applyUrl": "https://governor.wa.gov/boards-and-commissions/boards-commissions/apply-serve",
       "sourceUrl": "https://governor.wa.gov/sites/default/files/2025-01/MonthlyOutreachReport_1.pdf",
-      "lastVerified": "2026-07-09",
+      "lastVerified": "2026-07-16",
       "criticalNote": "Listed in monthly opportunities report",
       "mandate": "Licenses and regulates registered nurses, advanced practice nurses, practical nurses, and nursing assistants, and sets standards to protect patient safety. Seventeen members appointed by the Governor to four-year terms (RCW 18.79.070).",
       "seatSource": "https://app.leg.wa.gov/RCW/default.aspx?cite=18.79.070"
     },
     {
-      "id": 59,
+      "id": 70,
       "name": "Optometry Board",
       "domain": "justice",
       "totalSeats": null,
@@ -855,11 +1011,11 @@
       "constituent": null,
       "applyUrl": "https://governor.wa.gov/boards-and-commissions/boards-commissions/apply-serve",
       "sourceUrl": "https://governor.wa.gov/sites/default/files/2025-01/MonthlyOutreachReport_1.pdf",
-      "lastVerified": "2026-07-09",
+      "lastVerified": "2026-07-16",
       "criticalNote": "Listed in monthly opportunities report"
     },
     {
-      "id": 60,
+      "id": 71,
       "name": "Osteopathic Medicine and Surgery, Board of",
       "domain": "justice",
       "totalSeats": null,
@@ -869,11 +1025,11 @@
       "constituent": null,
       "applyUrl": "https://governor.wa.gov/boards-and-commissions/boards-commissions/apply-serve",
       "sourceUrl": "https://governor.wa.gov/sites/default/files/2025-01/MonthlyOutreachReport_1.pdf",
-      "lastVerified": "2026-07-09",
+      "lastVerified": "2026-07-16",
       "criticalNote": "Listed in monthly opportunities report"
     },
     {
-      "id": 61,
+      "id": 72,
       "name": "Pharmacy Quality Assurance Commission",
       "domain": "health",
       "totalSeats": null,
@@ -883,11 +1039,11 @@
       "constituent": null,
       "applyUrl": "https://governor.wa.gov/boards-and-commissions/boards-commissions/apply-serve",
       "sourceUrl": "https://governor.wa.gov/sites/default/files/2025-01/MonthlyOutreachReport_1.pdf",
-      "lastVerified": "2026-07-09",
+      "lastVerified": "2026-07-16",
       "criticalNote": "Listed in monthly opportunities report"
     },
     {
-      "id": 62,
+      "id": 73,
       "name": "Physical Therapy, Board of",
       "domain": "justice",
       "totalSeats": null,
@@ -897,11 +1053,11 @@
       "constituent": null,
       "applyUrl": "https://governor.wa.gov/boards-and-commissions/boards-commissions/apply-serve",
       "sourceUrl": "https://governor.wa.gov/sites/default/files/2025-01/MonthlyOutreachReport_1.pdf",
-      "lastVerified": "2026-07-09",
+      "lastVerified": "2026-07-16",
       "criticalNote": "Listed in monthly opportunities report"
     },
     {
-      "id": 63,
+      "id": 74,
       "name": "Podiatric Medical Board",
       "domain": "health",
       "totalSeats": null,
@@ -911,11 +1067,11 @@
       "constituent": null,
       "applyUrl": "https://governor.wa.gov/boards-and-commissions/boards-commissions/apply-serve",
       "sourceUrl": "https://governor.wa.gov/sites/default/files/2025-01/MonthlyOutreachReport_1.pdf",
-      "lastVerified": "2026-07-09",
+      "lastVerified": "2026-07-16",
       "criticalNote": "Listed in monthly opportunities report"
     },
     {
-      "id": 64,
+      "id": 75,
       "name": "Prescription Drug Assistance Foundation Board of Directors",
       "domain": "health",
       "totalSeats": null,
@@ -925,11 +1081,11 @@
       "constituent": null,
       "applyUrl": "https://governor.wa.gov/boards-and-commissions/boards-commissions/apply-serve",
       "sourceUrl": "https://governor.wa.gov/sites/default/files/2025-01/MonthlyOutreachReport_1.pdf",
-      "lastVerified": "2026-07-09",
+      "lastVerified": "2026-07-16",
       "criticalNote": "Listed in monthly opportunities report"
     },
     {
-      "id": 65,
+      "id": 76,
       "name": "Psychology, Examining Board of",
       "domain": "health",
       "totalSeats": null,
@@ -939,11 +1095,11 @@
       "constituent": null,
       "applyUrl": "https://governor.wa.gov/boards-and-commissions/boards-commissions/apply-serve",
       "sourceUrl": "https://governor.wa.gov/sites/default/files/2025-01/MonthlyOutreachReport_1.pdf",
-      "lastVerified": "2026-07-09",
+      "lastVerified": "2026-07-16",
       "criticalNote": "Listed in monthly opportunities report"
     },
     {
-      "id": 66,
+      "id": 77,
       "name": "Public Employees' Benefits Board",
       "domain": "justice",
       "totalSeats": null,
@@ -953,11 +1109,11 @@
       "constituent": null,
       "applyUrl": "https://governor.wa.gov/boards-and-commissions/boards-commissions/apply-serve",
       "sourceUrl": "https://governor.wa.gov/sites/default/files/2025-01/MonthlyOutreachReport_1.pdf",
-      "lastVerified": "2026-07-09",
+      "lastVerified": "2026-07-16",
       "criticalNote": "Listed in monthly opportunities report"
     },
     {
-      "id": 67,
+      "id": 78,
       "name": "Traumatic Brain Injury Council",
       "domain": "health",
       "totalSeats": null,
@@ -967,11 +1123,11 @@
       "constituent": null,
       "applyUrl": "https://governor.wa.gov/boards-and-commissions/boards-commissions/apply-serve",
       "sourceUrl": "https://governor.wa.gov/sites/default/files/2025-01/MonthlyOutreachReport_1.pdf",
-      "lastVerified": "2026-07-09",
+      "lastVerified": "2026-07-16",
       "criticalNote": "Listed in monthly opportunities report"
     },
     {
-      "id": 68,
+      "id": 79,
       "name": "Universal Health Care Commission",
       "domain": "health",
       "totalSeats": 15,
@@ -981,13 +1137,13 @@
       "constituent": "All Washingtonians · path to universal coverage",
       "applyUrl": "https://governor.wa.gov/boards-and-commissions/boards-commissions/apply-serve",
       "sourceUrl": "https://governor.wa.gov/sites/default/files/2025-01/MonthlyOutreachReport_1.pdf",
-      "lastVerified": "2026-07-09",
+      "lastVerified": "2026-07-16",
       "criticalNote": "Listed in monthly opportunities report",
       "mandate": "Develops the framework and recommendations for a universal health care system in Washington, including financing and delivery design. Fifteen members — six appointed by the Governor plus legislative and state-agency members (RCW 41.05.840).",
       "seatSource": "https://app.leg.wa.gov/RCW/default.aspx?cite=41.05.840"
     },
     {
-      "id": 69,
+      "id": 80,
       "name": "Veterinary Board of Governors",
       "domain": "justice",
       "totalSeats": null,
@@ -997,11 +1153,11 @@
       "constituent": null,
       "applyUrl": "https://governor.wa.gov/boards-and-commissions/boards-commissions/apply-serve",
       "sourceUrl": "https://governor.wa.gov/sites/default/files/2025-01/MonthlyOutreachReport_1.pdf",
-      "lastVerified": "2026-07-09",
+      "lastVerified": "2026-07-16",
       "criticalNote": "Listed in monthly opportunities report"
     },
     {
-      "id": 70,
+      "id": 81,
       "name": "Achieving a Better Life Experience Governing Board",
       "domain": "justice",
       "totalSeats": null,
@@ -1011,25 +1167,27 @@
       "constituent": null,
       "applyUrl": "https://governor.wa.gov/boards-and-commissions/boards-commissions/apply-serve",
       "sourceUrl": "https://governor.wa.gov/sites/default/files/2025-01/MonthlyOutreachReport_1.pdf",
-      "lastVerified": "2026-07-09",
+      "lastVerified": "2026-07-16",
       "criticalNote": "Listed in monthly opportunities report"
     },
     {
-      "id": 71,
+      "id": 82,
       "name": "Affordable Housing Advisory Board",
       "domain": "housing",
-      "totalSeats": null,
+      "totalSeats": 25,
       "vacantSeats": 1,
       "vacantSince": null,
       "authority": "Governor's Boards & Commissions Office",
-      "constituent": null,
+      "constituent": "Washingtonians needing affordable housing",
       "applyUrl": "https://governor.wa.gov/boards-and-commissions/boards-commissions/apply-serve",
       "sourceUrl": "https://governor.wa.gov/sites/default/files/2025-01/MonthlyOutreachReport_1.pdf",
-      "lastVerified": "2026-07-09",
-      "criticalNote": "Listed in monthly opportunities report"
+      "lastVerified": "2026-07-16",
+      "criticalNote": "3 of 25 seats are ex officio nonvoting",
+      "mandate": "Advises the Department of Commerce on housing and housing finance policy. Twenty-five members including three ex officio nonvoting (RCW 43.185B.020).",
+      "seatSource": "https://app.leg.wa.gov/rcw/default.aspx?cite=43.185B.020"
     },
     {
-      "id": 72,
+      "id": 83,
       "name": "Blind Board of Trustees, Washington State School for the",
       "domain": "education",
       "totalSeats": null,
@@ -1039,11 +1197,11 @@
       "constituent": null,
       "applyUrl": "https://governor.wa.gov/boards-and-commissions/boards-commissions/apply-serve",
       "sourceUrl": "https://governor.wa.gov/sites/default/files/2025-01/MonthlyOutreachReport_1.pdf",
-      "lastVerified": "2026-07-09",
+      "lastVerified": "2026-07-16",
       "criticalNote": "Listed in monthly opportunities report"
     },
     {
-      "id": 73,
+      "id": 84,
       "name": "Blind, Rehabilitation Council for the",
       "domain": "disability",
       "totalSeats": null,
@@ -1053,11 +1211,11 @@
       "constituent": null,
       "applyUrl": "https://governor.wa.gov/boards-and-commissions/boards-commissions/apply-serve",
       "sourceUrl": "https://governor.wa.gov/sites/default/files/2025-01/MonthlyOutreachReport_1.pdf",
-      "lastVerified": "2026-07-09",
+      "lastVerified": "2026-07-16",
       "criticalNote": "Listed in monthly opportunities report"
     },
     {
-      "id": 74,
+      "id": 85,
       "name": "Developmental Disabilities Endowment Trust Fund Governing Board",
       "domain": "disability",
       "totalSeats": null,
@@ -1067,25 +1225,11 @@
       "constituent": null,
       "applyUrl": "https://governor.wa.gov/boards-and-commissions/boards-commissions/apply-serve",
       "sourceUrl": "https://governor.wa.gov/sites/default/files/2025-01/MonthlyOutreachReport_1.pdf",
-      "lastVerified": "2026-07-09",
+      "lastVerified": "2026-07-16",
       "criticalNote": "Listed in monthly opportunities report"
     },
     {
-      "id": 75,
-      "name": "Early Learning Advisory Council",
-      "domain": "justice",
-      "totalSeats": null,
-      "vacantSeats": 1,
-      "vacantSince": null,
-      "authority": "Governor's Boards & Commissions Office",
-      "constituent": null,
-      "applyUrl": "https://governor.wa.gov/boards-and-commissions/boards-commissions/apply-serve",
-      "sourceUrl": "https://governor.wa.gov/sites/default/files/2025-01/MonthlyOutreachReport_1.pdf",
-      "lastVerified": "2026-07-09",
-      "criticalNote": "Listed in monthly opportunities report"
-    },
-    {
-      "id": 76,
+      "id": 86,
       "name": "Homeless Youth Prevention and Protection Programs Advisory Committee",
       "domain": "housing",
       "totalSeats": null,
@@ -1095,11 +1239,11 @@
       "constituent": null,
       "applyUrl": "https://governor.wa.gov/boards-and-commissions/boards-commissions/apply-serve",
       "sourceUrl": "https://governor.wa.gov/sites/default/files/2025-01/MonthlyOutreachReport_1.pdf",
-      "lastVerified": "2026-07-09",
+      "lastVerified": "2026-07-16",
       "criticalNote": "Listed in monthly opportunities report"
     },
     {
-      "id": 77,
+      "id": 87,
       "name": "Homelessness, State Advisory Council on",
       "domain": "housing",
       "totalSeats": null,
@@ -1109,11 +1253,11 @@
       "constituent": null,
       "applyUrl": "https://governor.wa.gov/boards-and-commissions/boards-commissions/apply-serve",
       "sourceUrl": "https://governor.wa.gov/sites/default/files/2025-01/MonthlyOutreachReport_1.pdf",
-      "lastVerified": "2026-07-09",
+      "lastVerified": "2026-07-16",
       "criticalNote": "Listed in monthly opportunities report"
     },
     {
-      "id": 78,
+      "id": 88,
       "name": "Independent Living Council, State",
       "domain": "disability",
       "totalSeats": null,
@@ -1123,11 +1267,11 @@
       "constituent": null,
       "applyUrl": "https://governor.wa.gov/boards-and-commissions/boards-commissions/apply-serve",
       "sourceUrl": "https://governor.wa.gov/sites/default/files/2025-01/MonthlyOutreachReport_1.pdf",
-      "lastVerified": "2026-07-09",
+      "lastVerified": "2026-07-16",
       "criticalNote": "Listed in monthly opportunities report"
     },
     {
-      "id": 79,
+      "id": 89,
       "name": "Infants and Toddlers with Disabilities and Their Families, State Interagency Coordinating Council for",
       "domain": "disability",
       "totalSeats": null,
@@ -1137,11 +1281,11 @@
       "constituent": null,
       "applyUrl": "https://governor.wa.gov/boards-and-commissions/boards-commissions/apply-serve",
       "sourceUrl": "https://governor.wa.gov/sites/default/files/2025-01/MonthlyOutreachReport_1.pdf",
-      "lastVerified": "2026-07-09",
+      "lastVerified": "2026-07-16",
       "criticalNote": "Listed in monthly opportunities report"
     },
     {
-      "id": 80,
+      "id": 90,
       "name": "Rehabilitation Council, Washington State",
       "domain": "justice",
       "totalSeats": null,
@@ -1151,11 +1295,11 @@
       "constituent": null,
       "applyUrl": "https://governor.wa.gov/boards-and-commissions/boards-commissions/apply-serve",
       "sourceUrl": "https://governor.wa.gov/sites/default/files/2025-01/MonthlyOutreachReport_1.pdf",
-      "lastVerified": "2026-07-09",
+      "lastVerified": "2026-07-16",
       "criticalNote": "Listed in monthly opportunities report"
     },
     {
-      "id": 81,
+      "id": 91,
       "name": "Boiler Rules, Board of",
       "domain": "justice",
       "totalSeats": null,
@@ -1165,11 +1309,11 @@
       "constituent": null,
       "applyUrl": "https://governor.wa.gov/boards-and-commissions/boards-commissions/apply-serve",
       "sourceUrl": "https://governor.wa.gov/sites/default/files/2025-01/MonthlyOutreachReport_1.pdf",
-      "lastVerified": "2026-07-09",
+      "lastVerified": "2026-07-16",
       "criticalNote": "Listed in monthly opportunities report"
     },
     {
-      "id": 82,
+      "id": 92,
       "name": "Electrical Board",
       "domain": "justice",
       "totalSeats": null,
@@ -1179,11 +1323,11 @@
       "constituent": null,
       "applyUrl": "https://governor.wa.gov/boards-and-commissions/boards-commissions/apply-serve",
       "sourceUrl": "https://governor.wa.gov/sites/default/files/2025-01/MonthlyOutreachReport_1.pdf",
-      "lastVerified": "2026-07-09",
+      "lastVerified": "2026-07-16",
       "criticalNote": "Listed in monthly opportunities report"
     },
     {
-      "id": 83,
+      "id": 93,
       "name": "Pension Policy, Select Committee on",
       "domain": "justice",
       "totalSeats": null,
@@ -1193,11 +1337,11 @@
       "constituent": null,
       "applyUrl": "https://governor.wa.gov/boards-and-commissions/boards-commissions/apply-serve",
       "sourceUrl": "https://governor.wa.gov/sites/default/files/2025-01/MonthlyOutreachReport_1.pdf",
-      "lastVerified": "2026-07-09",
+      "lastVerified": "2026-07-16",
       "criticalNote": "Listed in monthly opportunities report"
     },
     {
-      "id": 84,
+      "id": 94,
       "name": "Washington Saves Governing Board",
       "domain": "justice",
       "totalSeats": null,
@@ -1207,11 +1351,11 @@
       "constituent": null,
       "applyUrl": "https://governor.wa.gov/boards-and-commissions/boards-commissions/apply-serve",
       "sourceUrl": "https://governor.wa.gov/sites/default/files/2025-01/MonthlyOutreachReport_1.pdf",
-      "lastVerified": "2026-07-09",
+      "lastVerified": "2026-07-16",
       "criticalNote": "Listed in monthly opportunities report"
     },
     {
-      "id": 85,
+      "id": 95,
       "name": "Chehalis Board",
       "domain": "justice",
       "totalSeats": null,
@@ -1221,11 +1365,11 @@
       "constituent": null,
       "applyUrl": "https://governor.wa.gov/boards-and-commissions/boards-commissions/apply-serve",
       "sourceUrl": "https://governor.wa.gov/sites/default/files/2025-01/MonthlyOutreachReport_1.pdf",
-      "lastVerified": "2026-07-09",
+      "lastVerified": "2026-07-16",
       "criticalNote": "Listed in monthly opportunities report"
     },
     {
-      "id": 86,
+      "id": 96,
       "name": "Chair (selected from the Chehalis Basin Flood Authority",
       "domain": "justice",
       "totalSeats": null,
@@ -1235,11 +1379,11 @@
       "constituent": null,
       "applyUrl": "https://governor.wa.gov/boards-and-commissions/boards-commissions/apply-serve",
       "sourceUrl": "https://governor.wa.gov/sites/default/files/2025-01/MonthlyOutreachReport_1.pdf",
-      "lastVerified": "2026-07-09",
+      "lastVerified": "2026-07-16",
       "criticalNote": "Listed in monthly opportunities report"
     },
     {
-      "id": 87,
+      "id": 97,
       "name": "Coastal Marine Advisory Council, Washington",
       "domain": "environment",
       "totalSeats": null,
@@ -1249,11 +1393,11 @@
       "constituent": null,
       "applyUrl": "https://governor.wa.gov/boards-and-commissions/boards-commissions/apply-serve",
       "sourceUrl": "https://governor.wa.gov/sites/default/files/2025-01/MonthlyOutreachReport_1.pdf",
-      "lastVerified": "2026-07-09",
+      "lastVerified": "2026-07-16",
       "criticalNote": "Listed in monthly opportunities report"
     },
     {
-      "id": 88,
+      "id": 98,
       "name": "Committee",
       "domain": "justice",
       "totalSeats": null,
@@ -1263,11 +1407,11 @@
       "constituent": null,
       "applyUrl": "https://governor.wa.gov/boards-and-commissions/boards-commissions/apply-serve",
       "sourceUrl": "https://governor.wa.gov/sites/default/files/2025-01/MonthlyOutreachReport_1.pdf",
-      "lastVerified": "2026-07-09",
+      "lastVerified": "2026-07-16",
       "criticalNote": "Listed in monthly opportunities report"
     },
     {
-      "id": 89,
+      "id": 99,
       "name": "Environmental Justice Council",
       "domain": "environment",
       "totalSeats": null,
@@ -1277,11 +1421,11 @@
       "constituent": null,
       "applyUrl": "https://governor.wa.gov/boards-and-commissions/boards-commissions/apply-serve",
       "sourceUrl": "https://governor.wa.gov/sites/default/files/2025-01/MonthlyOutreachReport_1.pdf",
-      "lastVerified": "2026-07-09",
+      "lastVerified": "2026-07-16",
       "criticalNote": "Listed in monthly opportunities report"
     },
     {
-      "id": 90,
+      "id": 100,
       "name": "Forest Practices Board",
       "domain": "environment",
       "totalSeats": null,
@@ -1291,11 +1435,11 @@
       "constituent": null,
       "applyUrl": "https://governor.wa.gov/boards-and-commissions/boards-commissions/apply-serve",
       "sourceUrl": "https://governor.wa.gov/sites/default/files/2025-01/MonthlyOutreachReport_1.pdf",
-      "lastVerified": "2026-07-09",
+      "lastVerified": "2026-07-16",
       "criticalNote": "Listed in monthly opportunities report"
     },
     {
-      "id": 91,
+      "id": 101,
       "name": "Marine Resources Advisory Council",
       "domain": "justice",
       "totalSeats": null,
@@ -1305,11 +1449,11 @@
       "constituent": null,
       "applyUrl": "https://governor.wa.gov/boards-and-commissions/boards-commissions/apply-serve",
       "sourceUrl": "https://governor.wa.gov/sites/default/files/2025-01/MonthlyOutreachReport_1.pdf",
-      "lastVerified": "2026-07-09",
+      "lastVerified": "2026-07-16",
       "criticalNote": "Listed in monthly opportunities report"
     },
     {
-      "id": 92,
+      "id": 102,
       "name": "Olympic Natural Resource Center Advisory Board",
       "domain": "environment",
       "totalSeats": null,
@@ -1319,11 +1463,11 @@
       "constituent": null,
       "applyUrl": "https://governor.wa.gov/boards-and-commissions/boards-commissions/apply-serve",
       "sourceUrl": "https://governor.wa.gov/sites/default/files/2025-01/MonthlyOutreachReport_1.pdf",
-      "lastVerified": "2026-07-09",
+      "lastVerified": "2026-07-16",
       "criticalNote": "Listed in monthly opportunities report"
     },
     {
-      "id": 93,
+      "id": 103,
       "name": "Puget Sound Partnership Leadership Council",
       "domain": "justice",
       "totalSeats": null,
@@ -1333,11 +1477,11 @@
       "constituent": null,
       "applyUrl": "https://governor.wa.gov/boards-and-commissions/boards-commissions/apply-serve",
       "sourceUrl": "https://governor.wa.gov/sites/default/files/2025-01/MonthlyOutreachReport_1.pdf",
-      "lastVerified": "2026-07-09",
+      "lastVerified": "2026-07-16",
       "criticalNote": "Listed in monthly opportunities report"
     },
     {
-      "id": 94,
+      "id": 104,
       "name": "Salmon Recovery Funding Board",
       "domain": "justice",
       "totalSeats": null,
@@ -1347,11 +1491,11 @@
       "constituent": null,
       "applyUrl": "https://governor.wa.gov/boards-and-commissions/boards-commissions/apply-serve",
       "sourceUrl": "https://governor.wa.gov/sites/default/files/2025-01/MonthlyOutreachReport_1.pdf",
-      "lastVerified": "2026-07-09",
+      "lastVerified": "2026-07-16",
       "criticalNote": "Listed in monthly opportunities report"
     },
     {
-      "id": 95,
+      "id": 105,
       "name": "Columbia River Gorge Commission",
       "domain": "justice",
       "totalSeats": null,
@@ -1361,11 +1505,11 @@
       "constituent": null,
       "applyUrl": "https://governor.wa.gov/boards-and-commissions/boards-commissions/apply-serve",
       "sourceUrl": "https://governor.wa.gov/sites/default/files/2025-01/MonthlyOutreachReport_1.pdf",
-      "lastVerified": "2026-07-09",
+      "lastVerified": "2026-07-16",
       "criticalNote": "Listed in monthly opportunities report"
     },
     {
-      "id": 96,
+      "id": 106,
       "name": "Parks and Recreation Commission",
       "domain": "environment",
       "totalSeats": null,
@@ -1375,11 +1519,11 @@
       "constituent": null,
       "applyUrl": "https://governor.wa.gov/boards-and-commissions/boards-commissions/apply-serve",
       "sourceUrl": "https://governor.wa.gov/sites/default/files/2025-01/MonthlyOutreachReport_1.pdf",
-      "lastVerified": "2026-07-09",
+      "lastVerified": "2026-07-16",
       "criticalNote": "Listed in monthly opportunities report"
     },
     {
-      "id": 97,
+      "id": 107,
       "name": "Background Check Advisory Board, Washington",
       "domain": "justice",
       "totalSeats": null,
@@ -1389,39 +1533,11 @@
       "constituent": null,
       "applyUrl": "https://governor.wa.gov/boards-and-commissions/boards-commissions/apply-serve",
       "sourceUrl": "https://governor.wa.gov/sites/default/files/2025-01/MonthlyOutreachReport_1.pdf",
-      "lastVerified": "2026-07-09",
+      "lastVerified": "2026-07-16",
       "criticalNote": "Listed in monthly opportunities report"
     },
     {
-      "id": 98,
-      "name": "Criminal Justice Training Commission",
-      "domain": "justice",
-      "totalSeats": null,
-      "vacantSeats": 1,
-      "vacantSince": null,
-      "authority": "Governor's Boards & Commissions Office",
-      "constituent": null,
-      "applyUrl": "https://governor.wa.gov/boards-and-commissions/boards-commissions/apply-serve",
-      "sourceUrl": "https://governor.wa.gov/sites/default/files/2025-01/MonthlyOutreachReport_1.pdf",
-      "lastVerified": "2026-07-09",
-      "criticalNote": "Listed in monthly opportunities report"
-    },
-    {
-      "id": 99,
-      "name": "Forensic Investigations Council",
-      "domain": "justice",
-      "totalSeats": null,
-      "vacantSeats": 1,
-      "vacantSince": null,
-      "authority": "Governor's Boards & Commissions Office",
-      "constituent": null,
-      "applyUrl": "https://governor.wa.gov/boards-and-commissions/boards-commissions/apply-serve",
-      "sourceUrl": "https://governor.wa.gov/sites/default/files/2025-01/MonthlyOutreachReport_1.pdf",
-      "lastVerified": "2026-07-09",
-      "criticalNote": "Listed in monthly opportunities report"
-    },
-    {
-      "id": 100,
+      "id": 108,
       "name": "Judicial Conduct, Commission on",
       "domain": "justice",
       "totalSeats": null,
@@ -1431,11 +1547,11 @@
       "constituent": null,
       "applyUrl": "https://governor.wa.gov/boards-and-commissions/boards-commissions/apply-serve",
       "sourceUrl": "https://governor.wa.gov/sites/default/files/2025-01/MonthlyOutreachReport_1.pdf",
-      "lastVerified": "2026-07-09",
+      "lastVerified": "2026-07-16",
       "criticalNote": "Listed in monthly opportunities report"
     },
     {
-      "id": 101,
+      "id": 109,
       "name": "Juvenile Justice, Washington State Partnership Council on",
       "domain": "justice",
       "totalSeats": null,
@@ -1445,11 +1561,11 @@
       "constituent": null,
       "applyUrl": "https://governor.wa.gov/boards-and-commissions/boards-commissions/apply-serve",
       "sourceUrl": "https://governor.wa.gov/sites/default/files/2025-01/MonthlyOutreachReport_1.pdf",
-      "lastVerified": "2026-07-09",
+      "lastVerified": "2026-07-16",
       "criticalNote": "Listed in monthly opportunities report"
     },
     {
-      "id": 102,
+      "id": 110,
       "name": "Office of Independent Investigations Advisory Board",
       "domain": "justice",
       "totalSeats": null,
@@ -1459,11 +1575,11 @@
       "constituent": null,
       "applyUrl": "https://governor.wa.gov/boards-and-commissions/boards-commissions/apply-serve",
       "sourceUrl": "https://governor.wa.gov/sites/default/files/2025-01/MonthlyOutreachReport_1.pdf",
-      "lastVerified": "2026-07-09",
+      "lastVerified": "2026-07-16",
       "criticalNote": "Listed in monthly opportunities report"
     },
     {
-      "id": 103,
+      "id": 111,
       "name": "Public Defense Advisory Committee",
       "domain": "justice",
       "totalSeats": null,
@@ -1473,25 +1589,11 @@
       "constituent": null,
       "applyUrl": "https://governor.wa.gov/boards-and-commissions/boards-commissions/apply-serve",
       "sourceUrl": "https://governor.wa.gov/sites/default/files/2025-01/MonthlyOutreachReport_1.pdf",
-      "lastVerified": "2026-07-09",
+      "lastVerified": "2026-07-16",
       "criticalNote": "Listed in monthly opportunities report"
     },
     {
-      "id": 104,
-      "name": "Sentencing Guidelines Commission",
-      "domain": "justice",
-      "totalSeats": null,
-      "vacantSeats": 1,
-      "vacantSince": null,
-      "authority": "Governor's Boards & Commissions Office",
-      "constituent": null,
-      "applyUrl": "https://governor.wa.gov/boards-and-commissions/boards-commissions/apply-serve",
-      "sourceUrl": "https://governor.wa.gov/sites/default/files/2025-01/MonthlyOutreachReport_1.pdf",
-      "lastVerified": "2026-07-09",
-      "criticalNote": "Listed in monthly opportunities report"
-    },
-    {
-      "id": 105,
+      "id": 112,
       "name": "Statewide Reentry Council, Washington",
       "domain": "justice",
       "totalSeats": null,
@@ -1501,11 +1603,25 @@
       "constituent": null,
       "applyUrl": "https://governor.wa.gov/boards-and-commissions/boards-commissions/apply-serve",
       "sourceUrl": "https://governor.wa.gov/sites/default/files/2025-01/MonthlyOutreachReport_1.pdf",
-      "lastVerified": "2026-07-09",
+      "lastVerified": "2026-07-16",
       "criticalNote": "Listed in monthly opportunities report"
     },
     {
-      "id": 106,
+      "id": 113,
+      "name": "Sentencing Guidelines Commission",
+      "domain": "justice",
+      "totalSeats": null,
+      "vacantSeats": 1,
+      "vacantSince": null,
+      "authority": "Governor's Boards & Commissions Office",
+      "constituent": null,
+      "applyUrl": "https://governor.wa.gov/boards-and-commissions/boards-commissions/apply-serve",
+      "sourceUrl": "https://governor.wa.gov/sites/default/files/2025-01/MonthlyOutreachReport_1.pdf",
+      "lastVerified": "2026-07-16",
+      "criticalNote": "Listed in monthly opportunities report"
+    },
+    {
+      "id": 114,
       "name": "Aerospace Technology Innovation Board of Directors, Joint Center for",
       "domain": "justice",
       "totalSeats": null,
@@ -1515,11 +1631,11 @@
       "constituent": null,
       "applyUrl": "https://governor.wa.gov/boards-and-commissions/boards-commissions/apply-serve",
       "sourceUrl": "https://governor.wa.gov/sites/default/files/2025-01/MonthlyOutreachReport_1.pdf",
-      "lastVerified": "2026-07-09",
+      "lastVerified": "2026-07-16",
       "criticalNote": "Listed in monthly opportunities report"
     },
     {
-      "id": 107,
+      "id": 115,
       "name": "Aerospace Workforce Council",
       "domain": "education",
       "totalSeats": null,
@@ -1529,11 +1645,11 @@
       "constituent": null,
       "applyUrl": "https://governor.wa.gov/boards-and-commissions/boards-commissions/apply-serve",
       "sourceUrl": "https://governor.wa.gov/sites/default/files/2025-01/MonthlyOutreachReport_1.pdf",
-      "lastVerified": "2026-07-09",
+      "lastVerified": "2026-07-16",
       "criticalNote": "Listed in monthly opportunities report"
     },
     {
-      "id": 108,
+      "id": 116,
       "name": "Architects, Board of Registration for",
       "domain": "justice",
       "totalSeats": null,
@@ -1543,11 +1659,11 @@
       "constituent": null,
       "applyUrl": "https://governor.wa.gov/boards-and-commissions/boards-commissions/apply-serve",
       "sourceUrl": "https://governor.wa.gov/sites/default/files/2025-01/MonthlyOutreachReport_1.pdf",
-      "lastVerified": "2026-07-09",
+      "lastVerified": "2026-07-16",
       "criticalNote": "Listed in monthly opportunities report"
     },
     {
-      "id": 109,
+      "id": 117,
       "name": "Boundary Review Board - Chelan County",
       "domain": "justice",
       "totalSeats": null,
@@ -1557,11 +1673,11 @@
       "constituent": null,
       "applyUrl": "https://governor.wa.gov/boards-and-commissions/boards-commissions/apply-serve",
       "sourceUrl": "https://governor.wa.gov/sites/default/files/2025-01/MonthlyOutreachReport_1.pdf",
-      "lastVerified": "2026-07-09",
+      "lastVerified": "2026-07-16",
       "criticalNote": "Listed in monthly opportunities report"
     },
     {
-      "id": 110,
+      "id": 118,
       "name": "Boundary Review Board - Clallam County",
       "domain": "justice",
       "totalSeats": null,
@@ -1571,11 +1687,11 @@
       "constituent": null,
       "applyUrl": "https://governor.wa.gov/boards-and-commissions/boards-commissions/apply-serve",
       "sourceUrl": "https://governor.wa.gov/sites/default/files/2025-01/MonthlyOutreachReport_1.pdf",
-      "lastVerified": "2026-07-09",
+      "lastVerified": "2026-07-16",
       "criticalNote": "Listed in monthly opportunities report"
     },
     {
-      "id": 111,
+      "id": 119,
       "name": "Boundary Review Board - Douglas County",
       "domain": "justice",
       "totalSeats": null,
@@ -1585,11 +1701,11 @@
       "constituent": null,
       "applyUrl": "https://governor.wa.gov/boards-and-commissions/boards-commissions/apply-serve",
       "sourceUrl": "https://governor.wa.gov/sites/default/files/2025-01/MonthlyOutreachReport_1.pdf",
-      "lastVerified": "2026-07-09",
+      "lastVerified": "2026-07-16",
       "criticalNote": "Listed in monthly opportunities report"
     },
     {
-      "id": 112,
+      "id": 120,
       "name": "Boundary Review Board - Grays Harbor County",
       "domain": "justice",
       "totalSeats": null,
@@ -1599,11 +1715,11 @@
       "constituent": null,
       "applyUrl": "https://governor.wa.gov/boards-and-commissions/boards-commissions/apply-serve",
       "sourceUrl": "https://governor.wa.gov/sites/default/files/2025-01/MonthlyOutreachReport_1.pdf",
-      "lastVerified": "2026-07-09",
+      "lastVerified": "2026-07-16",
       "criticalNote": "Listed in monthly opportunities report"
     },
     {
-      "id": 113,
+      "id": 121,
       "name": "Boundary Review Board - Pierce County",
       "domain": "justice",
       "totalSeats": null,
@@ -1613,11 +1729,11 @@
       "constituent": null,
       "applyUrl": "https://governor.wa.gov/boards-and-commissions/boards-commissions/apply-serve",
       "sourceUrl": "https://governor.wa.gov/sites/default/files/2025-01/MonthlyOutreachReport_1.pdf",
-      "lastVerified": "2026-07-09",
+      "lastVerified": "2026-07-16",
       "criticalNote": "Listed in monthly opportunities report"
     },
     {
-      "id": 114,
+      "id": 122,
       "name": "Boundary Review Board - Skagit County",
       "domain": "justice",
       "totalSeats": null,
@@ -1627,11 +1743,11 @@
       "constituent": null,
       "applyUrl": "https://governor.wa.gov/boards-and-commissions/boards-commissions/apply-serve",
       "sourceUrl": "https://governor.wa.gov/sites/default/files/2025-01/MonthlyOutreachReport_1.pdf",
-      "lastVerified": "2026-07-09",
+      "lastVerified": "2026-07-16",
       "criticalNote": "Listed in monthly opportunities report"
     },
     {
-      "id": 115,
+      "id": 123,
       "name": "Boundary Review Board - Skamania County",
       "domain": "justice",
       "totalSeats": null,
@@ -1641,11 +1757,11 @@
       "constituent": null,
       "applyUrl": "https://governor.wa.gov/boards-and-commissions/boards-commissions/apply-serve",
       "sourceUrl": "https://governor.wa.gov/sites/default/files/2025-01/MonthlyOutreachReport_1.pdf",
-      "lastVerified": "2026-07-09",
+      "lastVerified": "2026-07-16",
       "criticalNote": "Listed in monthly opportunities report"
     },
     {
-      "id": 116,
+      "id": 124,
       "name": "Boundary Review Board - Snohomish County",
       "domain": "justice",
       "totalSeats": null,
@@ -1655,25 +1771,11 @@
       "constituent": null,
       "applyUrl": "https://governor.wa.gov/boards-and-commissions/boards-commissions/apply-serve",
       "sourceUrl": "https://governor.wa.gov/sites/default/files/2025-01/MonthlyOutreachReport_1.pdf",
-      "lastVerified": "2026-07-09",
+      "lastVerified": "2026-07-16",
       "criticalNote": "Listed in monthly opportunities report"
     },
     {
-      "id": 117,
-      "name": "Covenant Homeownership Program Oversight Committee",
-      "domain": "justice",
-      "totalSeats": null,
-      "vacantSeats": 1,
-      "vacantSince": null,
-      "authority": "Governor's Boards & Commissions Office",
-      "constituent": null,
-      "applyUrl": "https://governor.wa.gov/boards-and-commissions/boards-commissions/apply-serve",
-      "sourceUrl": "https://governor.wa.gov/sites/default/files/2025-01/MonthlyOutreachReport_1.pdf",
-      "lastVerified": "2026-07-09",
-      "criticalNote": "Listed in monthly opportunities report"
-    },
-    {
-      "id": 118,
+      "id": 125,
       "name": "Economic Development Finance Authority, Washington",
       "domain": "justice",
       "totalSeats": null,
@@ -1683,11 +1785,11 @@
       "constituent": null,
       "applyUrl": "https://governor.wa.gov/boards-and-commissions/boards-commissions/apply-serve",
       "sourceUrl": "https://governor.wa.gov/sites/default/files/2025-01/MonthlyOutreachReport_1.pdf",
-      "lastVerified": "2026-07-09",
+      "lastVerified": "2026-07-16",
       "criticalNote": "Listed in monthly opportunities report"
     },
     {
-      "id": 119,
+      "id": 126,
       "name": "Freight Mobility Strategic Investment Board",
       "domain": "justice",
       "totalSeats": null,
@@ -1697,11 +1799,11 @@
       "constituent": null,
       "applyUrl": "https://governor.wa.gov/boards-and-commissions/boards-commissions/apply-serve",
       "sourceUrl": "https://governor.wa.gov/sites/default/files/2025-01/MonthlyOutreachReport_1.pdf",
-      "lastVerified": "2026-07-09",
+      "lastVerified": "2026-07-16",
       "criticalNote": "Listed in monthly opportunities report"
     },
     {
-      "id": 120,
+      "id": 127,
       "name": "Pilotage Commissioners, Board of",
       "domain": "justice",
       "totalSeats": null,
@@ -1711,11 +1813,11 @@
       "constituent": null,
       "applyUrl": "https://governor.wa.gov/boards-and-commissions/boards-commissions/apply-serve",
       "sourceUrl": "https://governor.wa.gov/sites/default/files/2025-01/MonthlyOutreachReport_1.pdf",
-      "lastVerified": "2026-07-09",
+      "lastVerified": "2026-07-16",
       "criticalNote": "Listed in monthly opportunities report"
     },
     {
-      "id": 121,
+      "id": 128,
       "name": "Small Business Export Finance Assistance Center Board of Directors",
       "domain": "justice",
       "totalSeats": null,
@@ -1725,11 +1827,11 @@
       "constituent": null,
       "applyUrl": "https://governor.wa.gov/boards-and-commissions/boards-commissions/apply-serve",
       "sourceUrl": "https://governor.wa.gov/sites/default/files/2025-01/MonthlyOutreachReport_1.pdf",
-      "lastVerified": "2026-07-09",
+      "lastVerified": "2026-07-16",
       "criticalNote": "Listed in monthly opportunities report"
     },
     {
-      "id": 122,
+      "id": 129,
       "name": "Tacoma Narrows Bridge Citizen Advisory Committee",
       "domain": "justice",
       "totalSeats": null,
@@ -1739,21 +1841,7 @@
       "constituent": null,
       "applyUrl": "https://governor.wa.gov/boards-and-commissions/boards-commissions/apply-serve",
       "sourceUrl": "https://governor.wa.gov/sites/default/files/2025-01/MonthlyOutreachReport_1.pdf",
-      "lastVerified": "2026-07-09",
-      "criticalNote": "Listed in monthly opportunities report"
-    },
-    {
-      "id": 123,
-      "name": "Tourism Marketing Authority Board of Directors, Washington",
-      "domain": "justice",
-      "totalSeats": null,
-      "vacantSeats": 1,
-      "vacantSince": null,
-      "authority": "Governor's Boards & Commissions Office",
-      "constituent": null,
-      "applyUrl": "https://governor.wa.gov/boards-and-commissions/boards-commissions/apply-serve",
-      "sourceUrl": "https://governor.wa.gov/sites/default/files/2025-01/MonthlyOutreachReport_1.pdf",
-      "lastVerified": "2026-07-09",
+      "lastVerified": "2026-07-16",
       "criticalNote": "Listed in monthly opportunities report"
     }
   ]
