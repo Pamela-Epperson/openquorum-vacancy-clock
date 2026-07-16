@@ -135,6 +135,14 @@ export default function VacancyClock(){
 
   useEffect(()=>{if(paused)return;const t=setInterval(()=>setTick(n=>n+1),60000);return()=>clearInterval(t);},[paused]);
 
+  // Close the state menu on any click outside it or when the pointer rolls off
+  useEffect(()=>{
+    if(!showMenu) return;
+    const close=()=>setShowMenu(false);
+    document.addEventListener("click",close);
+    return ()=>document.removeEventListener("click",close);
+  },[showMenu]);
+
   const cfg=stateCode?STATE_CONFIG[stateCode]:null;
   const isLive=cfg?.status==="live";
   const enriched=useMemo(()=>cfg&&isLive?cfg.boards.map(b=>({...b,days:calcDays(b.vacantSince),pct:Math.round(b.vacantSeats/b.totalSeats*100)})):[],[stateCode,tick,cfg,isLive]);
@@ -165,7 +173,7 @@ export default function VacancyClock(){
 
   // Dropdown for state picker (shared between loading and loaded states)
   const StateMenu=()=>(
-    <div style={{position:"absolute",top:"calc(100% + 6px)",left:0,background:"#fff",border:"1px solid #eee",borderRadius:10,minWidth:250,zIndex:200,boxShadow:"0 4px 24px rgba(0,0,0,0.12)",overflow:"hidden",maxHeight:500,overflowY:"auto"}}>
+    <div onMouseLeave={()=>setShowMenu(false)} style={{position:"absolute",top:"calc(100% + 6px)",left:0,background:"#fff",border:"1px solid #eee",borderRadius:10,minWidth:250,zIndex:200,boxShadow:"0 4px 24px rgba(0,0,0,0.12)",overflow:"hidden",maxHeight:500,overflowY:"auto"}}>
       {byRegion.map(({region,states})=>(
         <div key={region}>
           <p style={{margin:0,padding:"8px 14px 4px",fontSize:10,fontWeight:600,color:INK.micro,textTransform:"uppercase",letterSpacing:"0.08em",borderTop:region!==byRegion[0].region?"1px solid #f0f0f0":undefined}}>{region} · live data</p>
