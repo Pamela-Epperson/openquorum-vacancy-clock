@@ -1,0 +1,47 @@
+{
+ "scrapedAt": "2026-07-16T00:00:00Z",
+ "registry": {
+  "profile": "manual"
+ },
+ "summary": {
+  "state": "MS",
+  "total": 2,
+  "full": 2,
+  "provisional": 0,
+  "missingFields": {}
+ },
+ "rows": [
+  {
+   "id": 1,
+   "name": "Mississippi State Board of Medical Licensure",
+   "domain": "health",
+   "totalSeats": 9,
+   "vacantSeats": 0,
+   "vacantSince": null,
+   "authority": "Governor's Appointments Office",
+   "constituent": "Mississippi patients & licensed physicians",
+   "mandate": "Licenses and disciplines Mississippi physicians. Nine physician members appointed by the Governor with Senate consent (Miss. Code \u00a7 73-43-3).",
+   "requires": [],
+   "applyUrl": "https://governorreeves.ms.gov/",
+   "sourceUrl": "https://law.justia.com/codes/mississippi/title-73/chapter-43/section-73-43-3/",
+   "lastVerified": "2026-07-16",
+   "criticalNote": "Inventory listing \u2014 apply any time"
+  },
+  {
+   "id": 2,
+   "name": "Mississippi State Board of Education",
+   "domain": "education",
+   "totalSeats": 9,
+   "vacantSeats": 0,
+   "vacantSince": null,
+   "authority": "Governor's Appointments Office",
+   "constituent": "Mississippi K-12 students & families",
+   "mandate": "Governs Mississippi public education policy. Nine members \u2014 five appointed by the Governor, two each by the Lt. Governor and House Speaker (Miss. Const. \u00a7 202A).",
+   "requires": [],
+   "applyUrl": "https://governorreeves.ms.gov/",
+   "sourceUrl": "https://mdek12.org/mbe/",
+   "lastVerified": "2026-07-16",
+   "criticalNote": "Inventory listing \u2014 apply any time \u00b7 5 of 9 seats are governor-appointed"
+  }
+ ]
+}

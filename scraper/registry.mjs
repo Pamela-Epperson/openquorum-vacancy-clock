@@ -39,7 +39,7 @@ export const REGISTRY = {
     applyAuthority: "Governor's Appointments Office",
     dataSource: "gov.ca.gov/join-the-administration/government-appointments",
     totalBoardsNote: "Current Board Vacancies report (PDF), Governor's Appointments Unit",
-    promote: false, // profile new — verify first scrape PR, then add enrichments/CA.mjs before promoting
+    promote: true, // enrichments/CA.mjs: 2 statute-verified boards (Jul 16 2026) // profile new — verify first scrape PR, then add enrichments/CA.mjs before promoting
   },
   FL: {
     profile: "fl",
@@ -48,7 +48,8 @@ export const REGISTRY = {
     applyAuthority: "Governor's Appointments Office",
     dataSource: "flgov.com/eog/leadership/appointments",
     totalBoardsNote: "Remaining-vacancies report, Governor's Appointments Office",
-    promote: false, // verify first scrape PR, then add enrichments/FL.mjs
+    contextNote: "Florida board appointments are made by the Governor's Appointments Office; boards shown are hand-verified opportunities — apply any time through the online seat application.",
+    promote: true, // data/scraped/FL.json manual seed (2 statute-verified boards, Jul 16 2026); fl profile keeps trying weekly // verify first scrape PR, then add enrichments/FL.mjs
   },
   OH: {
     profile: "oh",
@@ -105,6 +106,55 @@ export const REGISTRY = {
     promote: true, // data/scraped/CT.json: 3 CGS-verified boards (Jul 16 2026) — INVENTORY MODE
   },
 
+  WI: {
+    profile: "manual",
+    endpoint: null,
+    applyUrl: "https://wi.accessgov.com/public/Forms/Page/governor/gov-boardsandcommissions",
+    applyAuthority: "Office of the Governor \u2014 Boards & Commissions",
+    dataSource: "evers.wi.gov/Pages/BoardsCommissions.aspx",
+    totalBoardsNote: "Hand-verified seed · no central vacancy list found",
+    contextNote: "Wisconsin boards shown are hand-verified appointment opportunities \u2014 apply any time through the Governor's online application.",
+    promote: true, // data/scraped/WI.json manual seed (Jul 16 2026) — INVENTORY MODE
+  },
+  MS: {
+    profile: "manual",
+    endpoint: null,
+    applyUrl: "https://governorreeves.ms.gov/",
+    applyAuthority: "Governor's Appointments Office",
+    dataSource: "governorreeves.ms.gov",
+    totalBoardsNote: "Hand-verified seed · no central vacancy list found",
+    contextNote: "Mississippi boards shown are hand-verified appointment opportunities \u2014 contact the Governor's Appointments Office to apply. (TODO verify direct application form.)",
+    promote: true, // data/scraped/MS.json manual seed (Jul 16 2026) — INVENTORY MODE
+  },
+  AL: {
+    profile: "manual",
+    endpoint: null,
+    applyUrl: "https://governor.alabama.gov/administration/appointments/appointment-application/",
+    applyAuthority: "Governor's Appointments Office",
+    dataSource: "governor.alabama.gov/administration/appointments",
+    totalBoardsNote: "Hand-verified seed · no central vacancy list found",
+    contextNote: "Alabama boards shown are hand-verified appointment opportunities \u2014 apply through the Governor's appointment application.",
+    promote: true, // data/scraped/AL.json manual seed (Jul 16 2026) — INVENTORY MODE
+  },
+  LA: {
+    profile: "manual",
+    endpoint: null,
+    applyUrl: "https://gov.louisiana.gov/index.cfm/form/home/14",
+    applyAuthority: "Governor's Office of Boards & Commissions",
+    dataSource: "gov.louisiana.gov/page/boards-commissions",
+    totalBoardsNote: "Hand-verified seed · no central vacancy list found",
+    contextNote: "Louisiana boards shown are hand-verified appointment opportunities \u2014 apply through the Governor's online application.",
+    promote: true, // data/scraped/LA.json manual seed (Jul 16 2026) — INVENTORY MODE
+  },
+  SC: {
+    profile: "sc",
+    endpoint: "https://search.scsos.com/files/Web_PositionVacancy_List.pdf",
+    applyUrl: "https://governor.sc.gov/executive-branch/appointments",
+    applyAuthority: "Governor's Appointments Office",
+    dataSource: "search.scsos.com/boardsandcommissions",
+    totalBoardsNote: "SOS statewide vacancy list · 250+ boards",
+    promote: true, // enrichments/SC.mjs + data/scraped/SC.json fallback (Jul 16 2026)
+  },
   // Researched July 8, 2026 — profiles not yet written (next tranche):
   //     · Governor's Appointments Office
   //     · Governor's Boards & Commissions Office

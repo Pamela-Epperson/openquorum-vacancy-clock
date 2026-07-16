@@ -1,0 +1,47 @@
+{
+ "scrapedAt": "2026-07-16T00:00:00Z",
+ "registry": {
+  "profile": "manual"
+ },
+ "summary": {
+  "state": "LA",
+  "total": 2,
+  "full": 2,
+  "provisional": 0,
+  "missingFields": {}
+ },
+ "rows": [
+  {
+   "id": 1,
+   "name": "Louisiana State Board of Medical Examiners",
+   "domain": "health",
+   "totalSeats": 10,
+   "vacantSeats": 0,
+   "vacantSince": null,
+   "authority": "Governor's Office of Boards & Commissions",
+   "constituent": "Louisiana patients & licensed physicians",
+   "mandate": "Licenses and disciplines Louisiana physicians. Ten voting members appointed by the Governor with Senate confirmation from nominated slates plus one consumer member (La. R.S. 37:1263).",
+   "requires": [],
+   "applyUrl": "https://gov.louisiana.gov/index.cfm/form/home/14",
+   "sourceUrl": "https://law.justia.com/codes/louisiana/revised-statutes/title-37/rs-37-1263/",
+   "lastVerified": "2026-07-16",
+   "criticalNote": "Inventory listing \u2014 apply any time"
+  },
+  {
+   "id": 2,
+   "name": "Louisiana Developmental Disabilities Council",
+   "domain": "disability",
+   "totalSeats": 28,
+   "vacantSeats": 0,
+   "vacantSince": null,
+   "authority": "Governor's Office of Boards & Commissions",
+   "constituent": "Louisianans with developmental disabilities",
+   "mandate": "Louisiana's federally mandated DD council. Twenty-eight governor-appointed members including people with disabilities, family members, and agency representatives.",
+   "requires": [],
+   "applyUrl": "https://gov.louisiana.gov/index.cfm/form/home/14",
+   "sourceUrl": "https://laddc.org/about-us/council-members/",
+   "lastVerified": "2026-07-16",
+   "criticalNote": "Inventory listing \u2014 apply any time"
+  }
+ ]
+}

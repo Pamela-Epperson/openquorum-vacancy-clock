@@ -1,0 +1,47 @@
+{
+ "scrapedAt": "2026-07-16T00:00:00Z",
+ "registry": {
+  "profile": "manual"
+ },
+ "summary": {
+  "state": "SC",
+  "total": 2,
+  "full": 2,
+  "provisional": 0,
+  "missingFields": {}
+ },
+ "rows": [
+  {
+   "id": 1,
+   "name": "South Carolina Commission for the Blind",
+   "domain": "disability",
+   "totalSeats": 7,
+   "vacantSeats": 0,
+   "vacantSince": null,
+   "authority": "Governor's Appointments Office",
+   "constituent": "South Carolinians who are blind or have low vision",
+   "mandate": "Governs vocational rehabilitation and independent-living services for blind South Carolinians. Seven members \u2014 one per congressional district, three legally blind \u2014 governor-appointed with Senate consent (S.C. Code 43-25-10).",
+   "requires": [],
+   "applyUrl": "https://governor.sc.gov/executive-branch/appointments",
+   "sourceUrl": "https://law.justia.com/codes/south-carolina/title-43/chapter-25/section-43-25-10/",
+   "lastVerified": "2026-07-16",
+   "criticalNote": "Inventory listing \u2014 apply any time"
+  },
+  {
+   "id": 2,
+   "name": "South Carolina State Housing Finance and Development Authority",
+   "domain": "housing",
+   "totalSeats": 9,
+   "vacantSeats": 0,
+   "vacantSince": null,
+   "authority": "Governor's Appointments Office",
+   "constituent": "South Carolinians needing affordable housing",
+   "mandate": "Oversees SC Housing's affordable-housing finance programs. Nine commissioners \u2014 seven governor-appointed with Senate consent plus two ex officio (S.C. Code Title 31, Ch. 13).",
+   "requires": [],
+   "applyUrl": "https://governor.sc.gov/executive-branch/appointments",
+   "sourceUrl": "https://www.scstatehouse.gov/code/t31c013.php",
+   "lastVerified": "2026-07-16",
+   "criticalNote": "Inventory listing \u2014 apply any time \u00b7 7 of 9 seats are governor-appointed"
+  }
+ ]
+}

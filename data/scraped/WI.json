@@ -1,0 +1,47 @@
+{
+ "scrapedAt": "2026-07-16T00:00:00Z",
+ "registry": {
+  "profile": "manual"
+ },
+ "summary": {
+  "state": "WI",
+  "total": 2,
+  "full": 2,
+  "provisional": 0,
+  "missingFields": {}
+ },
+ "rows": [
+  {
+   "id": 1,
+   "name": "Medical Examining Board",
+   "domain": "health",
+   "totalSeats": 13,
+   "vacantSeats": 0,
+   "vacantSince": null,
+   "authority": "Office of the Governor \u2014 Boards & Commissions",
+   "constituent": "Wisconsin patients & licensed physicians",
+   "mandate": "Licenses and disciplines Wisconsin physicians. Thirteen members \u2014 ten licensed doctors and three public members \u2014 appointed by the Governor, Senate-confirmed (Wis. Stat. \u00a7 15.405(7)).",
+   "requires": [],
+   "applyUrl": "https://wi.accessgov.com/public/Forms/Page/governor/gov-boardsandcommissions",
+   "sourceUrl": "https://codes.findlaw.com/wi/organization-of-state-government-ch-13-to-22/wi-st-15-405/",
+   "lastVerified": "2026-07-16",
+   "criticalNote": "Inventory listing \u2014 apply any time"
+  },
+  {
+   "id": 2,
+   "name": "Board for People with Developmental Disabilities",
+   "domain": "disability",
+   "totalSeats": 28,
+   "vacantSeats": 0,
+   "vacantSince": null,
+   "authority": "Office of the Governor \u2014 Boards & Commissions",
+   "constituent": "Wisconsinites with developmental disabilities",
+   "mandate": "Wisconsin's federally mandated DD council. Twenty-eight members \u2014 twenty-one governor-appointed, at least 60% people with developmental disabilities or family members.",
+   "requires": [],
+   "applyUrl": "https://wi.accessgov.com/public/Forms/Page/governor/gov-boardsandcommissions",
+   "sourceUrl": "https://wi-bpdd.org/index.php/board/",
+   "lastVerified": "2026-07-16",
+   "criticalNote": "Inventory listing \u2014 apply any time \u00b7 21 of 28 seats are governor-appointed"
+  }
+ ]
+}

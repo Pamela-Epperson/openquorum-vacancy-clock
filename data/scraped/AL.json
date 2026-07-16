@@ -1,0 +1,31 @@
+{
+ "scrapedAt": "2026-07-16T00:00:00Z",
+ "registry": {
+  "profile": "manual"
+ },
+ "summary": {
+  "state": "AL",
+  "total": 1,
+  "full": 1,
+  "provisional": 0,
+  "missingFields": {}
+ },
+ "rows": [
+  {
+   "id": 1,
+   "name": "Alabama Council on Developmental Disabilities",
+   "domain": "disability",
+   "totalSeats": 36,
+   "vacantSeats": 0,
+   "vacantSince": null,
+   "authority": "Governor's Appointments Office",
+   "constituent": "Alabamians with developmental disabilities",
+   "mandate": "Alabama's federally mandated DD council driving systems change and inclusion. Thirty-six governor-appointed volunteer members including self-advocates, family members, and agency representatives.",
+   "requires": [],
+   "applyUrl": "https://governor.alabama.gov/administration/appointments/appointment-application/",
+   "sourceUrl": "https://www.acdd.org/council-members/",
+   "lastVerified": "2026-07-16",
+   "criticalNote": "Inventory listing \u2014 apply any time"
+  }
+ ]
+}

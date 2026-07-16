@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-07-15T20:51:27.519Z",
+  "scrapedAt": "2026-07-08T14:34:23.543Z",
   "registry": {
     "profile": "co",
     "endpoint": "https://governorsoffice.colorado.gov/governor/appointments-and-openings",
@@ -7,21 +7,35 @@
     "applyAuthority": "Governor's Boards & Commissions Office",
     "dataSource": "governorsoffice.colorado.gov/governor/appointments-and-openings",
     "totalBoardsNote": "2026 opportunities published in the Governor's Blue Book",
-    "promote": true
+    "promote": false
   },
   "summary": {
     "state": "CO",
-    "total": 61,
-    "full": 4,
-    "provisional": 57,
+    "total": 75,
+    "full": 0,
+    "provisional": 75,
     "missingFields": {
-      "totalSeats": 57,
-      "constituent": 57
+      "totalSeats": 75,
+      "constituent": 75
     }
   },
   "rows": [
     {
       "id": 1,
+      "name": "Educational and Cultural Facilities, Board of Directors",
+      "domain": "education",
+      "totalSeats": null,
+      "vacantSeats": 1,
+      "vacantSince": null,
+      "authority": "Governor's Boards & Commissions Office",
+      "constituent": null,
+      "applyUrl": "https://governorsoffice.colorado.gov/governor/boards-commissions-application",
+      "sourceUrl": "https://governorsoffice.colorado.gov/governor/appointments-and-openings",
+      "lastVerified": "2026-07-08",
+      "criticalNote": "Opening: June 2026"
+    },
+    {
+      "id": 2,
       "name": "Peace Officer Standards and Training Board, POST",
       "domain": "justice",
       "totalSeats": null,
@@ -31,43 +45,39 @@
       "constituent": null,
       "applyUrl": "https://governorsoffice.colorado.gov/governor/boards-commissions-application",
       "sourceUrl": "https://governorsoffice.colorado.gov/governor/appointments-and-openings",
-      "lastVerified": "2026-07-15",
+      "lastVerified": "2026-07-08",
       "criticalNote": "Opening: June 2026"
     },
     {
-      "id": 2,
+      "id": 3,
       "name": "Personnel Board, State",
       "domain": "justice",
-      "totalSeats": 5,
+      "totalSeats": null,
       "vacantSeats": 1,
       "vacantSince": null,
       "authority": "Governor's Boards & Commissions Office",
-      "constituent": "Colorado state personnel system employees",
+      "constituent": null,
       "applyUrl": "https://governorsoffice.colorado.gov/governor/boards-commissions-application",
       "sourceUrl": "https://governorsoffice.colorado.gov/governor/appointments-and-openings",
-      "lastVerified": "2026-07-15",
-      "criticalNote": "Only 3 of 5 seats are governor-appointed",
-      "mandate": "Constitutional board hearing state employee appeals and adopting personnel rules. Five members — three governor-appointed with Senate consent, two elected by certified state employees (Colo. Const. art. XII, § 14).",
-      "seatSource": "https://law.justia.com/constitution/colorado/cnart12.html"
-    },
-    {
-      "id": 3,
-      "name": "Veterans Affairs, Colorado Board of",
-      "domain": "justice",
-      "totalSeats": 7,
-      "vacantSeats": 2,
-      "vacantSince": null,
-      "authority": "Governor's Boards & Commissions Office",
-      "constituent": "Colorado veterans & their families",
-      "applyUrl": "https://governorsoffice.colorado.gov/governor/boards-commissions-application",
-      "sourceUrl": "https://governorsoffice.colorado.gov/governor/appointments-and-openings",
-      "lastVerified": "2026-07-15",
-      "criticalNote": "Immediate opening — resignation",
-      "mandate": "Advises on veterans policy and oversees the Veterans Trust Fund grant program. Seven members appointed by the Governor (C.R.S. 28-5-702).",
-      "seatSource": "https://vets.colorado.gov/cbva"
+      "lastVerified": "2026-07-08",
+      "criticalNote": "Opening: June 2026"
     },
     {
       "id": 4,
+      "name": "Veterans Affairs, Colorado Board of",
+      "domain": "justice",
+      "totalSeats": null,
+      "vacantSeats": 1,
+      "vacantSince": null,
+      "authority": "Governor's Boards & Commissions Office",
+      "constituent": null,
+      "applyUrl": "https://governorsoffice.colorado.gov/governor/boards-commissions-application",
+      "sourceUrl": "https://governorsoffice.colorado.gov/governor/appointments-and-openings",
+      "lastVerified": "2026-07-08",
+      "criticalNote": "Opening: June 2026"
+    },
+    {
+      "id": 5,
       "name": "Veterinary Medicine, State Board of",
       "domain": "justice",
       "totalSeats": null,
@@ -77,11 +87,11 @@
       "constituent": null,
       "applyUrl": "https://governorsoffice.colorado.gov/governor/boards-commissions-application",
       "sourceUrl": "https://governorsoffice.colorado.gov/governor/appointments-and-openings",
-      "lastVerified": "2026-07-15",
+      "lastVerified": "2026-07-08",
       "criticalNote": "Opening: June 2026"
     },
     {
-      "id": 5,
+      "id": 6,
       "name": "Capitol Building Advisory Committee, State",
       "domain": "housing",
       "totalSeats": null,
@@ -91,11 +101,11 @@
       "constituent": null,
       "applyUrl": "https://governorsoffice.colorado.gov/governor/boards-commissions-application",
       "sourceUrl": "https://governorsoffice.colorado.gov/governor/appointments-and-openings",
-      "lastVerified": "2026-07-15",
+      "lastVerified": "2026-07-08",
       "criticalNote": "Opening: July 2026"
     },
     {
-      "id": 6,
+      "id": 7,
       "name": "Coal Mine Examiners",
       "domain": "justice",
       "totalSeats": null,
@@ -105,27 +115,25 @@
       "constituent": null,
       "applyUrl": "https://governorsoffice.colorado.gov/governor/boards-commissions-application",
       "sourceUrl": "https://governorsoffice.colorado.gov/governor/appointments-and-openings",
-      "lastVerified": "2026-07-15",
+      "lastVerified": "2026-07-08",
       "criticalNote": "Opening: July 2026"
     },
     {
-      "id": 7,
+      "id": 8,
       "name": "Colorado Health Benefits Exchange Board",
       "domain": "health",
-      "totalSeats": 12,
+      "totalSeats": null,
       "vacantSeats": 1,
       "vacantSince": null,
       "authority": "Governor's Boards & Commissions Office",
-      "constituent": "Coloradans buying insurance through Connect for Health Colorado",
+      "constituent": null,
       "applyUrl": "https://governorsoffice.colorado.gov/governor/boards-commissions-application",
       "sourceUrl": "https://governorsoffice.colorado.gov/governor/appointments-and-openings",
-      "lastVerified": "2026-07-15",
-      "criticalNote": "9 voting + 3 ex officio members",
-      "mandate": "Governs Connect for Health Colorado, the state health insurance marketplace. Twelve members — nine voting (five governor-appointed, four legislative) plus three ex officio (C.R.S. 10-22-104).",
-      "seatSource": "https://leg.colorado.gov/bills/sb17-003"
+      "lastVerified": "2026-07-08",
+      "criticalNote": "Opening: July 2026"
     },
     {
-      "id": 8,
+      "id": 9,
       "name": "Council on Creative Industries CCI",
       "domain": "justice",
       "totalSeats": null,
@@ -135,11 +143,11 @@
       "constituent": null,
       "applyUrl": "https://governorsoffice.colorado.gov/governor/boards-commissions-application",
       "sourceUrl": "https://governorsoffice.colorado.gov/governor/appointments-and-openings",
-      "lastVerified": "2026-07-15",
+      "lastVerified": "2026-07-08",
       "criticalNote": "Opening: July 2026"
     },
     {
-      "id": 9,
+      "id": 10,
       "name": "Competency Task Force",
       "domain": "justice",
       "totalSeats": null,
@@ -149,11 +157,11 @@
       "constituent": null,
       "applyUrl": "https://governorsoffice.colorado.gov/governor/boards-commissions-application",
       "sourceUrl": "https://governorsoffice.colorado.gov/governor/appointments-and-openings",
-      "lastVerified": "2026-07-15",
+      "lastVerified": "2026-07-08",
       "criticalNote": "Opening: July 2026"
     },
     {
-      "id": 10,
+      "id": 11,
       "name": "Deaf and Blind, Board of Trustees for the Colorado School for the",
       "domain": "education",
       "totalSeats": null,
@@ -163,11 +171,25 @@
       "constituent": null,
       "applyUrl": "https://governorsoffice.colorado.gov/governor/boards-commissions-application",
       "sourceUrl": "https://governorsoffice.colorado.gov/governor/appointments-and-openings",
-      "lastVerified": "2026-07-15",
+      "lastVerified": "2026-07-08",
       "criticalNote": "Opening: July 2026"
     },
     {
-      "id": 11,
+      "id": 12,
+      "name": "Early Childhood Leadership Commission ECLC",
+      "domain": "education",
+      "totalSeats": null,
+      "vacantSeats": 1,
+      "vacantSince": null,
+      "authority": "Governor's Boards & Commissions Office",
+      "constituent": null,
+      "applyUrl": "https://governorsoffice.colorado.gov/governor/boards-commissions-application",
+      "sourceUrl": "https://governorsoffice.colorado.gov/governor/appointments-and-openings",
+      "lastVerified": "2026-07-08",
+      "criticalNote": "Opening: July 2026"
+    },
+    {
+      "id": 13,
       "name": "Electrical Board, State",
       "domain": "justice",
       "totalSeats": null,
@@ -177,11 +199,11 @@
       "constituent": null,
       "applyUrl": "https://governorsoffice.colorado.gov/governor/boards-commissions-application",
       "sourceUrl": "https://governorsoffice.colorado.gov/governor/appointments-and-openings",
-      "lastVerified": "2026-07-15",
+      "lastVerified": "2026-07-08",
       "criticalNote": "Opening: July 2026"
     },
     {
-      "id": 12,
+      "id": 14,
       "name": "Emergency Medical and Trauma Services Advisory Council, State",
       "domain": "health",
       "totalSeats": null,
@@ -191,11 +213,11 @@
       "constituent": null,
       "applyUrl": "https://governorsoffice.colorado.gov/governor/boards-commissions-application",
       "sourceUrl": "https://governorsoffice.colorado.gov/governor/appointments-and-openings",
-      "lastVerified": "2026-07-15",
+      "lastVerified": "2026-07-08",
       "criticalNote": "Opening: July 2026"
     },
     {
-      "id": 13,
+      "id": 15,
       "name": "Fire Service Training and Certification Advisory Board",
       "domain": "justice",
       "totalSeats": null,
@@ -205,11 +227,25 @@
       "constituent": null,
       "applyUrl": "https://governorsoffice.colorado.gov/governor/boards-commissions-application",
       "sourceUrl": "https://governorsoffice.colorado.gov/governor/appointments-and-openings",
-      "lastVerified": "2026-07-15",
+      "lastVerified": "2026-07-08",
       "criticalNote": "Opening: July 2026"
     },
     {
-      "id": 14,
+      "id": 16,
+      "name": "Higher Education, CO Commission CCHE",
+      "domain": "education",
+      "totalSeats": null,
+      "vacantSeats": 1,
+      "vacantSince": null,
+      "authority": "Governor's Boards & Commissions Office",
+      "constituent": null,
+      "applyUrl": "https://governorsoffice.colorado.gov/governor/boards-commissions-application",
+      "sourceUrl": "https://governorsoffice.colorado.gov/governor/appointments-and-openings",
+      "lastVerified": "2026-07-08",
+      "criticalNote": "Opening: July 2026"
+    },
+    {
+      "id": 17,
       "name": "Justice Assistance Grant Board JAG",
       "domain": "justice",
       "totalSeats": null,
@@ -219,11 +255,11 @@
       "constituent": null,
       "applyUrl": "https://governorsoffice.colorado.gov/governor/boards-commissions-application",
       "sourceUrl": "https://governorsoffice.colorado.gov/governor/appointments-and-openings",
-      "lastVerified": "2026-07-15",
+      "lastVerified": "2026-07-08",
       "criticalNote": "Opening: July 2026"
     },
     {
-      "id": 15,
+      "id": 18,
       "name": "Juvenile Justice and Delinquency Prevention Advisory Council, State JJDP",
       "domain": "justice",
       "totalSeats": null,
@@ -233,27 +269,25 @@
       "constituent": null,
       "applyUrl": "https://governorsoffice.colorado.gov/governor/boards-commissions-application",
       "sourceUrl": "https://governorsoffice.colorado.gov/governor/appointments-and-openings",
-      "lastVerified": "2026-07-15",
+      "lastVerified": "2026-07-08",
       "criticalNote": "Opening: July 2026"
     },
     {
-      "id": 16,
+      "id": 19,
       "name": "Medical Services Board",
       "domain": "health",
-      "totalSeats": 11,
-      "vacantSeats": 2,
+      "totalSeats": null,
+      "vacantSeats": 1,
       "vacantSince": null,
       "authority": "Governor's Boards & Commissions Office",
-      "constituent": "Health First Colorado (Medicaid) members",
+      "constituent": null,
       "applyUrl": "https://governorsoffice.colorado.gov/governor/boards-commissions-application",
       "sourceUrl": "https://governorsoffice.colorado.gov/governor/appointments-and-openings",
-      "lastVerified": "2026-07-15",
-      "criticalNote": "Immediate opening — resignation",
-      "mandate": "Adopts rules governing Colorado's Medicaid and medical assistance programs. Eleven members appointed by the Governor with Senate consent, at least one per congressional district (C.R.S. 25.5-1-301).",
-      "seatSource": "https://law.justia.com/codes/colorado/2022/title-25-5/article-1/part-3/section-25-5-1-301/"
+      "lastVerified": "2026-07-08",
+      "criticalNote": "Opening: July 2026"
     },
     {
-      "id": 17,
+      "id": 20,
       "name": "Nursing, State Board of",
       "domain": "health",
       "totalSeats": null,
@@ -263,11 +297,11 @@
       "constituent": null,
       "applyUrl": "https://governorsoffice.colorado.gov/governor/boards-commissions-application",
       "sourceUrl": "https://governorsoffice.colorado.gov/governor/appointments-and-openings",
-      "lastVerified": "2026-07-15",
+      "lastVerified": "2026-07-08",
       "criticalNote": "Opening: July 2026"
     },
     {
-      "id": 18,
+      "id": 21,
       "name": "Plumbers, State Board",
       "domain": "justice",
       "totalSeats": null,
@@ -277,11 +311,25 @@
       "constituent": null,
       "applyUrl": "https://governorsoffice.colorado.gov/governor/boards-commissions-application",
       "sourceUrl": "https://governorsoffice.colorado.gov/governor/appointments-and-openings",
-      "lastVerified": "2026-07-15",
+      "lastVerified": "2026-07-08",
       "criticalNote": "Opening: July 2026"
     },
     {
-      "id": 19,
+      "id": 22,
+      "name": "Private Occupational School Board",
+      "domain": "education",
+      "totalSeats": null,
+      "vacantSeats": 1,
+      "vacantSince": null,
+      "authority": "Governor's Boards & Commissions Office",
+      "constituent": null,
+      "applyUrl": "https://governorsoffice.colorado.gov/governor/boards-commissions-application",
+      "sourceUrl": "https://governorsoffice.colorado.gov/governor/appointments-and-openings",
+      "lastVerified": "2026-07-08",
+      "criticalNote": "Opening: July 2026"
+    },
+    {
+      "id": 23,
       "name": "Public School Capital Construction Assistance Board",
       "domain": "education",
       "totalSeats": null,
@@ -291,11 +339,11 @@
       "constituent": null,
       "applyUrl": "https://governorsoffice.colorado.gov/governor/boards-commissions-application",
       "sourceUrl": "https://governorsoffice.colorado.gov/governor/appointments-and-openings",
-      "lastVerified": "2026-07-15",
+      "lastVerified": "2026-07-08",
       "criticalNote": "Opening: July 2026"
     },
     {
-      "id": 20,
+      "id": 24,
       "name": "Southern Ute Indian Tribe/State of Colorado Environmental Control Commission",
       "domain": "equity",
       "totalSeats": null,
@@ -305,25 +353,53 @@
       "constituent": null,
       "applyUrl": "https://governorsoffice.colorado.gov/governor/boards-commissions-application",
       "sourceUrl": "https://governorsoffice.colorado.gov/governor/appointments-and-openings",
-      "lastVerified": "2026-07-15",
+      "lastVerified": "2026-07-08",
       "criticalNote": "Opening: July 2026"
     },
     {
-      "id": 21,
+      "id": 25,
       "name": "Unlicensed Psychotherapists, State Board of",
       "domain": "justice",
       "totalSeats": null,
-      "vacantSeats": 2,
+      "vacantSeats": 1,
       "vacantSince": null,
       "authority": "Governor's Boards & Commissions Office",
       "constituent": null,
       "applyUrl": "https://governorsoffice.colorado.gov/governor/boards-commissions-application",
       "sourceUrl": "https://governorsoffice.colorado.gov/governor/appointments-and-openings",
-      "lastVerified": "2026-07-15",
-      "criticalNote": "Immediate opening — resignation"
+      "lastVerified": "2026-07-08",
+      "criticalNote": "Opening: July 2026"
     },
     {
-      "id": 22,
+      "id": 26,
+      "name": "Utility Consumers Board",
+      "domain": "justice",
+      "totalSeats": null,
+      "vacantSeats": 1,
+      "vacantSince": null,
+      "authority": "Governor's Boards & Commissions Office",
+      "constituent": null,
+      "applyUrl": "https://governorsoffice.colorado.gov/governor/boards-commissions-application",
+      "sourceUrl": "https://governorsoffice.colorado.gov/governor/appointments-and-openings",
+      "lastVerified": "2026-07-08",
+      "criticalNote": "Opening: July 2026"
+    },
+    {
+      "id": 27,
+      "name": "Wine Industry Development Board, Colorado",
+      "domain": "justice",
+      "totalSeats": null,
+      "vacantSeats": 1,
+      "vacantSince": null,
+      "authority": "Governor's Boards & Commissions Office",
+      "constituent": null,
+      "applyUrl": "https://governorsoffice.colorado.gov/governor/boards-commissions-application",
+      "sourceUrl": "https://governorsoffice.colorado.gov/governor/appointments-and-openings",
+      "lastVerified": "2026-07-08",
+      "criticalNote": "Opening: July 2026"
+    },
+    {
+      "id": 28,
       "name": "Denver Metropolitan Major League Stadium District, Board of Directors",
       "domain": "justice",
       "totalSeats": null,
@@ -333,11 +409,11 @@
       "constituent": null,
       "applyUrl": "https://governorsoffice.colorado.gov/governor/boards-commissions-application",
       "sourceUrl": "https://governorsoffice.colorado.gov/governor/appointments-and-openings",
-      "lastVerified": "2026-07-15",
+      "lastVerified": "2026-07-08",
       "criticalNote": "Opening: August"
     },
     {
-      "id": 23,
+      "id": 29,
       "name": "Cherry Creek Basin Water Quality Authority",
       "domain": "environment",
       "totalSeats": null,
@@ -347,11 +423,11 @@
       "constituent": null,
       "applyUrl": "https://governorsoffice.colorado.gov/governor/boards-commissions-application",
       "sourceUrl": "https://governorsoffice.colorado.gov/governor/appointments-and-openings",
-      "lastVerified": "2026-07-15",
+      "lastVerified": "2026-07-08",
       "criticalNote": "Opening: August"
     },
     {
-      "id": 24,
+      "id": 30,
       "name": "Governor's Commission on Community Service, Serve CO",
       "domain": "justice",
       "totalSeats": null,
@@ -361,11 +437,11 @@
       "constituent": null,
       "applyUrl": "https://governorsoffice.colorado.gov/governor/boards-commissions-application",
       "sourceUrl": "https://governorsoffice.colorado.gov/governor/appointments-and-openings",
-      "lastVerified": "2026-07-15",
+      "lastVerified": "2026-07-08",
       "criticalNote": "Opening: August"
     },
     {
-      "id": 25,
+      "id": 31,
       "name": "Counselor Examiners, State Board of Licensed Professionals",
       "domain": "justice",
       "totalSeats": null,
@@ -375,11 +451,11 @@
       "constituent": null,
       "applyUrl": "https://governorsoffice.colorado.gov/governor/boards-commissions-application",
       "sourceUrl": "https://governorsoffice.colorado.gov/governor/appointments-and-openings",
-      "lastVerified": "2026-07-15",
+      "lastVerified": "2026-07-08",
       "criticalNote": "Opening: August"
     },
     {
-      "id": 26,
+      "id": 32,
       "name": "Disability Funding Committee, Colorado",
       "domain": "disability",
       "totalSeats": null,
@@ -389,11 +465,11 @@
       "constituent": null,
       "applyUrl": "https://governorsoffice.colorado.gov/governor/boards-commissions-application",
       "sourceUrl": "https://governorsoffice.colorado.gov/governor/appointments-and-openings",
-      "lastVerified": "2026-07-15",
+      "lastVerified": "2026-07-08",
       "criticalNote": "Opening: August"
     },
     {
-      "id": 27,
+      "id": 33,
       "name": "Geographic Naming Advisory Board",
       "domain": "justice",
       "totalSeats": null,
@@ -403,11 +479,25 @@
       "constituent": null,
       "applyUrl": "https://governorsoffice.colorado.gov/governor/boards-commissions-application",
       "sourceUrl": "https://governorsoffice.colorado.gov/governor/appointments-and-openings",
-      "lastVerified": "2026-07-15",
+      "lastVerified": "2026-07-08",
       "criticalNote": "Opening: August"
     },
     {
-      "id": 28,
+      "id": 34,
+      "name": "Landscape Architects, Board of",
+      "domain": "environment",
+      "totalSeats": null,
+      "vacantSeats": 1,
+      "vacantSince": null,
+      "authority": "Governor's Boards & Commissions Office",
+      "constituent": null,
+      "applyUrl": "https://governorsoffice.colorado.gov/governor/boards-commissions-application",
+      "sourceUrl": "https://governorsoffice.colorado.gov/governor/appointments-and-openings",
+      "lastVerified": "2026-07-08",
+      "criticalNote": "Opening: August"
+    },
+    {
+      "id": 35,
       "name": "Marriage and Family Therapist Examiners, State Board of",
       "domain": "justice",
       "totalSeats": null,
@@ -417,11 +507,11 @@
       "constituent": null,
       "applyUrl": "https://governorsoffice.colorado.gov/governor/boards-commissions-application",
       "sourceUrl": "https://governorsoffice.colorado.gov/governor/appointments-and-openings",
-      "lastVerified": "2026-07-15",
+      "lastVerified": "2026-07-08",
       "criticalNote": "Opening: August"
     },
     {
-      "id": 29,
+      "id": 36,
       "name": "Mortgage Loan Originators",
       "domain": "justice",
       "totalSeats": null,
@@ -431,11 +521,11 @@
       "constituent": null,
       "applyUrl": "https://governorsoffice.colorado.gov/governor/boards-commissions-application",
       "sourceUrl": "https://governorsoffice.colorado.gov/governor/appointments-and-openings",
-      "lastVerified": "2026-07-15",
+      "lastVerified": "2026-07-08",
       "criticalNote": "Opening: August"
     },
     {
-      "id": 30,
+      "id": 37,
       "name": "Rehabilitation Advisory Council",
       "domain": "justice",
       "totalSeats": null,
@@ -445,11 +535,25 @@
       "constituent": null,
       "applyUrl": "https://governorsoffice.colorado.gov/governor/boards-commissions-application",
       "sourceUrl": "https://governorsoffice.colorado.gov/governor/appointments-and-openings",
-      "lastVerified": "2026-07-15",
+      "lastVerified": "2026-07-08",
       "criticalNote": "Opening: August"
     },
     {
-      "id": 31,
+      "id": 38,
+      "name": "School Safety Resource Center Advisory Board",
+      "domain": "education",
+      "totalSeats": null,
+      "vacantSeats": 1,
+      "vacantSince": null,
+      "authority": "Governor's Boards & Commissions Office",
+      "constituent": null,
+      "applyUrl": "https://governorsoffice.colorado.gov/governor/boards-commissions-application",
+      "sourceUrl": "https://governorsoffice.colorado.gov/governor/appointments-and-openings",
+      "lastVerified": "2026-07-08",
+      "criticalNote": "Opening: August"
+    },
+    {
+      "id": 39,
       "name": "Solid and Hazardous Waste Commission",
       "domain": "justice",
       "totalSeats": null,
@@ -459,11 +563,11 @@
       "constituent": null,
       "applyUrl": "https://governorsoffice.colorado.gov/governor/boards-commissions-application",
       "sourceUrl": "https://governorsoffice.colorado.gov/governor/appointments-and-openings",
-      "lastVerified": "2026-07-15",
+      "lastVerified": "2026-07-08",
       "criticalNote": "Opening: August"
     },
     {
-      "id": 32,
+      "id": 40,
       "name": "Stroke Advisory Board",
       "domain": "health",
       "totalSeats": null,
@@ -473,11 +577,11 @@
       "constituent": null,
       "applyUrl": "https://governorsoffice.colorado.gov/governor/boards-commissions-application",
       "sourceUrl": "https://governorsoffice.colorado.gov/governor/appointments-and-openings",
-      "lastVerified": "2026-07-15",
+      "lastVerified": "2026-07-08",
       "criticalNote": "Opening: August"
     },
     {
-      "id": 33,
+      "id": 41,
       "name": "Advisory Committee to the Property Tax Administrator",
       "domain": "justice",
       "totalSeats": null,
@@ -487,11 +591,11 @@
       "constituent": null,
       "applyUrl": "https://governorsoffice.colorado.gov/governor/boards-commissions-application",
       "sourceUrl": "https://governorsoffice.colorado.gov/governor/appointments-and-openings",
-      "lastVerified": "2026-07-15",
+      "lastVerified": "2026-07-08",
       "criticalNote": "Opening: September"
     },
     {
-      "id": 34,
+      "id": 42,
       "name": "Correctional Industries Advisory Committee",
       "domain": "justice",
       "totalSeats": null,
@@ -501,11 +605,25 @@
       "constituent": null,
       "applyUrl": "https://governorsoffice.colorado.gov/governor/boards-commissions-application",
       "sourceUrl": "https://governorsoffice.colorado.gov/governor/appointments-and-openings",
-      "lastVerified": "2026-07-15",
+      "lastVerified": "2026-07-08",
       "criticalNote": "Opening: September"
     },
     {
-      "id": 35,
+      "id": 43,
+      "name": "Cradle to Career Advisory Board",
+      "domain": "justice",
+      "totalSeats": null,
+      "vacantSeats": 1,
+      "vacantSince": null,
+      "authority": "Governor's Boards & Commissions Office",
+      "constituent": null,
+      "applyUrl": "https://governorsoffice.colorado.gov/governor/boards-commissions-application",
+      "sourceUrl": "https://governorsoffice.colorado.gov/governor/appointments-and-openings",
+      "lastVerified": "2026-07-08",
+      "criticalNote": "Opening: September"
+    },
+    {
+      "id": 44,
       "name": "Disability Funding Authority",
       "domain": "disability",
       "totalSeats": null,
@@ -515,11 +633,11 @@
       "constituent": null,
       "applyUrl": "https://governorsoffice.colorado.gov/governor/boards-commissions-application",
       "sourceUrl": "https://governorsoffice.colorado.gov/governor/appointments-and-openings",
-      "lastVerified": "2026-07-15",
+      "lastVerified": "2026-07-08",
       "criticalNote": "Opening: September"
     },
     {
-      "id": 36,
+      "id": 45,
       "name": "Environmental Justice Advisory Board",
       "domain": "environment",
       "totalSeats": null,
@@ -529,11 +647,11 @@
       "constituent": null,
       "applyUrl": "https://governorsoffice.colorado.gov/governor/boards-commissions-application",
       "sourceUrl": "https://governorsoffice.colorado.gov/governor/appointments-and-openings",
-      "lastVerified": "2026-07-15",
+      "lastVerified": "2026-07-08",
       "criticalNote": "Opening: September"
     },
     {
-      "id": 37,
+      "id": 46,
       "name": "Geologic Storage Stewardship Enterprise Board",
       "domain": "justice",
       "totalSeats": null,
@@ -543,11 +661,11 @@
       "constituent": null,
       "applyUrl": "https://governorsoffice.colorado.gov/governor/boards-commissions-application",
       "sourceUrl": "https://governorsoffice.colorado.gov/governor/appointments-and-openings",
-      "lastVerified": "2026-07-15",
+      "lastVerified": "2026-07-08",
       "criticalNote": "Opening: September"
     },
     {
-      "id": 38,
+      "id": 47,
       "name": "Health Insurance Affordability Enterprise Board",
       "domain": "health",
       "totalSeats": null,
@@ -557,11 +675,11 @@
       "constituent": null,
       "applyUrl": "https://governorsoffice.colorado.gov/governor/boards-commissions-application",
       "sourceUrl": "https://governorsoffice.colorado.gov/governor/appointments-and-openings",
-      "lastVerified": "2026-07-15",
+      "lastVerified": "2026-07-08",
       "criticalNote": "Opening: September"
     },
     {
-      "id": 39,
+      "id": 48,
       "name": "Historical Records Advisory Board",
       "domain": "justice",
       "totalSeats": null,
@@ -571,11 +689,11 @@
       "constituent": null,
       "applyUrl": "https://governorsoffice.colorado.gov/governor/boards-commissions-application",
       "sourceUrl": "https://governorsoffice.colorado.gov/governor/appointments-and-openings",
-      "lastVerified": "2026-07-15",
+      "lastVerified": "2026-07-08",
       "criticalNote": "Opening: September"
     },
     {
-      "id": 40,
+      "id": 49,
       "name": "Middle Income Housing Authority Board",
       "domain": "housing",
       "totalSeats": null,
@@ -585,11 +703,11 @@
       "constituent": null,
       "applyUrl": "https://governorsoffice.colorado.gov/governor/boards-commissions-application",
       "sourceUrl": "https://governorsoffice.colorado.gov/governor/appointments-and-openings",
-      "lastVerified": "2026-07-15",
+      "lastVerified": "2026-07-08",
       "criticalNote": "Opening: September"
     },
     {
-      "id": 41,
+      "id": 50,
       "name": "Nurse Physician Advisory Trak Force for Colorado Health Care (NPATCH)",
       "domain": "health",
       "totalSeats": null,
@@ -599,11 +717,11 @@
       "constituent": null,
       "applyUrl": "https://governorsoffice.colorado.gov/governor/boards-commissions-application",
       "sourceUrl": "https://governorsoffice.colorado.gov/governor/appointments-and-openings",
-      "lastVerified": "2026-07-15",
+      "lastVerified": "2026-07-08",
       "criticalNote": "Opening: September"
     },
     {
-      "id": 42,
+      "id": 51,
       "name": "Orphaned Wells Mitigation Enterprise",
       "domain": "justice",
       "totalSeats": null,
@@ -613,11 +731,11 @@
       "constituent": null,
       "applyUrl": "https://governorsoffice.colorado.gov/governor/boards-commissions-application",
       "sourceUrl": "https://governorsoffice.colorado.gov/governor/appointments-and-openings",
-      "lastVerified": "2026-07-15",
+      "lastVerified": "2026-07-08",
       "criticalNote": "Opening: September"
     },
     {
-      "id": 43,
+      "id": 52,
       "name": "Prescription Drug Affordability Review Board",
       "domain": "health",
       "totalSeats": null,
@@ -627,11 +745,11 @@
       "constituent": null,
       "applyUrl": "https://governorsoffice.colorado.gov/governor/boards-commissions-application",
       "sourceUrl": "https://governorsoffice.colorado.gov/governor/appointments-and-openings",
-      "lastVerified": "2026-07-15",
+      "lastVerified": "2026-07-08",
       "criticalNote": "Opening: September"
     },
     {
-      "id": 44,
+      "id": 53,
       "name": "Uninsured Employer Board",
       "domain": "justice",
       "totalSeats": null,
@@ -641,11 +759,11 @@
       "constituent": null,
       "applyUrl": "https://governorsoffice.colorado.gov/governor/boards-commissions-application",
       "sourceUrl": "https://governorsoffice.colorado.gov/governor/appointments-and-openings",
-      "lastVerified": "2026-07-15",
+      "lastVerified": "2026-07-08",
       "criticalNote": "Opening: September"
     },
     {
-      "id": 45,
+      "id": 54,
       "name": "Workforce Development Council",
       "domain": "education",
       "totalSeats": null,
@@ -655,11 +773,11 @@
       "constituent": null,
       "applyUrl": "https://governorsoffice.colorado.gov/governor/boards-commissions-application",
       "sourceUrl": "https://governorsoffice.colorado.gov/governor/appointments-and-openings",
-      "lastVerified": "2026-07-15",
+      "lastVerified": "2026-07-08",
       "criticalNote": "Opening: September"
     },
     {
-      "id": 46,
+      "id": 55,
       "name": "Child Protection Ombudsman Board",
       "domain": "justice",
       "totalSeats": null,
@@ -669,11 +787,11 @@
       "constituent": null,
       "applyUrl": "https://governorsoffice.colorado.gov/governor/boards-commissions-application",
       "sourceUrl": "https://governorsoffice.colorado.gov/governor/appointments-and-openings",
-      "lastVerified": "2026-07-15",
+      "lastVerified": "2026-07-08",
       "criticalNote": "Immediate opening — resignation"
     },
     {
-      "id": 47,
+      "id": 56,
       "name": "Civil Rights Commission, Colorado",
       "domain": "equity",
       "totalSeats": null,
@@ -683,11 +801,11 @@
       "constituent": null,
       "applyUrl": "https://governorsoffice.colorado.gov/governor/boards-commissions-application",
       "sourceUrl": "https://governorsoffice.colorado.gov/governor/appointments-and-openings",
-      "lastVerified": "2026-07-15",
+      "lastVerified": "2026-07-08",
       "criticalNote": "Immediate opening — resignation"
     },
     {
-      "id": 48,
+      "id": 57,
       "name": "Correctional Industries Advisory board",
       "domain": "justice",
       "totalSeats": null,
@@ -697,11 +815,11 @@
       "constituent": null,
       "applyUrl": "https://governorsoffice.colorado.gov/governor/boards-commissions-application",
       "sourceUrl": "https://governorsoffice.colorado.gov/governor/appointments-and-openings",
-      "lastVerified": "2026-07-15",
+      "lastVerified": "2026-07-08",
       "criticalNote": "Immediate opening — resignation"
     },
     {
-      "id": 49,
+      "id": 58,
       "name": "Colorado Healthcare Affordability and Sustainability Enterprise (CHASE)",
       "domain": "health",
       "totalSeats": null,
@@ -711,11 +829,11 @@
       "constituent": null,
       "applyUrl": "https://governorsoffice.colorado.gov/governor/boards-commissions-application",
       "sourceUrl": "https://governorsoffice.colorado.gov/governor/appointments-and-openings",
-      "lastVerified": "2026-07-15",
+      "lastVerified": "2026-07-08",
       "criticalNote": "Immediate opening — resignation"
     },
     {
-      "id": 50,
+      "id": 59,
       "name": "Colorado Forest Health Council",
       "domain": "health",
       "totalSeats": null,
@@ -725,11 +843,11 @@
       "constituent": null,
       "applyUrl": "https://governorsoffice.colorado.gov/governor/boards-commissions-application",
       "sourceUrl": "https://governorsoffice.colorado.gov/governor/appointments-and-openings",
-      "lastVerified": "2026-07-15",
+      "lastVerified": "2026-07-08",
       "criticalNote": "Immediate opening — resignation"
     },
     {
-      "id": 51,
+      "id": 60,
       "name": "Colorado Transportation Office Board of Directors",
       "domain": "justice",
       "totalSeats": null,
@@ -739,11 +857,11 @@
       "constituent": null,
       "applyUrl": "https://governorsoffice.colorado.gov/governor/boards-commissions-application",
       "sourceUrl": "https://governorsoffice.colorado.gov/governor/appointments-and-openings",
-      "lastVerified": "2026-07-15",
+      "lastVerified": "2026-07-08",
       "criticalNote": "Immediate opening — resignation"
     },
     {
-      "id": 52,
+      "id": 61,
       "name": "Family Medicine, Commission on",
       "domain": "justice",
       "totalSeats": null,
@@ -753,11 +871,11 @@
       "constituent": null,
       "applyUrl": "https://governorsoffice.colorado.gov/governor/boards-commissions-application",
       "sourceUrl": "https://governorsoffice.colorado.gov/governor/appointments-and-openings",
-      "lastVerified": "2026-07-15",
+      "lastVerified": "2026-07-08",
       "criticalNote": "Immediate opening — resignation"
     },
     {
-      "id": 53,
+      "id": 62,
       "name": "Facility Provider Fee Enterprise Support Board",
       "domain": "justice",
       "totalSeats": null,
@@ -767,11 +885,11 @@
       "constituent": null,
       "applyUrl": "https://governorsoffice.colorado.gov/governor/boards-commissions-application",
       "sourceUrl": "https://governorsoffice.colorado.gov/governor/appointments-and-openings",
-      "lastVerified": "2026-07-15",
+      "lastVerified": "2026-07-08",
       "criticalNote": "Immediate opening — resignation"
     },
     {
-      "id": 54,
+      "id": 63,
       "name": "Juvenile Parole Board",
       "domain": "justice",
       "totalSeats": null,
@@ -781,11 +899,11 @@
       "constituent": null,
       "applyUrl": "https://governorsoffice.colorado.gov/governor/boards-commissions-application",
       "sourceUrl": "https://governorsoffice.colorado.gov/governor/appointments-and-openings",
-      "lastVerified": "2026-07-15",
+      "lastVerified": "2026-07-08",
       "criticalNote": "Immediate opening — resignation"
     },
     {
-      "id": 55,
+      "id": 64,
       "name": "Marriage and Family Therapists Board of Examiners",
       "domain": "justice",
       "totalSeats": null,
@@ -795,11 +913,25 @@
       "constituent": null,
       "applyUrl": "https://governorsoffice.colorado.gov/governor/boards-commissions-application",
       "sourceUrl": "https://governorsoffice.colorado.gov/governor/appointments-and-openings",
-      "lastVerified": "2026-07-15",
+      "lastVerified": "2026-07-08",
       "criticalNote": "Immediate opening — resignation"
     },
     {
-      "id": 56,
+      "id": 65,
+      "name": "Medical Services Board",
+      "domain": "health",
+      "totalSeats": null,
+      "vacantSeats": 1,
+      "vacantSince": null,
+      "authority": "Governor's Boards & Commissions Office",
+      "constituent": null,
+      "applyUrl": "https://governorsoffice.colorado.gov/governor/boards-commissions-application",
+      "sourceUrl": "https://governorsoffice.colorado.gov/governor/appointments-and-openings",
+      "lastVerified": "2026-07-08",
+      "criticalNote": "Immediate opening — resignation"
+    },
+    {
+      "id": 66,
       "name": "Medicaid Provider Rate Review Committee",
       "domain": "health",
       "totalSeats": null,
@@ -809,11 +941,11 @@
       "constituent": null,
       "applyUrl": "https://governorsoffice.colorado.gov/governor/boards-commissions-application",
       "sourceUrl": "https://governorsoffice.colorado.gov/governor/appointments-and-openings",
-      "lastVerified": "2026-07-15",
+      "lastVerified": "2026-07-08",
       "criticalNote": "Immediate opening — resignation"
     },
     {
-      "id": 57,
+      "id": 67,
       "name": "Prescription Drug Affordability Board",
       "domain": "health",
       "totalSeats": null,
@@ -823,11 +955,11 @@
       "constituent": null,
       "applyUrl": "https://governorsoffice.colorado.gov/governor/boards-commissions-application",
       "sourceUrl": "https://governorsoffice.colorado.gov/governor/appointments-and-openings",
-      "lastVerified": "2026-07-15",
+      "lastVerified": "2026-07-08",
       "criticalNote": "Immediate opening — resignation"
     },
     {
-      "id": 58,
+      "id": 68,
       "name": "State Board of Stock Inspection Commissioners",
       "domain": "justice",
       "totalSeats": null,
@@ -837,11 +969,11 @@
       "constituent": null,
       "applyUrl": "https://governorsoffice.colorado.gov/governor/boards-commissions-application",
       "sourceUrl": "https://governorsoffice.colorado.gov/governor/appointments-and-openings",
-      "lastVerified": "2026-07-15",
+      "lastVerified": "2026-07-08",
       "criticalNote": "Immediate opening — resignation"
     },
     {
-      "id": 59,
+      "id": 69,
       "name": "State Board of Psychologist Examiners",
       "domain": "health",
       "totalSeats": null,
@@ -851,11 +983,11 @@
       "constituent": null,
       "applyUrl": "https://governorsoffice.colorado.gov/governor/boards-commissions-application",
       "sourceUrl": "https://governorsoffice.colorado.gov/governor/appointments-and-openings",
-      "lastVerified": "2026-07-15",
+      "lastVerified": "2026-07-08",
       "criticalNote": "Immediate opening — resignation"
     },
     {
-      "id": 60,
+      "id": 70,
       "name": "Towing Task Force",
       "domain": "justice",
       "totalSeats": null,
@@ -865,11 +997,53 @@
       "constituent": null,
       "applyUrl": "https://governorsoffice.colorado.gov/governor/boards-commissions-application",
       "sourceUrl": "https://governorsoffice.colorado.gov/governor/appointments-and-openings",
-      "lastVerified": "2026-07-15",
+      "lastVerified": "2026-07-08",
       "criticalNote": "Immediate opening — resignation"
     },
     {
-      "id": 61,
+      "id": 71,
+      "name": "Unlicensed Psychotherapists, State Board of",
+      "domain": "justice",
+      "totalSeats": null,
+      "vacantSeats": 1,
+      "vacantSince": null,
+      "authority": "Governor's Boards & Commissions Office",
+      "constituent": null,
+      "applyUrl": "https://governorsoffice.colorado.gov/governor/boards-commissions-application",
+      "sourceUrl": "https://governorsoffice.colorado.gov/governor/appointments-and-openings",
+      "lastVerified": "2026-07-08",
+      "criticalNote": "Immediate opening — resignation"
+    },
+    {
+      "id": 72,
+      "name": "Utility Consumers' Board",
+      "domain": "justice",
+      "totalSeats": null,
+      "vacantSeats": 1,
+      "vacantSince": null,
+      "authority": "Governor's Boards & Commissions Office",
+      "constituent": null,
+      "applyUrl": "https://governorsoffice.colorado.gov/governor/boards-commissions-application",
+      "sourceUrl": "https://governorsoffice.colorado.gov/governor/appointments-and-openings",
+      "lastVerified": "2026-07-08",
+      "criticalNote": "Immediate opening — resignation"
+    },
+    {
+      "id": 73,
+      "name": "Veterans Affairs, Colorado Board of",
+      "domain": "justice",
+      "totalSeats": null,
+      "vacantSeats": 1,
+      "vacantSince": null,
+      "authority": "Governor's Boards & Commissions Office",
+      "constituent": null,
+      "applyUrl": "https://governorsoffice.colorado.gov/governor/boards-commissions-application",
+      "sourceUrl": "https://governorsoffice.colorado.gov/governor/appointments-and-openings",
+      "lastVerified": "2026-07-08",
+      "criticalNote": "Immediate opening — resignation"
+    },
+    {
+      "id": 74,
       "name": "Wildlife Habitat Stamp Committee",
       "domain": "environment",
       "totalSeats": null,
@@ -879,7 +1053,21 @@
       "constituent": null,
       "applyUrl": "https://governorsoffice.colorado.gov/governor/boards-commissions-application",
       "sourceUrl": "https://governorsoffice.colorado.gov/governor/appointments-and-openings",
-      "lastVerified": "2026-07-15",
+      "lastVerified": "2026-07-08",
+      "criticalNote": "Immediate opening — resignation"
+    },
+    {
+      "id": 75,
+      "name": "Wine Industry Development Board, Colorado",
+      "domain": "justice",
+      "totalSeats": null,
+      "vacantSeats": 1,
+      "vacantSince": null,
+      "authority": "Governor's Boards & Commissions Office",
+      "constituent": null,
+      "applyUrl": "https://governorsoffice.colorado.gov/governor/boards-commissions-application",
+      "sourceUrl": "https://governorsoffice.colorado.gov/governor/appointments-and-openings",
+      "lastVerified": "2026-07-08",
       "criticalNote": "Immediate opening — resignation"
     }
   ]

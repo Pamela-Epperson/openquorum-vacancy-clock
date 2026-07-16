@@ -1,0 +1,47 @@
+{
+ "scrapedAt": "2026-07-16T00:00:00Z",
+ "registry": {
+  "profile": "manual"
+ },
+ "summary": {
+  "state": "FL",
+  "total": 2,
+  "full": 2,
+  "provisional": 0,
+  "missingFields": {}
+ },
+ "rows": [
+  {
+   "id": 1,
+   "name": "Florida Board of Medicine",
+   "domain": "health",
+   "totalSeats": 15,
+   "vacantSeats": 0,
+   "vacantSince": null,
+   "authority": "Governor's Appointments Office",
+   "constituent": "Florida patients & licensed physicians",
+   "mandate": "Licenses and disciplines Florida physicians. Fifteen members appointed by the Governor with Senate confirmation \u2014 twelve physicians, three consumer members (Fla. Stat. \u00a7 458.307).",
+   "requires": [],
+   "applyUrl": "https://eogforms.eog.myflorida.com/pages/seatapplication.aspx",
+   "sourceUrl": "https://florida.public.law/statutes/fla._stat._458.307",
+   "lastVerified": "2026-07-16",
+   "criticalNote": "Inventory listing \u2014 apply any time"
+  },
+  {
+   "id": 2,
+   "name": "Florida State Board of Education",
+   "domain": "education",
+   "totalSeats": 7,
+   "vacantSeats": 0,
+   "vacantSince": null,
+   "authority": "Governor's Appointments Office",
+   "constituent": "Florida K-12 students & families",
+   "mandate": "Chief policy body for Florida public education. Seven members appointed by the Governor to staggered four-year terms, Senate-confirmed (Fla. Const. art. IX).",
+   "requires": [],
+   "applyUrl": "https://eogforms.eog.myflorida.com/pages/seatapplication.aspx",
+   "sourceUrl": "https://www.fldoe.org/policy/state-board-of-edu/members/",
+   "lastVerified": "2026-07-16",
+   "criticalNote": "Inventory listing \u2014 apply any time"
+  }
+ ]
+}
