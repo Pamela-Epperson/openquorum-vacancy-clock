@@ -36,8 +36,29 @@ const liveMarkerRe = new RegExp(`\n  // ─── .+ ─── status: live \\(s
 const isScraperLive = liveMarkerRe.test(cfg);
 const PALETTE = [["#0E6B5C","#E0F4F0"],["#7A3E8F","#F4EBF7"],["#8A5A0B","#FAF1DE"],["#2F6B9A","#E8F1F8"]];
 const [color, bg] = PALETTE[st.charCodeAt(0) % PALETTE.length];
-const label = { CO:"Colorado", WA:"Washington", OR:"Oregon", CA:"California", FL:"Florida", OH:"Ohio", TX:"Texas", CT:"Connecticut" }[st] || st;
-const region = { CO:"West", WA:"West", OR:"West", CA:"West", FL:"South", OH:"Midwest", TX:"South", CT:"Northeast" }[st] || "West";
+// Complete 50-state + DC name/region maps — never fall back to the bare code
+const STATE_NAMES = {
+  AL:"Alabama",AK:"Alaska",AZ:"Arizona",AR:"Arkansas",CA:"California",CO:"Colorado",CT:"Connecticut",
+  DE:"Delaware",DC:"Washington DC",FL:"Florida",GA:"Georgia",HI:"Hawaii",ID:"Idaho",IL:"Illinois",
+  IN:"Indiana",IA:"Iowa",KS:"Kansas",KY:"Kentucky",LA:"Louisiana",ME:"Maine",MD:"Maryland",
+  MA:"Massachusetts",MI:"Michigan",MN:"Minnesota",MS:"Mississippi",MO:"Missouri",MT:"Montana",
+  NE:"Nebraska",NV:"Nevada",NH:"New Hampshire",NJ:"New Jersey",NM:"New Mexico",NY:"New York",
+  NC:"North Carolina",ND:"North Dakota",OH:"Ohio",OK:"Oklahoma",OR:"Oregon",PA:"Pennsylvania",
+  RI:"Rhode Island",SC:"South Carolina",SD:"South Dakota",TN:"Tennessee",TX:"Texas",UT:"Utah",
+  VT:"Vermont",VA:"Virginia",WA:"Washington",WV:"West Virginia",WI:"Wisconsin",WY:"Wyoming",
+};
+const STATE_REGIONS = {
+  CT:"Northeast",ME:"Northeast",MA:"Northeast",NH:"Northeast",NY:"Northeast",RI:"Northeast",VT:"Northeast",
+  DE:"Mid-Atlantic",DC:"Mid-Atlantic",MD:"Mid-Atlantic",NJ:"Mid-Atlantic",PA:"Mid-Atlantic",VA:"Mid-Atlantic",
+  IL:"Midwest",IN:"Midwest",IA:"Midwest",KS:"Midwest",MI:"Midwest",MN:"Midwest",MO:"Midwest",
+  NE:"Midwest",ND:"Midwest",OH:"Midwest",SD:"Midwest",WI:"Midwest",
+  AL:"South",AR:"South",FL:"South",GA:"South",KY:"South",LA:"South",MS:"South",NC:"South",
+  OK:"South",SC:"South",TN:"South",TX:"South",WV:"South",
+  AK:"West",AZ:"West",CA:"West",CO:"West",HI:"West",ID:"West",MT:"West",NV:"West",
+  NM:"West",OR:"West",UT:"West",WA:"West",WY:"West",
+};
+const label = STATE_NAMES[st] || st;
+const region = STATE_REGIONS[st] || "West";
 
 // Generic skill tags by domain — lets scraped boards participate in
 // SeatFinder matching until board-specific requirements are researched.
