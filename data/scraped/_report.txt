@@ -4,7 +4,7 @@ OR: 40 rows (11 full / 29 provisional) — missing: totalSeats×29
 CA: 6 rows (2 full / 4 provisional) — missing: totalSeats×4, constituent×4
 FL: FAILED — FL: vacancies PDF link not found on appointments page
 OH: 102 rows (5 full / 97 provisional) — missing: totalSeats×97, constituent×97
-TX: FAILED — fetch failed
+TX: 263 rows (4 full / 259 provisional) — missing: totalSeats×259, constituent×259
 AZ: 47 rows (2 full / 45 provisional) — missing: totalSeats×45, constituent×45
 MO: 184 rows (0 full / 184 provisional) — missing: totalSeats×184, constituent×184
 CT: manual state — staged data maintained by hand in data/scraped/CT.json
