@@ -50,7 +50,7 @@ function VacancyBar({total,vacant}){
 
 function EmbedModal({stateCode,onClose}){
   const [copied,setCopied]=useState(false);
-  const code=`<script src="https://openquorum.org/widget.js"></script>\n<oq-vacancy-clock state="${stateCode.toLowerCase()}" theme="auto"></oq-vacancy-clock>`;
+  const code=`<script src="https://openquorum.us.com/widget.js"></script>\n<oq-vacancy-clock state="${stateCode.toLowerCase()}" theme="auto"></oq-vacancy-clock>`;
   return(
     <div style={{position:"fixed",inset:0,background:"rgba(0,0,0,0.4)",display:"flex",alignItems:"center",justifyContent:"center",zIndex:1000}} onClick={onClose} aria-hidden="true">
       <div role="dialog" aria-modal="true" aria-labelledby="embed-modal-title" style={{background:"#fff",borderRadius:12,padding:"1.5rem",maxWidth:480,width:"90%"}} onClick={e=>e.stopPropagation()}>
@@ -242,7 +242,7 @@ export default function VacancyClock(){
               <span style={{fontSize:11,fontWeight:500,padding:"3px 8px",borderRadius:20,background:"#f0f0f0",color:INK.body}}>Sample data · scraper in development</span>
               <style>{`@keyframes spin{to{transform:rotate(360deg)}}@media(prefers-reduced-motion:reduce){*{animation-duration:0.01ms!important;animation-iteration-count:1!important;transition-duration:0.01ms!important}}`}</style>
             </div>
-            <p style={{margin:0,fontSize:12,color:INK.body}}>{cfg&&isLive?`Vacancy Clock · ${cfg.dataSource}`:"Vacancy Clock · openquorum.org"}</p>
+            <p style={{margin:0,fontSize:12,color:INK.body}}>{cfg&&isLive?`Vacancy Clock · ${cfg.dataSource}`:"Vacancy Clock · openquorum.us.com"}</p>
           </div>
           <div style={{display:"flex",gap:8,flexWrap:"wrap"}}>
             {stateCode&&isLive&&<button onClick={()=>setShowEmbed(true)} style={{padding:"7px 14px",borderRadius:8,border:"1px solid #1D9E75",background:"transparent",color:"#1D9E75",cursor:"pointer",fontSize:12,fontWeight:500}}>&lt;/&gt; Embed</button>}
@@ -396,7 +396,7 @@ export default function VacancyClock(){
       <div style={{marginTop:"1.5rem",paddingTop:"1rem",borderTop:"1px solid #f0f0f0",display:"flex",justifyContent:"space-between",alignItems:"center",flexWrap:"wrap",gap:8}}>
         <p style={{margin:0,fontSize:11,fontWeight:500,color:INK.micro}}>Data: <a href={`https://${cfg.dataSource}`} target="_blank" rel="noreferrer" style={{color:"#1D9E75",textDecoration:"none"}}>{cfg.dataSource}</a> · Apply via <a href={cfg.applyUrl} target="_blank" rel="noreferrer" style={{color:"#1D9E75",textDecoration:"none"}}>{cfg.applyAuthority}</a> · <a href="https://github.com/Pamela-Epperson" target="_blank" rel="noreferrer" style={{color:"#1D9E75",textDecoration:"none"}}>GitHub</a></p>
         <div style={{display:"flex",gap:6,alignItems:"center"}}>
-          <button onClick={()=>navigator.clipboard?.writeText(maxDays>0?`${cfg.label} has ${totalVacant} unfilled state board seats — some vacant for over ${(maxDays/365).toFixed(1)} years. Track at openquorum.org`:`${cfg.label} board appointment opportunities are tracked and verified at openquorum.org — find your seat.`)} style={{padding:"6px 14px",borderRadius:8,border:"1px solid #1D9E75",background:"transparent",color:"#1D9E75",cursor:"pointer",fontSize:11,fontWeight:500,lineHeight:1.4}}>Share data</button>
+          <button onClick={()=>navigator.clipboard?.writeText(maxDays>0?`${cfg.label} has ${totalVacant} unfilled state board seats — some vacant for over ${(maxDays/365).toFixed(1)} years. Track at openquorum.us.com`:`${cfg.label} board appointment opportunities are tracked and verified at openquorum.us.com — find your seat.`)} style={{padding:"6px 14px",borderRadius:8,border:"1px solid #1D9E75",background:"transparent",color:"#1D9E75",cursor:"pointer",fontSize:11,fontWeight:500,lineHeight:1.4}}>Share data</button>
           <button onClick={()=>setShowEmbed(true)} style={{padding:"6px 14px",borderRadius:8,border:"1px solid #1D9E75",background:"transparent",color:"#1D9E75",cursor:"pointer",fontSize:11,fontWeight:500,lineHeight:1.4}}>Embed</button>
         </div>
       </div>
