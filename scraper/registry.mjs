@@ -34,12 +34,14 @@ export const REGISTRY = {
   },
   CA: {
     profile: "ca",
+    mode: "vacancy",
     endpoint: "https://www.gov.ca.gov/join-the-administration/government-appointments/",
     applyUrl: "https://govca.avature.net/GOVCACareers/Home",
     applyAuthority: "Governor's Appointments Office",
     dataSource: "gov.ca.gov/join-the-administration/government-appointments",
-    totalBoardsNote: "Current Board Vacancies report (PDF), Governor's Appointments Unit",
-    promote: true, // enrichments/CA.mjs: 2 statute-verified boards (Jul 16 2026) // profile new — verify first scrape PR, then add enrichments/CA.mjs before promoting
+    totalBoardsNote: "Current Board Vacancies report (PDF) ≈150 boards, Governor's Appointments Unit",
+    minRows: 40, // yield-floor guard: report reliably lists 100+ (parser rewritten Jul 25 2026)
+    promote: true, // enrichments/CA.mjs statute-verified boards (Jul 25 2026)
   },
   FL: {
     profile: "fl",
