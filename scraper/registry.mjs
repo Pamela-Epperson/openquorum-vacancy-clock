@@ -143,10 +143,10 @@ export const REGISTRY = {
     promote: true, // data/scraped/AL.json manual seed (Jul 16 2026) — INVENTORY MODE
   },
   LA: {
-    profile: "la",
-    mode: "inventory",
-    endpoint: "https://www.legis.la.gov/legis/Boards.aspx",
-    minRows: 100,
+    profile: "manual", // SOURCE IDENTIFIED: legis.la.gov/legis/Boards.aspx (LA Senate directory,
+    // ~490 boards, profiles/la.mjs ready) but that site WAF-blocks GitHub Actions' datacenter IP
+    // ("fetch failed"). Needs a browser-tier fetch step before switching to profile:"la".
+    endpoint: null,
     applyUrl: "https://gov.louisiana.gov/index.cfm/form/home/14",
     applyAuthority: "Governor's Office of Boards & Commissions",
     dataSource: "gov.louisiana.gov/page/boards-commissions",
