@@ -1,47 +1,144 @@
 {
- "scrapedAt": "2026-07-16T00:00:00Z",
- "registry": {
-  "profile": "manual"
- },
- "summary": {
-  "state": "LA",
-  "total": 2,
-  "full": 2,
-  "provisional": 0,
-  "missingFields": {}
- },
- "rows": [
-  {
-   "id": 1,
-   "name": "Louisiana State Board of Medical Examiners",
-   "domain": "health",
-   "totalSeats": 10,
-   "vacantSeats": 0,
-   "vacantSince": null,
-   "authority": "Governor's Office of Boards & Commissions",
-   "constituent": "Louisiana patients & licensed physicians",
-   "mandate": "Licenses and disciplines Louisiana physicians. Ten voting members appointed by the Governor with Senate confirmation from nominated slates plus one consumer member (La. R.S. 37:1263).",
-   "requires": [],
-   "applyUrl": "https://gov.louisiana.gov/index.cfm/form/home/14",
-   "sourceUrl": "https://law.justia.com/codes/louisiana/revised-statutes/title-37/rs-37-1263/",
-   "lastVerified": "2026-07-16",
-   "criticalNote": "Inventory listing \u2014 apply any time"
+  "scrapedAt": "2026-07-25T19:02:22.017Z",
+  "registry": {
+    "profile": "manual",
+    "dataSource": "legis.la.gov/legis/Boards.aspx (LA Senate directory)"
   },
-  {
-   "id": 2,
-   "name": "Louisiana Developmental Disabilities Council",
-   "domain": "disability",
-   "totalSeats": 28,
-   "vacantSeats": 0,
-   "vacantSince": null,
-   "authority": "Governor's Office of Boards & Commissions",
-   "constituent": "Louisianans with developmental disabilities",
-   "mandate": "Louisiana's federally mandated DD council. Twenty-eight governor-appointed members including people with disabilities, family members, and agency representatives.",
-   "requires": [],
-   "applyUrl": "https://gov.louisiana.gov/index.cfm/form/home/14",
-   "sourceUrl": "https://laddc.org/about-us/council-members/",
-   "lastVerified": "2026-07-16",
-   "criticalNote": "Inventory listing \u2014 apply any time"
-  }
- ]
+  "summary": {
+    "state": "LA",
+    "total": 8,
+    "full": 8,
+    "provisional": 0,
+    "missingFields": {}
+  },
+  "rows": [
+    {
+      "id": 1,
+      "name": "Louisiana State Board of Medical Examiners",
+      "domain": "health",
+      "totalSeats": 10,
+      "vacantSeats": 0,
+      "vacantSince": null,
+      "authority": "Governor's Office of Boards & Commissions",
+      "constituent": "Louisiana patients & licensed physicians",
+      "applyUrl": "https://gov.louisiana.gov/index.cfm/form/home/14",
+      "sourceUrl": "https://www.legis.la.gov/legis/Boards.aspx",
+      "lastVerified": "2026-07-25",
+      "mandate": "Licenses and disciplines Louisiana physicians. Ten voting members appointed by the Governor with Senate confirmation from nominated slates plus one consumer member (La. R.S. 37:1263).",
+      "seatSource": "https://www.lsbme.la.gov/",
+      "criticalNote": "Sourced from Louisiana's official Senate Boards & Commissions directory; LA publishes no central vacancy list (inventory mode)"
+    },
+    {
+      "id": 2,
+      "name": "Louisiana Developmental Disabilities Council",
+      "domain": "disability",
+      "totalSeats": 28,
+      "vacantSeats": 0,
+      "vacantSince": null,
+      "authority": "Governor's Office of Boards & Commissions",
+      "constituent": "Louisianans with developmental disabilities",
+      "applyUrl": "https://gov.louisiana.gov/index.cfm/form/home/14",
+      "sourceUrl": "https://www.legis.la.gov/legis/Boards.aspx",
+      "lastVerified": "2026-07-25",
+      "mandate": "Louisiana's federally mandated DD council. Twenty-eight governor-appointed members including people with disabilities, family members, and agency representatives.",
+      "seatSource": "https://laddc.org/",
+      "criticalNote": "Sourced from Louisiana's official Senate Boards & Commissions directory; LA publishes no central vacancy list (inventory mode)"
+    },
+    {
+      "id": 3,
+      "name": "Louisiana State Board of Nursing",
+      "domain": "health",
+      "totalSeats": 11,
+      "vacantSeats": 0,
+      "vacantSince": null,
+      "authority": "Governor's Office of Boards & Commissions",
+      "constituent": "Louisiana patients & registered nurses",
+      "applyUrl": "https://gov.louisiana.gov/index.cfm/form/home/14",
+      "sourceUrl": "https://www.legis.la.gov/legis/Boards.aspx",
+      "lastVerified": "2026-07-25",
+      "mandate": "Licenses and regulates Louisiana's registered nurses. Eleven members appointed by the Governor with Senate confirmation — eight RNs, one CRNA, and two consumer members (La. R.S. 37:914).",
+      "seatSource": "https://www.lsbn.state.la.us/",
+      "criticalNote": "Sourced from Louisiana's official Senate Boards & Commissions directory; LA publishes no central vacancy list (inventory mode)"
+    },
+    {
+      "id": 4,
+      "name": "Louisiana Wildlife and Fisheries Commission",
+      "domain": "environment",
+      "totalSeats": 7,
+      "vacantSeats": 0,
+      "vacantSince": null,
+      "authority": "Governor's Office of Boards & Commissions",
+      "constituent": "Louisiana's wildlife, fisheries & coastal communities",
+      "applyUrl": "https://gov.louisiana.gov/index.cfm/form/home/14",
+      "sourceUrl": "https://www.legis.la.gov/legis/Boards.aspx",
+      "lastVerified": "2026-07-25",
+      "mandate": "Sets policy for Louisiana's wildlife, fisheries, and conservation. Seven members appointed by the Governor with Senate confirmation — three from coastal parishes representing commercial fishing and fur, four at-large (La. R.S. 56:6).",
+      "seatSource": "https://www.wlf.louisiana.gov/page/commission",
+      "criticalNote": "Sourced from Louisiana's official Senate Boards & Commissions directory; LA publishes no central vacancy list (inventory mode)"
+    },
+    {
+      "id": 5,
+      "name": "Louisiana Board of Regents",
+      "domain": "education",
+      "totalSeats": 15,
+      "vacantSeats": 0,
+      "vacantSince": null,
+      "authority": "Governor's Office of Boards & Commissions",
+      "constituent": "Louisiana public college students & institutions",
+      "applyUrl": "https://gov.louisiana.gov/index.cfm/form/home/14",
+      "sourceUrl": "https://www.legis.la.gov/legis/Boards.aspx",
+      "lastVerified": "2026-07-25",
+      "mandate": "Plans, coordinates, and budgets all Louisiana public higher education. Fifteen members appointed by the Governor with Senate confirmation, plus a student member (La. Const. art. VIII; R.S. 17:3121).",
+      "seatSource": "https://www.laregents.edu/boardmembers/",
+      "criticalNote": "Sourced from Louisiana's official Senate Boards & Commissions directory; LA publishes no central vacancy list (inventory mode)"
+    },
+    {
+      "id": 6,
+      "name": "Louisiana State Board of Dentistry",
+      "domain": "health",
+      "totalSeats": 15,
+      "vacantSeats": 0,
+      "vacantSince": null,
+      "authority": "Governor's Office of Boards & Commissions",
+      "constituent": "Louisiana dental patients & licensed dentists",
+      "applyUrl": "https://gov.louisiana.gov/index.cfm/form/home/14",
+      "sourceUrl": "https://www.legis.la.gov/legis/Boards.aspx",
+      "lastVerified": "2026-07-25",
+      "mandate": "Licenses and disciplines Louisiana's dentists and dental hygienists. Fifteen members appointed by the Governor — thirteen dentists, one dental hygienist, and one consumer (La. R.S. 37:753).",
+      "seatSource": "https://www.lsbd.org/",
+      "criticalNote": "Sourced from Louisiana's official Senate Boards & Commissions directory; LA publishes no central vacancy list (inventory mode)"
+    },
+    {
+      "id": 7,
+      "name": "Louisiana Board of Pharmacy",
+      "domain": "health",
+      "totalSeats": 17,
+      "vacantSeats": 0,
+      "vacantSince": null,
+      "authority": "Governor's Office of Boards & Commissions",
+      "constituent": "Louisiana patients & licensed pharmacists",
+      "applyUrl": "https://gov.louisiana.gov/index.cfm/form/home/14",
+      "sourceUrl": "https://www.legis.la.gov/legis/Boards.aspx",
+      "lastVerified": "2026-07-25",
+      "mandate": "Licenses pharmacists and regulates the distribution of drugs in Louisiana. Seventeen members appointed by the Governor from the pharmacy districts plus a consumer member (La. R.S. 37:1172).",
+      "seatSource": "https://www.pharmacy.la.gov/page/board-members",
+      "criticalNote": "Sourced from Louisiana's official Senate Boards & Commissions directory; LA publishes no central vacancy list (inventory mode)"
+    },
+    {
+      "id": 8,
+      "name": "Louisiana Real Estate Commission",
+      "domain": "housing",
+      "totalSeats": 11,
+      "vacantSeats": 0,
+      "vacantSince": null,
+      "authority": "Governor's Office of Boards & Commissions",
+      "constituent": "Louisianans in real estate transactions & licensees",
+      "applyUrl": "https://gov.louisiana.gov/index.cfm/form/home/14",
+      "sourceUrl": "https://www.legis.la.gov/legis/Boards.aspx",
+      "lastVerified": "2026-07-25",
+      "mandate": "Licenses and regulates Louisiana's real estate professionals. Eleven members appointed by the Governor with Senate confirmation — one per supreme court district plus at-large members (La. R.S. 37:1432).",
+      "seatSource": "https://lrec.gov/commission-members",
+      "criticalNote": "Sourced from Louisiana's official Senate Boards & Commissions directory; LA publishes no central vacancy list (inventory mode)"
+    }
+  ]
 }
