@@ -10,6 +10,7 @@
 // are matched with an optional space (/^Vacancy\s*\(/) so both "Vacancy (Public)"
 // and "Vacancy(Public)" count. INVENTORY-grade coverage; enrich seats later.
 import * as cheerio from "cheerio";
+import { writeFileSync } from "node:fs";
 import { classifyDomain } from "../lib/domains.mjs";
 import { browserFetch } from "../lib/http.mjs";
 
@@ -73,12 +74,11 @@ export async function scrape({ endpoint, applyUrl, authority }) {
   const { default: pdfParse } = await import("pdf-parse/lib/pdf-parse.js");
   const buf = Buffer.from(await (await browserFetch(pdfUrl)).arrayBuffer());
   const text = (await pdfParse(buf)).text;
-  // TEMP DEBUG (remove after diagnosing pdf-parse layout):
-  console.log("CA_DBG_LEN", text.length);
-  console.log("CA_DBG_START\n" + text.slice(0, 5000) + "\nCA_DBG_END");
+  // TEMP DEBUG (remove after diagnosing pdf-parse layout): dump raw text to a
+  // committed file so the exact pdf-parse output is readable from the PR.
+  try { writeFileSync("data/scraped/CA_debug.txt", text); } catch { /* ignore */ }
   const today = new Date().toISOString().slice(0, 10);
   const rows = parse(text, { applyUrl, authority, sourceUrl: pdfUrl, today });
-  console.log("CA_DBG_ROWS", rows.length);
   // Profile-level yield floor — the report reliably lists 100+ boards.
   if (rows.length < 30) throw new Error(`CA parser found only ${rows.length} rows — PDF layout may have changed`);
   return rows;
