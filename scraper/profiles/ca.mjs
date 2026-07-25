@@ -10,7 +10,6 @@
 // are matched with an optional space (/^Vacancy\s*\(/) so both "Vacancy (Public)"
 // and "Vacancy(Public)" count. INVENTORY-grade coverage; enrich seats later.
 import * as cheerio from "cheerio";
-import { writeFileSync } from "node:fs";
 import { classifyDomain } from "../lib/domains.mjs";
 import { browserFetch } from "../lib/http.mjs";
 
@@ -34,7 +33,8 @@ export function parse(text, { applyUrl, authority, sourceUrl, today }) {
   };
   for (const raw of text.split("\n")) {
     const line = raw.replace(/\s+/g, " ").trim();
-    if (!line || HEADER.test(line)) { pendingName = null; continue; }
+    if (!line) continue;                              // blank line — PRESERVE pending name
+    if (HEADER.test(line)) { pendingName = null; continue; }
     // Seat line(s): "Vacancy (Cat)" or "Vacancy(Cat)" — space optional. pdf-parse
     // occasionally merges several onto one line, so count occurrences.
     if (/^Vacancy\s*\(/i.test(line)) {
@@ -74,9 +74,6 @@ export async function scrape({ endpoint, applyUrl, authority }) {
   const { default: pdfParse } = await import("pdf-parse/lib/pdf-parse.js");
   const buf = Buffer.from(await (await browserFetch(pdfUrl)).arrayBuffer());
   const text = (await pdfParse(buf)).text;
-  // TEMP DEBUG (remove after diagnosing pdf-parse layout): dump raw text to a
-  // committed file so the exact pdf-parse output is readable from the PR.
-  try { writeFileSync("data/scraped/CA_debug.txt", text); } catch { /* ignore */ }
   const today = new Date().toISOString().slice(0, 10);
   const rows = parse(text, { applyUrl, authority, sourceUrl: pdfUrl, today });
   // Profile-level yield floor — the report reliably lists 100+ boards.
