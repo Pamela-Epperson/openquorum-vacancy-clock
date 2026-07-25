@@ -1,31 +1,96 @@
 {
- "scrapedAt": "2026-07-16T00:00:00Z",
- "registry": {
-  "profile": "manual"
- },
- "summary": {
-  "state": "AL",
-  "total": 1,
-  "full": 1,
-  "provisional": 0,
-  "missingFields": {}
- },
- "rows": [
-  {
-   "id": 1,
-   "name": "Alabama Council on Developmental Disabilities",
-   "domain": "disability",
-   "totalSeats": 36,
-   "vacantSeats": 0,
-   "vacantSince": null,
-   "authority": "Governor's Appointments Office",
-   "constituent": "Alabamians with developmental disabilities",
-   "mandate": "Alabama's federally mandated DD council driving systems change and inclusion. Thirty-six governor-appointed volunteer members including self-advocates, family members, and agency representatives.",
-   "requires": [],
-   "applyUrl": "https://governor.alabama.gov/administration/appointments/appointment-application/",
-   "sourceUrl": "https://www.acdd.org/council-members/",
-   "lastVerified": "2026-07-16",
-   "criticalNote": "Inventory listing \u2014 apply any time"
-  }
- ]
+  "scrapedAt": "2026-07-25T19:43:59.646Z",
+  "registry": {
+    "profile": "manual",
+    "dataSource": "Alabama statutes / Governor's Appointments Office (no central vacancy list)"
+  },
+  "summary": {
+    "state": "AL",
+    "total": 5,
+    "full": 5,
+    "provisional": 0,
+    "missingFields": {}
+  },
+  "rows": [
+    {
+      "id": 1,
+      "name": "Alabama Council on Developmental Disabilities",
+      "domain": "disability",
+      "totalSeats": 36,
+      "vacantSeats": 0,
+      "vacantSince": null,
+      "authority": "Governor's Appointments Office",
+      "constituent": "Alabamians with developmental disabilities",
+      "applyUrl": "https://governor.alabama.gov/administration/appointments/appointment-application/",
+      "sourceUrl": "https://governor.alabama.gov/administration/appointments/",
+      "lastVerified": "2026-07-25",
+      "mandate": "Alabama's federally mandated DD council driving systems change and inclusion. Thirty-six governor-appointed volunteer members including self-advocates, family members, and agency representatives.",
+      "seatSource": "https://acdd.org/",
+      "criticalNote": "Curated from Code of Alabama; AL publishes no central board directory (inventory mode)"
+    },
+    {
+      "id": 2,
+      "name": "Alabama Board of Nursing",
+      "domain": "health",
+      "totalSeats": 13,
+      "vacantSeats": 0,
+      "vacantSince": null,
+      "authority": "Governor's Appointments Office",
+      "constituent": "Alabama patients & licensed nurses",
+      "applyUrl": "https://governor.alabama.gov/administration/appointments/appointment-application/",
+      "sourceUrl": "https://governor.alabama.gov/administration/appointments/",
+      "lastVerified": "2026-07-25",
+      "mandate": "Licenses and regulates Alabama's nurses. Thirteen members appointed by the Governor from nominee lists — eight registered nurses and four licensed practical nurses plus a consumer (Code of Ala. § 34-21-2).",
+      "seatSource": "https://law.justia.com/codes/alabama/title-34/chapter-21/article-1/section-34-21-2/",
+      "criticalNote": "Curated from Code of Alabama; AL publishes no central board directory (inventory mode)"
+    },
+    {
+      "id": 3,
+      "name": "Alabama Board of Pardons and Paroles",
+      "domain": "justice",
+      "totalSeats": 3,
+      "vacantSeats": 0,
+      "vacantSince": null,
+      "authority": "Governor's Appointments Office",
+      "constituent": "Alabamians in the parole & clemency system",
+      "applyUrl": "https://governor.alabama.gov/administration/appointments/appointment-application/",
+      "sourceUrl": "https://governor.alabama.gov/administration/appointments/",
+      "lastVerified": "2026-07-25",
+      "mandate": "Decides parole, pardons, and clemency in Alabama. Three members appointed by the Governor with Senate consent from a nominated slate, six-year terms (Code of Ala. § 15-22-20).",
+      "seatSource": "https://law.justia.com/codes/alabama/title-15/chapter-22/article-2/section-15-22-20/",
+      "criticalNote": "Curated from Code of Alabama; AL publishes no central board directory (inventory mode)"
+    },
+    {
+      "id": 4,
+      "name": "Alabama Real Estate Commission",
+      "domain": "housing",
+      "totalSeats": 9,
+      "vacantSeats": 0,
+      "vacantSince": null,
+      "authority": "Governor's Appointments Office",
+      "constituent": "Alabamians in real estate transactions & licensees",
+      "applyUrl": "https://governor.alabama.gov/administration/appointments/appointment-application/",
+      "sourceUrl": "https://governor.alabama.gov/administration/appointments/",
+      "lastVerified": "2026-07-25",
+      "mandate": "Licenses and regulates Alabama's real estate brokers and salespersons. Nine members appointed by the Governor with Senate consent (Code of Ala. § 34-27-7).",
+      "seatSource": "https://law.justia.com/codes/alabama/title-34/chapter-27/article-1/section-34-27-7/",
+      "criticalNote": "Curated from Code of Alabama; AL publishes no central board directory (inventory mode)"
+    },
+    {
+      "id": 5,
+      "name": "Advisory Board of Conservation and Natural Resources",
+      "domain": "environment",
+      "totalSeats": 13,
+      "vacantSeats": 0,
+      "vacantSince": null,
+      "authority": "Governor's Appointments Office",
+      "constituent": "Alabama's wildlife, public lands & outdoors",
+      "applyUrl": "https://governor.alabama.gov/administration/appointments/appointment-application/",
+      "sourceUrl": "https://governor.alabama.gov/administration/appointments/",
+      "lastVerified": "2026-07-25",
+      "mandate": "Advises the Alabama Department of Conservation and Natural Resources on game, fish, and state lands. Thirteen members — ten appointed by the Governor (one per congressional district) plus three ex officio (Code of Ala. § 9-2-14).",
+      "seatSource": "https://law.justia.com/codes/alabama/2021/title-9/chapter-2/article-1/section-9-2-14/",
+      "criticalNote": "10 of 13 seats are governor-appointed"
+    }
+  ]
 }

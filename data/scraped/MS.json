@@ -1,47 +1,112 @@
 {
- "scrapedAt": "2026-07-16T00:00:00Z",
- "registry": {
-  "profile": "manual"
- },
- "summary": {
-  "state": "MS",
-  "total": 2,
-  "full": 2,
-  "provisional": 0,
-  "missingFields": {}
- },
- "rows": [
-  {
-   "id": 1,
-   "name": "Mississippi State Board of Medical Licensure",
-   "domain": "health",
-   "totalSeats": 9,
-   "vacantSeats": 0,
-   "vacantSince": null,
-   "authority": "Governor's Appointments Office",
-   "constituent": "Mississippi patients & licensed physicians",
-   "mandate": "Licenses and disciplines Mississippi physicians. Nine physician members appointed by the Governor with Senate consent (Miss. Code \u00a7 73-43-3).",
-   "requires": [],
-   "applyUrl": "https://governorreeves.ms.gov/",
-   "sourceUrl": "https://law.justia.com/codes/mississippi/title-73/chapter-43/section-73-43-3/",
-   "lastVerified": "2026-07-16",
-   "criticalNote": "Inventory listing \u2014 apply any time"
+  "scrapedAt": "2026-07-25T19:43:59.618Z",
+  "registry": {
+    "profile": "manual",
+    "dataSource": "Mississippi statutes / Governor's Appointments Office (no central vacancy list)"
   },
-  {
-   "id": 2,
-   "name": "Mississippi State Board of Education",
-   "domain": "education",
-   "totalSeats": 9,
-   "vacantSeats": 0,
-   "vacantSince": null,
-   "authority": "Governor's Appointments Office",
-   "constituent": "Mississippi K-12 students & families",
-   "mandate": "Governs Mississippi public education policy. Nine members \u2014 five appointed by the Governor, two each by the Lt. Governor and House Speaker (Miss. Const. \u00a7 202A).",
-   "requires": [],
-   "applyUrl": "https://governorreeves.ms.gov/",
-   "sourceUrl": "https://mdek12.org/mbe/",
-   "lastVerified": "2026-07-16",
-   "criticalNote": "Inventory listing \u2014 apply any time \u00b7 5 of 9 seats are governor-appointed"
-  }
- ]
+  "summary": {
+    "state": "MS",
+    "total": 6,
+    "full": 6,
+    "provisional": 0,
+    "missingFields": {}
+  },
+  "rows": [
+    {
+      "id": 1,
+      "name": "Mississippi State Board of Medical Licensure",
+      "domain": "health",
+      "totalSeats": 9,
+      "vacantSeats": 0,
+      "vacantSince": null,
+      "authority": "Governor's Appointments Office",
+      "constituent": "Mississippi patients & licensed physicians",
+      "applyUrl": "https://governorreeves.ms.gov/",
+      "sourceUrl": "https://www.ms.gov/agencies",
+      "lastVerified": "2026-07-25",
+      "mandate": "Licenses and disciplines Mississippi physicians. Nine physician members appointed by the Governor with Senate consent (Miss. Code § 73-43-3).",
+      "seatSource": "https://law.justia.com/codes/mississippi/title-73/chapter-43/",
+      "criticalNote": "Curated from Mississippi statute; MS publishes no central vacancy list (inventory mode)"
+    },
+    {
+      "id": 2,
+      "name": "Mississippi State Board of Education",
+      "domain": "education",
+      "totalSeats": 9,
+      "vacantSeats": 0,
+      "vacantSince": null,
+      "authority": "Governor's Appointments Office",
+      "constituent": "Mississippi K-12 students & families",
+      "applyUrl": "https://governorreeves.ms.gov/",
+      "sourceUrl": "https://www.ms.gov/agencies",
+      "lastVerified": "2026-07-25",
+      "mandate": "Governs Mississippi public education policy. Nine members — five appointed by the Governor, two each by the Lt. Governor and House Speaker (Miss. Const. § 202A).",
+      "seatSource": "https://law.justia.com/codes/mississippi/",
+      "criticalNote": "5 of 9 seats are governor-appointed"
+    },
+    {
+      "id": 3,
+      "name": "Board of Trustees of State Institutions of Higher Learning",
+      "domain": "education",
+      "totalSeats": 12,
+      "vacantSeats": 0,
+      "vacantSince": null,
+      "authority": "Governor's Appointments Office",
+      "constituent": "Mississippi public university students & institutions",
+      "applyUrl": "https://governorreeves.ms.gov/",
+      "sourceUrl": "https://www.ms.gov/agencies",
+      "lastVerified": "2026-07-25",
+      "mandate": "Governs Mississippi's eight public universities. Twelve members appointed by the Governor with Senate consent — four from each Supreme Court district (Miss. Code § 37-101-1).",
+      "seatSource": "https://www.mississippi.edu/about/board-trustees",
+      "criticalNote": "Curated from Mississippi statute; MS publishes no central vacancy list (inventory mode)"
+    },
+    {
+      "id": 4,
+      "name": "Mississippi Board of Nursing",
+      "domain": "health",
+      "totalSeats": 13,
+      "vacantSeats": 0,
+      "vacantSince": null,
+      "authority": "Governor's Appointments Office",
+      "constituent": "Mississippi patients & licensed nurses",
+      "applyUrl": "https://governorreeves.ms.gov/",
+      "sourceUrl": "https://www.ms.gov/agencies",
+      "lastVerified": "2026-07-25",
+      "mandate": "Licenses and regulates Mississippi's nurses. Thirteen members — twelve nurses appointed by the Governor from nominee lists plus one physician from the Board of Medical Licensure (Miss. Code § 73-15-9).",
+      "seatSource": "https://law.justia.com/codes/mississippi/title-73/chapter-15/article-1/section-73-15-9/",
+      "criticalNote": "12 of 13 seats are governor-appointed"
+    },
+    {
+      "id": 5,
+      "name": "Mississippi Commission on Wildlife, Fisheries, and Parks",
+      "domain": "environment",
+      "totalSeats": 5,
+      "vacantSeats": 0,
+      "vacantSince": null,
+      "authority": "Governor's Appointments Office",
+      "constituent": "Mississippi's wildlife, fisheries, parks & sportsmen",
+      "applyUrl": "https://governorreeves.ms.gov/",
+      "sourceUrl": "https://www.ms.gov/agencies",
+      "lastVerified": "2026-07-25",
+      "mandate": "Sets policy for the Mississippi Department of Wildlife, Fisheries, and Parks. Five members appointed by the Governor with Senate consent, one per historic congressional district (Miss. Code § 49-4-4).",
+      "seatSource": "https://www.mdwfp.com/mississippi-commission-wildlife-fisheries-and-parks",
+      "criticalNote": "Curated from Mississippi statute; MS publishes no central vacancy list (inventory mode)"
+    },
+    {
+      "id": 6,
+      "name": "Mississippi State Board of Pharmacy",
+      "domain": "health",
+      "totalSeats": 7,
+      "vacantSeats": 0,
+      "vacantSince": null,
+      "authority": "Governor's Appointments Office",
+      "constituent": "Mississippi patients & licensed pharmacists",
+      "applyUrl": "https://governorreeves.ms.gov/",
+      "sourceUrl": "https://www.ms.gov/agencies",
+      "lastVerified": "2026-07-25",
+      "mandate": "Licenses pharmacists and regulates drug distribution in Mississippi. Seven members appointed by the Governor with Senate consent (Miss. Code § 73-21-75).",
+      "seatSource": "https://codes.findlaw.com/ms/title-73-professions-and-vocations/ms-code-sect-73-21-75/",
+      "criticalNote": "Curated from Mississippi statute; MS publishes no central vacancy list (inventory mode)"
+    }
+  ]
 }
