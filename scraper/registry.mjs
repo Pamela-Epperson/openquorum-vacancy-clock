@@ -45,13 +45,15 @@ export const REGISTRY = {
   },
   FL: {
     profile: "fl",
-    endpoint: "https://www.flgov.com/eog/leadership/appointments",
-    applyUrl: "https://eogforms.eog.myflorida.com/pages/seatapplication.aspx",
+    mode: "inventory",
+    endpoint: "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
+    applyUrl: "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
     applyAuthority: "Governor's Appointments Office",
-    dataSource: "flgov.com/eog/leadership/appointments",
-    totalBoardsNote: "Remaining-vacancies report, Governor's Appointments Office",
-    contextNote: "Florida board appointments are made by the Governor's Appointments Office; boards shown are hand-verified opportunities — apply any time through the online seat application.",
-    promote: true, // data/scraped/FL.json manual seed (2 statute-verified boards, Jul 16 2026); fl profile keeps trying weekly // verify first scrape PR, then add enrichments/FL.mjs
+    dataSource: "eogforms.eog.myflorida.com Board Seat Application (Board Name directory)",
+    totalBoardsNote: "Governor's Board Seat Application directory (~296 boards) · no central vacancy list",
+    contextNote: "Florida publishes no central vacancy list; boards shown are the full appointive-board directory from the Governor's online Board Seat Application — apply any time.",
+    minRows: 50, // yield-floor guard: the form's Board Name select reliably lists 250+
+    promote: true, // profiles/fl.mjs select-scraper (~296) + enrichments/FL.mjs keeps 2 boards live (Jul 25 2026)
   },
   OH: {
     profile: "oh",
