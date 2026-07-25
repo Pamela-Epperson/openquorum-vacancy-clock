@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-07-17T00:42:43.243Z",
+  "scrapedAt": "2026-07-25T17:14:45.207Z",
   "registry": {
     "profile": "oh",
     "endpoint": "https://governor.ohio.gov/wps/portal/gov/governor/administration/boards-and-commissions/boards-and-commissions-term-expirations-term-expiration-for-2026",
@@ -12,11 +12,11 @@
   "summary": {
     "state": "OH",
     "total": 102,
-    "full": 5,
-    "provisional": 97,
+    "full": 13,
+    "provisional": 89,
     "missingFields": {
-      "totalSeats": 97,
-      "constituent": 97
+      "totalSeats": 89,
+      "constituent": 89
     }
   },
   "rows": [
@@ -31,7 +31,7 @@
       "constituent": null,
       "applyUrl": "https://governor.ohio.gov/wps/portal/gov/governor/administration/boards-and-commissions/boards-and-commissions-application2021",
       "sourceUrl": "https://governor.ohio.gov/wps/portal/gov/governor/administration/boards-and-commissions/boards-and-commissions-term-expirations-term-expiration-for-2026",
-      "lastVerified": "2026-07-17",
+      "lastVerified": "2026-07-25",
       "criticalNote": "Term expiring per Governor's 2026 expirations list"
     },
     {
@@ -45,7 +45,7 @@
       "constituent": null,
       "applyUrl": "https://governor.ohio.gov/wps/portal/gov/governor/administration/boards-and-commissions/boards-and-commissions-application2021",
       "sourceUrl": "https://governor.ohio.gov/wps/portal/gov/governor/administration/boards-and-commissions/boards-and-commissions-term-expirations-term-expiration-for-2026",
-      "lastVerified": "2026-07-17",
+      "lastVerified": "2026-07-25",
       "criticalNote": "Term expiring per Governor's 2026 expirations list"
     },
     {
@@ -59,7 +59,7 @@
       "constituent": null,
       "applyUrl": "https://governor.ohio.gov/wps/portal/gov/governor/administration/boards-and-commissions/boards-and-commissions-application2021",
       "sourceUrl": "https://governor.ohio.gov/wps/portal/gov/governor/administration/boards-and-commissions/boards-and-commissions-term-expirations-term-expiration-for-2026",
-      "lastVerified": "2026-07-17",
+      "lastVerified": "2026-07-25",
       "criticalNote": "Term expiring per Governor's 2026 expirations list"
     },
     {
@@ -73,7 +73,7 @@
       "constituent": null,
       "applyUrl": "https://governor.ohio.gov/wps/portal/gov/governor/administration/boards-and-commissions/boards-and-commissions-application2021",
       "sourceUrl": "https://governor.ohio.gov/wps/portal/gov/governor/administration/boards-and-commissions/boards-and-commissions-term-expirations-term-expiration-for-2026",
-      "lastVerified": "2026-07-17",
+      "lastVerified": "2026-07-25",
       "criticalNote": "Term expiring per Governor's 2026 expirations list"
     },
     {
@@ -87,7 +87,7 @@
       "constituent": null,
       "applyUrl": "https://governor.ohio.gov/wps/portal/gov/governor/administration/boards-and-commissions/boards-and-commissions-application2021",
       "sourceUrl": "https://governor.ohio.gov/wps/portal/gov/governor/administration/boards-and-commissions/boards-and-commissions-term-expirations-term-expiration-for-2026",
-      "lastVerified": "2026-07-17",
+      "lastVerified": "2026-07-25",
       "criticalNote": "Term expiring per Governor's 2026 expirations list"
     },
     {
@@ -101,7 +101,7 @@
       "constituent": null,
       "applyUrl": "https://governor.ohio.gov/wps/portal/gov/governor/administration/boards-and-commissions/boards-and-commissions-application2021",
       "sourceUrl": "https://governor.ohio.gov/wps/portal/gov/governor/administration/boards-and-commissions/boards-and-commissions-term-expirations-term-expiration-for-2026",
-      "lastVerified": "2026-07-17",
+      "lastVerified": "2026-07-25",
       "criticalNote": "Term expiring per Governor's 2026 expirations list"
     },
     {
@@ -115,7 +115,7 @@
       "constituent": null,
       "applyUrl": "https://governor.ohio.gov/wps/portal/gov/governor/administration/boards-and-commissions/boards-and-commissions-application2021",
       "sourceUrl": "https://governor.ohio.gov/wps/portal/gov/governor/administration/boards-and-commissions/boards-and-commissions-term-expirations-term-expiration-for-2026",
-      "lastVerified": "2026-07-17",
+      "lastVerified": "2026-07-25",
       "criticalNote": "Term expiring per Governor's 2026 expirations list"
     },
     {
@@ -129,7 +129,7 @@
       "constituent": null,
       "applyUrl": "https://governor.ohio.gov/wps/portal/gov/governor/administration/boards-and-commissions/boards-and-commissions-application2021",
       "sourceUrl": "https://governor.ohio.gov/wps/portal/gov/governor/administration/boards-and-commissions/boards-and-commissions-term-expirations-term-expiration-for-2026",
-      "lastVerified": "2026-07-17",
+      "lastVerified": "2026-07-25",
       "criticalNote": "Term expiring per Governor's 2026 expirations list"
     },
     {
@@ -143,7 +143,7 @@
       "constituent": null,
       "applyUrl": "https://governor.ohio.gov/wps/portal/gov/governor/administration/boards-and-commissions/boards-and-commissions-application2021",
       "sourceUrl": "https://governor.ohio.gov/wps/portal/gov/governor/administration/boards-and-commissions/boards-and-commissions-term-expirations-term-expiration-for-2026",
-      "lastVerified": "2026-07-17",
+      "lastVerified": "2026-07-25",
       "criticalNote": "Term expiring per Governor's 2026 expirations list"
     },
     {
@@ -157,7 +157,7 @@
       "constituent": null,
       "applyUrl": "https://governor.ohio.gov/wps/portal/gov/governor/administration/boards-and-commissions/boards-and-commissions-application2021",
       "sourceUrl": "https://governor.ohio.gov/wps/portal/gov/governor/administration/boards-and-commissions/boards-and-commissions-term-expirations-term-expiration-for-2026",
-      "lastVerified": "2026-07-17",
+      "lastVerified": "2026-07-25",
       "criticalNote": "Term expiring per Governor's 2026 expirations list"
     },
     {
@@ -171,7 +171,7 @@
       "constituent": null,
       "applyUrl": "https://governor.ohio.gov/wps/portal/gov/governor/administration/boards-and-commissions/boards-and-commissions-application2021",
       "sourceUrl": "https://governor.ohio.gov/wps/portal/gov/governor/administration/boards-and-commissions/boards-and-commissions-term-expirations-term-expiration-for-2026",
-      "lastVerified": "2026-07-17",
+      "lastVerified": "2026-07-25",
       "criticalNote": "Term expiring per Governor's 2026 expirations list"
     },
     {
@@ -185,7 +185,7 @@
       "constituent": null,
       "applyUrl": "https://governor.ohio.gov/wps/portal/gov/governor/administration/boards-and-commissions/boards-and-commissions-application2021",
       "sourceUrl": "https://governor.ohio.gov/wps/portal/gov/governor/administration/boards-and-commissions/boards-and-commissions-term-expirations-term-expiration-for-2026",
-      "lastVerified": "2026-07-17",
+      "lastVerified": "2026-07-25",
       "criticalNote": "Term expiring per Governor's 2026 expirations list"
     },
     {
@@ -199,7 +199,7 @@
       "constituent": null,
       "applyUrl": "https://governor.ohio.gov/wps/portal/gov/governor/administration/boards-and-commissions/boards-and-commissions-application2021",
       "sourceUrl": "https://governor.ohio.gov/wps/portal/gov/governor/administration/boards-and-commissions/boards-and-commissions-term-expirations-term-expiration-for-2026",
-      "lastVerified": "2026-07-17",
+      "lastVerified": "2026-07-25",
       "criticalNote": "Term expiring per Governor's 2026 expirations list"
     },
     {
@@ -213,7 +213,7 @@
       "constituent": null,
       "applyUrl": "https://governor.ohio.gov/wps/portal/gov/governor/administration/boards-and-commissions/boards-and-commissions-application2021",
       "sourceUrl": "https://governor.ohio.gov/wps/portal/gov/governor/administration/boards-and-commissions/boards-and-commissions-term-expirations-term-expiration-for-2026",
-      "lastVerified": "2026-07-17",
+      "lastVerified": "2026-07-25",
       "criticalNote": "Term expiring per Governor's 2026 expirations list"
     },
     {
@@ -227,7 +227,7 @@
       "constituent": "Ohio patients & licensed physicians",
       "applyUrl": "https://governor.ohio.gov/wps/portal/gov/governor/administration/boards-and-commissions/boards-and-commissions-application2021",
       "sourceUrl": "https://governor.ohio.gov/wps/portal/gov/governor/administration/boards-and-commissions/boards-and-commissions-term-expirations-term-expiration-for-2026",
-      "lastVerified": "2026-07-17",
+      "lastVerified": "2026-07-25",
       "criticalNote": "Term expiring per Governor's 2026 expirations list",
       "mandate": "Licenses and disciplines Ohio's physicians. Twelve members appointed by the Governor with Senate consent — eight licensed physicians and surgeons (ORC 4731.01).",
       "seatSource": "https://codes.ohio.gov/ohio-revised-code/section-4731.01"
@@ -243,7 +243,7 @@
       "constituent": null,
       "applyUrl": "https://governor.ohio.gov/wps/portal/gov/governor/administration/boards-and-commissions/boards-and-commissions-application2021",
       "sourceUrl": "https://governor.ohio.gov/wps/portal/gov/governor/administration/boards-and-commissions/boards-and-commissions-term-expirations-term-expiration-for-2026",
-      "lastVerified": "2026-07-17",
+      "lastVerified": "2026-07-25",
       "criticalNote": "Term expiring per Governor's 2026 expirations list"
     },
     {
@@ -257,7 +257,7 @@
       "constituent": null,
       "applyUrl": "https://governor.ohio.gov/wps/portal/gov/governor/administration/boards-and-commissions/boards-and-commissions-application2021",
       "sourceUrl": "https://governor.ohio.gov/wps/portal/gov/governor/administration/boards-and-commissions/boards-and-commissions-term-expirations-term-expiration-for-2026",
-      "lastVerified": "2026-07-17",
+      "lastVerified": "2026-07-25",
       "criticalNote": "Term expiring per Governor's 2026 expirations list"
     },
     {
@@ -271,7 +271,7 @@
       "constituent": null,
       "applyUrl": "https://governor.ohio.gov/wps/portal/gov/governor/administration/boards-and-commissions/boards-and-commissions-application2021",
       "sourceUrl": "https://governor.ohio.gov/wps/portal/gov/governor/administration/boards-and-commissions/boards-and-commissions-term-expirations-term-expiration-for-2026",
-      "lastVerified": "2026-07-17",
+      "lastVerified": "2026-07-25",
       "criticalNote": "Term expiring per Governor's 2026 expirations list"
     },
     {
@@ -285,36 +285,40 @@
       "constituent": null,
       "applyUrl": "https://governor.ohio.gov/wps/portal/gov/governor/administration/boards-and-commissions/boards-and-commissions-application2021",
       "sourceUrl": "https://governor.ohio.gov/wps/portal/gov/governor/administration/boards-and-commissions/boards-and-commissions-term-expirations-term-expiration-for-2026",
-      "lastVerified": "2026-07-17",
+      "lastVerified": "2026-07-25",
       "criticalNote": "Term expiring per Governor's 2026 expirations list"
     },
     {
       "id": 20,
       "name": "State Dental Board",
       "domain": "health",
-      "totalSeats": null,
+      "totalSeats": 13,
       "vacantSeats": 1,
       "vacantSince": null,
       "authority": "Governor's Boards & Commissions Office",
-      "constituent": null,
+      "constituent": "Ohio dental patients & licensed dentists/hygienists",
       "applyUrl": "https://governor.ohio.gov/wps/portal/gov/governor/administration/boards-and-commissions/boards-and-commissions-application2021",
       "sourceUrl": "https://governor.ohio.gov/wps/portal/gov/governor/administration/boards-and-commissions/boards-and-commissions-term-expirations-term-expiration-for-2026",
-      "lastVerified": "2026-07-17",
-      "criticalNote": "Term expiring per Governor's 2026 expirations list"
+      "lastVerified": "2026-07-25",
+      "criticalNote": "Term expiring per Governor's 2026 expirations list",
+      "mandate": "Licenses and disciplines Ohio's dentists and dental hygienists. Thirteen members appointed by the Governor — nine dentists, three hygienists, and one public member (ORC 4715.02).",
+      "seatSource": "https://codes.ohio.gov/ohio-revised-code/section-4715.02"
     },
     {
       "id": 21,
       "name": "Public Utilities Commission of Ohio",
       "domain": "justice",
-      "totalSeats": null,
+      "totalSeats": 5,
       "vacantSeats": 1,
       "vacantSince": null,
       "authority": "Governor's Boards & Commissions Office",
-      "constituent": null,
+      "constituent": "Every Ohio utility ratepayer · electric, gas, water, telecom",
       "applyUrl": "https://governor.ohio.gov/wps/portal/gov/governor/administration/boards-and-commissions/boards-and-commissions-application2021",
       "sourceUrl": "https://governor.ohio.gov/wps/portal/gov/governor/administration/boards-and-commissions/boards-and-commissions-term-expirations-term-expiration-for-2026",
-      "lastVerified": "2026-07-17",
-      "criticalNote": "Term expiring per Governor's 2026 expirations list"
+      "lastVerified": "2026-07-25",
+      "criticalNote": "Term expiring per Governor's 2026 expirations list",
+      "mandate": "Regulates rates and service for Ohio's investor-owned electric, natural gas, water, and telephone utilities. Five commissioners appointed by the Governor with Senate consent; no more than three from one party (ORC 4901.02).",
+      "seatSource": "https://codes.ohio.gov/ohio-revised-code/section-4901.02"
     },
     {
       "id": 22,
@@ -327,7 +331,7 @@
       "constituent": null,
       "applyUrl": "https://governor.ohio.gov/wps/portal/gov/governor/administration/boards-and-commissions/boards-and-commissions-application2021",
       "sourceUrl": "https://governor.ohio.gov/wps/portal/gov/governor/administration/boards-and-commissions/boards-and-commissions-term-expirations-term-expiration-for-2026",
-      "lastVerified": "2026-07-17",
+      "lastVerified": "2026-07-25",
       "criticalNote": "Term expiring per Governor's 2026 expirations list"
     },
     {
@@ -341,7 +345,7 @@
       "constituent": null,
       "applyUrl": "https://governor.ohio.gov/wps/portal/gov/governor/administration/boards-and-commissions/boards-and-commissions-application2021",
       "sourceUrl": "https://governor.ohio.gov/wps/portal/gov/governor/administration/boards-and-commissions/boards-and-commissions-term-expirations-term-expiration-for-2026",
-      "lastVerified": "2026-07-17",
+      "lastVerified": "2026-07-25",
       "criticalNote": "Term expiring per Governor's 2026 expirations list"
     },
     {
@@ -355,7 +359,7 @@
       "constituent": null,
       "applyUrl": "https://governor.ohio.gov/wps/portal/gov/governor/administration/boards-and-commissions/boards-and-commissions-application2021",
       "sourceUrl": "https://governor.ohio.gov/wps/portal/gov/governor/administration/boards-and-commissions/boards-and-commissions-term-expirations-term-expiration-for-2026",
-      "lastVerified": "2026-07-17",
+      "lastVerified": "2026-07-25",
       "criticalNote": "Term expiring per Governor's 2026 expirations list"
     },
     {
@@ -369,7 +373,7 @@
       "constituent": null,
       "applyUrl": "https://governor.ohio.gov/wps/portal/gov/governor/administration/boards-and-commissions/boards-and-commissions-application2021",
       "sourceUrl": "https://governor.ohio.gov/wps/portal/gov/governor/administration/boards-and-commissions/boards-and-commissions-term-expirations-term-expiration-for-2026",
-      "lastVerified": "2026-07-17",
+      "lastVerified": "2026-07-25",
       "criticalNote": "Term expiring per Governor's 2026 expirations list"
     },
     {
@@ -383,7 +387,7 @@
       "constituent": null,
       "applyUrl": "https://governor.ohio.gov/wps/portal/gov/governor/administration/boards-and-commissions/boards-and-commissions-application2021",
       "sourceUrl": "https://governor.ohio.gov/wps/portal/gov/governor/administration/boards-and-commissions/boards-and-commissions-term-expirations-term-expiration-for-2026",
-      "lastVerified": "2026-07-17",
+      "lastVerified": "2026-07-25",
       "criticalNote": "Term expiring per Governor's 2026 expirations list"
     },
     {
@@ -397,7 +401,7 @@
       "constituent": null,
       "applyUrl": "https://governor.ohio.gov/wps/portal/gov/governor/administration/boards-and-commissions/boards-and-commissions-application2021",
       "sourceUrl": "https://governor.ohio.gov/wps/portal/gov/governor/administration/boards-and-commissions/boards-and-commissions-term-expirations-term-expiration-for-2026",
-      "lastVerified": "2026-07-17",
+      "lastVerified": "2026-07-25",
       "criticalNote": "Term expiring per Governor's 2026 expirations list"
     },
     {
@@ -411,7 +415,7 @@
       "constituent": null,
       "applyUrl": "https://governor.ohio.gov/wps/portal/gov/governor/administration/boards-and-commissions/boards-and-commissions-application2021",
       "sourceUrl": "https://governor.ohio.gov/wps/portal/gov/governor/administration/boards-and-commissions/boards-and-commissions-term-expirations-term-expiration-for-2026",
-      "lastVerified": "2026-07-17",
+      "lastVerified": "2026-07-25",
       "criticalNote": "Term expiring per Governor's 2026 expirations list"
     },
     {
@@ -425,7 +429,7 @@
       "constituent": null,
       "applyUrl": "https://governor.ohio.gov/wps/portal/gov/governor/administration/boards-and-commissions/boards-and-commissions-application2021",
       "sourceUrl": "https://governor.ohio.gov/wps/portal/gov/governor/administration/boards-and-commissions/boards-and-commissions-term-expirations-term-expiration-for-2026",
-      "lastVerified": "2026-07-17",
+      "lastVerified": "2026-07-25",
       "criticalNote": "Term expiring per Governor's 2026 expirations list"
     },
     {
@@ -439,7 +443,7 @@
       "constituent": null,
       "applyUrl": "https://governor.ohio.gov/wps/portal/gov/governor/administration/boards-and-commissions/boards-and-commissions-application2021",
       "sourceUrl": "https://governor.ohio.gov/wps/portal/gov/governor/administration/boards-and-commissions/boards-and-commissions-term-expirations-term-expiration-for-2026",
-      "lastVerified": "2026-07-17",
+      "lastVerified": "2026-07-25",
       "criticalNote": "Term expiring per Governor's 2026 expirations list"
     },
     {
@@ -453,7 +457,7 @@
       "constituent": null,
       "applyUrl": "https://governor.ohio.gov/wps/portal/gov/governor/administration/boards-and-commissions/boards-and-commissions-application2021",
       "sourceUrl": "https://governor.ohio.gov/wps/portal/gov/governor/administration/boards-and-commissions/boards-and-commissions-term-expirations-term-expiration-for-2026",
-      "lastVerified": "2026-07-17",
+      "lastVerified": "2026-07-25",
       "criticalNote": "Term expiring per Governor's 2026 expirations list"
     },
     {
@@ -467,7 +471,7 @@
       "constituent": "Ohioans with disabilities seeking employment",
       "applyUrl": "https://governor.ohio.gov/wps/portal/gov/governor/administration/boards-and-commissions/boards-and-commissions-application2021",
       "sourceUrl": "https://governor.ohio.gov/wps/portal/gov/governor/administration/boards-and-commissions/boards-and-commissions-term-expirations-term-expiration-for-2026",
-      "lastVerified": "2026-07-17",
+      "lastVerified": "2026-07-25",
       "criticalNote": "Term expiring per Governor's 2026 expirations list",
       "mandate": "State rehabilitation council advising OOD on vocational rehabilitation policy and services. Fifteen governor-appointed members, majority individuals with disabilities (ORC 3304.12).",
       "seatSource": "https://codes.ohio.gov/orc/3304.12"
@@ -483,7 +487,7 @@
       "constituent": null,
       "applyUrl": "https://governor.ohio.gov/wps/portal/gov/governor/administration/boards-and-commissions/boards-and-commissions-application2021",
       "sourceUrl": "https://governor.ohio.gov/wps/portal/gov/governor/administration/boards-and-commissions/boards-and-commissions-term-expirations-term-expiration-for-2026",
-      "lastVerified": "2026-07-17",
+      "lastVerified": "2026-07-25",
       "criticalNote": "Term expiring per Governor's 2026 expirations list"
     },
     {
@@ -497,22 +501,24 @@
       "constituent": null,
       "applyUrl": "https://governor.ohio.gov/wps/portal/gov/governor/administration/boards-and-commissions/boards-and-commissions-application2021",
       "sourceUrl": "https://governor.ohio.gov/wps/portal/gov/governor/administration/boards-and-commissions/boards-and-commissions-term-expirations-term-expiration-for-2026",
-      "lastVerified": "2026-07-17",
+      "lastVerified": "2026-07-25",
       "criticalNote": "Term expiring per Governor's 2026 expirations list"
     },
     {
       "id": 35,
       "name": "Bureau of Workers’ Compensation Board of Directors",
-      "domain": "justice",
-      "totalSeats": null,
+      "domain": "equity",
+      "totalSeats": 11,
       "vacantSeats": 1,
       "vacantSince": null,
       "authority": "Governor's Boards & Commissions Office",
-      "constituent": null,
+      "constituent": "Ohio's injured workers & employers · statewide comp system",
       "applyUrl": "https://governor.ohio.gov/wps/portal/gov/governor/administration/boards-and-commissions/boards-and-commissions-application2021",
       "sourceUrl": "https://governor.ohio.gov/wps/portal/gov/governor/administration/boards-and-commissions/boards-and-commissions-term-expirations-term-expiration-for-2026",
-      "lastVerified": "2026-07-17",
-      "criticalNote": "Term expiring per Governor's 2026 expirations list"
+      "lastVerified": "2026-07-25",
+      "criticalNote": "Term expiring per Governor's 2026 expirations list",
+      "mandate": "Governs the investment policy and administration of Ohio's workers' compensation system. Eleven members appointed by the Governor with Senate consent, representing employees, employers, and investment expertise (ORC 4121.12).",
+      "seatSource": "https://codes.ohio.gov/ohio-revised-code/section-4121.12"
     },
     {
       "id": 36,
@@ -525,7 +531,7 @@
       "constituent": null,
       "applyUrl": "https://governor.ohio.gov/wps/portal/gov/governor/administration/boards-and-commissions/boards-and-commissions-application2021",
       "sourceUrl": "https://governor.ohio.gov/wps/portal/gov/governor/administration/boards-and-commissions/boards-and-commissions-term-expirations-term-expiration-for-2026",
-      "lastVerified": "2026-07-17",
+      "lastVerified": "2026-07-25",
       "criticalNote": "Term expiring per Governor's 2026 expirations list"
     },
     {
@@ -539,7 +545,7 @@
       "constituent": null,
       "applyUrl": "https://governor.ohio.gov/wps/portal/gov/governor/administration/boards-and-commissions/boards-and-commissions-application2021",
       "sourceUrl": "https://governor.ohio.gov/wps/portal/gov/governor/administration/boards-and-commissions/boards-and-commissions-term-expirations-term-expiration-for-2026",
-      "lastVerified": "2026-07-17",
+      "lastVerified": "2026-07-25",
       "criticalNote": "Term expiring per Governor's 2026 expirations list"
     },
     {
@@ -553,7 +559,7 @@
       "constituent": null,
       "applyUrl": "https://governor.ohio.gov/wps/portal/gov/governor/administration/boards-and-commissions/boards-and-commissions-application2021",
       "sourceUrl": "https://governor.ohio.gov/wps/portal/gov/governor/administration/boards-and-commissions/boards-and-commissions-term-expirations-term-expiration-for-2026",
-      "lastVerified": "2026-07-17",
+      "lastVerified": "2026-07-25",
       "criticalNote": "Term expiring per Governor's 2026 expirations list"
     },
     {
@@ -567,7 +573,7 @@
       "constituent": null,
       "applyUrl": "https://governor.ohio.gov/wps/portal/gov/governor/administration/boards-and-commissions/boards-and-commissions-application2021",
       "sourceUrl": "https://governor.ohio.gov/wps/portal/gov/governor/administration/boards-and-commissions/boards-and-commissions-term-expirations-term-expiration-for-2026",
-      "lastVerified": "2026-07-17",
+      "lastVerified": "2026-07-25",
       "criticalNote": "Term expiring per Governor's 2026 expirations list"
     },
     {
@@ -581,7 +587,7 @@
       "constituent": null,
       "applyUrl": "https://governor.ohio.gov/wps/portal/gov/governor/administration/boards-and-commissions/boards-and-commissions-application2021",
       "sourceUrl": "https://governor.ohio.gov/wps/portal/gov/governor/administration/boards-and-commissions/boards-and-commissions-term-expirations-term-expiration-for-2026",
-      "lastVerified": "2026-07-17",
+      "lastVerified": "2026-07-25",
       "criticalNote": "Term expiring per Governor's 2026 expirations list"
     },
     {
@@ -595,7 +601,7 @@
       "constituent": null,
       "applyUrl": "https://governor.ohio.gov/wps/portal/gov/governor/administration/boards-and-commissions/boards-and-commissions-application2021",
       "sourceUrl": "https://governor.ohio.gov/wps/portal/gov/governor/administration/boards-and-commissions/boards-and-commissions-term-expirations-term-expiration-for-2026",
-      "lastVerified": "2026-07-17",
+      "lastVerified": "2026-07-25",
       "criticalNote": "Term expiring per Governor's 2026 expirations list"
     },
     {
@@ -609,7 +615,7 @@
       "constituent": null,
       "applyUrl": "https://governor.ohio.gov/wps/portal/gov/governor/administration/boards-and-commissions/boards-and-commissions-application2021",
       "sourceUrl": "https://governor.ohio.gov/wps/portal/gov/governor/administration/boards-and-commissions/boards-and-commissions-term-expirations-term-expiration-for-2026",
-      "lastVerified": "2026-07-17",
+      "lastVerified": "2026-07-25",
       "criticalNote": "Term expiring per Governor's 2026 expirations list"
     },
     {
@@ -623,7 +629,7 @@
       "constituent": null,
       "applyUrl": "https://governor.ohio.gov/wps/portal/gov/governor/administration/boards-and-commissions/boards-and-commissions-application2021",
       "sourceUrl": "https://governor.ohio.gov/wps/portal/gov/governor/administration/boards-and-commissions/boards-and-commissions-term-expirations-term-expiration-for-2026",
-      "lastVerified": "2026-07-17",
+      "lastVerified": "2026-07-25",
       "criticalNote": "Term expiring per Governor's 2026 expirations list"
     },
     {
@@ -637,22 +643,24 @@
       "constituent": null,
       "applyUrl": "https://governor.ohio.gov/wps/portal/gov/governor/administration/boards-and-commissions/boards-and-commissions-application2021",
       "sourceUrl": "https://governor.ohio.gov/wps/portal/gov/governor/administration/boards-and-commissions/boards-and-commissions-term-expirations-term-expiration-for-2026",
-      "lastVerified": "2026-07-17",
+      "lastVerified": "2026-07-25",
       "criticalNote": "Term expiring per Governor's 2026 expirations list"
     },
     {
       "id": 45,
       "name": "State Board of Pharmacy",
       "domain": "health",
-      "totalSeats": null,
+      "totalSeats": 9,
       "vacantSeats": 1,
       "vacantSince": null,
       "authority": "Governor's Boards & Commissions Office",
-      "constituent": null,
+      "constituent": "Ohio patients & licensed pharmacists · drug safety",
       "applyUrl": "https://governor.ohio.gov/wps/portal/gov/governor/administration/boards-and-commissions/boards-and-commissions-application2021",
       "sourceUrl": "https://governor.ohio.gov/wps/portal/gov/governor/administration/boards-and-commissions/boards-and-commissions-term-expirations-term-expiration-for-2026",
-      "lastVerified": "2026-07-17",
-      "criticalNote": "Term expiring per Governor's 2026 expirations list"
+      "lastVerified": "2026-07-25",
+      "criticalNote": "Term expiring per Governor's 2026 expirations list",
+      "mandate": "Licenses pharmacists and regulates the distribution of drugs across Ohio. Nine members appointed by the Governor — eight licensed pharmacists and one public member (ORC 4729.02).",
+      "seatSource": "https://codes.ohio.gov/ohio-revised-code/section-4729.02"
     },
     {
       "id": 46,
@@ -665,7 +673,7 @@
       "constituent": null,
       "applyUrl": "https://governor.ohio.gov/wps/portal/gov/governor/administration/boards-and-commissions/boards-and-commissions-application2021",
       "sourceUrl": "https://governor.ohio.gov/wps/portal/gov/governor/administration/boards-and-commissions/boards-and-commissions-term-expirations-term-expiration-for-2026",
-      "lastVerified": "2026-07-17",
+      "lastVerified": "2026-07-25",
       "criticalNote": "Term expiring per Governor's 2026 expirations list"
     },
     {
@@ -679,7 +687,7 @@
       "constituent": null,
       "applyUrl": "https://governor.ohio.gov/wps/portal/gov/governor/administration/boards-and-commissions/boards-and-commissions-application2021",
       "sourceUrl": "https://governor.ohio.gov/wps/portal/gov/governor/administration/boards-and-commissions/boards-and-commissions-term-expirations-term-expiration-for-2026",
-      "lastVerified": "2026-07-17",
+      "lastVerified": "2026-07-25",
       "criticalNote": "Term expiring per Governor's 2026 expirations list"
     },
     {
@@ -693,7 +701,7 @@
       "constituent": null,
       "applyUrl": "https://governor.ohio.gov/wps/portal/gov/governor/administration/boards-and-commissions/boards-and-commissions-application2021",
       "sourceUrl": "https://governor.ohio.gov/wps/portal/gov/governor/administration/boards-and-commissions/boards-and-commissions-term-expirations-term-expiration-for-2026",
-      "lastVerified": "2026-07-17",
+      "lastVerified": "2026-07-25",
       "criticalNote": "Term expiring per Governor's 2026 expirations list"
     },
     {
@@ -707,7 +715,7 @@
       "constituent": null,
       "applyUrl": "https://governor.ohio.gov/wps/portal/gov/governor/administration/boards-and-commissions/boards-and-commissions-application2021",
       "sourceUrl": "https://governor.ohio.gov/wps/portal/gov/governor/administration/boards-and-commissions/boards-and-commissions-term-expirations-term-expiration-for-2026",
-      "lastVerified": "2026-07-17",
+      "lastVerified": "2026-07-25",
       "criticalNote": "Term expiring per Governor's 2026 expirations list"
     },
     {
@@ -721,7 +729,7 @@
       "constituent": null,
       "applyUrl": "https://governor.ohio.gov/wps/portal/gov/governor/administration/boards-and-commissions/boards-and-commissions-application2021",
       "sourceUrl": "https://governor.ohio.gov/wps/portal/gov/governor/administration/boards-and-commissions/boards-and-commissions-term-expirations-term-expiration-for-2026",
-      "lastVerified": "2026-07-17",
+      "lastVerified": "2026-07-25",
       "criticalNote": "Term expiring per Governor's 2026 expirations list"
     },
     {
@@ -735,7 +743,7 @@
       "constituent": null,
       "applyUrl": "https://governor.ohio.gov/wps/portal/gov/governor/administration/boards-and-commissions/boards-and-commissions-application2021",
       "sourceUrl": "https://governor.ohio.gov/wps/portal/gov/governor/administration/boards-and-commissions/boards-and-commissions-term-expirations-term-expiration-for-2026",
-      "lastVerified": "2026-07-17",
+      "lastVerified": "2026-07-25",
       "criticalNote": "Term expiring per Governor's 2026 expirations list"
     },
     {
@@ -749,7 +757,7 @@
       "constituent": null,
       "applyUrl": "https://governor.ohio.gov/wps/portal/gov/governor/administration/boards-and-commissions/boards-and-commissions-application2021",
       "sourceUrl": "https://governor.ohio.gov/wps/portal/gov/governor/administration/boards-and-commissions/boards-and-commissions-term-expirations-term-expiration-for-2026",
-      "lastVerified": "2026-07-17",
+      "lastVerified": "2026-07-25",
       "criticalNote": "Term expiring per Governor's 2026 expirations list"
     },
     {
@@ -763,22 +771,24 @@
       "constituent": null,
       "applyUrl": "https://governor.ohio.gov/wps/portal/gov/governor/administration/boards-and-commissions/boards-and-commissions-application2021",
       "sourceUrl": "https://governor.ohio.gov/wps/portal/gov/governor/administration/boards-and-commissions/boards-and-commissions-term-expirations-term-expiration-for-2026",
-      "lastVerified": "2026-07-17",
+      "lastVerified": "2026-07-25",
       "criticalNote": "Term expiring per Governor's 2026 expirations list"
     },
     {
       "id": 54,
       "name": "State Lottery Commission",
-      "domain": "justice",
-      "totalSeats": null,
+      "domain": "education",
+      "totalSeats": 9,
       "vacantSeats": 1,
       "vacantSince": null,
       "authority": "Governor's Boards & Commissions Office",
-      "constituent": null,
+      "constituent": "Ohio public education · lottery profits fund K-12 schools",
       "applyUrl": "https://governor.ohio.gov/wps/portal/gov/governor/administration/boards-and-commissions/boards-and-commissions-application2021",
       "sourceUrl": "https://governor.ohio.gov/wps/portal/gov/governor/administration/boards-and-commissions/boards-and-commissions-term-expirations-term-expiration-for-2026",
-      "lastVerified": "2026-07-17",
-      "criticalNote": "Term expiring per Governor's 2026 expirations list"
+      "lastVerified": "2026-07-25",
+      "criticalNote": "Term expiring per Governor's 2026 expirations list",
+      "mandate": "Governs the Ohio Lottery, whose profits are constitutionally dedicated to public education. Nine members appointed by the Governor with Senate consent; no more than five from one party (ORC 3770.01).",
+      "seatSource": "https://codes.ohio.gov/ohio-revised-code/section-3770.01"
     },
     {
       "id": 55,
@@ -791,7 +801,7 @@
       "constituent": null,
       "applyUrl": "https://governor.ohio.gov/wps/portal/gov/governor/administration/boards-and-commissions/boards-and-commissions-application2021",
       "sourceUrl": "https://governor.ohio.gov/wps/portal/gov/governor/administration/boards-and-commissions/boards-and-commissions-term-expirations-term-expiration-for-2026",
-      "lastVerified": "2026-07-17",
+      "lastVerified": "2026-07-25",
       "criticalNote": "Term expiring per Governor's 2026 expirations list"
     },
     {
@@ -805,7 +815,7 @@
       "constituent": null,
       "applyUrl": "https://governor.ohio.gov/wps/portal/gov/governor/administration/boards-and-commissions/boards-and-commissions-application2021",
       "sourceUrl": "https://governor.ohio.gov/wps/portal/gov/governor/administration/boards-and-commissions/boards-and-commissions-term-expirations-term-expiration-for-2026",
-      "lastVerified": "2026-07-17",
+      "lastVerified": "2026-07-25",
       "criticalNote": "Term expiring per Governor's 2026 expirations list"
     },
     {
@@ -819,7 +829,7 @@
       "constituent": null,
       "applyUrl": "https://governor.ohio.gov/wps/portal/gov/governor/administration/boards-and-commissions/boards-and-commissions-application2021",
       "sourceUrl": "https://governor.ohio.gov/wps/portal/gov/governor/administration/boards-and-commissions/boards-and-commissions-term-expirations-term-expiration-for-2026",
-      "lastVerified": "2026-07-17",
+      "lastVerified": "2026-07-25",
       "criticalNote": "Term expiring per Governor's 2026 expirations list"
     },
     {
@@ -833,7 +843,7 @@
       "constituent": null,
       "applyUrl": "https://governor.ohio.gov/wps/portal/gov/governor/administration/boards-and-commissions/boards-and-commissions-application2021",
       "sourceUrl": "https://governor.ohio.gov/wps/portal/gov/governor/administration/boards-and-commissions/boards-and-commissions-term-expirations-term-expiration-for-2026",
-      "lastVerified": "2026-07-17",
+      "lastVerified": "2026-07-25",
       "criticalNote": "Term expiring per Governor's 2026 expirations list"
     },
     {
@@ -847,7 +857,7 @@
       "constituent": "Ohio's minority communities · health equity",
       "applyUrl": "https://governor.ohio.gov/wps/portal/gov/governor/administration/boards-and-commissions/boards-and-commissions-application2021",
       "sourceUrl": "https://governor.ohio.gov/wps/portal/gov/governor/administration/boards-and-commissions/boards-and-commissions-term-expirations-term-expiration-for-2026",
-      "lastVerified": "2026-07-17",
+      "lastVerified": "2026-07-25",
       "criticalNote": "9 of 21 seats are governor-appointed",
       "mandate": "Addresses health disparities affecting minority Ohioans through grants, policy, and community programs. Twenty-one members; nine appointed by the Governor from health professions (ORC 3701.78).",
       "seatSource": "https://codes.ohio.gov/orc/3701.78"
@@ -863,7 +873,7 @@
       "constituent": null,
       "applyUrl": "https://governor.ohio.gov/wps/portal/gov/governor/administration/boards-and-commissions/boards-and-commissions-application2021",
       "sourceUrl": "https://governor.ohio.gov/wps/portal/gov/governor/administration/boards-and-commissions/boards-and-commissions-term-expirations-term-expiration-for-2026",
-      "lastVerified": "2026-07-17",
+      "lastVerified": "2026-07-25",
       "criticalNote": "Term expiring per Governor's 2026 expirations list"
     },
     {
@@ -877,7 +887,7 @@
       "constituent": null,
       "applyUrl": "https://governor.ohio.gov/wps/portal/gov/governor/administration/boards-and-commissions/boards-and-commissions-application2021",
       "sourceUrl": "https://governor.ohio.gov/wps/portal/gov/governor/administration/boards-and-commissions/boards-and-commissions-term-expirations-term-expiration-for-2026",
-      "lastVerified": "2026-07-17",
+      "lastVerified": "2026-07-25",
       "criticalNote": "Term expiring per Governor's 2026 expirations list"
     },
     {
@@ -891,7 +901,7 @@
       "constituent": null,
       "applyUrl": "https://governor.ohio.gov/wps/portal/gov/governor/administration/boards-and-commissions/boards-and-commissions-application2021",
       "sourceUrl": "https://governor.ohio.gov/wps/portal/gov/governor/administration/boards-and-commissions/boards-and-commissions-term-expirations-term-expiration-for-2026",
-      "lastVerified": "2026-07-17",
+      "lastVerified": "2026-07-25",
       "criticalNote": "Term expiring per Governor's 2026 expirations list"
     },
     {
@@ -905,7 +915,7 @@
       "constituent": null,
       "applyUrl": "https://governor.ohio.gov/wps/portal/gov/governor/administration/boards-and-commissions/boards-and-commissions-application2021",
       "sourceUrl": "https://governor.ohio.gov/wps/portal/gov/governor/administration/boards-and-commissions/boards-and-commissions-term-expirations-term-expiration-for-2026",
-      "lastVerified": "2026-07-17",
+      "lastVerified": "2026-07-25",
       "criticalNote": "Term expiring per Governor's 2026 expirations list"
     },
     {
@@ -919,7 +929,7 @@
       "constituent": null,
       "applyUrl": "https://governor.ohio.gov/wps/portal/gov/governor/administration/boards-and-commissions/boards-and-commissions-application2021",
       "sourceUrl": "https://governor.ohio.gov/wps/portal/gov/governor/administration/boards-and-commissions/boards-and-commissions-term-expirations-term-expiration-for-2026",
-      "lastVerified": "2026-07-17",
+      "lastVerified": "2026-07-25",
       "criticalNote": "Term expiring per Governor's 2026 expirations list"
     },
     {
@@ -933,7 +943,7 @@
       "constituent": null,
       "applyUrl": "https://governor.ohio.gov/wps/portal/gov/governor/administration/boards-and-commissions/boards-and-commissions-application2021",
       "sourceUrl": "https://governor.ohio.gov/wps/portal/gov/governor/administration/boards-and-commissions/boards-and-commissions-term-expirations-term-expiration-for-2026",
-      "lastVerified": "2026-07-17",
+      "lastVerified": "2026-07-25",
       "criticalNote": "Term expiring per Governor's 2026 expirations list"
     },
     {
@@ -947,7 +957,7 @@
       "constituent": null,
       "applyUrl": "https://governor.ohio.gov/wps/portal/gov/governor/administration/boards-and-commissions/boards-and-commissions-application2021",
       "sourceUrl": "https://governor.ohio.gov/wps/portal/gov/governor/administration/boards-and-commissions/boards-and-commissions-term-expirations-term-expiration-for-2026",
-      "lastVerified": "2026-07-17",
+      "lastVerified": "2026-07-25",
       "criticalNote": "Term expiring per Governor's 2026 expirations list"
     },
     {
@@ -961,7 +971,7 @@
       "constituent": null,
       "applyUrl": "https://governor.ohio.gov/wps/portal/gov/governor/administration/boards-and-commissions/boards-and-commissions-application2021",
       "sourceUrl": "https://governor.ohio.gov/wps/portal/gov/governor/administration/boards-and-commissions/boards-and-commissions-term-expirations-term-expiration-for-2026",
-      "lastVerified": "2026-07-17",
+      "lastVerified": "2026-07-25",
       "criticalNote": "Term expiring per Governor's 2026 expirations list"
     },
     {
@@ -975,7 +985,7 @@
       "constituent": null,
       "applyUrl": "https://governor.ohio.gov/wps/portal/gov/governor/administration/boards-and-commissions/boards-and-commissions-application2021",
       "sourceUrl": "https://governor.ohio.gov/wps/portal/gov/governor/administration/boards-and-commissions/boards-and-commissions-term-expirations-term-expiration-for-2026",
-      "lastVerified": "2026-07-17",
+      "lastVerified": "2026-07-25",
       "criticalNote": "Term expiring per Governor's 2026 expirations list"
     },
     {
@@ -989,7 +999,7 @@
       "constituent": null,
       "applyUrl": "https://governor.ohio.gov/wps/portal/gov/governor/administration/boards-and-commissions/boards-and-commissions-application2021",
       "sourceUrl": "https://governor.ohio.gov/wps/portal/gov/governor/administration/boards-and-commissions/boards-and-commissions-term-expirations-term-expiration-for-2026",
-      "lastVerified": "2026-07-17",
+      "lastVerified": "2026-07-25",
       "criticalNote": "Term expiring per Governor's 2026 expirations list"
     },
     {
@@ -1003,7 +1013,7 @@
       "constituent": null,
       "applyUrl": "https://governor.ohio.gov/wps/portal/gov/governor/administration/boards-and-commissions/boards-and-commissions-application2021",
       "sourceUrl": "https://governor.ohio.gov/wps/portal/gov/governor/administration/boards-and-commissions/boards-and-commissions-term-expirations-term-expiration-for-2026",
-      "lastVerified": "2026-07-17",
+      "lastVerified": "2026-07-25",
       "criticalNote": "Term expiring per Governor's 2026 expirations list"
     },
     {
@@ -1017,22 +1027,24 @@
       "constituent": null,
       "applyUrl": "https://governor.ohio.gov/wps/portal/gov/governor/administration/boards-and-commissions/boards-and-commissions-application2021",
       "sourceUrl": "https://governor.ohio.gov/wps/portal/gov/governor/administration/boards-and-commissions/boards-and-commissions-term-expirations-term-expiration-for-2026",
-      "lastVerified": "2026-07-17",
+      "lastVerified": "2026-07-25",
       "criticalNote": "Term expiring per Governor's 2026 expirations list"
     },
     {
       "id": 72,
       "name": "State Board of Psychology",
       "domain": "health",
-      "totalSeats": null,
+      "totalSeats": 9,
       "vacantSeats": 1,
       "vacantSince": null,
       "authority": "Governor's Boards & Commissions Office",
-      "constituent": null,
+      "constituent": "Ohioans seeking psychological care & licensed psychologists",
       "applyUrl": "https://governor.ohio.gov/wps/portal/gov/governor/administration/boards-and-commissions/boards-and-commissions-application2021",
       "sourceUrl": "https://governor.ohio.gov/wps/portal/gov/governor/administration/boards-and-commissions/boards-and-commissions-term-expirations-term-expiration-for-2026",
-      "lastVerified": "2026-07-17",
-      "criticalNote": "Term expiring per Governor's 2026 expirations list"
+      "lastVerified": "2026-07-25",
+      "criticalNote": "Term expiring per Governor's 2026 expirations list",
+      "mandate": "Licenses and regulates Ohio's psychologists and school psychologists. Nine members appointed by the Governor with Senate consent — six psychologists and three consumer members (ORC 4732.02).",
+      "seatSource": "https://codes.ohio.gov/ohio-revised-code/section-4732.02"
     },
     {
       "id": 73,
@@ -1045,7 +1057,7 @@
       "constituent": null,
       "applyUrl": "https://governor.ohio.gov/wps/portal/gov/governor/administration/boards-and-commissions/boards-and-commissions-application2021",
       "sourceUrl": "https://governor.ohio.gov/wps/portal/gov/governor/administration/boards-and-commissions/boards-and-commissions-term-expirations-term-expiration-for-2026",
-      "lastVerified": "2026-07-17",
+      "lastVerified": "2026-07-25",
       "criticalNote": "Term expiring per Governor's 2026 expirations list"
     },
     {
@@ -1059,7 +1071,7 @@
       "constituent": null,
       "applyUrl": "https://governor.ohio.gov/wps/portal/gov/governor/administration/boards-and-commissions/boards-and-commissions-application2021",
       "sourceUrl": "https://governor.ohio.gov/wps/portal/gov/governor/administration/boards-and-commissions/boards-and-commissions-term-expirations-term-expiration-for-2026",
-      "lastVerified": "2026-07-17",
+      "lastVerified": "2026-07-25",
       "criticalNote": "Term expiring per Governor's 2026 expirations list"
     },
     {
@@ -1073,7 +1085,7 @@
       "constituent": null,
       "applyUrl": "https://governor.ohio.gov/wps/portal/gov/governor/administration/boards-and-commissions/boards-and-commissions-application2021",
       "sourceUrl": "https://governor.ohio.gov/wps/portal/gov/governor/administration/boards-and-commissions/boards-and-commissions-term-expirations-term-expiration-for-2026",
-      "lastVerified": "2026-07-17",
+      "lastVerified": "2026-07-25",
       "criticalNote": "Term expiring per Governor's 2026 expirations list"
     },
     {
@@ -1087,22 +1099,24 @@
       "constituent": null,
       "applyUrl": "https://governor.ohio.gov/wps/portal/gov/governor/administration/boards-and-commissions/boards-and-commissions-application2021",
       "sourceUrl": "https://governor.ohio.gov/wps/portal/gov/governor/administration/boards-and-commissions/boards-and-commissions-term-expirations-term-expiration-for-2026",
-      "lastVerified": "2026-07-17",
+      "lastVerified": "2026-07-25",
       "criticalNote": "Term expiring per Governor's 2026 expirations list"
     },
     {
       "id": 77,
       "name": "Counselor, Social Worker, and Marriage and Family Therapist Board",
-      "domain": "justice",
-      "totalSeats": null,
+      "domain": "health",
+      "totalSeats": 21,
       "vacantSeats": 1,
       "vacantSince": null,
       "authority": "Governor's Boards & Commissions Office",
-      "constituent": null,
+      "constituent": "Ohioans in behavioral health care & licensed clinicians",
       "applyUrl": "https://governor.ohio.gov/wps/portal/gov/governor/administration/boards-and-commissions/boards-and-commissions-application2021",
       "sourceUrl": "https://governor.ohio.gov/wps/portal/gov/governor/administration/boards-and-commissions/boards-and-commissions-term-expirations-term-expiration-for-2026",
-      "lastVerified": "2026-07-17",
-      "criticalNote": "Term expiring per Governor's 2026 expirations list"
+      "lastVerified": "2026-07-25",
+      "criticalNote": "Term expiring per Governor's 2026 expirations list",
+      "mandate": "Licenses Ohio's counselors, social workers, marriage & family therapists, and art/music therapists. Twenty-one members appointed by the Governor across the regulated professions plus public members (ORC 4757.03).",
+      "seatSource": "https://codes.ohio.gov/ohio-revised-code/section-4757.03"
     },
     {
       "id": 78,
@@ -1115,7 +1129,7 @@
       "constituent": null,
       "applyUrl": "https://governor.ohio.gov/wps/portal/gov/governor/administration/boards-and-commissions/boards-and-commissions-application2021",
       "sourceUrl": "https://governor.ohio.gov/wps/portal/gov/governor/administration/boards-and-commissions/boards-and-commissions-term-expirations-term-expiration-for-2026",
-      "lastVerified": "2026-07-17",
+      "lastVerified": "2026-07-25",
       "criticalNote": "Term expiring per Governor's 2026 expirations list"
     },
     {
@@ -1129,7 +1143,7 @@
       "constituent": null,
       "applyUrl": "https://governor.ohio.gov/wps/portal/gov/governor/administration/boards-and-commissions/boards-and-commissions-application2021",
       "sourceUrl": "https://governor.ohio.gov/wps/portal/gov/governor/administration/boards-and-commissions/boards-and-commissions-term-expirations-term-expiration-for-2026",
-      "lastVerified": "2026-07-17",
+      "lastVerified": "2026-07-25",
       "criticalNote": "Term expiring per Governor's 2026 expirations list"
     },
     {
@@ -1143,7 +1157,7 @@
       "constituent": null,
       "applyUrl": "https://governor.ohio.gov/wps/portal/gov/governor/administration/boards-and-commissions/boards-and-commissions-application2021",
       "sourceUrl": "https://governor.ohio.gov/wps/portal/gov/governor/administration/boards-and-commissions/boards-and-commissions-term-expirations-term-expiration-for-2026",
-      "lastVerified": "2026-07-17",
+      "lastVerified": "2026-07-25",
       "criticalNote": "Term expiring per Governor's 2026 expirations list"
     },
     {
@@ -1157,7 +1171,7 @@
       "constituent": null,
       "applyUrl": "https://governor.ohio.gov/wps/portal/gov/governor/administration/boards-and-commissions/boards-and-commissions-application2021",
       "sourceUrl": "https://governor.ohio.gov/wps/portal/gov/governor/administration/boards-and-commissions/boards-and-commissions-term-expirations-term-expiration-for-2026",
-      "lastVerified": "2026-07-17",
+      "lastVerified": "2026-07-25",
       "criticalNote": "Term expiring per Governor's 2026 expirations list"
     },
     {
@@ -1171,7 +1185,7 @@
       "constituent": null,
       "applyUrl": "https://governor.ohio.gov/wps/portal/gov/governor/administration/boards-and-commissions/boards-and-commissions-application2021",
       "sourceUrl": "https://governor.ohio.gov/wps/portal/gov/governor/administration/boards-and-commissions/boards-and-commissions-term-expirations-term-expiration-for-2026",
-      "lastVerified": "2026-07-17",
+      "lastVerified": "2026-07-25",
       "criticalNote": "Term expiring per Governor's 2026 expirations list"
     },
     {
@@ -1185,7 +1199,7 @@
       "constituent": null,
       "applyUrl": "https://governor.ohio.gov/wps/portal/gov/governor/administration/boards-and-commissions/boards-and-commissions-application2021",
       "sourceUrl": "https://governor.ohio.gov/wps/portal/gov/governor/administration/boards-and-commissions/boards-and-commissions-term-expirations-term-expiration-for-2026",
-      "lastVerified": "2026-07-17",
+      "lastVerified": "2026-07-25",
       "criticalNote": "Term expiring per Governor's 2026 expirations list"
     },
     {
@@ -1199,22 +1213,24 @@
       "constituent": null,
       "applyUrl": "https://governor.ohio.gov/wps/portal/gov/governor/administration/boards-and-commissions/boards-and-commissions-application2021",
       "sourceUrl": "https://governor.ohio.gov/wps/portal/gov/governor/administration/boards-and-commissions/boards-and-commissions-term-expirations-term-expiration-for-2026",
-      "lastVerified": "2026-07-17",
+      "lastVerified": "2026-07-25",
       "criticalNote": "Term expiring per Governor's 2026 expirations list"
     },
     {
       "id": 85,
       "name": "Environmental Review Appeals Commission",
       "domain": "environment",
-      "totalSeats": null,
+      "totalSeats": 3,
       "vacantSeats": 1,
       "vacantSince": null,
       "authority": "Governor's Boards & Commissions Office",
-      "constituent": null,
+      "constituent": "Ohioans & businesses contesting environmental permits/orders",
       "applyUrl": "https://governor.ohio.gov/wps/portal/gov/governor/administration/boards-and-commissions/boards-and-commissions-application2021",
       "sourceUrl": "https://governor.ohio.gov/wps/portal/gov/governor/administration/boards-and-commissions/boards-and-commissions-term-expirations-term-expiration-for-2026",
-      "lastVerified": "2026-07-17",
-      "criticalNote": "Term expiring per Governor's 2026 expirations list"
+      "lastVerified": "2026-07-25",
+      "criticalNote": "Term expiring per Governor's 2026 expirations list",
+      "mandate": "Hears appeals of Ohio EPA permit and enforcement actions — the state's environmental court of first review. Three members appointed by the Governor with Senate consent for six-year terms (ORC 3745.02).",
+      "seatSource": "https://codes.ohio.gov/ohio-revised-code/section-3745.02"
     },
     {
       "id": 86,
@@ -1227,7 +1243,7 @@
       "constituent": null,
       "applyUrl": "https://governor.ohio.gov/wps/portal/gov/governor/administration/boards-and-commissions/boards-and-commissions-application2021",
       "sourceUrl": "https://governor.ohio.gov/wps/portal/gov/governor/administration/boards-and-commissions/boards-and-commissions-term-expirations-term-expiration-for-2026",
-      "lastVerified": "2026-07-17",
+      "lastVerified": "2026-07-25",
       "criticalNote": "Term expiring per Governor's 2026 expirations list"
     },
     {
@@ -1241,7 +1257,7 @@
       "constituent": null,
       "applyUrl": "https://governor.ohio.gov/wps/portal/gov/governor/administration/boards-and-commissions/boards-and-commissions-application2021",
       "sourceUrl": "https://governor.ohio.gov/wps/portal/gov/governor/administration/boards-and-commissions/boards-and-commissions-term-expirations-term-expiration-for-2026",
-      "lastVerified": "2026-07-17",
+      "lastVerified": "2026-07-25",
       "criticalNote": "Term expiring per Governor's 2026 expirations list"
     },
     {
@@ -1255,7 +1271,7 @@
       "constituent": null,
       "applyUrl": "https://governor.ohio.gov/wps/portal/gov/governor/administration/boards-and-commissions/boards-and-commissions-application2021",
       "sourceUrl": "https://governor.ohio.gov/wps/portal/gov/governor/administration/boards-and-commissions/boards-and-commissions-term-expirations-term-expiration-for-2026",
-      "lastVerified": "2026-07-17",
+      "lastVerified": "2026-07-25",
       "criticalNote": "Term expiring per Governor's 2026 expirations list"
     },
     {
@@ -1269,7 +1285,7 @@
       "constituent": null,
       "applyUrl": "https://governor.ohio.gov/wps/portal/gov/governor/administration/boards-and-commissions/boards-and-commissions-application2021",
       "sourceUrl": "https://governor.ohio.gov/wps/portal/gov/governor/administration/boards-and-commissions/boards-and-commissions-term-expirations-term-expiration-for-2026",
-      "lastVerified": "2026-07-17",
+      "lastVerified": "2026-07-25",
       "criticalNote": "Term expiring per Governor's 2026 expirations list"
     },
     {
@@ -1283,7 +1299,7 @@
       "constituent": null,
       "applyUrl": "https://governor.ohio.gov/wps/portal/gov/governor/administration/boards-and-commissions/boards-and-commissions-application2021",
       "sourceUrl": "https://governor.ohio.gov/wps/portal/gov/governor/administration/boards-and-commissions/boards-and-commissions-term-expirations-term-expiration-for-2026",
-      "lastVerified": "2026-07-17",
+      "lastVerified": "2026-07-25",
       "criticalNote": "Term expiring per Governor's 2026 expirations list"
     },
     {
@@ -1297,7 +1313,7 @@
       "constituent": null,
       "applyUrl": "https://governor.ohio.gov/wps/portal/gov/governor/administration/boards-and-commissions/boards-and-commissions-application2021",
       "sourceUrl": "https://governor.ohio.gov/wps/portal/gov/governor/administration/boards-and-commissions/boards-and-commissions-term-expirations-term-expiration-for-2026",
-      "lastVerified": "2026-07-17",
+      "lastVerified": "2026-07-25",
       "criticalNote": "Term expiring per Governor's 2026 expirations list"
     },
     {
@@ -1311,7 +1327,7 @@
       "constituent": null,
       "applyUrl": "https://governor.ohio.gov/wps/portal/gov/governor/administration/boards-and-commissions/boards-and-commissions-application2021",
       "sourceUrl": "https://governor.ohio.gov/wps/portal/gov/governor/administration/boards-and-commissions/boards-and-commissions-term-expirations-term-expiration-for-2026",
-      "lastVerified": "2026-07-17",
+      "lastVerified": "2026-07-25",
       "criticalNote": "Term expiring per Governor's 2026 expirations list"
     },
     {
@@ -1325,7 +1341,7 @@
       "constituent": null,
       "applyUrl": "https://governor.ohio.gov/wps/portal/gov/governor/administration/boards-and-commissions/boards-and-commissions-application2021",
       "sourceUrl": "https://governor.ohio.gov/wps/portal/gov/governor/administration/boards-and-commissions/boards-and-commissions-term-expirations-term-expiration-for-2026",
-      "lastVerified": "2026-07-17",
+      "lastVerified": "2026-07-25",
       "criticalNote": "Term expiring per Governor's 2026 expirations list"
     },
     {
@@ -1339,7 +1355,7 @@
       "constituent": null,
       "applyUrl": "https://governor.ohio.gov/wps/portal/gov/governor/administration/boards-and-commissions/boards-and-commissions-application2021",
       "sourceUrl": "https://governor.ohio.gov/wps/portal/gov/governor/administration/boards-and-commissions/boards-and-commissions-term-expirations-term-expiration-for-2026",
-      "lastVerified": "2026-07-17",
+      "lastVerified": "2026-07-25",
       "criticalNote": "Term expiring per Governor's 2026 expirations list"
     },
     {
@@ -1353,7 +1369,7 @@
       "constituent": "Ohio patients & licensed nurses",
       "applyUrl": "https://governor.ohio.gov/wps/portal/gov/governor/administration/boards-and-commissions/boards-and-commissions-application2021",
       "sourceUrl": "https://governor.ohio.gov/wps/portal/gov/governor/administration/boards-and-commissions/boards-and-commissions-term-expirations-term-expiration-for-2026",
-      "lastVerified": "2026-07-17",
+      "lastVerified": "2026-07-25",
       "criticalNote": "Term expiring per Governor's 2026 expirations list",
       "mandate": "Regulates Ohio's nursing profession. Thirteen members — eight registered nurses, four licensed practical nurses, one consumer representative (ORC 4723.02).",
       "seatSource": "https://codes.ohio.gov/ohio-revised-code/section-4723.02"
@@ -1369,7 +1385,7 @@
       "constituent": "Ohio K-12 students & families",
       "applyUrl": "https://governor.ohio.gov/wps/portal/gov/governor/administration/boards-and-commissions/boards-and-commissions-application2021",
       "sourceUrl": "https://governor.ohio.gov/wps/portal/gov/governor/administration/boards-and-commissions/boards-and-commissions-term-expirations-term-expiration-for-2026",
-      "lastVerified": "2026-07-17",
+      "lastVerified": "2026-07-25",
       "criticalNote": "Only 8 of 19 seats are governor-appointed",
       "mandate": "Oversees educator licensure and school district territory; 19 members — 11 elected by district, 8 appointed by the Governor with Senate consent.",
       "seatSource": "https://sboe.ohio.gov/about-the-state-board/board-members/02-board-members"
@@ -1385,7 +1401,7 @@
       "constituent": null,
       "applyUrl": "https://governor.ohio.gov/wps/portal/gov/governor/administration/boards-and-commissions/boards-and-commissions-application2021",
       "sourceUrl": "https://governor.ohio.gov/wps/portal/gov/governor/administration/boards-and-commissions/boards-and-commissions-term-expirations-term-expiration-for-2026",
-      "lastVerified": "2026-07-17",
+      "lastVerified": "2026-07-25",
       "criticalNote": "Term expiring per Governor's 2026 expirations list"
     },
     {
@@ -1399,7 +1415,7 @@
       "constituent": null,
       "applyUrl": "https://governor.ohio.gov/wps/portal/gov/governor/administration/boards-and-commissions/boards-and-commissions-application2021",
       "sourceUrl": "https://governor.ohio.gov/wps/portal/gov/governor/administration/boards-and-commissions/boards-and-commissions-term-expirations-term-expiration-for-2026",
-      "lastVerified": "2026-07-17",
+      "lastVerified": "2026-07-25",
       "criticalNote": "Term expiring per Governor's 2026 expirations list"
     },
     {
@@ -1413,7 +1429,7 @@
       "constituent": null,
       "applyUrl": "https://governor.ohio.gov/wps/portal/gov/governor/administration/boards-and-commissions/boards-and-commissions-application2021",
       "sourceUrl": "https://governor.ohio.gov/wps/portal/gov/governor/administration/boards-and-commissions/boards-and-commissions-term-expirations-term-expiration-for-2026",
-      "lastVerified": "2026-07-17",
+      "lastVerified": "2026-07-25",
       "criticalNote": "Term expiring per Governor's 2026 expirations list"
     },
     {
@@ -1427,7 +1443,7 @@
       "constituent": null,
       "applyUrl": "https://governor.ohio.gov/wps/portal/gov/governor/administration/boards-and-commissions/boards-and-commissions-application2021",
       "sourceUrl": "https://governor.ohio.gov/wps/portal/gov/governor/administration/boards-and-commissions/boards-and-commissions-term-expirations-term-expiration-for-2026",
-      "lastVerified": "2026-07-17",
+      "lastVerified": "2026-07-25",
       "criticalNote": "Term expiring per Governor's 2026 expirations list"
     },
     {
@@ -1441,7 +1457,7 @@
       "constituent": null,
       "applyUrl": "https://governor.ohio.gov/wps/portal/gov/governor/administration/boards-and-commissions/boards-and-commissions-application2021",
       "sourceUrl": "https://governor.ohio.gov/wps/portal/gov/governor/administration/boards-and-commissions/boards-and-commissions-term-expirations-term-expiration-for-2026",
-      "lastVerified": "2026-07-17",
+      "lastVerified": "2026-07-25",
       "criticalNote": "Term expiring per Governor's 2026 expirations list"
     },
     {
@@ -1455,7 +1471,7 @@
       "constituent": null,
       "applyUrl": "https://governor.ohio.gov/wps/portal/gov/governor/administration/boards-and-commissions/boards-and-commissions-application2021",
       "sourceUrl": "https://governor.ohio.gov/wps/portal/gov/governor/administration/boards-and-commissions/boards-and-commissions-term-expirations-term-expiration-for-2026",
-      "lastVerified": "2026-07-17",
+      "lastVerified": "2026-07-25",
       "criticalNote": "Term expiring per Governor's 2026 expirations list"
     }
   ]
