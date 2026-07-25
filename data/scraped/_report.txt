@@ -1,1 +1,1 @@
-LA: manual state — staged data maintained by hand in data/scraped/LA.json
+WI: manual state — staged data maintained by hand in data/scraped/WI.json
