@@ -1,15 +1,1 @@
-CO: 61 rows (4 full / 57 provisional) — missing: totalSeats×57, constituent×57
-WA: 129 rows (9 full / 120 provisional) — missing: totalSeats×120, constituent×120
-OR: 40 rows (11 full / 29 provisional) — missing: totalSeats×29
-CA: 6 rows (2 full / 4 provisional) — missing: totalSeats×4, constituent×4
-FL: FAILED — FL: vacancies PDF link not found on appointments page
-OH: 102 rows (5 full / 97 provisional) — missing: totalSeats×97, constituent×97
-TX: FAILED — fetch failed
-AZ: 47 rows (2 full / 45 provisional) — missing: totalSeats×45, constituent×45
-MO: 184 rows (0 full / 184 provisional) — missing: totalSeats×184, constituent×184
-CT: manual state — staged data maintained by hand in data/scraped/CT.json
-WI: manual state — staged data maintained by hand in data/scraped/WI.json
-MS: manual state — staged data maintained by hand in data/scraped/MS.json
-AL: manual state — staged data maintained by hand in data/scraped/AL.json
-LA: manual state — staged data maintained by hand in data/scraped/LA.json
-SC: 123 rows (1 full / 122 provisional) — missing: totalSeats×122, constituent×122
+TX: 263 rows (12 full / 251 provisional) — missing: totalSeats×251, constituent×251
