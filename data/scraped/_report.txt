@@ -1,1 +1,1 @@
-FL: 296 rows (2 full / 294 provisional) — missing: totalSeats×294, constituent×294
+LA: manual state — staged data maintained by hand in data/scraped/LA.json
