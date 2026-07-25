@@ -6,7 +6,7 @@
 // Promotion into src/states.config.js is a SEPARATE, gated step: lib/write-config.mjs
 import { REGISTRY } from "./registry.mjs";
 import { summarize } from "./lib/contract.mjs";
-import { writeFileSync, mkdirSync } from "node:fs";
+import { writeFileSync, readFileSync, mkdirSync } from "node:fs";
 
 const args = process.argv.slice(2);
 const states = args.length ? args : Object.keys(REGISTRY);
@@ -29,6 +29,19 @@ for (const st of states) {
       if (enriched) console.log(`${st}: overlay applied to ${enriched} boards`);
     } catch { /* no overlay for this state — fine */ }
     const summary = summarize(st, rows);
+    // ── Yield-floor guard ───────────────────────────────────────────────
+    // Stop a drifted/broken source from silently overwriting good data. Trip
+    // when a run yields under the greater of cfg.minRows and 50% of the
+    // last-good committed count (only when last-good was itself substantial).
+    // On a trip we KEEP the last-good file and flag it loudly instead.
+    let lastGood = 0;
+    try { lastGood = (JSON.parse(readFileSync(`data/scraped/${st}.json`, "utf8")).rows || []).length; } catch { /* first run — nothing to protect */ }
+    const floor = Math.max(cfg.minRows || 0, lastGood >= 8 ? Math.ceil(lastGood * 0.5) : 0);
+    if (floor && rows.length < floor) {
+      report.push(`${st}: ⚠ YIELD GUARD TRIPPED — ${rows.length} rows (< floor ${floor}; last-good ${lastGood}). Source likely drifted — keeping last-good ${st}.json (NOT overwritten). Investigate profiles/${cfg.profile}.mjs.`);
+      process.exitCode = 0;
+      continue;
+    }
     writeFileSync(`data/scraped/${st}.json`, JSON.stringify({ scrapedAt: new Date().toISOString(), registry: cfg, summary, rows }, null, 2));
     report.push(`${st}: ${summary.total} rows (${summary.full} full / ${summary.provisional} provisional)` +
       (summary.provisional ? ` — missing: ${Object.entries(summary.missingFields).map(([k,v])=>`${k}×${v}`).join(", ")}` : ""));

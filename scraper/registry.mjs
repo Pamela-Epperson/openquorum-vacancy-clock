@@ -96,14 +96,16 @@ export const REGISTRY = {
   // boards-iappoint.iowa.gov/boards for a JSON endpoint before a profile.
 
   CT: {
-    profile: "manual",   // no scrapeable vacancy source — data/scraped/CT.json is maintained by hand
-    endpoint: null,
+    profile: "ct",
+    mode: "inventory",
+    endpoint: "https://portal.ct.gov/government/departments-and-agencies/boards-councils-and-commissions",
     applyUrl: "https://www.jobapscloud.com/CT/sup/bulpreview.asp?R1=190219&R2=1234BC&R3=BCM",
     applyAuthority: "Governor's Office via DAS Statewide HR",
     dataSource: "portal.ct.gov/government/departments-and-agencies/boards-councils-and-commissions",
-    totalBoardsNote: "Hand-verified seed · CT publishes no central vacancy list",
-    contextNote: "Connecticut publishes no central board-vacancy list. Boards shown are hand-verified appointment opportunities — apply any time through the DAS Boards, Councils and Commissions recruitment (DAS.SHRM@ct.gov).",
-    promote: true, // data/scraped/CT.json: 3 CGS-verified boards (Jul 16 2026) — INVENTORY MODE
+    totalBoardsNote: "Official CT Boards, Councils & Commissions directory (~37 boards) · no central vacancy list",
+    contextNote: "Connecticut publishes no central board-vacancy list. Boards shown are drawn from the state's official Boards, Councils & Commissions directory — apply any time through the DAS recruitment (DAS.SHRM@ct.gov).",
+    minRows: 20, // yield-floor guard: directory reliably lists 30+
+    promote: true, // profiles/ct.mjs inventory (~37) + enrichments/CT.mjs keeps 3 CGS-verified boards live (Jul 25 2026)
   },
 
   WI: {
