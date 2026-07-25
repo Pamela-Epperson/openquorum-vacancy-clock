@@ -73,8 +73,12 @@ export async function scrape({ endpoint, applyUrl, authority }) {
   const { default: pdfParse } = await import("pdf-parse/lib/pdf-parse.js");
   const buf = Buffer.from(await (await browserFetch(pdfUrl)).arrayBuffer());
   const text = (await pdfParse(buf)).text;
+  // TEMP DEBUG (remove after diagnosing pdf-parse layout):
+  console.log("CA_DBG_LEN", text.length);
+  console.log("CA_DBG_START\n" + text.slice(0, 5000) + "\nCA_DBG_END");
   const today = new Date().toISOString().slice(0, 10);
   const rows = parse(text, { applyUrl, authority, sourceUrl: pdfUrl, today });
+  console.log("CA_DBG_ROWS", rows.length);
   // Profile-level yield floor — the report reliably lists 100+ boards.
   if (rows.length < 30) throw new Error(`CA parser found only ${rows.length} rows — PDF layout may have changed`);
   return rows;
