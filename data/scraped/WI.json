@@ -1,47 +1,128 @@
 {
- "scrapedAt": "2026-07-16T00:00:00Z",
- "registry": {
-  "profile": "manual"
- },
- "summary": {
-  "state": "WI",
-  "total": 2,
-  "full": 2,
-  "provisional": 0,
-  "missingFields": {}
- },
- "rows": [
-  {
-   "id": 1,
-   "name": "Medical Examining Board",
-   "domain": "health",
-   "totalSeats": 13,
-   "vacantSeats": 0,
-   "vacantSince": null,
-   "authority": "Office of the Governor \u2014 Boards & Commissions",
-   "constituent": "Wisconsin patients & licensed physicians",
-   "mandate": "Licenses and disciplines Wisconsin physicians. Thirteen members \u2014 ten licensed doctors and three public members \u2014 appointed by the Governor, Senate-confirmed (Wis. Stat. \u00a7 15.405(7)).",
-   "requires": [],
-   "applyUrl": "https://wi.accessgov.com/public/Forms/Page/governor/gov-boardsandcommissions",
-   "sourceUrl": "https://codes.findlaw.com/wi/organization-of-state-government-ch-13-to-22/wi-st-15-405/",
-   "lastVerified": "2026-07-16",
-   "criticalNote": "Inventory listing \u2014 apply any time"
+  "scrapedAt": "2026-07-25T19:29:46.796Z",
+  "registry": {
+    "profile": "manual",
+    "dataSource": "evers.wi.gov Governor's Boards & Commissions directory"
   },
-  {
-   "id": 2,
-   "name": "Board for People with Developmental Disabilities",
-   "domain": "disability",
-   "totalSeats": 28,
-   "vacantSeats": 0,
-   "vacantSince": null,
-   "authority": "Office of the Governor \u2014 Boards & Commissions",
-   "constituent": "Wisconsinites with developmental disabilities",
-   "mandate": "Wisconsin's federally mandated DD council. Twenty-eight members \u2014 twenty-one governor-appointed, at least 60% people with developmental disabilities or family members.",
-   "requires": [],
-   "applyUrl": "https://wi.accessgov.com/public/Forms/Page/governor/gov-boardsandcommissions",
-   "sourceUrl": "https://wi-bpdd.org/index.php/board/",
-   "lastVerified": "2026-07-16",
-   "criticalNote": "Inventory listing \u2014 apply any time \u00b7 21 of 28 seats are governor-appointed"
-  }
- ]
+  "summary": {
+    "state": "WI",
+    "total": 7,
+    "full": 7,
+    "provisional": 0,
+    "missingFields": {}
+  },
+  "rows": [
+    {
+      "id": 1,
+      "name": "Medical Examining Board",
+      "domain": "health",
+      "totalSeats": 13,
+      "vacantSeats": 0,
+      "vacantSince": null,
+      "authority": "Office of the Governor — Boards & Commissions",
+      "constituent": "Wisconsin patients & licensed physicians",
+      "applyUrl": "https://wi.accessgov.com/public/Forms/Page/governor/gov-boardsandcommissions",
+      "sourceUrl": "https://evers.wi.gov/Pages/BoardsCommissions.aspx",
+      "lastVerified": "2026-07-25",
+      "mandate": "Licenses and disciplines Wisconsin physicians. Thirteen members — ten licensed doctors and three public members — appointed by the Governor, Senate-confirmed (Wis. Stat. § 15.405(7)).",
+      "seatSource": "https://docs.legis.wisconsin.gov/statutes/statutes/15/ii/405",
+      "criticalNote": "Sourced from Wisconsin's official Governor's Boards & Commissions directory; WI publishes no central vacancy list (inventory mode)"
+    },
+    {
+      "id": 2,
+      "name": "Board for People with Developmental Disabilities",
+      "domain": "disability",
+      "totalSeats": 28,
+      "vacantSeats": 0,
+      "vacantSince": null,
+      "authority": "Office of the Governor — Boards & Commissions",
+      "constituent": "Wisconsinites with developmental disabilities",
+      "applyUrl": "https://wi.accessgov.com/public/Forms/Page/governor/gov-boardsandcommissions",
+      "sourceUrl": "https://evers.wi.gov/Pages/BoardsCommissions.aspx",
+      "lastVerified": "2026-07-25",
+      "mandate": "Wisconsin's federally mandated DD council. Twenty-eight members — twenty-one governor-appointed, at least 60% people with developmental disabilities or family members.",
+      "seatSource": "https://dhs.wisconsin.gov/bpdd/index.htm",
+      "criticalNote": "21 of 28 seats are governor-appointed"
+    },
+    {
+      "id": 3,
+      "name": "Natural Resources Board",
+      "domain": "environment",
+      "totalSeats": 7,
+      "vacantSeats": 0,
+      "vacantSince": null,
+      "authority": "Office of the Governor — Boards & Commissions",
+      "constituent": "Wisconsin's natural resources, hunters, anglers & environment",
+      "applyUrl": "https://wi.accessgov.com/public/Forms/Page/governor/gov-boardsandcommissions",
+      "sourceUrl": "https://evers.wi.gov/Pages/BoardsCommissions.aspx",
+      "lastVerified": "2026-07-25",
+      "mandate": "Sets policy for the Wisconsin Department of Natural Resources — conservation, wildlife, water, and environmental protection. Seven members appointed by the Governor with Senate confirmation, balanced north and south (Wis. Stat. § 15.34).",
+      "seatSource": "https://docs.legis.wisconsin.gov/statutes/statutes/15/ii/34",
+      "criticalNote": "Sourced from Wisconsin's official Governor's Boards & Commissions directory; WI publishes no central vacancy list (inventory mode)"
+    },
+    {
+      "id": 4,
+      "name": "Board of Nursing",
+      "domain": "health",
+      "totalSeats": 9,
+      "vacantSeats": 0,
+      "vacantSince": null,
+      "authority": "Office of the Governor — Boards & Commissions",
+      "constituent": "Wisconsin patients & licensed nurses",
+      "applyUrl": "https://wi.accessgov.com/public/Forms/Page/governor/gov-boardsandcommissions",
+      "sourceUrl": "https://evers.wi.gov/Pages/BoardsCommissions.aspx",
+      "lastVerified": "2026-07-25",
+      "mandate": "Licenses and regulates Wisconsin's nurses. Nine members appointed by the Governor with Senate confirmation — registered nurses, an LPN, an APRN, a nurse educator, and two public members (Wis. Stat. § 15.405).",
+      "seatSource": "https://docs.legis.wisconsin.gov/statutes/statutes/15/ii/405",
+      "criticalNote": "Sourced from Wisconsin's official Governor's Boards & Commissions directory; WI publishes no central vacancy list (inventory mode)"
+    },
+    {
+      "id": 5,
+      "name": "Board of Regents of the University of Wisconsin System",
+      "domain": "education",
+      "totalSeats": 18,
+      "vacantSeats": 0,
+      "vacantSince": null,
+      "authority": "Office of the Governor — Boards & Commissions",
+      "constituent": "Wisconsin public university students & institutions",
+      "applyUrl": "https://wi.accessgov.com/public/Forms/Page/governor/gov-boardsandcommissions",
+      "sourceUrl": "https://evers.wi.gov/Pages/BoardsCommissions.aspx",
+      "lastVerified": "2026-07-25",
+      "mandate": "Governs the Universities of Wisconsin System. Eighteen members — sixteen appointed by the Governor (including two students) plus two ex officio (Wis. Stat. § 15.91).",
+      "seatSource": "https://docs.legis.wisconsin.gov/statutes/statutes/15/vi/91",
+      "criticalNote": "16 of 18 seats are governor-appointed"
+    },
+    {
+      "id": 6,
+      "name": "Dentistry Examining Board",
+      "domain": "health",
+      "totalSeats": 11,
+      "vacantSeats": 0,
+      "vacantSince": null,
+      "authority": "Office of the Governor — Boards & Commissions",
+      "constituent": "Wisconsin dental patients & licensed dentists",
+      "applyUrl": "https://wi.accessgov.com/public/Forms/Page/governor/gov-boardsandcommissions",
+      "sourceUrl": "https://evers.wi.gov/Pages/BoardsCommissions.aspx",
+      "lastVerified": "2026-07-25",
+      "mandate": "Licenses and disciplines Wisconsin's dentists and dental hygienists. Eleven members appointed by the Governor — six dentists, three dental hygienists, and two public members (Wis. Stat. § 15.405).",
+      "seatSource": "https://docs.legis.wisconsin.gov/statutes/statutes/15/ii/405",
+      "criticalNote": "Sourced from Wisconsin's official Governor's Boards & Commissions directory; WI publishes no central vacancy list (inventory mode)"
+    },
+    {
+      "id": 7,
+      "name": "Pharmacy Examining Board",
+      "domain": "health",
+      "totalSeats": 9,
+      "vacantSeats": 0,
+      "vacantSince": null,
+      "authority": "Office of the Governor — Boards & Commissions",
+      "constituent": "Wisconsin patients & licensed pharmacists",
+      "applyUrl": "https://wi.accessgov.com/public/Forms/Page/governor/gov-boardsandcommissions",
+      "sourceUrl": "https://evers.wi.gov/Pages/BoardsCommissions.aspx",
+      "lastVerified": "2026-07-25",
+      "mandate": "Licenses pharmacists and regulates pharmacy practice in Wisconsin. Nine members appointed by the Governor with Senate confirmation (Wis. Stat. § 15.405).",
+      "seatSource": "https://docs.legis.wisconsin.gov/statutes/statutes/15/ii/405",
+      "criticalNote": "Sourced from Wisconsin's official Governor's Boards & Commissions directory; WI publishes no central vacancy list (inventory mode)"
+    }
+  ]
 }
