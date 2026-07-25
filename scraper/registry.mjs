@@ -143,8 +143,10 @@ export const REGISTRY = {
     promote: true, // data/scraped/AL.json manual seed (Jul 16 2026) — INVENTORY MODE
   },
   LA: {
-    profile: "manual",
-    endpoint: null,
+    profile: "la",
+    mode: "inventory",
+    endpoint: "https://www.legis.la.gov/legis/Boards.aspx",
+    minRows: 100,
     applyUrl: "https://gov.louisiana.gov/index.cfm/form/home/14",
     applyAuthority: "Governor's Office of Boards & Commissions",
     dataSource: "gov.louisiana.gov/page/boards-commissions",
