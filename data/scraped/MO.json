@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-07-17T00:42:53.832Z",
+  "scrapedAt": "2026-08-03T13:32:53.050Z",
   "registry": {
     "profile": "mo",
     "endpoint": "https://boards.mo.gov/userpages/boardsearch.aspx",
@@ -11,12 +11,12 @@
   },
   "summary": {
     "state": "MO",
-    "total": 184,
+    "total": 183,
     "full": 0,
-    "provisional": 184,
+    "provisional": 183,
     "missingFields": {
-      "totalSeats": 184,
-      "constituent": 184
+      "totalSeats": 183,
+      "constituent": 183
     }
   },
   "rows": [
@@ -31,7 +31,7 @@
       "constituent": null,
       "applyUrl": "https://apps1.mo.gov/boardsapp/UserPages/Login.aspx",
       "sourceUrl": "https://boards.mo.gov/userpages/Board.aspx?0",
-      "lastVerified": "2026-07-17",
+      "lastVerified": "2026-08-03",
       "criticalNote": "Current vacancy or expired term per boards.mo.gov"
     },
     {
@@ -45,7 +45,7 @@
       "constituent": null,
       "applyUrl": "https://apps1.mo.gov/boardsapp/UserPages/Login.aspx",
       "sourceUrl": "https://boards.mo.gov/userpages/Board.aspx?1",
-      "lastVerified": "2026-07-17",
+      "lastVerified": "2026-08-03",
       "criticalNote": "Current vacancy or expired term per boards.mo.gov"
     },
     {
@@ -59,7 +59,7 @@
       "constituent": null,
       "applyUrl": "https://apps1.mo.gov/boardsapp/UserPages/Login.aspx",
       "sourceUrl": "https://boards.mo.gov/userpages/Board.aspx?2",
-      "lastVerified": "2026-07-17",
+      "lastVerified": "2026-08-03",
       "criticalNote": "Current vacancy or expired term per boards.mo.gov"
     },
     {
@@ -73,7 +73,7 @@
       "constituent": null,
       "applyUrl": "https://apps1.mo.gov/boardsapp/UserPages/Login.aspx",
       "sourceUrl": "https://boards.mo.gov/userpages/Board.aspx?163",
-      "lastVerified": "2026-07-17",
+      "lastVerified": "2026-08-03",
       "criticalNote": "Current vacancy or expired term per boards.mo.gov"
     },
     {
@@ -87,7 +87,7 @@
       "constituent": null,
       "applyUrl": "https://apps1.mo.gov/boardsapp/UserPages/Login.aspx",
       "sourceUrl": "https://boards.mo.gov/userpages/Board.aspx?3",
-      "lastVerified": "2026-07-17",
+      "lastVerified": "2026-08-03",
       "criticalNote": "Current vacancy or expired term per boards.mo.gov"
     },
     {
@@ -101,7 +101,7 @@
       "constituent": null,
       "applyUrl": "https://apps1.mo.gov/boardsapp/UserPages/Login.aspx",
       "sourceUrl": "https://boards.mo.gov/userpages/Board.aspx?4",
-      "lastVerified": "2026-07-17",
+      "lastVerified": "2026-08-03",
       "criticalNote": "Current vacancy or expired term per boards.mo.gov"
     },
     {
@@ -115,7 +115,7 @@
       "constituent": null,
       "applyUrl": "https://apps1.mo.gov/boardsapp/UserPages/Login.aspx",
       "sourceUrl": "https://boards.mo.gov/userpages/Board.aspx?34",
-      "lastVerified": "2026-07-17",
+      "lastVerified": "2026-08-03",
       "criticalNote": "Current vacancy or expired term per boards.mo.gov"
     },
     {
@@ -129,7 +129,7 @@
       "constituent": null,
       "applyUrl": "https://apps1.mo.gov/boardsapp/UserPages/Login.aspx",
       "sourceUrl": "https://boards.mo.gov/userpages/Board.aspx?35",
-      "lastVerified": "2026-07-17",
+      "lastVerified": "2026-08-03",
       "criticalNote": "Current vacancy or expired term per boards.mo.gov"
     },
     {
@@ -143,7 +143,7 @@
       "constituent": null,
       "applyUrl": "https://apps1.mo.gov/boardsapp/UserPages/Login.aspx",
       "sourceUrl": "https://boards.mo.gov/userpages/Board.aspx?18",
-      "lastVerified": "2026-07-17",
+      "lastVerified": "2026-08-03",
       "criticalNote": "Current vacancy or expired term per boards.mo.gov"
     },
     {
@@ -157,7 +157,7 @@
       "constituent": null,
       "applyUrl": "https://apps1.mo.gov/boardsapp/UserPages/Login.aspx",
       "sourceUrl": "https://boards.mo.gov/userpages/Board.aspx?165",
-      "lastVerified": "2026-07-17",
+      "lastVerified": "2026-08-03",
       "criticalNote": "Current vacancy or expired term per boards.mo.gov"
     },
     {
@@ -171,7 +171,7 @@
       "constituent": null,
       "applyUrl": "https://apps1.mo.gov/boardsapp/UserPages/Login.aspx",
       "sourceUrl": "https://boards.mo.gov/userpages/Board.aspx?472",
-      "lastVerified": "2026-07-17",
+      "lastVerified": "2026-08-03",
       "criticalNote": "Current vacancy or expired term per boards.mo.gov"
     },
     {
@@ -185,7 +185,7 @@
       "constituent": null,
       "applyUrl": "https://apps1.mo.gov/boardsapp/UserPages/Login.aspx",
       "sourceUrl": "https://boards.mo.gov/userpages/Board.aspx?166",
-      "lastVerified": "2026-07-17",
+      "lastVerified": "2026-08-03",
       "criticalNote": "Current vacancy or expired term per boards.mo.gov"
     },
     {
@@ -199,7 +199,7 @@
       "constituent": null,
       "applyUrl": "https://apps1.mo.gov/boardsapp/UserPages/Login.aspx",
       "sourceUrl": "https://boards.mo.gov/userpages/Board.aspx?484",
-      "lastVerified": "2026-07-17",
+      "lastVerified": "2026-08-03",
       "criticalNote": "Current vacancy or expired term per boards.mo.gov"
     },
     {
@@ -213,7 +213,7 @@
       "constituent": null,
       "applyUrl": "https://apps1.mo.gov/boardsapp/UserPages/Login.aspx",
       "sourceUrl": "https://boards.mo.gov/userpages/Board.aspx?168",
-      "lastVerified": "2026-07-17",
+      "lastVerified": "2026-08-03",
       "criticalNote": "Current vacancy or expired term per boards.mo.gov"
     },
     {
@@ -227,7 +227,7 @@
       "constituent": null,
       "applyUrl": "https://apps1.mo.gov/boardsapp/UserPages/Login.aspx",
       "sourceUrl": "https://boards.mo.gov/userpages/Board.aspx?169",
-      "lastVerified": "2026-07-17",
+      "lastVerified": "2026-08-03",
       "criticalNote": "Current vacancy or expired term per boards.mo.gov"
     },
     {
@@ -241,7 +241,7 @@
       "constituent": null,
       "applyUrl": "https://apps1.mo.gov/boardsapp/UserPages/Login.aspx",
       "sourceUrl": "https://boards.mo.gov/userpages/Board.aspx?46",
-      "lastVerified": "2026-07-17",
+      "lastVerified": "2026-08-03",
       "criticalNote": "Current vacancy or expired term per boards.mo.gov"
     },
     {
@@ -255,7 +255,7 @@
       "constituent": null,
       "applyUrl": "https://apps1.mo.gov/boardsapp/UserPages/Login.aspx",
       "sourceUrl": "https://boards.mo.gov/userpages/Board.aspx?170",
-      "lastVerified": "2026-07-17",
+      "lastVerified": "2026-08-03",
       "criticalNote": "Current vacancy or expired term per boards.mo.gov"
     },
     {
@@ -269,7 +269,7 @@
       "constituent": null,
       "applyUrl": "https://apps1.mo.gov/boardsapp/UserPages/Login.aspx",
       "sourceUrl": "https://boards.mo.gov/userpages/Board.aspx?171",
-      "lastVerified": "2026-07-17",
+      "lastVerified": "2026-08-03",
       "criticalNote": "Current vacancy or expired term per boards.mo.gov"
     },
     {
@@ -283,7 +283,7 @@
       "constituent": null,
       "applyUrl": "https://apps1.mo.gov/boardsapp/UserPages/Login.aspx",
       "sourceUrl": "https://boards.mo.gov/userpages/Board.aspx?172",
-      "lastVerified": "2026-07-17",
+      "lastVerified": "2026-08-03",
       "criticalNote": "Current vacancy or expired term per boards.mo.gov"
     },
     {
@@ -297,7 +297,7 @@
       "constituent": null,
       "applyUrl": "https://apps1.mo.gov/boardsapp/UserPages/Login.aspx",
       "sourceUrl": "https://boards.mo.gov/userpages/Board.aspx?173",
-      "lastVerified": "2026-07-17",
+      "lastVerified": "2026-08-03",
       "criticalNote": "Current vacancy or expired term per boards.mo.gov"
     },
     {
@@ -311,7 +311,7 @@
       "constituent": null,
       "applyUrl": "https://apps1.mo.gov/boardsapp/UserPages/Login.aspx",
       "sourceUrl": "https://boards.mo.gov/userpages/Board.aspx?176",
-      "lastVerified": "2026-07-17",
+      "lastVerified": "2026-08-03",
       "criticalNote": "Current vacancy or expired term per boards.mo.gov"
     },
     {
@@ -325,7 +325,7 @@
       "constituent": null,
       "applyUrl": "https://apps1.mo.gov/boardsapp/UserPages/Login.aspx",
       "sourceUrl": "https://boards.mo.gov/userpages/Board.aspx?300",
-      "lastVerified": "2026-07-17",
+      "lastVerified": "2026-08-03",
       "criticalNote": "Current vacancy or expired term per boards.mo.gov"
     },
     {
@@ -339,7 +339,7 @@
       "constituent": null,
       "applyUrl": "https://apps1.mo.gov/boardsapp/UserPages/Login.aspx",
       "sourceUrl": "https://boards.mo.gov/userpages/Board.aspx?177",
-      "lastVerified": "2026-07-17",
+      "lastVerified": "2026-08-03",
       "criticalNote": "Current vacancy or expired term per boards.mo.gov"
     },
     {
@@ -353,7 +353,7 @@
       "constituent": null,
       "applyUrl": "https://apps1.mo.gov/boardsapp/UserPages/Login.aspx",
       "sourceUrl": "https://boards.mo.gov/userpages/Board.aspx?10",
-      "lastVerified": "2026-07-17",
+      "lastVerified": "2026-08-03",
       "criticalNote": "Current vacancy or expired term per boards.mo.gov"
     },
     {
@@ -367,7 +367,7 @@
       "constituent": null,
       "applyUrl": "https://apps1.mo.gov/boardsapp/UserPages/Login.aspx",
       "sourceUrl": "https://boards.mo.gov/userpages/Board.aspx?12",
-      "lastVerified": "2026-07-17",
+      "lastVerified": "2026-08-03",
       "criticalNote": "Current vacancy or expired term per boards.mo.gov"
     },
     {
@@ -381,7 +381,7 @@
       "constituent": null,
       "applyUrl": "https://apps1.mo.gov/boardsapp/UserPages/Login.aspx",
       "sourceUrl": "https://boards.mo.gov/userpages/Board.aspx?13",
-      "lastVerified": "2026-07-17",
+      "lastVerified": "2026-08-03",
       "criticalNote": "Current vacancy or expired term per boards.mo.gov"
     },
     {
@@ -395,7 +395,7 @@
       "constituent": null,
       "applyUrl": "https://apps1.mo.gov/boardsapp/UserPages/Login.aspx",
       "sourceUrl": "https://boards.mo.gov/userpages/Board.aspx?14",
-      "lastVerified": "2026-07-17",
+      "lastVerified": "2026-08-03",
       "criticalNote": "Current vacancy or expired term per boards.mo.gov"
     },
     {
@@ -409,7 +409,7 @@
       "constituent": null,
       "applyUrl": "https://apps1.mo.gov/boardsapp/UserPages/Login.aspx",
       "sourceUrl": "https://boards.mo.gov/userpages/Board.aspx?15",
-      "lastVerified": "2026-07-17",
+      "lastVerified": "2026-08-03",
       "criticalNote": "Current vacancy or expired term per boards.mo.gov"
     },
     {
@@ -423,7 +423,7 @@
       "constituent": null,
       "applyUrl": "https://apps1.mo.gov/boardsapp/UserPages/Login.aspx",
       "sourceUrl": "https://boards.mo.gov/userpages/Board.aspx?11",
-      "lastVerified": "2026-07-17",
+      "lastVerified": "2026-08-03",
       "criticalNote": "Current vacancy or expired term per boards.mo.gov"
     },
     {
@@ -437,7 +437,7 @@
       "constituent": null,
       "applyUrl": "https://apps1.mo.gov/boardsapp/UserPages/Login.aspx",
       "sourceUrl": "https://boards.mo.gov/userpages/Board.aspx?407",
-      "lastVerified": "2026-07-17",
+      "lastVerified": "2026-08-03",
       "criticalNote": "Current vacancy or expired term per boards.mo.gov"
     },
     {
@@ -451,7 +451,7 @@
       "constituent": null,
       "applyUrl": "https://apps1.mo.gov/boardsapp/UserPages/Login.aspx",
       "sourceUrl": "https://boards.mo.gov/userpages/Board.aspx?16",
-      "lastVerified": "2026-07-17",
+      "lastVerified": "2026-08-03",
       "criticalNote": "Current vacancy or expired term per boards.mo.gov"
     },
     {
@@ -465,7 +465,7 @@
       "constituent": null,
       "applyUrl": "https://apps1.mo.gov/boardsapp/UserPages/Login.aspx",
       "sourceUrl": "https://boards.mo.gov/userpages/Board.aspx?495",
-      "lastVerified": "2026-07-17",
+      "lastVerified": "2026-08-03",
       "criticalNote": "Current vacancy or expired term per boards.mo.gov"
     },
     {
@@ -479,7 +479,7 @@
       "constituent": null,
       "applyUrl": "https://apps1.mo.gov/boardsapp/UserPages/Login.aspx",
       "sourceUrl": "https://boards.mo.gov/userpages/Board.aspx?39",
-      "lastVerified": "2026-07-17",
+      "lastVerified": "2026-08-03",
       "criticalNote": "Current vacancy or expired term per boards.mo.gov"
     },
     {
@@ -493,7 +493,7 @@
       "constituent": null,
       "applyUrl": "https://apps1.mo.gov/boardsapp/UserPages/Login.aspx",
       "sourceUrl": "https://boards.mo.gov/userpages/Board.aspx?500",
-      "lastVerified": "2026-07-17",
+      "lastVerified": "2026-08-03",
       "criticalNote": "Current vacancy or expired term per boards.mo.gov"
     },
     {
@@ -507,7 +507,7 @@
       "constituent": null,
       "applyUrl": "https://apps1.mo.gov/boardsapp/UserPages/Login.aspx",
       "sourceUrl": "https://boards.mo.gov/userpages/Board.aspx?40",
-      "lastVerified": "2026-07-17",
+      "lastVerified": "2026-08-03",
       "criticalNote": "Current vacancy or expired term per boards.mo.gov"
     },
     {
@@ -521,7 +521,7 @@
       "constituent": null,
       "applyUrl": "https://apps1.mo.gov/boardsapp/UserPages/Login.aspx",
       "sourceUrl": "https://boards.mo.gov/userpages/Board.aspx?178",
-      "lastVerified": "2026-07-17",
+      "lastVerified": "2026-08-03",
       "criticalNote": "Current vacancy or expired term per boards.mo.gov"
     },
     {
@@ -535,7 +535,7 @@
       "constituent": null,
       "applyUrl": "https://apps1.mo.gov/boardsapp/UserPages/Login.aspx",
       "sourceUrl": "https://boards.mo.gov/userpages/Board.aspx?131",
-      "lastVerified": "2026-07-17",
+      "lastVerified": "2026-08-03",
       "criticalNote": "Current vacancy or expired term per boards.mo.gov"
     },
     {
@@ -549,7 +549,7 @@
       "constituent": null,
       "applyUrl": "https://apps1.mo.gov/boardsapp/UserPages/Login.aspx",
       "sourceUrl": "https://boards.mo.gov/userpages/Board.aspx?55",
-      "lastVerified": "2026-07-17",
+      "lastVerified": "2026-08-03",
       "criticalNote": "Current vacancy or expired term per boards.mo.gov"
     },
     {
@@ -563,7 +563,7 @@
       "constituent": null,
       "applyUrl": "https://apps1.mo.gov/boardsapp/UserPages/Login.aspx",
       "sourceUrl": "https://boards.mo.gov/userpages/Board.aspx?179",
-      "lastVerified": "2026-07-17",
+      "lastVerified": "2026-08-03",
       "criticalNote": "Current vacancy or expired term per boards.mo.gov"
     },
     {
@@ -577,7 +577,7 @@
       "constituent": null,
       "applyUrl": "https://apps1.mo.gov/boardsapp/UserPages/Login.aspx",
       "sourceUrl": "https://boards.mo.gov/userpages/Board.aspx?180",
-      "lastVerified": "2026-07-17",
+      "lastVerified": "2026-08-03",
       "criticalNote": "Current vacancy or expired term per boards.mo.gov"
     },
     {
@@ -591,7 +591,7 @@
       "constituent": null,
       "applyUrl": "https://apps1.mo.gov/boardsapp/UserPages/Login.aspx",
       "sourceUrl": "https://boards.mo.gov/userpages/Board.aspx?181",
-      "lastVerified": "2026-07-17",
+      "lastVerified": "2026-08-03",
       "criticalNote": "Current vacancy or expired term per boards.mo.gov"
     },
     {
@@ -605,7 +605,7 @@
       "constituent": null,
       "applyUrl": "https://apps1.mo.gov/boardsapp/UserPages/Login.aspx",
       "sourceUrl": "https://boards.mo.gov/userpages/Board.aspx?182",
-      "lastVerified": "2026-07-17",
+      "lastVerified": "2026-08-03",
       "criticalNote": "Current vacancy or expired term per boards.mo.gov"
     },
     {
@@ -619,7 +619,7 @@
       "constituent": null,
       "applyUrl": "https://apps1.mo.gov/boardsapp/UserPages/Login.aspx",
       "sourceUrl": "https://boards.mo.gov/userpages/Board.aspx?191",
-      "lastVerified": "2026-07-17",
+      "lastVerified": "2026-08-03",
       "criticalNote": "Current vacancy or expired term per boards.mo.gov"
     },
     {
@@ -633,7 +633,7 @@
       "constituent": null,
       "applyUrl": "https://apps1.mo.gov/boardsapp/UserPages/Login.aspx",
       "sourceUrl": "https://boards.mo.gov/userpages/Board.aspx?183",
-      "lastVerified": "2026-07-17",
+      "lastVerified": "2026-08-03",
       "criticalNote": "Current vacancy or expired term per boards.mo.gov"
     },
     {
@@ -647,7 +647,7 @@
       "constituent": null,
       "applyUrl": "https://apps1.mo.gov/boardsapp/UserPages/Login.aspx",
       "sourceUrl": "https://boards.mo.gov/userpages/Board.aspx?184",
-      "lastVerified": "2026-07-17",
+      "lastVerified": "2026-08-03",
       "criticalNote": "Current vacancy or expired term per boards.mo.gov"
     },
     {
@@ -661,7 +661,7 @@
       "constituent": null,
       "applyUrl": "https://apps1.mo.gov/boardsapp/UserPages/Login.aspx",
       "sourceUrl": "https://boards.mo.gov/userpages/Board.aspx?186",
-      "lastVerified": "2026-07-17",
+      "lastVerified": "2026-08-03",
       "criticalNote": "Current vacancy or expired term per boards.mo.gov"
     },
     {
@@ -675,7 +675,7 @@
       "constituent": null,
       "applyUrl": "https://apps1.mo.gov/boardsapp/UserPages/Login.aspx",
       "sourceUrl": "https://boards.mo.gov/userpages/Board.aspx?192",
-      "lastVerified": "2026-07-17",
+      "lastVerified": "2026-08-03",
       "criticalNote": "Current vacancy or expired term per boards.mo.gov"
     },
     {
@@ -689,7 +689,7 @@
       "constituent": null,
       "applyUrl": "https://apps1.mo.gov/boardsapp/UserPages/Login.aspx",
       "sourceUrl": "https://boards.mo.gov/userpages/Board.aspx?193",
-      "lastVerified": "2026-07-17",
+      "lastVerified": "2026-08-03",
       "criticalNote": "Current vacancy or expired term per boards.mo.gov"
     },
     {
@@ -703,7 +703,7 @@
       "constituent": null,
       "applyUrl": "https://apps1.mo.gov/boardsapp/UserPages/Login.aspx",
       "sourceUrl": "https://boards.mo.gov/userpages/Board.aspx?194",
-      "lastVerified": "2026-07-17",
+      "lastVerified": "2026-08-03",
       "criticalNote": "Current vacancy or expired term per boards.mo.gov"
     },
     {
@@ -717,7 +717,7 @@
       "constituent": null,
       "applyUrl": "https://apps1.mo.gov/boardsapp/UserPages/Login.aspx",
       "sourceUrl": "https://boards.mo.gov/userpages/Board.aspx?195",
-      "lastVerified": "2026-07-17",
+      "lastVerified": "2026-08-03",
       "criticalNote": "Current vacancy or expired term per boards.mo.gov"
     },
     {
@@ -731,7 +731,7 @@
       "constituent": null,
       "applyUrl": "https://apps1.mo.gov/boardsapp/UserPages/Login.aspx",
       "sourceUrl": "https://boards.mo.gov/userpages/Board.aspx?197",
-      "lastVerified": "2026-07-17",
+      "lastVerified": "2026-08-03",
       "criticalNote": "Current vacancy or expired term per boards.mo.gov"
     },
     {
@@ -745,7 +745,7 @@
       "constituent": null,
       "applyUrl": "https://apps1.mo.gov/boardsapp/UserPages/Login.aspx",
       "sourceUrl": "https://boards.mo.gov/userpages/Board.aspx?503",
-      "lastVerified": "2026-07-17",
+      "lastVerified": "2026-08-03",
       "criticalNote": "Current vacancy or expired term per boards.mo.gov"
     },
     {
@@ -759,7 +759,7 @@
       "constituent": null,
       "applyUrl": "https://apps1.mo.gov/boardsapp/UserPages/Login.aspx",
       "sourceUrl": "https://boards.mo.gov/userpages/Board.aspx?201",
-      "lastVerified": "2026-07-17",
+      "lastVerified": "2026-08-03",
       "criticalNote": "Current vacancy or expired term per boards.mo.gov"
     },
     {
@@ -773,7 +773,7 @@
       "constituent": null,
       "applyUrl": "https://apps1.mo.gov/boardsapp/UserPages/Login.aspx",
       "sourceUrl": "https://boards.mo.gov/userpages/Board.aspx?202",
-      "lastVerified": "2026-07-17",
+      "lastVerified": "2026-08-03",
       "criticalNote": "Current vacancy or expired term per boards.mo.gov"
     },
     {
@@ -787,7 +787,7 @@
       "constituent": null,
       "applyUrl": "https://apps1.mo.gov/boardsapp/UserPages/Login.aspx",
       "sourceUrl": "https://boards.mo.gov/userpages/Board.aspx?42",
-      "lastVerified": "2026-07-17",
+      "lastVerified": "2026-08-03",
       "criticalNote": "Current vacancy or expired term per boards.mo.gov"
     },
     {
@@ -801,7 +801,7 @@
       "constituent": null,
       "applyUrl": "https://apps1.mo.gov/boardsapp/UserPages/Login.aspx",
       "sourceUrl": "https://boards.mo.gov/userpages/Board.aspx?20",
-      "lastVerified": "2026-07-17",
+      "lastVerified": "2026-08-03",
       "criticalNote": "Current vacancy or expired term per boards.mo.gov"
     },
     {
@@ -815,7 +815,7 @@
       "constituent": null,
       "applyUrl": "https://apps1.mo.gov/boardsapp/UserPages/Login.aspx",
       "sourceUrl": "https://boards.mo.gov/userpages/Board.aspx?21",
-      "lastVerified": "2026-07-17",
+      "lastVerified": "2026-08-03",
       "criticalNote": "Current vacancy or expired term per boards.mo.gov"
     },
     {
@@ -829,7 +829,7 @@
       "constituent": null,
       "applyUrl": "https://apps1.mo.gov/boardsapp/UserPages/Login.aspx",
       "sourceUrl": "https://boards.mo.gov/userpages/Board.aspx?22",
-      "lastVerified": "2026-07-17",
+      "lastVerified": "2026-08-03",
       "criticalNote": "Current vacancy or expired term per boards.mo.gov"
     },
     {
@@ -843,7 +843,7 @@
       "constituent": null,
       "applyUrl": "https://apps1.mo.gov/boardsapp/UserPages/Login.aspx",
       "sourceUrl": "https://boards.mo.gov/userpages/Board.aspx?24",
-      "lastVerified": "2026-07-17",
+      "lastVerified": "2026-08-03",
       "criticalNote": "Current vacancy or expired term per boards.mo.gov"
     },
     {
@@ -857,7 +857,7 @@
       "constituent": null,
       "applyUrl": "https://apps1.mo.gov/boardsapp/UserPages/Login.aspx",
       "sourceUrl": "https://boards.mo.gov/userpages/Board.aspx?25",
-      "lastVerified": "2026-07-17",
+      "lastVerified": "2026-08-03",
       "criticalNote": "Current vacancy or expired term per boards.mo.gov"
     },
     {
@@ -871,7 +871,7 @@
       "constituent": null,
       "applyUrl": "https://apps1.mo.gov/boardsapp/UserPages/Login.aspx",
       "sourceUrl": "https://boards.mo.gov/userpages/Board.aspx?29",
-      "lastVerified": "2026-07-17",
+      "lastVerified": "2026-08-03",
       "criticalNote": "Current vacancy or expired term per boards.mo.gov"
     },
     {
@@ -885,7 +885,7 @@
       "constituent": null,
       "applyUrl": "https://apps1.mo.gov/boardsapp/UserPages/Login.aspx",
       "sourceUrl": "https://boards.mo.gov/userpages/Board.aspx?30",
-      "lastVerified": "2026-07-17",
+      "lastVerified": "2026-08-03",
       "criticalNote": "Current vacancy or expired term per boards.mo.gov"
     },
     {
@@ -899,7 +899,7 @@
       "constituent": null,
       "applyUrl": "https://apps1.mo.gov/boardsapp/UserPages/Login.aspx",
       "sourceUrl": "https://boards.mo.gov/userpages/Board.aspx?204",
-      "lastVerified": "2026-07-17",
+      "lastVerified": "2026-08-03",
       "criticalNote": "Current vacancy or expired term per boards.mo.gov"
     },
     {
@@ -913,7 +913,7 @@
       "constituent": null,
       "applyUrl": "https://apps1.mo.gov/boardsapp/UserPages/Login.aspx",
       "sourceUrl": "https://boards.mo.gov/userpages/Board.aspx?205",
-      "lastVerified": "2026-07-17",
+      "lastVerified": "2026-08-03",
       "criticalNote": "Current vacancy or expired term per boards.mo.gov"
     },
     {
@@ -927,7 +927,7 @@
       "constituent": null,
       "applyUrl": "https://apps1.mo.gov/boardsapp/UserPages/Login.aspx",
       "sourceUrl": "https://boards.mo.gov/userpages/Board.aspx?206",
-      "lastVerified": "2026-07-17",
+      "lastVerified": "2026-08-03",
       "criticalNote": "Current vacancy or expired term per boards.mo.gov"
     },
     {
@@ -941,7 +941,7 @@
       "constituent": null,
       "applyUrl": "https://apps1.mo.gov/boardsapp/UserPages/Login.aspx",
       "sourceUrl": "https://boards.mo.gov/userpages/Board.aspx?207",
-      "lastVerified": "2026-07-17",
+      "lastVerified": "2026-08-03",
       "criticalNote": "Current vacancy or expired term per boards.mo.gov"
     },
     {
@@ -955,7 +955,7 @@
       "constituent": null,
       "applyUrl": "https://apps1.mo.gov/boardsapp/UserPages/Login.aspx",
       "sourceUrl": "https://boards.mo.gov/userpages/Board.aspx?8",
-      "lastVerified": "2026-07-17",
+      "lastVerified": "2026-08-03",
       "criticalNote": "Current vacancy or expired term per boards.mo.gov"
     },
     {
@@ -969,7 +969,7 @@
       "constituent": null,
       "applyUrl": "https://apps1.mo.gov/boardsapp/UserPages/Login.aspx",
       "sourceUrl": "https://boards.mo.gov/userpages/Board.aspx?422",
-      "lastVerified": "2026-07-17",
+      "lastVerified": "2026-08-03",
       "criticalNote": "Current vacancy or expired term per boards.mo.gov"
     },
     {
@@ -983,7 +983,7 @@
       "constituent": null,
       "applyUrl": "https://apps1.mo.gov/boardsapp/UserPages/Login.aspx",
       "sourceUrl": "https://boards.mo.gov/userpages/Board.aspx?209",
-      "lastVerified": "2026-07-17",
+      "lastVerified": "2026-08-03",
       "criticalNote": "Current vacancy or expired term per boards.mo.gov"
     },
     {
@@ -997,7 +997,7 @@
       "constituent": null,
       "applyUrl": "https://apps1.mo.gov/boardsapp/UserPages/Login.aspx",
       "sourceUrl": "https://boards.mo.gov/userpages/Board.aspx?210",
-      "lastVerified": "2026-07-17",
+      "lastVerified": "2026-08-03",
       "criticalNote": "Current vacancy or expired term per boards.mo.gov"
     },
     {
@@ -1011,7 +1011,7 @@
       "constituent": null,
       "applyUrl": "https://apps1.mo.gov/boardsapp/UserPages/Login.aspx",
       "sourceUrl": "https://boards.mo.gov/userpages/Board.aspx?211",
-      "lastVerified": "2026-07-17",
+      "lastVerified": "2026-08-03",
       "criticalNote": "Current vacancy or expired term per boards.mo.gov"
     },
     {
@@ -1025,7 +1025,7 @@
       "constituent": null,
       "applyUrl": "https://apps1.mo.gov/boardsapp/UserPages/Login.aspx",
       "sourceUrl": "https://boards.mo.gov/userpages/Board.aspx?213",
-      "lastVerified": "2026-07-17",
+      "lastVerified": "2026-08-03",
       "criticalNote": "Current vacancy or expired term per boards.mo.gov"
     },
     {
@@ -1039,7 +1039,7 @@
       "constituent": null,
       "applyUrl": "https://apps1.mo.gov/boardsapp/UserPages/Login.aspx",
       "sourceUrl": "https://boards.mo.gov/userpages/Board.aspx?270",
-      "lastVerified": "2026-07-17",
+      "lastVerified": "2026-08-03",
       "criticalNote": "Current vacancy or expired term per boards.mo.gov"
     },
     {
@@ -1053,7 +1053,7 @@
       "constituent": null,
       "applyUrl": "https://apps1.mo.gov/boardsapp/UserPages/Login.aspx",
       "sourceUrl": "https://boards.mo.gov/userpages/Board.aspx?271",
-      "lastVerified": "2026-07-17",
+      "lastVerified": "2026-08-03",
       "criticalNote": "Current vacancy or expired term per boards.mo.gov"
     },
     {
@@ -1067,7 +1067,7 @@
       "constituent": null,
       "applyUrl": "https://apps1.mo.gov/boardsapp/UserPages/Login.aspx",
       "sourceUrl": "https://boards.mo.gov/userpages/Board.aspx?175",
-      "lastVerified": "2026-07-17",
+      "lastVerified": "2026-08-03",
       "criticalNote": "Current vacancy or expired term per boards.mo.gov"
     },
     {
@@ -1081,7 +1081,7 @@
       "constituent": null,
       "applyUrl": "https://apps1.mo.gov/boardsapp/UserPages/Login.aspx",
       "sourceUrl": "https://boards.mo.gov/userpages/Board.aspx?32",
-      "lastVerified": "2026-07-17",
+      "lastVerified": "2026-08-03",
       "criticalNote": "Current vacancy or expired term per boards.mo.gov"
     },
     {
@@ -1095,7 +1095,7 @@
       "constituent": null,
       "applyUrl": "https://apps1.mo.gov/boardsapp/UserPages/Login.aspx",
       "sourceUrl": "https://boards.mo.gov/userpages/Board.aspx?349",
-      "lastVerified": "2026-07-17",
+      "lastVerified": "2026-08-03",
       "criticalNote": "Current vacancy or expired term per boards.mo.gov"
     },
     {
@@ -1109,7 +1109,7 @@
       "constituent": null,
       "applyUrl": "https://apps1.mo.gov/boardsapp/UserPages/Login.aspx",
       "sourceUrl": "https://boards.mo.gov/userpages/Board.aspx?33",
-      "lastVerified": "2026-07-17",
+      "lastVerified": "2026-08-03",
       "criticalNote": "Current vacancy or expired term per boards.mo.gov"
     },
     {
@@ -1123,7 +1123,7 @@
       "constituent": null,
       "applyUrl": "https://apps1.mo.gov/boardsapp/UserPages/Login.aspx",
       "sourceUrl": "https://boards.mo.gov/userpages/Board.aspx?43",
-      "lastVerified": "2026-07-17",
+      "lastVerified": "2026-08-03",
       "criticalNote": "Current vacancy or expired term per boards.mo.gov"
     },
     {
@@ -1137,7 +1137,7 @@
       "constituent": null,
       "applyUrl": "https://apps1.mo.gov/boardsapp/UserPages/Login.aspx",
       "sourceUrl": "https://boards.mo.gov/userpages/Board.aspx?45",
-      "lastVerified": "2026-07-17",
+      "lastVerified": "2026-08-03",
       "criticalNote": "Current vacancy or expired term per boards.mo.gov"
     },
     {
@@ -1151,7 +1151,7 @@
       "constituent": null,
       "applyUrl": "https://apps1.mo.gov/boardsapp/UserPages/Login.aspx",
       "sourceUrl": "https://boards.mo.gov/userpages/Board.aspx?62",
-      "lastVerified": "2026-07-17",
+      "lastVerified": "2026-08-03",
       "criticalNote": "Current vacancy or expired term per boards.mo.gov"
     },
     {
@@ -1165,7 +1165,7 @@
       "constituent": null,
       "applyUrl": "https://apps1.mo.gov/boardsapp/UserPages/Login.aspx",
       "sourceUrl": "https://boards.mo.gov/userpages/Board.aspx?54",
-      "lastVerified": "2026-07-17",
+      "lastVerified": "2026-08-03",
       "criticalNote": "Current vacancy or expired term per boards.mo.gov"
     },
     {
@@ -1179,7 +1179,7 @@
       "constituent": null,
       "applyUrl": "https://apps1.mo.gov/boardsapp/UserPages/Login.aspx",
       "sourceUrl": "https://boards.mo.gov/userpages/Board.aspx?63",
-      "lastVerified": "2026-07-17",
+      "lastVerified": "2026-08-03",
       "criticalNote": "Current vacancy or expired term per boards.mo.gov"
     },
     {
@@ -1193,7 +1193,7 @@
       "constituent": null,
       "applyUrl": "https://apps1.mo.gov/boardsapp/UserPages/Login.aspx",
       "sourceUrl": "https://boards.mo.gov/userpages/Board.aspx?471",
-      "lastVerified": "2026-07-17",
+      "lastVerified": "2026-08-03",
       "criticalNote": "Current vacancy or expired term per boards.mo.gov"
     },
     {
@@ -1207,7 +1207,7 @@
       "constituent": null,
       "applyUrl": "https://apps1.mo.gov/boardsapp/UserPages/Login.aspx",
       "sourceUrl": "https://boards.mo.gov/userpages/Board.aspx?65",
-      "lastVerified": "2026-07-17",
+      "lastVerified": "2026-08-03",
       "criticalNote": "Current vacancy or expired term per boards.mo.gov"
     },
     {
@@ -1221,7 +1221,7 @@
       "constituent": null,
       "applyUrl": "https://apps1.mo.gov/boardsapp/UserPages/Login.aspx",
       "sourceUrl": "https://boards.mo.gov/userpages/Board.aspx?58",
-      "lastVerified": "2026-07-17",
+      "lastVerified": "2026-08-03",
       "criticalNote": "Current vacancy or expired term per boards.mo.gov"
     },
     {
@@ -1235,7 +1235,7 @@
       "constituent": null,
       "applyUrl": "https://apps1.mo.gov/boardsapp/UserPages/Login.aspx",
       "sourceUrl": "https://boards.mo.gov/userpages/Board.aspx?140",
-      "lastVerified": "2026-07-17",
+      "lastVerified": "2026-08-03",
       "criticalNote": "Current vacancy or expired term per boards.mo.gov"
     },
     {
@@ -1249,7 +1249,7 @@
       "constituent": null,
       "applyUrl": "https://apps1.mo.gov/boardsapp/UserPages/Login.aspx",
       "sourceUrl": "https://boards.mo.gov/userpages/Board.aspx?443",
-      "lastVerified": "2026-07-17",
+      "lastVerified": "2026-08-03",
       "criticalNote": "Current vacancy or expired term per boards.mo.gov"
     },
     {
@@ -1263,7 +1263,7 @@
       "constituent": null,
       "applyUrl": "https://apps1.mo.gov/boardsapp/UserPages/Login.aspx",
       "sourceUrl": "https://boards.mo.gov/userpages/Board.aspx?66",
-      "lastVerified": "2026-07-17",
+      "lastVerified": "2026-08-03",
       "criticalNote": "Current vacancy or expired term per boards.mo.gov"
     },
     {
@@ -1277,7 +1277,7 @@
       "constituent": null,
       "applyUrl": "https://apps1.mo.gov/boardsapp/UserPages/Login.aspx",
       "sourceUrl": "https://boards.mo.gov/userpages/Board.aspx?480",
-      "lastVerified": "2026-07-17",
+      "lastVerified": "2026-08-03",
       "criticalNote": "Current vacancy or expired term per boards.mo.gov"
     },
     {
@@ -1291,7 +1291,7 @@
       "constituent": null,
       "applyUrl": "https://apps1.mo.gov/boardsapp/UserPages/Login.aspx",
       "sourceUrl": "https://boards.mo.gov/userpages/Board.aspx?272",
-      "lastVerified": "2026-07-17",
+      "lastVerified": "2026-08-03",
       "criticalNote": "Current vacancy or expired term per boards.mo.gov"
     },
     {
@@ -1305,7 +1305,7 @@
       "constituent": null,
       "applyUrl": "https://apps1.mo.gov/boardsapp/UserPages/Login.aspx",
       "sourceUrl": "https://boards.mo.gov/userpages/Board.aspx?273",
-      "lastVerified": "2026-07-17",
+      "lastVerified": "2026-08-03",
       "criticalNote": "Current vacancy or expired term per boards.mo.gov"
     },
     {
@@ -1319,7 +1319,7 @@
       "constituent": null,
       "applyUrl": "https://apps1.mo.gov/boardsapp/UserPages/Login.aspx",
       "sourceUrl": "https://boards.mo.gov/userpages/Board.aspx?301",
-      "lastVerified": "2026-07-17",
+      "lastVerified": "2026-08-03",
       "criticalNote": "Current vacancy or expired term per boards.mo.gov"
     },
     {
@@ -1333,7 +1333,7 @@
       "constituent": null,
       "applyUrl": "https://apps1.mo.gov/boardsapp/UserPages/Login.aspx",
       "sourceUrl": "https://boards.mo.gov/userpages/Board.aspx?304",
-      "lastVerified": "2026-07-17",
+      "lastVerified": "2026-08-03",
       "criticalNote": "Current vacancy or expired term per boards.mo.gov"
     },
     {
@@ -1347,7 +1347,7 @@
       "constituent": null,
       "applyUrl": "https://apps1.mo.gov/boardsapp/UserPages/Login.aspx",
       "sourceUrl": "https://boards.mo.gov/userpages/Board.aspx?307",
-      "lastVerified": "2026-07-17",
+      "lastVerified": "2026-08-03",
       "criticalNote": "Current vacancy or expired term per boards.mo.gov"
     },
     {
@@ -1361,7 +1361,7 @@
       "constituent": null,
       "applyUrl": "https://apps1.mo.gov/boardsapp/UserPages/Login.aspx",
       "sourceUrl": "https://boards.mo.gov/userpages/Board.aspx?56",
-      "lastVerified": "2026-07-17",
+      "lastVerified": "2026-08-03",
       "criticalNote": "Current vacancy or expired term per boards.mo.gov"
     },
     {
@@ -1375,7 +1375,7 @@
       "constituent": null,
       "applyUrl": "https://apps1.mo.gov/boardsapp/UserPages/Login.aspx",
       "sourceUrl": "https://boards.mo.gov/userpages/Board.aspx?57",
-      "lastVerified": "2026-07-17",
+      "lastVerified": "2026-08-03",
       "criticalNote": "Current vacancy or expired term per boards.mo.gov"
     },
     {
@@ -1389,7 +1389,7 @@
       "constituent": null,
       "applyUrl": "https://apps1.mo.gov/boardsapp/UserPages/Login.aspx",
       "sourceUrl": "https://boards.mo.gov/userpages/Board.aspx?67",
-      "lastVerified": "2026-07-17",
+      "lastVerified": "2026-08-03",
       "criticalNote": "Current vacancy or expired term per boards.mo.gov"
     },
     {
@@ -1403,7 +1403,7 @@
       "constituent": null,
       "applyUrl": "https://apps1.mo.gov/boardsapp/UserPages/Login.aspx",
       "sourceUrl": "https://boards.mo.gov/userpages/Board.aspx?505",
-      "lastVerified": "2026-07-17",
+      "lastVerified": "2026-08-03",
       "criticalNote": "Current vacancy or expired term per boards.mo.gov"
     },
     {
@@ -1417,7 +1417,7 @@
       "constituent": null,
       "applyUrl": "https://apps1.mo.gov/boardsapp/UserPages/Login.aspx",
       "sourceUrl": "https://boards.mo.gov/userpages/Board.aspx?70",
-      "lastVerified": "2026-07-17",
+      "lastVerified": "2026-08-03",
       "criticalNote": "Current vacancy or expired term per boards.mo.gov"
     },
     {
@@ -1431,7 +1431,7 @@
       "constituent": null,
       "applyUrl": "https://apps1.mo.gov/boardsapp/UserPages/Login.aspx",
       "sourceUrl": "https://boards.mo.gov/userpages/Board.aspx?72",
-      "lastVerified": "2026-07-17",
+      "lastVerified": "2026-08-03",
       "criticalNote": "Current vacancy or expired term per boards.mo.gov"
     },
     {
@@ -1445,7 +1445,7 @@
       "constituent": null,
       "applyUrl": "https://apps1.mo.gov/boardsapp/UserPages/Login.aspx",
       "sourceUrl": "https://boards.mo.gov/userpages/Board.aspx?73",
-      "lastVerified": "2026-07-17",
+      "lastVerified": "2026-08-03",
       "criticalNote": "Current vacancy or expired term per boards.mo.gov"
     },
     {
@@ -1459,7 +1459,7 @@
       "constituent": null,
       "applyUrl": "https://apps1.mo.gov/boardsapp/UserPages/Login.aspx",
       "sourceUrl": "https://boards.mo.gov/userpages/Board.aspx?74",
-      "lastVerified": "2026-07-17",
+      "lastVerified": "2026-08-03",
       "criticalNote": "Current vacancy or expired term per boards.mo.gov"
     },
     {
@@ -1473,7 +1473,7 @@
       "constituent": null,
       "applyUrl": "https://apps1.mo.gov/boardsapp/UserPages/Login.aspx",
       "sourceUrl": "https://boards.mo.gov/userpages/Board.aspx?465",
-      "lastVerified": "2026-07-17",
+      "lastVerified": "2026-08-03",
       "criticalNote": "Current vacancy or expired term per boards.mo.gov"
     },
     {
@@ -1487,7 +1487,7 @@
       "constituent": null,
       "applyUrl": "https://apps1.mo.gov/boardsapp/UserPages/Login.aspx",
       "sourceUrl": "https://boards.mo.gov/userpages/Board.aspx?75",
-      "lastVerified": "2026-07-17",
+      "lastVerified": "2026-08-03",
       "criticalNote": "Current vacancy or expired term per boards.mo.gov"
     },
     {
@@ -1501,7 +1501,7 @@
       "constituent": null,
       "applyUrl": "https://apps1.mo.gov/boardsapp/UserPages/Login.aspx",
       "sourceUrl": "https://boards.mo.gov/userpages/Board.aspx?76",
-      "lastVerified": "2026-07-17",
+      "lastVerified": "2026-08-03",
       "criticalNote": "Current vacancy or expired term per boards.mo.gov"
     },
     {
@@ -1515,7 +1515,7 @@
       "constituent": null,
       "applyUrl": "https://apps1.mo.gov/boardsapp/UserPages/Login.aspx",
       "sourceUrl": "https://boards.mo.gov/userpages/Board.aspx?59",
-      "lastVerified": "2026-07-17",
+      "lastVerified": "2026-08-03",
       "criticalNote": "Current vacancy or expired term per boards.mo.gov"
     },
     {
@@ -1529,7 +1529,7 @@
       "constituent": null,
       "applyUrl": "https://apps1.mo.gov/boardsapp/UserPages/Login.aspx",
       "sourceUrl": "https://boards.mo.gov/userpages/Board.aspx?310",
-      "lastVerified": "2026-07-17",
+      "lastVerified": "2026-08-03",
       "criticalNote": "Current vacancy or expired term per boards.mo.gov"
     },
     {
@@ -1543,7 +1543,7 @@
       "constituent": null,
       "applyUrl": "https://apps1.mo.gov/boardsapp/UserPages/Login.aspx",
       "sourceUrl": "https://boards.mo.gov/userpages/Board.aspx?311",
-      "lastVerified": "2026-07-17",
+      "lastVerified": "2026-08-03",
       "criticalNote": "Current vacancy or expired term per boards.mo.gov"
     },
     {
@@ -1557,7 +1557,7 @@
       "constituent": null,
       "applyUrl": "https://apps1.mo.gov/boardsapp/UserPages/Login.aspx",
       "sourceUrl": "https://boards.mo.gov/userpages/Board.aspx?312",
-      "lastVerified": "2026-07-17",
+      "lastVerified": "2026-08-03",
       "criticalNote": "Current vacancy or expired term per boards.mo.gov"
     },
     {
@@ -1571,7 +1571,7 @@
       "constituent": null,
       "applyUrl": "https://apps1.mo.gov/boardsapp/UserPages/Login.aspx",
       "sourceUrl": "https://boards.mo.gov/userpages/Board.aspx?429",
-      "lastVerified": "2026-07-17",
+      "lastVerified": "2026-08-03",
       "criticalNote": "Current vacancy or expired term per boards.mo.gov"
     },
     {
@@ -1585,7 +1585,7 @@
       "constituent": null,
       "applyUrl": "https://apps1.mo.gov/boardsapp/UserPages/Login.aspx",
       "sourceUrl": "https://boards.mo.gov/userpages/Board.aspx?316",
-      "lastVerified": "2026-07-17",
+      "lastVerified": "2026-08-03",
       "criticalNote": "Current vacancy or expired term per boards.mo.gov"
     },
     {
@@ -1599,7 +1599,7 @@
       "constituent": null,
       "applyUrl": "https://apps1.mo.gov/boardsapp/UserPages/Login.aspx",
       "sourceUrl": "https://boards.mo.gov/userpages/Board.aspx?317",
-      "lastVerified": "2026-07-17",
+      "lastVerified": "2026-08-03",
       "criticalNote": "Current vacancy or expired term per boards.mo.gov"
     },
     {
@@ -1613,7 +1613,7 @@
       "constituent": null,
       "applyUrl": "https://apps1.mo.gov/boardsapp/UserPages/Login.aspx",
       "sourceUrl": "https://boards.mo.gov/userpages/Board.aspx?318",
-      "lastVerified": "2026-07-17",
+      "lastVerified": "2026-08-03",
       "criticalNote": "Current vacancy or expired term per boards.mo.gov"
     },
     {
@@ -1627,7 +1627,7 @@
       "constituent": null,
       "applyUrl": "https://apps1.mo.gov/boardsapp/UserPages/Login.aspx",
       "sourceUrl": "https://boards.mo.gov/userpages/Board.aspx?320",
-      "lastVerified": "2026-07-17",
+      "lastVerified": "2026-08-03",
       "criticalNote": "Current vacancy or expired term per boards.mo.gov"
     },
     {
@@ -1641,7 +1641,7 @@
       "constituent": null,
       "applyUrl": "https://apps1.mo.gov/boardsapp/UserPages/Login.aspx",
       "sourceUrl": "https://boards.mo.gov/userpages/Board.aspx?77",
-      "lastVerified": "2026-07-17",
+      "lastVerified": "2026-08-03",
       "criticalNote": "Current vacancy or expired term per boards.mo.gov"
     },
     {
@@ -1655,7 +1655,7 @@
       "constituent": null,
       "applyUrl": "https://apps1.mo.gov/boardsapp/UserPages/Login.aspx",
       "sourceUrl": "https://boards.mo.gov/userpages/Board.aspx?78",
-      "lastVerified": "2026-07-17",
+      "lastVerified": "2026-08-03",
       "criticalNote": "Current vacancy or expired term per boards.mo.gov"
     },
     {
@@ -1669,7 +1669,7 @@
       "constituent": null,
       "applyUrl": "https://apps1.mo.gov/boardsapp/UserPages/Login.aspx",
       "sourceUrl": "https://boards.mo.gov/userpages/Board.aspx?113",
-      "lastVerified": "2026-07-17",
+      "lastVerified": "2026-08-03",
       "criticalNote": "Current vacancy or expired term per boards.mo.gov"
     },
     {
@@ -1683,7 +1683,7 @@
       "constituent": null,
       "applyUrl": "https://apps1.mo.gov/boardsapp/UserPages/Login.aspx",
       "sourceUrl": "https://boards.mo.gov/userpages/Board.aspx?79",
-      "lastVerified": "2026-07-17",
+      "lastVerified": "2026-08-03",
       "criticalNote": "Current vacancy or expired term per boards.mo.gov"
     },
     {
@@ -1697,7 +1697,7 @@
       "constituent": null,
       "applyUrl": "https://apps1.mo.gov/boardsapp/UserPages/Login.aspx",
       "sourceUrl": "https://boards.mo.gov/userpages/Board.aspx?80",
-      "lastVerified": "2026-07-17",
+      "lastVerified": "2026-08-03",
       "criticalNote": "Current vacancy or expired term per boards.mo.gov"
     },
     {
@@ -1711,7 +1711,7 @@
       "constituent": null,
       "applyUrl": "https://apps1.mo.gov/boardsapp/UserPages/Login.aspx",
       "sourceUrl": "https://boards.mo.gov/userpages/Board.aspx?81",
-      "lastVerified": "2026-07-17",
+      "lastVerified": "2026-08-03",
       "criticalNote": "Current vacancy or expired term per boards.mo.gov"
     },
     {
@@ -1725,7 +1725,7 @@
       "constituent": null,
       "applyUrl": "https://apps1.mo.gov/boardsapp/UserPages/Login.aspx",
       "sourceUrl": "https://boards.mo.gov/userpages/Board.aspx?332",
-      "lastVerified": "2026-07-17",
+      "lastVerified": "2026-08-03",
       "criticalNote": "Current vacancy or expired term per boards.mo.gov"
     },
     {
@@ -1739,7 +1739,7 @@
       "constituent": null,
       "applyUrl": "https://apps1.mo.gov/boardsapp/UserPages/Login.aspx",
       "sourceUrl": "https://boards.mo.gov/userpages/Board.aspx?86",
-      "lastVerified": "2026-07-17",
+      "lastVerified": "2026-08-03",
       "criticalNote": "Current vacancy or expired term per boards.mo.gov"
     },
     {
@@ -1753,7 +1753,7 @@
       "constituent": null,
       "applyUrl": "https://apps1.mo.gov/boardsapp/UserPages/Login.aspx",
       "sourceUrl": "https://boards.mo.gov/userpages/Board.aspx?87",
-      "lastVerified": "2026-07-17",
+      "lastVerified": "2026-08-03",
       "criticalNote": "Current vacancy or expired term per boards.mo.gov"
     },
     {
@@ -1767,7 +1767,7 @@
       "constituent": null,
       "applyUrl": "https://apps1.mo.gov/boardsapp/UserPages/Login.aspx",
       "sourceUrl": "https://boards.mo.gov/userpages/Board.aspx?88",
-      "lastVerified": "2026-07-17",
+      "lastVerified": "2026-08-03",
       "criticalNote": "Current vacancy or expired term per boards.mo.gov"
     },
     {
@@ -1781,7 +1781,7 @@
       "constituent": null,
       "applyUrl": "https://apps1.mo.gov/boardsapp/UserPages/Login.aspx",
       "sourceUrl": "https://boards.mo.gov/userpages/Board.aspx?90",
-      "lastVerified": "2026-07-17",
+      "lastVerified": "2026-08-03",
       "criticalNote": "Current vacancy or expired term per boards.mo.gov"
     },
     {
@@ -1795,7 +1795,7 @@
       "constituent": null,
       "applyUrl": "https://apps1.mo.gov/boardsapp/UserPages/Login.aspx",
       "sourceUrl": "https://boards.mo.gov/userpages/Board.aspx?91",
-      "lastVerified": "2026-07-17",
+      "lastVerified": "2026-08-03",
       "criticalNote": "Current vacancy or expired term per boards.mo.gov"
     },
     {
@@ -1809,7 +1809,7 @@
       "constituent": null,
       "applyUrl": "https://apps1.mo.gov/boardsapp/UserPages/Login.aspx",
       "sourceUrl": "https://boards.mo.gov/userpages/Board.aspx?92",
-      "lastVerified": "2026-07-17",
+      "lastVerified": "2026-08-03",
       "criticalNote": "Current vacancy or expired term per boards.mo.gov"
     },
     {
@@ -1823,7 +1823,7 @@
       "constituent": null,
       "applyUrl": "https://apps1.mo.gov/boardsapp/UserPages/Login.aspx",
       "sourceUrl": "https://boards.mo.gov/userpages/Board.aspx?93",
-      "lastVerified": "2026-07-17",
+      "lastVerified": "2026-08-03",
       "criticalNote": "Current vacancy or expired term per boards.mo.gov"
     },
     {
@@ -1837,7 +1837,7 @@
       "constituent": null,
       "applyUrl": "https://apps1.mo.gov/boardsapp/UserPages/Login.aspx",
       "sourceUrl": "https://boards.mo.gov/userpages/Board.aspx?94",
-      "lastVerified": "2026-07-17",
+      "lastVerified": "2026-08-03",
       "criticalNote": "Current vacancy or expired term per boards.mo.gov"
     },
     {
@@ -1851,7 +1851,7 @@
       "constituent": null,
       "applyUrl": "https://apps1.mo.gov/boardsapp/UserPages/Login.aspx",
       "sourceUrl": "https://boards.mo.gov/userpages/Board.aspx?95",
-      "lastVerified": "2026-07-17",
+      "lastVerified": "2026-08-03",
       "criticalNote": "Current vacancy or expired term per boards.mo.gov"
     },
     {
@@ -1865,7 +1865,7 @@
       "constituent": null,
       "applyUrl": "https://apps1.mo.gov/boardsapp/UserPages/Login.aspx",
       "sourceUrl": "https://boards.mo.gov/userpages/Board.aspx?96",
-      "lastVerified": "2026-07-17",
+      "lastVerified": "2026-08-03",
       "criticalNote": "Current vacancy or expired term per boards.mo.gov"
     },
     {
@@ -1879,7 +1879,7 @@
       "constituent": null,
       "applyUrl": "https://apps1.mo.gov/boardsapp/UserPages/Login.aspx",
       "sourceUrl": "https://boards.mo.gov/userpages/Board.aspx?99",
-      "lastVerified": "2026-07-17",
+      "lastVerified": "2026-08-03",
       "criticalNote": "Current vacancy or expired term per boards.mo.gov"
     },
     {
@@ -1893,7 +1893,7 @@
       "constituent": null,
       "applyUrl": "https://apps1.mo.gov/boardsapp/UserPages/Login.aspx",
       "sourceUrl": "https://boards.mo.gov/userpages/Board.aspx?9",
-      "lastVerified": "2026-07-17",
+      "lastVerified": "2026-08-03",
       "criticalNote": "Current vacancy or expired term per boards.mo.gov"
     },
     {
@@ -1907,7 +1907,7 @@
       "constituent": null,
       "applyUrl": "https://apps1.mo.gov/boardsapp/UserPages/Login.aspx",
       "sourceUrl": "https://boards.mo.gov/userpages/Board.aspx?102",
-      "lastVerified": "2026-07-17",
+      "lastVerified": "2026-08-03",
       "criticalNote": "Current vacancy or expired term per boards.mo.gov"
     },
     {
@@ -1921,7 +1921,7 @@
       "constituent": null,
       "applyUrl": "https://apps1.mo.gov/boardsapp/UserPages/Login.aspx",
       "sourceUrl": "https://boards.mo.gov/userpages/Board.aspx?104",
-      "lastVerified": "2026-07-17",
+      "lastVerified": "2026-08-03",
       "criticalNote": "Current vacancy or expired term per boards.mo.gov"
     },
     {
@@ -1935,7 +1935,7 @@
       "constituent": null,
       "applyUrl": "https://apps1.mo.gov/boardsapp/UserPages/Login.aspx",
       "sourceUrl": "https://boards.mo.gov/userpages/Board.aspx?105",
-      "lastVerified": "2026-07-17",
+      "lastVerified": "2026-08-03",
       "criticalNote": "Current vacancy or expired term per boards.mo.gov"
     },
     {
@@ -1949,7 +1949,7 @@
       "constituent": null,
       "applyUrl": "https://apps1.mo.gov/boardsapp/UserPages/Login.aspx",
       "sourceUrl": "https://boards.mo.gov/userpages/Board.aspx?107",
-      "lastVerified": "2026-07-17",
+      "lastVerified": "2026-08-03",
       "criticalNote": "Current vacancy or expired term per boards.mo.gov"
     },
     {
@@ -1963,7 +1963,7 @@
       "constituent": null,
       "applyUrl": "https://apps1.mo.gov/boardsapp/UserPages/Login.aspx",
       "sourceUrl": "https://boards.mo.gov/userpages/Board.aspx?108",
-      "lastVerified": "2026-07-17",
+      "lastVerified": "2026-08-03",
       "criticalNote": "Current vacancy or expired term per boards.mo.gov"
     },
     {
@@ -1977,7 +1977,7 @@
       "constituent": null,
       "applyUrl": "https://apps1.mo.gov/boardsapp/UserPages/Login.aspx",
       "sourceUrl": "https://boards.mo.gov/userpages/Board.aspx?109",
-      "lastVerified": "2026-07-17",
+      "lastVerified": "2026-08-03",
       "criticalNote": "Current vacancy or expired term per boards.mo.gov"
     },
     {
@@ -1991,7 +1991,7 @@
       "constituent": null,
       "applyUrl": "https://apps1.mo.gov/boardsapp/UserPages/Login.aspx",
       "sourceUrl": "https://boards.mo.gov/userpages/Board.aspx?110",
-      "lastVerified": "2026-07-17",
+      "lastVerified": "2026-08-03",
       "criticalNote": "Current vacancy or expired term per boards.mo.gov"
     },
     {
@@ -2005,7 +2005,7 @@
       "constituent": null,
       "applyUrl": "https://apps1.mo.gov/boardsapp/UserPages/Login.aspx",
       "sourceUrl": "https://boards.mo.gov/userpages/Board.aspx?111",
-      "lastVerified": "2026-07-17",
+      "lastVerified": "2026-08-03",
       "criticalNote": "Current vacancy or expired term per boards.mo.gov"
     },
     {
@@ -2019,7 +2019,7 @@
       "constituent": null,
       "applyUrl": "https://apps1.mo.gov/boardsapp/UserPages/Login.aspx",
       "sourceUrl": "https://boards.mo.gov/userpages/Board.aspx?112",
-      "lastVerified": "2026-07-17",
+      "lastVerified": "2026-08-03",
       "criticalNote": "Current vacancy or expired term per boards.mo.gov"
     },
     {
@@ -2033,7 +2033,7 @@
       "constituent": null,
       "applyUrl": "https://apps1.mo.gov/boardsapp/UserPages/Login.aspx",
       "sourceUrl": "https://boards.mo.gov/userpages/Board.aspx?122",
-      "lastVerified": "2026-07-17",
+      "lastVerified": "2026-08-03",
       "criticalNote": "Current vacancy or expired term per boards.mo.gov"
     },
     {
@@ -2047,7 +2047,7 @@
       "constituent": null,
       "applyUrl": "https://apps1.mo.gov/boardsapp/UserPages/Login.aspx",
       "sourceUrl": "https://boards.mo.gov/userpages/Board.aspx?114",
-      "lastVerified": "2026-07-17",
+      "lastVerified": "2026-08-03",
       "criticalNote": "Current vacancy or expired term per boards.mo.gov"
     },
     {
@@ -2061,7 +2061,7 @@
       "constituent": null,
       "applyUrl": "https://apps1.mo.gov/boardsapp/UserPages/Login.aspx",
       "sourceUrl": "https://boards.mo.gov/userpages/Board.aspx?116",
-      "lastVerified": "2026-07-17",
+      "lastVerified": "2026-08-03",
       "criticalNote": "Current vacancy or expired term per boards.mo.gov"
     },
     {
@@ -2075,7 +2075,7 @@
       "constituent": null,
       "applyUrl": "https://apps1.mo.gov/boardsapp/UserPages/Login.aspx",
       "sourceUrl": "https://boards.mo.gov/userpages/Board.aspx?117",
-      "lastVerified": "2026-07-17",
+      "lastVerified": "2026-08-03",
       "criticalNote": "Current vacancy or expired term per boards.mo.gov"
     },
     {
@@ -2089,7 +2089,7 @@
       "constituent": null,
       "applyUrl": "https://apps1.mo.gov/boardsapp/UserPages/Login.aspx",
       "sourceUrl": "https://boards.mo.gov/userpages/Board.aspx?118",
-      "lastVerified": "2026-07-17",
+      "lastVerified": "2026-08-03",
       "criticalNote": "Current vacancy or expired term per boards.mo.gov"
     },
     {
@@ -2103,7 +2103,7 @@
       "constituent": null,
       "applyUrl": "https://apps1.mo.gov/boardsapp/UserPages/Login.aspx",
       "sourceUrl": "https://boards.mo.gov/userpages/Board.aspx?120",
-      "lastVerified": "2026-07-17",
+      "lastVerified": "2026-08-03",
       "criticalNote": "Current vacancy or expired term per boards.mo.gov"
     },
     {
@@ -2117,7 +2117,7 @@
       "constituent": null,
       "applyUrl": "https://apps1.mo.gov/boardsapp/UserPages/Login.aspx",
       "sourceUrl": "https://boards.mo.gov/userpages/Board.aspx?121",
-      "lastVerified": "2026-07-17",
+      "lastVerified": "2026-08-03",
       "criticalNote": "Current vacancy or expired term per boards.mo.gov"
     },
     {
@@ -2131,7 +2131,7 @@
       "constituent": null,
       "applyUrl": "https://apps1.mo.gov/boardsapp/UserPages/Login.aspx",
       "sourceUrl": "https://boards.mo.gov/userpages/Board.aspx?123",
-      "lastVerified": "2026-07-17",
+      "lastVerified": "2026-08-03",
       "criticalNote": "Current vacancy or expired term per boards.mo.gov"
     },
     {
@@ -2145,7 +2145,7 @@
       "constituent": null,
       "applyUrl": "https://apps1.mo.gov/boardsapp/UserPages/Login.aspx",
       "sourceUrl": "https://boards.mo.gov/userpages/Board.aspx?424",
-      "lastVerified": "2026-07-17",
+      "lastVerified": "2026-08-03",
       "criticalNote": "Current vacancy or expired term per boards.mo.gov"
     },
     {
@@ -2159,7 +2159,7 @@
       "constituent": null,
       "applyUrl": "https://apps1.mo.gov/boardsapp/UserPages/Login.aspx",
       "sourceUrl": "https://boards.mo.gov/userpages/Board.aspx?47",
-      "lastVerified": "2026-07-17",
+      "lastVerified": "2026-08-03",
       "criticalNote": "Current vacancy or expired term per boards.mo.gov"
     },
     {
@@ -2173,25 +2173,11 @@
       "constituent": null,
       "applyUrl": "https://apps1.mo.gov/boardsapp/UserPages/Login.aspx",
       "sourceUrl": "https://boards.mo.gov/userpages/Board.aspx?48",
-      "lastVerified": "2026-07-17",
+      "lastVerified": "2026-08-03",
       "criticalNote": "Current vacancy or expired term per boards.mo.gov"
     },
     {
       "id": 155,
-      "name": "State Board of Education",
-      "domain": "education",
-      "totalSeats": null,
-      "vacantSeats": 1,
-      "vacantSince": null,
-      "authority": "Governor's Office — Boards & Commissions",
-      "constituent": null,
-      "applyUrl": "https://apps1.mo.gov/boardsapp/UserPages/Login.aspx",
-      "sourceUrl": "https://boards.mo.gov/userpages/Board.aspx?49",
-      "lastVerified": "2026-07-17",
-      "criticalNote": "Current vacancy or expired term per boards.mo.gov"
-    },
-    {
-      "id": 156,
       "name": "State Board of Embalmers and Funeral Directors",
       "domain": "justice",
       "totalSeats": null,
@@ -2201,11 +2187,11 @@
       "constituent": null,
       "applyUrl": "https://apps1.mo.gov/boardsapp/UserPages/Login.aspx",
       "sourceUrl": "https://boards.mo.gov/userpages/Board.aspx?50",
-      "lastVerified": "2026-07-17",
+      "lastVerified": "2026-08-03",
       "criticalNote": "Current vacancy or expired term per boards.mo.gov"
     },
     {
-      "id": 157,
+      "id": 156,
       "name": "State Board of Health and Senior Services",
       "domain": "health",
       "totalSeats": null,
@@ -2215,11 +2201,11 @@
       "constituent": null,
       "applyUrl": "https://apps1.mo.gov/boardsapp/UserPages/Login.aspx",
       "sourceUrl": "https://boards.mo.gov/userpages/Board.aspx?51",
-      "lastVerified": "2026-07-17",
+      "lastVerified": "2026-08-03",
       "criticalNote": "Current vacancy or expired term per boards.mo.gov"
     },
     {
-      "id": 158,
+      "id": 157,
       "name": "State Board of Mediation",
       "domain": "justice",
       "totalSeats": null,
@@ -2229,11 +2215,11 @@
       "constituent": null,
       "applyUrl": "https://apps1.mo.gov/boardsapp/UserPages/Login.aspx",
       "sourceUrl": "https://boards.mo.gov/userpages/Board.aspx?125",
-      "lastVerified": "2026-07-17",
+      "lastVerified": "2026-08-03",
       "criticalNote": "Current vacancy or expired term per boards.mo.gov"
     },
     {
-      "id": 159,
+      "id": 158,
       "name": "State Board of Optometry",
       "domain": "justice",
       "totalSeats": null,
@@ -2243,11 +2229,11 @@
       "constituent": null,
       "applyUrl": "https://apps1.mo.gov/boardsapp/UserPages/Login.aspx",
       "sourceUrl": "https://boards.mo.gov/userpages/Board.aspx?126",
-      "lastVerified": "2026-07-17",
+      "lastVerified": "2026-08-03",
       "criticalNote": "Current vacancy or expired term per boards.mo.gov"
     },
     {
-      "id": 160,
+      "id": 159,
       "name": "State Board of Pharmacy",
       "domain": "health",
       "totalSeats": null,
@@ -2257,11 +2243,11 @@
       "constituent": null,
       "applyUrl": "https://apps1.mo.gov/boardsapp/UserPages/Login.aspx",
       "sourceUrl": "https://boards.mo.gov/userpages/Board.aspx?127",
-      "lastVerified": "2026-07-17",
+      "lastVerified": "2026-08-03",
       "criticalNote": "Current vacancy or expired term per boards.mo.gov"
     },
     {
-      "id": 161,
+      "id": 160,
       "name": "State Board of Podiatric Medicine",
       "domain": "justice",
       "totalSeats": null,
@@ -2271,11 +2257,11 @@
       "constituent": null,
       "applyUrl": "https://apps1.mo.gov/boardsapp/UserPages/Login.aspx",
       "sourceUrl": "https://boards.mo.gov/userpages/Board.aspx?128",
-      "lastVerified": "2026-07-17",
+      "lastVerified": "2026-08-03",
       "criticalNote": "Current vacancy or expired term per boards.mo.gov"
     },
     {
-      "id": 162,
+      "id": 161,
       "name": "State Board of Registration for the Healing Arts",
       "domain": "justice",
       "totalSeats": null,
@@ -2285,11 +2271,11 @@
       "constituent": null,
       "applyUrl": "https://apps1.mo.gov/boardsapp/UserPages/Login.aspx",
       "sourceUrl": "https://boards.mo.gov/userpages/Board.aspx?129",
-      "lastVerified": "2026-07-17",
+      "lastVerified": "2026-08-03",
       "criticalNote": "Current vacancy or expired term per boards.mo.gov"
     },
     {
-      "id": 163,
+      "id": 162,
       "name": "State Committee for Social Workers",
       "domain": "justice",
       "totalSeats": null,
@@ -2299,11 +2285,11 @@
       "constituent": null,
       "applyUrl": "https://apps1.mo.gov/boardsapp/UserPages/Login.aspx",
       "sourceUrl": "https://boards.mo.gov/userpages/Board.aspx?132",
-      "lastVerified": "2026-07-17",
+      "lastVerified": "2026-08-03",
       "criticalNote": "Current vacancy or expired term per boards.mo.gov"
     },
     {
-      "id": 164,
+      "id": 163,
       "name": "State Committee of Dietitians",
       "domain": "justice",
       "totalSeats": null,
@@ -2313,11 +2299,11 @@
       "constituent": null,
       "applyUrl": "https://apps1.mo.gov/boardsapp/UserPages/Login.aspx",
       "sourceUrl": "https://boards.mo.gov/userpages/Board.aspx?133",
-      "lastVerified": "2026-07-17",
+      "lastVerified": "2026-08-03",
       "criticalNote": "Current vacancy or expired term per boards.mo.gov"
     },
     {
-      "id": 165,
+      "id": 164,
       "name": "State Committee of Marital and Family Therapists",
       "domain": "justice",
       "totalSeats": null,
@@ -2327,11 +2313,11 @@
       "constituent": null,
       "applyUrl": "https://apps1.mo.gov/boardsapp/UserPages/Login.aspx",
       "sourceUrl": "https://boards.mo.gov/userpages/Board.aspx?134",
-      "lastVerified": "2026-07-17",
+      "lastVerified": "2026-08-03",
       "criticalNote": "Current vacancy or expired term per boards.mo.gov"
     },
     {
-      "id": 166,
+      "id": 165,
       "name": "State Committee of Psychologists",
       "domain": "health",
       "totalSeats": null,
@@ -2341,11 +2327,11 @@
       "constituent": null,
       "applyUrl": "https://apps1.mo.gov/boardsapp/UserPages/Login.aspx",
       "sourceUrl": "https://boards.mo.gov/userpages/Board.aspx?135",
-      "lastVerified": "2026-07-17",
+      "lastVerified": "2026-08-03",
       "criticalNote": "Current vacancy or expired term per boards.mo.gov"
     },
     {
-      "id": 167,
+      "id": 166,
       "name": "State Council for Interstate Adult Offender Supervision",
       "domain": "justice",
       "totalSeats": null,
@@ -2355,11 +2341,11 @@
       "constituent": null,
       "applyUrl": "https://apps1.mo.gov/boardsapp/UserPages/Login.aspx",
       "sourceUrl": "https://boards.mo.gov/userpages/Board.aspx?136",
-      "lastVerified": "2026-07-17",
+      "lastVerified": "2026-08-03",
       "criticalNote": "Current vacancy or expired term per boards.mo.gov"
     },
     {
-      "id": 168,
+      "id": 167,
       "name": "State Environmental Improvement and Energy Resources Authority",
       "domain": "environment",
       "totalSeats": null,
@@ -2369,11 +2355,11 @@
       "constituent": null,
       "applyUrl": "https://apps1.mo.gov/boardsapp/UserPages/Login.aspx",
       "sourceUrl": "https://boards.mo.gov/userpages/Board.aspx?188",
-      "lastVerified": "2026-07-17",
+      "lastVerified": "2026-08-03",
       "criticalNote": "Current vacancy or expired term per boards.mo.gov"
     },
     {
-      "id": 169,
+      "id": 168,
       "name": "State Fair Commission",
       "domain": "justice",
       "totalSeats": null,
@@ -2383,11 +2369,11 @@
       "constituent": null,
       "applyUrl": "https://apps1.mo.gov/boardsapp/UserPages/Login.aspx",
       "sourceUrl": "https://boards.mo.gov/userpages/Board.aspx?137",
-      "lastVerified": "2026-07-17",
+      "lastVerified": "2026-08-03",
       "criticalNote": "Current vacancy or expired term per boards.mo.gov"
     },
     {
-      "id": 170,
+      "id": 169,
       "name": "State Highways and Transportation Commission",
       "domain": "justice",
       "totalSeats": null,
@@ -2397,11 +2383,11 @@
       "constituent": null,
       "applyUrl": "https://apps1.mo.gov/boardsapp/UserPages/Login.aspx",
       "sourceUrl": "https://boards.mo.gov/userpages/Board.aspx?138",
-      "lastVerified": "2026-07-17",
+      "lastVerified": "2026-08-03",
       "criticalNote": "Current vacancy or expired term per boards.mo.gov"
     },
     {
-      "id": 171,
+      "id": 170,
       "name": "State Historical Records Advisory Board",
       "domain": "justice",
       "totalSeats": null,
@@ -2411,11 +2397,11 @@
       "constituent": null,
       "applyUrl": "https://apps1.mo.gov/boardsapp/UserPages/Login.aspx",
       "sourceUrl": "https://boards.mo.gov/userpages/Board.aspx?139",
-      "lastVerified": "2026-07-17",
+      "lastVerified": "2026-08-03",
       "criticalNote": "Current vacancy or expired term per boards.mo.gov"
     },
     {
-      "id": 172,
+      "id": 171,
       "name": "State Lottery Commission",
       "domain": "justice",
       "totalSeats": null,
@@ -2425,11 +2411,11 @@
       "constituent": null,
       "applyUrl": "https://apps1.mo.gov/boardsapp/UserPages/Login.aspx",
       "sourceUrl": "https://boards.mo.gov/userpages/Board.aspx?141",
-      "lastVerified": "2026-07-17",
+      "lastVerified": "2026-08-03",
       "criticalNote": "Current vacancy or expired term per boards.mo.gov"
     },
     {
-      "id": 173,
+      "id": 172,
       "name": "State Milk Board",
       "domain": "justice",
       "totalSeats": null,
@@ -2439,11 +2425,11 @@
       "constituent": null,
       "applyUrl": "https://apps1.mo.gov/boardsapp/UserPages/Login.aspx",
       "sourceUrl": "https://boards.mo.gov/userpages/Board.aspx?142",
-      "lastVerified": "2026-07-17",
+      "lastVerified": "2026-08-03",
       "criticalNote": "Current vacancy or expired term per boards.mo.gov"
     },
     {
-      "id": 174,
+      "id": 173,
       "name": "State Rehabilitation Advisory Council for the Blind",
       "domain": "disability",
       "totalSeats": null,
@@ -2453,11 +2439,11 @@
       "constituent": null,
       "applyUrl": "https://apps1.mo.gov/boardsapp/UserPages/Login.aspx",
       "sourceUrl": "https://boards.mo.gov/userpages/Board.aspx?143",
-      "lastVerified": "2026-07-17",
+      "lastVerified": "2026-08-03",
       "criticalNote": "Current vacancy or expired term per boards.mo.gov"
     },
     {
-      "id": 175,
+      "id": 174,
       "name": "State Rehabilitation Council",
       "domain": "justice",
       "totalSeats": null,
@@ -2467,11 +2453,11 @@
       "constituent": null,
       "applyUrl": "https://apps1.mo.gov/boardsapp/UserPages/Login.aspx",
       "sourceUrl": "https://boards.mo.gov/userpages/Board.aspx?144",
-      "lastVerified": "2026-07-17",
+      "lastVerified": "2026-08-03",
       "criticalNote": "Current vacancy or expired term per boards.mo.gov"
     },
     {
-      "id": 176,
+      "id": 175,
       "name": "State Soil and Water Districts Commission",
       "domain": "environment",
       "totalSeats": null,
@@ -2481,11 +2467,11 @@
       "constituent": null,
       "applyUrl": "https://apps1.mo.gov/boardsapp/UserPages/Login.aspx",
       "sourceUrl": "https://boards.mo.gov/userpages/Board.aspx?146",
-      "lastVerified": "2026-07-17",
+      "lastVerified": "2026-08-03",
       "criticalNote": "Current vacancy or expired term per boards.mo.gov"
     },
     {
-      "id": 177,
+      "id": 176,
       "name": "State Tax Commission",
       "domain": "justice",
       "totalSeats": null,
@@ -2495,11 +2481,11 @@
       "constituent": null,
       "applyUrl": "https://apps1.mo.gov/boardsapp/UserPages/Login.aspx",
       "sourceUrl": "https://boards.mo.gov/userpages/Board.aspx?147",
-      "lastVerified": "2026-07-17",
+      "lastVerified": "2026-08-03",
       "criticalNote": "Current vacancy or expired term per boards.mo.gov"
     },
     {
-      "id": 178,
+      "id": 177,
       "name": "State Technical College of Missouri Board of Regents",
       "domain": "education",
       "totalSeats": null,
@@ -2509,11 +2495,11 @@
       "constituent": null,
       "applyUrl": "https://apps1.mo.gov/boardsapp/UserPages/Login.aspx",
       "sourceUrl": "https://boards.mo.gov/userpages/Board.aspx?27",
-      "lastVerified": "2026-07-17",
+      "lastVerified": "2026-08-03",
       "criticalNote": "Current vacancy or expired term per boards.mo.gov"
     },
     {
-      "id": 179,
+      "id": 178,
       "name": "Tourism Commission",
       "domain": "justice",
       "totalSeats": null,
@@ -2523,11 +2509,11 @@
       "constituent": null,
       "applyUrl": "https://apps1.mo.gov/boardsapp/UserPages/Login.aspx",
       "sourceUrl": "https://boards.mo.gov/userpages/Board.aspx?150",
-      "lastVerified": "2026-07-17",
+      "lastVerified": "2026-08-03",
       "criticalNote": "Current vacancy or expired term per boards.mo.gov"
     },
     {
-      "id": 180,
+      "id": 179,
       "name": "Truman State University Board of Governors",
       "domain": "education",
       "totalSeats": null,
@@ -2537,11 +2523,11 @@
       "constituent": null,
       "applyUrl": "https://apps1.mo.gov/boardsapp/UserPages/Login.aspx",
       "sourceUrl": "https://boards.mo.gov/userpages/Board.aspx?151",
-      "lastVerified": "2026-07-17",
+      "lastVerified": "2026-08-03",
       "criticalNote": "Current vacancy or expired term per boards.mo.gov"
     },
     {
-      "id": 181,
+      "id": 180,
       "name": "University of Central Missouri Board of Governors",
       "domain": "education",
       "totalSeats": null,
@@ -2551,11 +2537,11 @@
       "constituent": null,
       "applyUrl": "https://apps1.mo.gov/boardsapp/UserPages/Login.aspx",
       "sourceUrl": "https://boards.mo.gov/userpages/Board.aspx?152",
-      "lastVerified": "2026-07-17",
+      "lastVerified": "2026-08-03",
       "criticalNote": "Current vacancy or expired term per boards.mo.gov"
     },
     {
-      "id": 182,
+      "id": 181,
       "name": "University of Missouri Board of Curators",
       "domain": "education",
       "totalSeats": null,
@@ -2565,11 +2551,11 @@
       "constituent": null,
       "applyUrl": "https://apps1.mo.gov/boardsapp/UserPages/Login.aspx",
       "sourceUrl": "https://boards.mo.gov/userpages/Board.aspx?153",
-      "lastVerified": "2026-07-17",
+      "lastVerified": "2026-08-03",
       "criticalNote": "Current vacancy or expired term per boards.mo.gov"
     },
     {
-      "id": 183,
+      "id": 182,
       "name": "Well Installation Board",
       "domain": "justice",
       "totalSeats": null,
@@ -2579,11 +2565,11 @@
       "constituent": null,
       "applyUrl": "https://apps1.mo.gov/boardsapp/UserPages/Login.aspx",
       "sourceUrl": "https://boards.mo.gov/userpages/Board.aspx?155",
-      "lastVerified": "2026-07-17",
+      "lastVerified": "2026-08-03",
       "criticalNote": "Current vacancy or expired term per boards.mo.gov"
     },
     {
-      "id": 184,
+      "id": 183,
       "name": "Workers' Compensation Determinations Review Board",
       "domain": "justice",
       "totalSeats": null,
@@ -2593,7 +2579,7 @@
       "constituent": null,
       "applyUrl": "https://apps1.mo.gov/boardsapp/UserPages/Login.aspx",
       "sourceUrl": "https://boards.mo.gov/userpages/Board.aspx?156",
-      "lastVerified": "2026-07-17",
+      "lastVerified": "2026-08-03",
       "criticalNote": "Current vacancy or expired term per boards.mo.gov"
     }
   ]
