@@ -1,1 +1,1 @@
-MO: 182 rows (5 full / 177 provisional) — missing: totalSeats×177, constituent×177
+MI,IN,TN,KY: not in registry — skipped
