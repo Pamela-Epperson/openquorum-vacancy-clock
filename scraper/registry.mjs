@@ -90,7 +90,7 @@ export const REGISTRY = {
     applyAuthority: "Governor's Office — Boards & Commissions",
     dataSource: "boards.mo.gov",
     totalBoardsNote: "Current vacancies & expired terms list, boards.mo.gov",
-    promote: false, // verify first scrape PR, then add enrichments/MO.mjs
+    promote: true, // enrichments/MO.mjs: 5 RSMo-verified boards (Aug 13 2026)
   },
   // UT — VERIFIED July 15, 2026: boards.utah.gov (400+ boards; apply at
   // boards.utah.gov/s/how-to-apply, Governor's Office). Site is Salesforce
