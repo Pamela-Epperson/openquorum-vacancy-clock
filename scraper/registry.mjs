@@ -204,6 +204,56 @@ export const REGISTRY = {
     contextNote: "Kentucky boards shown are hand-verified governor-appointed opportunities — apply at boardregister.ky.gov.",
     promote: true, // data/scraped/KY.json manual seed (Aug 13 2026) — INVENTORY MODE
   },
+  NV: {
+    profile: "manual",
+    endpoint: null,
+    applyUrl: "https://gov.nv.gov/",
+    applyAuthority: "Governor’s Office — Boards & Commissions",
+    dataSource: "gov.nv.gov",
+    totalBoardsNote: "Hand-verified seed · no central vacancy list found",
+    contextNote: "Nevada boards shown are hand-verified governor-appointed opportunities — apply through the Governor’s Office.",
+    promote: true, // data/scraped/NV.json manual seed (Aug 13 2026) — INVENTORY MODE
+  },
+  OK: {
+    profile: "manual",
+    endpoint: null,
+    applyUrl: "https://oklahoma.gov/governor.html",
+    applyAuthority: "Governor’s Office — Appointments",
+    dataSource: "oklahoma.gov/governor",
+    totalBoardsNote: "Hand-verified seed · no central vacancy list found",
+    contextNote: "Oklahoma boards shown are hand-verified governor-appointed opportunities — apply through the Governor’s Office.",
+    promote: true, // data/scraped/OK.json manual seed (Aug 13 2026) — INVENTORY MODE
+  },
+  AR: {
+    profile: "manual",
+    endpoint: null,
+    applyUrl: "https://governor.arkansas.gov/",
+    applyAuthority: "Governor’s Office — Boards & Commissions",
+    dataSource: "governor.arkansas.gov",
+    totalBoardsNote: "Hand-verified seed · no central vacancy list found",
+    contextNote: "Arkansas boards shown are hand-verified governor-appointed opportunities — apply through the Governor’s Office.",
+    promote: true, // data/scraped/AR.json manual seed (Aug 13 2026) — INVENTORY MODE
+  },
+  KS: {
+    profile: "manual",
+    endpoint: null,
+    applyUrl: "https://www.governor.ks.gov/serving-kansans/office-of-appointments/boards-commissions",
+    applyAuthority: "Governor’s Office of Appointments",
+    dataSource: "governor.ks.gov/serving-kansans/office-of-appointments",
+    totalBoardsNote: "Hand-verified seed · no central vacancy list found",
+    contextNote: "Kansas boards shown are hand-verified governor-appointed opportunities — apply through the Governor’s Office of Appointments.",
+    promote: true, // data/scraped/KS.json manual seed (Aug 13 2026) — INVENTORY MODE
+  },
+  NM: {
+    profile: "manual",
+    endpoint: null,
+    applyUrl: "https://www.governor.state.nm.us/apply/boards-and-commissions/",
+    applyAuthority: "Governor’s Office — Boards & Commissions",
+    dataSource: "governor.state.nm.us/apply/boards-and-commissions",
+    totalBoardsNote: "Hand-verified seed · no central vacancy list found",
+    contextNote: "New Mexico boards shown are hand-verified governor-appointed opportunities — apply through the Governor’s Office.",
+    promote: true, // data/scraped/NM.json manual seed (Aug 13 2026) — INVENTORY MODE
+  },
   // Researched July 8, 2026 — profiles not yet written (next tranche):
   //     · Governor's Appointments Office
   //     · Governor's Boards & Commissions Office

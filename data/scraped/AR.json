@@ -1,0 +1,90 @@
+{
+  "scrapedAt": "2026-08-13T00:00:00.000Z",
+  "registry": {
+    "profile": "manual",
+    "dataSource": "Arkansas Code / Governor's Boards & Commissions (no central vacancy list)"
+  },
+  "summary": { "state": "AR", "total": 5, "full": 5, "provisional": 0, "missingFields": {} },
+  "rows": [
+    {
+      "id": 1,
+      "name": "Arkansas State Medical Board",
+      "domain": "health",
+      "totalSeats": 15,
+      "vacantSeats": 0,
+      "vacantSince": null,
+      "authority": "Governor's Office — Boards & Commissions",
+      "constituent": "Arkansas patients & licensed physicians",
+      "applyUrl": "https://governor.arkansas.gov/",
+      "sourceUrl": "https://governor.arkansas.gov/",
+      "lastVerified": "2026-08-13",
+      "mandate": "Licenses and disciplines Arkansas's physicians. Fifteen members appointed by the Governor with Senate consent — ten physicians, a physician assistant, and public members across the four congressional districts (A.C.A. 17-95-301).",
+      "seatSource": "https://codes.findlaw.com/ar/title-17-professions-occupations-and-businesses/ar-code-sect-17-95-301/",
+      "criticalNote": "Curated from the Arkansas Code; AR publishes no central board-vacancy list (inventory mode)"
+    },
+    {
+      "id": 2,
+      "name": "Arkansas State Board of Nursing",
+      "domain": "health",
+      "totalSeats": 13,
+      "vacantSeats": 0,
+      "vacantSince": null,
+      "authority": "Governor's Office — Boards & Commissions",
+      "constituent": "Arkansas patients & licensed nurses",
+      "applyUrl": "https://governor.arkansas.gov/",
+      "sourceUrl": "https://governor.arkansas.gov/",
+      "lastVerified": "2026-08-13",
+      "mandate": "Licenses and regulates Arkansas's nurses. Thirteen members appointed by the Governor with Senate consent — registered nurses, licensed practical nurses, psychiatric technician nurses, and a consumer member (A.C.A. 17-87-203).",
+      "seatSource": "https://healthy.arkansas.gov/boards-commissions/boards/nursing-arkansas-state-board/about-us/",
+      "criticalNote": "Curated from the Arkansas Code; AR publishes no central board-vacancy list (inventory mode)"
+    },
+    {
+      "id": 3,
+      "name": "Arkansas Game and Fish Commission",
+      "domain": "environment",
+      "totalSeats": 7,
+      "vacantSeats": 0,
+      "vacantSince": null,
+      "authority": "Governor's Office — Boards & Commissions",
+      "constituent": "Arkansas hunters, anglers & wildlife",
+      "applyUrl": "https://governor.arkansas.gov/",
+      "sourceUrl": "https://governor.arkansas.gov/",
+      "lastVerified": "2026-08-13",
+      "mandate": "Sets wildlife and fisheries policy for Arkansas — a constitutional commission. Seven voting commissioners appointed by the Governor to staggered seven-year terms, one from each congressional district (Ark. Const. Amend. 35).",
+      "seatSource": "https://law.justia.com/constitution/arkansas/amendments/amendment-35/",
+      "criticalNote": "Seven governor-appointed voting commissioners (plus one non-voting ex officio); curated from the Arkansas Constitution"
+    },
+    {
+      "id": 4,
+      "name": "Arkansas Real Estate Commission",
+      "domain": "housing",
+      "totalSeats": 5,
+      "vacantSeats": 0,
+      "vacantSince": null,
+      "authority": "Governor's Office — Boards & Commissions",
+      "constituent": "Arkansas home buyers & licensed brokers",
+      "applyUrl": "https://governor.arkansas.gov/",
+      "sourceUrl": "https://governor.arkansas.gov/",
+      "lastVerified": "2026-08-13",
+      "mandate": "Licenses and regulates Arkansas's real estate brokers and salespersons. Five members appointed by the Governor with Senate consent — three licensees plus consumer and elderly representatives (A.C.A. 17-42-201).",
+      "seatSource": "https://law.justia.com/codes/arkansas/2015/title-17/subtitle-2/chapter-42/subchapter-2/section-17-42-201/",
+      "criticalNote": "Curated from the Arkansas Code; AR publishes no central board-vacancy list (inventory mode)"
+    },
+    {
+      "id": 5,
+      "name": "Arkansas State Board of Pharmacy",
+      "domain": "health",
+      "totalSeats": 8,
+      "vacantSeats": 0,
+      "vacantSince": null,
+      "authority": "Governor's Office — Boards & Commissions",
+      "constituent": "Arkansas patients & licensed pharmacists · drug safety",
+      "applyUrl": "https://governor.arkansas.gov/",
+      "sourceUrl": "https://governor.arkansas.gov/",
+      "lastVerified": "2026-08-13",
+      "mandate": "Licenses pharmacists and regulates pharmacy practice in Arkansas. Eight members appointed by the Governor — five practicing pharmacists, a minority pharmacist member, and consumer and elderly representatives (A.C.A. 17-92-201).",
+      "seatSource": "https://law.justia.com/codes/arkansas/title-17/subtitle-3/chapter-92/subchapter-2/section-17-92-201/",
+      "criticalNote": "Curated from the Arkansas Code; AR publishes no central board-vacancy list (inventory mode)"
+    }
+  ]
+}
