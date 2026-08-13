@@ -1,0 +1,90 @@
+{
+  "scrapedAt": "2026-08-13T00:00:00.000Z",
+  "registry": {
+    "profile": "manual",
+    "dataSource": "Oklahoma Statutes / Governor's appointments (no central vacancy list)"
+  },
+  "summary": { "state": "OK", "total": 5, "full": 5, "provisional": 0, "missingFields": {} },
+  "rows": [
+    {
+      "id": 1,
+      "name": "Oklahoma State Board of Medical Licensure and Supervision",
+      "domain": "health",
+      "totalSeats": 11,
+      "vacantSeats": 0,
+      "vacantSince": null,
+      "authority": "Governor's Office — Appointments",
+      "constituent": "Oklahoma patients & licensed physicians",
+      "applyUrl": "https://oklahoma.gov/governor.html",
+      "sourceUrl": "https://oklahoma.gov/governor.html",
+      "lastVerified": "2026-08-13",
+      "mandate": "Licenses and disciplines Oklahoma's physicians. Eleven members appointed by the Governor — physicians and public members (59 O.S. Sec. 481).",
+      "seatSource": "https://law.justia.com/codes/oklahoma/title-59/section-59-481/",
+      "criticalNote": "Curated from the Oklahoma Statutes; OK publishes no central board-vacancy list (inventory mode)"
+    },
+    {
+      "id": 2,
+      "name": "Oklahoma Board of Nursing",
+      "domain": "health",
+      "totalSeats": 11,
+      "vacantSeats": 0,
+      "vacantSince": null,
+      "authority": "Governor's Office — Appointments",
+      "constituent": "Oklahoma patients & licensed nurses",
+      "applyUrl": "https://oklahoma.gov/governor.html",
+      "sourceUrl": "https://oklahoma.gov/governor.html",
+      "lastVerified": "2026-08-13",
+      "mandate": "Licenses and regulates Oklahoma's nurses. Eleven members appointed by the Governor — six registered nurses, three licensed practical nurses, and two public members (59 O.S. Sec. 567.4).",
+      "seatSource": "https://law.justia.com/codes/oklahoma/title-59/section-59-567-4/",
+      "criticalNote": "Curated from the Oklahoma Statutes; OK publishes no central board-vacancy list (inventory mode)"
+    },
+    {
+      "id": 3,
+      "name": "Oklahoma Wildlife Conservation Commission",
+      "domain": "environment",
+      "totalSeats": 8,
+      "vacantSeats": 0,
+      "vacantSince": null,
+      "authority": "Governor's Office — Appointments",
+      "constituent": "Oklahoma hunters, anglers & wildlife",
+      "applyUrl": "https://oklahoma.gov/governor.html",
+      "sourceUrl": "https://oklahoma.gov/governor.html",
+      "lastVerified": "2026-08-13",
+      "mandate": "Governs the Oklahoma Department of Wildlife Conservation — hunting, fishing, and wildlife policy. Eight members appointed by the Governor and confirmed by the Senate to eight-year terms (Okla. Const. Art. XXVI).",
+      "seatSource": "https://oksenate.gov/sites/default/files/2022-05/oc26.pdf",
+      "criticalNote": "Curated from the Oklahoma Constitution; OK publishes no central board-vacancy list (inventory mode)"
+    },
+    {
+      "id": 4,
+      "name": "Oklahoma Real Estate Commission",
+      "domain": "housing",
+      "totalSeats": 7,
+      "vacantSeats": 0,
+      "vacantSince": null,
+      "authority": "Governor's Office — Appointments",
+      "constituent": "Oklahoma home buyers & licensed brokers",
+      "applyUrl": "https://oklahoma.gov/governor.html",
+      "sourceUrl": "https://oklahoma.gov/governor.html",
+      "lastVerified": "2026-08-13",
+      "mandate": "Licenses and regulates Oklahoma's real estate brokers. Seven members appointed by the Governor with Senate consent — five brokers, a lay person, and a real-estate educator (59 O.S. Sec. 858-201).",
+      "seatSource": "https://law.justia.com/codes/oklahoma/2018/title-59/section-59-858-201/",
+      "criticalNote": "Curated from the Oklahoma Statutes; OK publishes no central board-vacancy list (inventory mode)"
+    },
+    {
+      "id": 5,
+      "name": "Oklahoma State Board of Pharmacy",
+      "domain": "health",
+      "totalSeats": 6,
+      "vacantSeats": 0,
+      "vacantSince": null,
+      "authority": "Governor's Office — Appointments",
+      "constituent": "Oklahoma patients & licensed pharmacists · drug safety",
+      "applyUrl": "https://oklahoma.gov/governor.html",
+      "sourceUrl": "https://oklahoma.gov/governor.html",
+      "lastVerified": "2026-08-13",
+      "mandate": "Licenses pharmacists and regulates pharmacy practice in Oklahoma. Six members appointed by the Governor — five licensed pharmacists and one public member (59 O.S. Sec. 353.3).",
+      "seatSource": "https://oklahoma.gov/pharmacy/about.html",
+      "criticalNote": "Curated from the Oklahoma Statutes; OK publishes no central board-vacancy list (inventory mode)"
+    }
+  ]
+}
