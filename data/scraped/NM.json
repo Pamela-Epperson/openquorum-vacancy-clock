@@ -1,0 +1,74 @@
+{
+  "scrapedAt": "2026-08-13T00:00:00.000Z",
+  "registry": {
+    "profile": "manual",
+    "dataSource": "New Mexico Statutes / Governor's Boards & Commissions (no central vacancy list)"
+  },
+  "summary": { "state": "NM", "total": 4, "full": 4, "provisional": 0, "missingFields": {} },
+  "rows": [
+    {
+      "id": 1,
+      "name": "New Mexico Medical Board",
+      "domain": "health",
+      "totalSeats": 9,
+      "vacantSeats": 0,
+      "vacantSince": null,
+      "authority": "Governor's Office — Boards & Commissions",
+      "constituent": "New Mexico patients & licensed physicians",
+      "applyUrl": "https://www.governor.state.nm.us/apply/boards-and-commissions/",
+      "sourceUrl": "https://www.governor.state.nm.us/apply/boards-and-commissions/",
+      "lastVerified": "2026-08-13",
+      "mandate": "Licenses and disciplines New Mexico's physicians and physician assistants. Nine members appointed by the Governor — six physicians, a physician assistant, and two public members (NMSA 61-6-2).",
+      "seatSource": "https://law.justia.com/codes/new-mexico/chapter-61/article-6/section-61-6-2/",
+      "criticalNote": "Curated from the New Mexico Statutes; NM publishes no central board-vacancy list (inventory mode)"
+    },
+    {
+      "id": 2,
+      "name": "New Mexico Board of Nursing",
+      "domain": "health",
+      "totalSeats": 7,
+      "vacantSeats": 0,
+      "vacantSince": null,
+      "authority": "Governor's Office — Boards & Commissions",
+      "constituent": "New Mexico patients & licensed nurses",
+      "applyUrl": "https://www.governor.state.nm.us/apply/boards-and-commissions/",
+      "sourceUrl": "https://www.governor.state.nm.us/apply/boards-and-commissions/",
+      "lastVerified": "2026-08-13",
+      "mandate": "Licenses and regulates New Mexico's nurses. Seven members appointed by the Governor — four licensed nurses and three public members (NMSA 61-3-8).",
+      "seatSource": "https://law.justia.com/codes/new-mexico/chapter-61/article-3/section-61-3-8/",
+      "criticalNote": "Curated from the New Mexico Statutes; NM publishes no central board-vacancy list (inventory mode)"
+    },
+    {
+      "id": 3,
+      "name": "New Mexico State Game Commission",
+      "domain": "environment",
+      "totalSeats": 7,
+      "vacantSeats": 0,
+      "vacantSince": null,
+      "authority": "Governor's Office — Boards & Commissions",
+      "constituent": "New Mexico hunters, anglers & wildlife",
+      "applyUrl": "https://www.governor.state.nm.us/apply/boards-and-commissions/",
+      "sourceUrl": "https://www.governor.state.nm.us/apply/boards-and-commissions/",
+      "lastVerified": "2026-08-13",
+      "mandate": "Sets policy and regulations for the New Mexico Department of Game and Fish. Seven members appointed by the Governor with Senate consent — district and at-large seats, no more than four from one party (NMSA 17-1-2).",
+      "seatSource": "https://law.justia.com/codes/new-mexico/2017/chapter-17/article-1/section-17-1-2/",
+      "criticalNote": "Curated from the New Mexico Statutes; NM publishes no central board-vacancy list (inventory mode)"
+    },
+    {
+      "id": 4,
+      "name": "New Mexico Real Estate Commission",
+      "domain": "housing",
+      "totalSeats": 5,
+      "vacantSeats": 0,
+      "vacantSince": null,
+      "authority": "Governor's Office — Boards & Commissions",
+      "constituent": "New Mexico home buyers & licensed brokers",
+      "applyUrl": "https://www.governor.state.nm.us/apply/boards-and-commissions/",
+      "sourceUrl": "https://www.governor.state.nm.us/apply/boards-and-commissions/",
+      "lastVerified": "2026-08-13",
+      "mandate": "Licenses and regulates New Mexico's real estate brokers. Five members appointed by the Governor — four brokers and one public member, no more than one per county (NMSA 61-29-4).",
+      "seatSource": "https://law.justia.com/codes/new-mexico/chapter-61/article-29/section-61-29-4/",
+      "criticalNote": "Curated from the New Mexico Statutes; NM publishes no central board-vacancy list (inventory mode)"
+    }
+  ]
+}
