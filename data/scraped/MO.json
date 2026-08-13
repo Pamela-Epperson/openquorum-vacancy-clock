@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-08-13T16:18:23.282Z",
+  "scrapedAt": "2026-08-13T16:34:45.860Z",
   "registry": {
     "profile": "mo",
     "endpoint": "https://boards.mo.gov/userpages/boardsearch.aspx",
@@ -7,16 +7,16 @@
     "applyAuthority": "Governor's Office — Boards & Commissions",
     "dataSource": "boards.mo.gov",
     "totalBoardsNote": "Current vacancies & expired terms list, boards.mo.gov",
-    "promote": false
+    "promote": true
   },
   "summary": {
     "state": "MO",
     "total": 182,
-    "full": 0,
-    "provisional": 182,
+    "full": 5,
+    "provisional": 177,
     "missingFields": {
-      "totalSeats": 182,
-      "constituent": 182
+      "totalSeats": 177,
+      "constituent": 177
     }
   },
   "rows": [
@@ -1536,15 +1536,17 @@
       "id": 109,
       "name": "Missouri Real Estate Commission",
       "domain": "justice",
-      "totalSeats": null,
+      "totalSeats": 7,
       "vacantSeats": 1,
       "vacantSince": null,
       "authority": "Governor's Office — Boards & Commissions",
-      "constituent": null,
+      "constituent": "Missouri home buyers & licensed real estate brokers",
       "applyUrl": "https://apps1.mo.gov/boardsapp/UserPages/Login.aspx",
       "sourceUrl": "https://boards.mo.gov/userpages/Board.aspx?312",
       "lastVerified": "2026-08-13",
-      "criticalNote": "Current vacancy or expired term per boards.mo.gov"
+      "criticalNote": "Current vacancy or expired term per boards.mo.gov",
+      "mandate": "Licenses and regulates Missouri's real estate brokers and salespersons. Seven members appointed by the Governor with Senate consent — six experienced brokers and one voting public member (RSMo 339.120).",
+      "seatSource": "https://revisor.mo.gov/main/OneSection.aspx?section=339.120"
     },
     {
       "id": 110,
@@ -1606,15 +1608,17 @@
       "id": 114,
       "name": "Missouri State Board of Accountancy",
       "domain": "justice",
-      "totalSeats": null,
+      "totalSeats": 7,
       "vacantSeats": 1,
       "vacantSince": null,
       "authority": "Governor's Office — Boards & Commissions",
-      "constituent": null,
+      "constituent": "Missouri businesses & licensed CPAs · audit integrity",
       "applyUrl": "https://apps1.mo.gov/boardsapp/UserPages/Login.aspx",
       "sourceUrl": "https://boards.mo.gov/userpages/Board.aspx?320",
       "lastVerified": "2026-08-13",
-      "criticalNote": "Current vacancy or expired term per boards.mo.gov"
+      "criticalNote": "Current vacancy or expired term per boards.mo.gov",
+      "mandate": "Licenses and disciplines Missouri's certified public accountants. Seven members appointed by the Governor with Senate consent — six licensees and one voting public member (RSMo 326.259).",
+      "seatSource": "https://revisor.mo.gov/main/OneSection.aspx?section=326.259"
     },
     {
       "id": 115,
@@ -1634,15 +1638,17 @@
       "id": 116,
       "name": "Missouri State Board of Nursing",
       "domain": "health",
-      "totalSeats": null,
+      "totalSeats": 9,
       "vacantSeats": 1,
       "vacantSince": null,
       "authority": "Governor's Office — Boards & Commissions",
-      "constituent": null,
+      "constituent": "Missouri patients & licensed nurses",
       "applyUrl": "https://apps1.mo.gov/boardsapp/UserPages/Login.aspx",
       "sourceUrl": "https://boards.mo.gov/userpages/Board.aspx?78",
       "lastVerified": "2026-08-13",
-      "criticalNote": "Current vacancy or expired term per boards.mo.gov"
+      "criticalNote": "Current vacancy or expired term per boards.mo.gov",
+      "mandate": "Licenses and disciplines Missouri's nurses and enforces the Nursing Practice Act. Nine members appointed by the Governor with the advice and consent of the Senate (RSMo 335.021).",
+      "seatSource": "https://revisor.mo.gov/main/OneSection.aspx?section=335.021"
     },
     {
       "id": 117,
@@ -2222,15 +2228,17 @@
       "id": 158,
       "name": "State Board of Pharmacy",
       "domain": "health",
-      "totalSeats": null,
+      "totalSeats": 7,
       "vacantSeats": 1,
       "vacantSince": null,
       "authority": "Governor's Office — Boards & Commissions",
-      "constituent": null,
+      "constituent": "Missouri patients & licensed pharmacists · drug safety",
       "applyUrl": "https://apps1.mo.gov/boardsapp/UserPages/Login.aspx",
       "sourceUrl": "https://boards.mo.gov/userpages/Board.aspx?127",
       "lastVerified": "2026-08-13",
-      "criticalNote": "Current vacancy or expired term per boards.mo.gov"
+      "criticalNote": "Current vacancy or expired term per boards.mo.gov",
+      "mandate": "Licenses pharmacists and regulates the practice of pharmacy across Missouri. Seven members appointed by the Governor with Senate consent — six pharmacists and one voting public member (RSMo 338.110).",
+      "seatSource": "https://revisor.mo.gov/main/OneSection.aspx?section=338.110"
     },
     {
       "id": 159,
@@ -2249,16 +2257,18 @@
     {
       "id": 160,
       "name": "State Board of Registration for the Healing Arts",
-      "domain": "justice",
-      "totalSeats": null,
+      "domain": "health",
+      "totalSeats": 9,
       "vacantSeats": 1,
       "vacantSince": null,
       "authority": "Governor's Office — Boards & Commissions",
-      "constituent": null,
+      "constituent": "Missouri patients & licensed physicians",
       "applyUrl": "https://apps1.mo.gov/boardsapp/UserPages/Login.aspx",
       "sourceUrl": "https://boards.mo.gov/userpages/Board.aspx?129",
       "lastVerified": "2026-08-13",
-      "criticalNote": "Current vacancy or expired term per boards.mo.gov"
+      "criticalNote": "Current vacancy or expired term per boards.mo.gov",
+      "mandate": "Licenses and disciplines Missouri's physicians and surgeons. Nine members appointed by the Governor with Senate consent — eight physicians and one voting public member (RSMo Chapter 334).",
+      "seatSource": "https://pr.mo.gov/healingarts-about-the-board.asp"
     },
     {
       "id": 161,
