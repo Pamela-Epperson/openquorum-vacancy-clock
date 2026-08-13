@@ -1,2 +1,1 @@
-MS: manual state — staged data maintained by hand in data/scraped/MS.json
-AL: manual state — staged data maintained by hand in data/scraped/AL.json
+MO: 182 rows (0 full / 182 provisional) — missing: totalSeats×182, constituent×182
