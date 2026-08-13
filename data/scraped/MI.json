@@ -1,0 +1,96 @@
+{
+  "scrapedAt": "2026-08-13T00:00:00.000Z",
+  "registry": {
+    "profile": "manual",
+    "dataSource": "Michigan Compiled Laws / Governor's Appointments Division (no central vacancy list)"
+  },
+  "summary": {
+    "state": "MI",
+    "total": 5,
+    "full": 5,
+    "provisional": 0,
+    "missingFields": {}
+  },
+  "rows": [
+    {
+      "id": 1,
+      "name": "Michigan Natural Resources Commission",
+      "domain": "environment",
+      "totalSeats": 7,
+      "vacantSeats": 0,
+      "vacantSince": null,
+      "authority": "Governor's Office — Appointments Division",
+      "constituent": "Michigan hunters, anglers & public-land users",
+      "applyUrl": "https://www.michigan.gov/whitmer/appointments",
+      "sourceUrl": "https://www.michigan.gov/whitmer/appointments",
+      "lastVerified": "2026-08-13",
+      "mandate": "Sets policy for Michigan's Department of Natural Resources — hunting, fishing, and public-land regulation. Seven members appointed by the Governor with Senate consent; no more than four from one party (MCL 324.501).",
+      "seatSource": "https://www.legislature.mi.gov/Laws/MCL?objectName=mcl-324-501",
+      "criticalNote": "Curated from Michigan Compiled Laws; MI publishes no central board-vacancy list (inventory mode)"
+    },
+    {
+      "id": 2,
+      "name": "Michigan Civil Rights Commission",
+      "domain": "equity",
+      "totalSeats": 8,
+      "vacantSeats": 0,
+      "vacantSince": null,
+      "authority": "Governor's Office — Appointments Division",
+      "constituent": "Michiganders facing discrimination · civil rights",
+      "applyUrl": "https://www.michigan.gov/whitmer/appointments",
+      "sourceUrl": "https://www.michigan.gov/whitmer/appointments",
+      "lastVerified": "2026-08-13",
+      "mandate": "Investigates discrimination and enforces Michigan's civil-rights protections — a constitutional body. Eight members appointed by the Governor with Senate consent; no more than four from one party (Mich. Const. Art. V, Sec. 29).",
+      "seatSource": "https://law.justia.com/constitution/michigan/article-v/section-29/",
+      "criticalNote": "Curated from the Michigan Constitution; MI publishes no central board-vacancy list (inventory mode)"
+    },
+    {
+      "id": 3,
+      "name": "Michigan Board of Nursing",
+      "domain": "health",
+      "totalSeats": 24,
+      "vacantSeats": 0,
+      "vacantSince": null,
+      "authority": "Governor's Office — Appointments Division",
+      "constituent": "Michigan patients & licensed nurses",
+      "applyUrl": "https://www.michigan.gov/whitmer/appointments",
+      "sourceUrl": "https://www.michigan.gov/whitmer/appointments",
+      "lastVerified": "2026-08-13",
+      "mandate": "Licenses and disciplines Michigan's nurses. Twenty-four members appointed by the Governor — registered and practical nurses, advanced-practice specialties, and public members (MCL 333.17221).",
+      "seatSource": "https://www.legislature.mi.gov/Laws/MCL?objectName=mcl-333-17221",
+      "criticalNote": "Curated from Michigan Compiled Laws; MI publishes no central board-vacancy list (inventory mode)"
+    },
+    {
+      "id": 4,
+      "name": "Michigan Public Service Commission",
+      "domain": "justice",
+      "totalSeats": 3,
+      "vacantSeats": 0,
+      "vacantSince": null,
+      "authority": "Governor's Office — Appointments Division",
+      "constituent": "Every Michigan utility ratepayer · electric, gas, telecom",
+      "applyUrl": "https://www.michigan.gov/whitmer/appointments",
+      "sourceUrl": "https://www.michigan.gov/whitmer/appointments",
+      "lastVerified": "2026-08-13",
+      "mandate": "Regulates Michigan's electric, natural-gas, and telecommunications utilities and their rates. Three members appointed by the Governor with Senate consent; no more than two from one party (MCL 460.1).",
+      "seatSource": "https://www.legislature.mi.gov/Laws/MCL?objectName=mcl-460-1",
+      "criticalNote": "Curated from Michigan Compiled Laws; MI publishes no central board-vacancy list (inventory mode)"
+    },
+    {
+      "id": 5,
+      "name": "Michigan Gaming Control Board",
+      "domain": "justice",
+      "totalSeats": 5,
+      "vacantSeats": 0,
+      "vacantSince": null,
+      "authority": "Governor's Office — Appointments Division",
+      "constituent": "Michigan casino patrons & gaming integrity",
+      "applyUrl": "https://www.michigan.gov/whitmer/appointments",
+      "sourceUrl": "https://www.michigan.gov/whitmer/appointments",
+      "lastVerified": "2026-08-13",
+      "mandate": "Licenses and regulates Michigan's commercial casinos and online gaming. Five members appointed by the Governor with Senate consent; no more than three from one party (MCL 432.204).",
+      "seatSource": "https://law.justia.com/codes/michigan/chapter-432/statute-initiated-law-1-of-1996/section-432-204/",
+      "criticalNote": "Curated from Michigan Compiled Laws; MI publishes no central board-vacancy list (inventory mode)"
+    }
+  ]
+}
