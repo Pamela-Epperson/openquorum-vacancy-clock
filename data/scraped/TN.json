@@ -1,0 +1,96 @@
+{
+  "scrapedAt": "2026-08-13T00:00:00.000Z",
+  "registry": {
+    "profile": "manual",
+    "dataSource": "Tennessee Code Annotated / Governor's appointments via Dept. of Commerce & Insurance (no central vacancy list)"
+  },
+  "summary": {
+    "state": "TN",
+    "total": 5,
+    "full": 5,
+    "provisional": 0,
+    "missingFields": {}
+  },
+  "rows": [
+    {
+      "id": 1,
+      "name": "Tennessee Board of Medical Examiners",
+      "domain": "health",
+      "totalSeats": 12,
+      "vacantSeats": 0,
+      "vacantSince": null,
+      "authority": "Governor's Office via Dept. of Commerce & Insurance",
+      "constituent": "Tennessee patients & licensed physicians",
+      "applyUrl": "https://www.tn.gov/commerce/contact-us/apply-for-a-board-or-commission.html",
+      "sourceUrl": "https://www.tn.gov/commerce/contact-us/apply-for-a-board-or-commission.html",
+      "lastVerified": "2026-08-13",
+      "mandate": "Licenses and disciplines Tennessee's physicians. Twelve members appointed by the Governor — nine licensed physicians and three consumer members (T.C.A. 63-6-101).",
+      "seatSource": "https://law.justia.com/codes/tennessee/title-63/chapter-6/part-1/section-63-6-101/",
+      "criticalNote": "Curated from Tennessee Code Annotated; TN publishes no central board-vacancy list (inventory mode)"
+    },
+    {
+      "id": 2,
+      "name": "Tennessee Fish and Wildlife Commission",
+      "domain": "environment",
+      "totalSeats": 13,
+      "vacantSeats": 0,
+      "vacantSince": null,
+      "authority": "Governor's Office via Dept. of Commerce & Insurance",
+      "constituent": "Tennessee hunters, anglers & wildlife",
+      "applyUrl": "https://www.tn.gov/commerce/contact-us/apply-for-a-board-or-commission.html",
+      "sourceUrl": "https://www.tn.gov/twra/tennessee-fish-wildlife-commission.html",
+      "lastVerified": "2026-08-13",
+      "mandate": "Oversees the Tennessee Wildlife Resources Agency — game, fish, and hunting/fishing regulation. Thirteen members; nine appointed by the Governor to six-year terms, four appointed by the General Assembly (T.C.A. 70-1-201).",
+      "seatSource": "https://law.justia.com/codes/tennessee/2021/title-70/chapter-1/part-2/section-70-1-201/",
+      "criticalNote": "9 of 13 seats are governor-appointed; 4 are legislature-appointed"
+    },
+    {
+      "id": 3,
+      "name": "Tennessee Real Estate Commission",
+      "domain": "housing",
+      "totalSeats": 9,
+      "vacantSeats": 0,
+      "vacantSince": null,
+      "authority": "Governor's Office via Dept. of Commerce & Insurance",
+      "constituent": "Tennessee home buyers & licensed brokers",
+      "applyUrl": "https://www.tn.gov/commerce/contact-us/apply-for-a-board-or-commission.html",
+      "sourceUrl": "https://www.tn.gov/commerce/contact-us/apply-for-a-board-or-commission.html",
+      "lastVerified": "2026-08-13",
+      "mandate": "Licenses and regulates Tennessee's real estate brokers. Nine members appointed by the Governor — seven experienced brokers and two public members, three from each grand division (T.C.A. 62-13-201).",
+      "seatSource": "https://law.justia.com/codes/tennessee/title-62/chapter-13/part-2/section-62-13-201/",
+      "criticalNote": "Curated from Tennessee Code Annotated; TN publishes no central board-vacancy list (inventory mode)"
+    },
+    {
+      "id": 4,
+      "name": "Tennessee Board of Nursing",
+      "domain": "health",
+      "totalSeats": 11,
+      "vacantSeats": 0,
+      "vacantSince": null,
+      "authority": "Governor's Office via Dept. of Commerce & Insurance",
+      "constituent": "Tennessee patients & licensed nurses",
+      "applyUrl": "https://www.tn.gov/commerce/contact-us/apply-for-a-board-or-commission.html",
+      "sourceUrl": "https://www.tn.gov/commerce/contact-us/apply-for-a-board-or-commission.html",
+      "lastVerified": "2026-08-13",
+      "mandate": "Licenses and regulates Tennessee's nurses. Eleven members appointed by the Governor — nine registered/advanced-practice nurses, one licensed practical nurse, and one consumer member (T.C.A. 63-7-202).",
+      "seatSource": "https://law.justia.com/codes/tennessee/title-63/chapter-7/part-2/section-63-7-202/",
+      "criticalNote": "Curated from Tennessee Code Annotated; TN publishes no central board-vacancy list (inventory mode)"
+    },
+    {
+      "id": 5,
+      "name": "Tennessee Board of Pharmacy",
+      "domain": "health",
+      "totalSeats": 9,
+      "vacantSeats": 0,
+      "vacantSince": null,
+      "authority": "Governor's Office via Dept. of Commerce & Insurance",
+      "constituent": "Tennessee patients & licensed pharmacists · drug safety",
+      "applyUrl": "https://www.tn.gov/commerce/contact-us/apply-for-a-board-or-commission.html",
+      "sourceUrl": "https://www.tn.gov/commerce/contact-us/apply-for-a-board-or-commission.html",
+      "lastVerified": "2026-08-13",
+      "mandate": "Licenses pharmacists and regulates pharmacy practice in Tennessee. Nine members appointed by the Governor — seven pharmacists, one registered pharmacy technician, and one consumer member (T.C.A. 63-10-301).",
+      "seatSource": "https://law.justia.com/codes/tennessee/2021/title-63/chapter-10/part-3/section-63-10-301/",
+      "criticalNote": "Curated from Tennessee Code Annotated; TN publishes no central board-vacancy list (inventory mode)"
+    }
+  ]
+}
