@@ -1,1 +1,1 @@
-MI,IN,TN,KY: not in registry — skipped
+NV,OK,AR,KS,NM: not in registry — skipped
