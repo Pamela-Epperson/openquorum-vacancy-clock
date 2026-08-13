@@ -163,6 +163,47 @@ export const REGISTRY = {
     totalBoardsNote: "SOS statewide vacancy list · 250+ boards",
     promote: true, // enrichments/SC.mjs + data/scraped/SC.json fallback (Jul 16 2026)
   },
+
+  MI: {
+    profile: "manual",
+    endpoint: null,
+    applyUrl: "https://www.michigan.gov/whitmer/appointments",
+    applyAuthority: "Governor's Office — Appointments Division",
+    dataSource: "michigan.gov/whitmer/appointments",
+    totalBoardsNote: "Hand-verified seed · no central vacancy list found",
+    contextNote: "Michigan boards shown are hand-verified governor-appointed opportunities — apply any time through the Governor's Appointments Division.",
+    promote: true, // data/scraped/MI.json manual seed (Aug 13 2026) — INVENTORY MODE
+  },
+  IN: {
+    profile: "manual",
+    endpoint: null,
+    applyUrl: "https://www.in.gov/gov/",
+    applyAuthority: "Governor's Office — Boards & Commissions",
+    dataSource: "in.gov/gov",
+    totalBoardsNote: "Hand-verified seed · no central vacancy list found",
+    contextNote: "Indiana boards shown are hand-verified governor-appointed opportunities — apply through the Governor's Office.",
+    promote: true, // data/scraped/IN.json manual seed (Aug 13 2026) — INVENTORY MODE
+  },
+  TN: {
+    profile: "manual",
+    endpoint: null,
+    applyUrl: "https://www.tn.gov/commerce/contact-us/apply-for-a-board-or-commission.html",
+    applyAuthority: "Governor's Office via Dept. of Commerce & Insurance",
+    dataSource: "tn.gov/commerce apply-for-a-board-or-commission",
+    totalBoardsNote: "Hand-verified seed · no central vacancy list found",
+    contextNote: "Tennessee boards shown are hand-verified governor-appointed opportunities — apply through the gubernatorial board application.",
+    promote: true, // data/scraped/TN.json manual seed (Aug 13 2026) — INVENTORY MODE
+  },
+  KY: {
+    profile: "manual",
+    endpoint: null,
+    applyUrl: "https://boardregister.ky.gov/",
+    applyAuthority: "Governor's Office — Boards & Commissions",
+    dataSource: "boardregister.ky.gov",
+    totalBoardsNote: "Hand-verified seed · no central vacancy list found",
+    contextNote: "Kentucky boards shown are hand-verified governor-appointed opportunities — apply at boardregister.ky.gov.",
+    promote: true, // data/scraped/KY.json manual seed (Aug 13 2026) — INVENTORY MODE
+  },
   // Researched July 8, 2026 — profiles not yet written (next tranche):
   //     · Governor's Appointments Office
   //     · Governor's Boards & Commissions Office

@@ -1,0 +1,96 @@
+{
+  "scrapedAt": "2026-08-13T00:00:00.000Z",
+  "registry": {
+    "profile": "manual",
+    "dataSource": "Kentucky Revised Statutes / Governor's Boards & Commissions (boardregister.ky.gov; no central vacancy list)"
+  },
+  "summary": {
+    "state": "KY",
+    "total": 5,
+    "full": 5,
+    "provisional": 0,
+    "missingFields": {}
+  },
+  "rows": [
+    {
+      "id": 1,
+      "name": "Kentucky Board of Medical Licensure",
+      "domain": "health",
+      "totalSeats": 15,
+      "vacantSeats": 0,
+      "vacantSince": null,
+      "authority": "Governor's Office — Boards & Commissions",
+      "constituent": "Kentucky patients & licensed physicians",
+      "applyUrl": "https://boardregister.ky.gov/",
+      "sourceUrl": "https://boardregister.ky.gov/",
+      "lastVerified": "2026-08-13",
+      "mandate": "Licenses and disciplines Kentucky's physicians. Fifteen-member board; eleven appointed by the Governor — seven physicians, one osteopathic physician, and three citizens — plus medical-school deans and the public-health commissioner (KRS 311.530).",
+      "seatSource": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=53563",
+      "criticalNote": "11 of 15 seats are governor-appointed"
+    },
+    {
+      "id": 2,
+      "name": "Kentucky Fish and Wildlife Commission",
+      "domain": "environment",
+      "totalSeats": 9,
+      "vacantSeats": 0,
+      "vacantSince": null,
+      "authority": "Governor's Office — Boards & Commissions",
+      "constituent": "Kentucky hunters, anglers & wildlife",
+      "applyUrl": "https://boardregister.ky.gov/",
+      "sourceUrl": "https://fw.ky.gov/More/Pages/Commission.aspx",
+      "lastVerified": "2026-08-13",
+      "mandate": "Sets policy for Kentucky's Department of Fish and Wildlife Resources. Nine members — one from each wildlife district — appointed by the Governor from sportsmen-nominated lists, confirmed by the Senate (KRS 150.022).",
+      "seatSource": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=55984",
+      "criticalNote": "Curated from Kentucky Revised Statutes; KY publishes no central board-vacancy list (inventory mode)"
+    },
+    {
+      "id": 3,
+      "name": "Kentucky Real Estate Commission",
+      "domain": "housing",
+      "totalSeats": 7,
+      "vacantSeats": 0,
+      "vacantSince": null,
+      "authority": "Governor's Office — Boards & Commissions",
+      "constituent": "Kentucky home buyers & licensed brokers",
+      "applyUrl": "https://boardregister.ky.gov/",
+      "sourceUrl": "https://boardregister.ky.gov/",
+      "lastVerified": "2026-08-13",
+      "mandate": "Licenses and regulates Kentucky's real estate brokers. Seven members appointed by the Governor — six active licensees and one public member (KRS 324.281).",
+      "seatSource": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=55519",
+      "criticalNote": "Curated from Kentucky Revised Statutes; KY publishes no central board-vacancy list (inventory mode)"
+    },
+    {
+      "id": 4,
+      "name": "Kentucky Board of Nursing",
+      "domain": "health",
+      "totalSeats": 16,
+      "vacantSeats": 0,
+      "vacantSince": null,
+      "authority": "Governor's Office — Boards & Commissions",
+      "constituent": "Kentucky patients & licensed nurses",
+      "applyUrl": "https://boardregister.ky.gov/",
+      "sourceUrl": "https://boardregister.ky.gov/",
+      "lastVerified": "2026-08-13",
+      "mandate": "Licenses and regulates Kentucky's nurses. Sixteen members appointed by the Governor — registered nurses, advanced-practice nurses, LPNs, and citizen members (KRS 314.121).",
+      "seatSource": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=633",
+      "criticalNote": "Curated from Kentucky Revised Statutes; KY publishes no central board-vacancy list (inventory mode)"
+    },
+    {
+      "id": 5,
+      "name": "Kentucky Board of Pharmacy",
+      "domain": "health",
+      "totalSeats": 6,
+      "vacantSeats": 0,
+      "vacantSince": null,
+      "authority": "Governor's Office — Boards & Commissions",
+      "constituent": "Kentucky patients & licensed pharmacists · drug safety",
+      "applyUrl": "https://boardregister.ky.gov/",
+      "sourceUrl": "https://boardregister.ky.gov/",
+      "lastVerified": "2026-08-13",
+      "mandate": "Licenses pharmacists and regulates pharmacy practice in Kentucky. Six members appointed by the Governor — five licensed pharmacists and one citizen member (KRS 315.150).",
+      "seatSource": "https://pharmacy.ky.gov/BoardInformation/Pages/Board-Members.aspx",
+      "criticalNote": "Curated from Kentucky Revised Statutes; KY publishes no central board-vacancy list (inventory mode)"
+    }
+  ]
+}
