@@ -1,0 +1,90 @@
+{
+  "scrapedAt": "2026-08-13T00:00:00.000Z",
+  "registry": {
+    "profile": "manual",
+    "dataSource": "Nevada Revised Statutes / Governor's Boards & Commissions (no central vacancy list)"
+  },
+  "summary": { "state": "NV", "total": 5, "full": 5, "provisional": 0, "missingFields": {} },
+  "rows": [
+    {
+      "id": 1,
+      "name": "Nevada State Board of Medical Examiners",
+      "domain": "health",
+      "totalSeats": 11,
+      "vacantSeats": 0,
+      "vacantSince": null,
+      "authority": "Governor's Office — Boards & Commissions",
+      "constituent": "Nevada patients & licensed physicians",
+      "applyUrl": "https://gov.nv.gov/",
+      "sourceUrl": "https://gov.nv.gov/",
+      "lastVerified": "2026-08-13",
+      "mandate": "Licenses and disciplines Nevada's physicians and physician assistants. Eleven members appointed by the Governor — six practicing physicians, a physician assistant, and public members (NRS 630.050).",
+      "seatSource": "https://www.leg.state.nv.us/nrs/nrs-630.html",
+      "criticalNote": "Curated from Nevada Revised Statutes; NV publishes no central board-vacancy list (inventory mode)"
+    },
+    {
+      "id": 2,
+      "name": "Nevada State Board of Nursing",
+      "domain": "health",
+      "totalSeats": 7,
+      "vacantSeats": 0,
+      "vacantSince": null,
+      "authority": "Governor's Office — Boards & Commissions",
+      "constituent": "Nevada patients & licensed nurses",
+      "applyUrl": "https://gov.nv.gov/",
+      "sourceUrl": "https://gov.nv.gov/",
+      "lastVerified": "2026-08-13",
+      "mandate": "Licenses and regulates Nevada's nurses. Seven members appointed by the Governor — four registered nurses, one practical nurse, one nursing assistant, and one consumer member (NRS 632.020).",
+      "seatSource": "https://www.leg.state.nv.us/nrs/nrs-632.html",
+      "criticalNote": "Curated from Nevada Revised Statutes; NV publishes no central board-vacancy list (inventory mode)"
+    },
+    {
+      "id": 3,
+      "name": "Nevada Board of Wildlife Commissioners",
+      "domain": "environment",
+      "totalSeats": 9,
+      "vacantSeats": 0,
+      "vacantSince": null,
+      "authority": "Governor's Office — Boards & Commissions",
+      "constituent": "Nevada hunters, anglers & wildlife",
+      "applyUrl": "https://gov.nv.gov/",
+      "sourceUrl": "https://gov.nv.gov/",
+      "lastVerified": "2026-08-13",
+      "mandate": "Sets wildlife policy and regulations for the Nevada Department of Wildlife. Nine members appointed by the Governor representing conservation, farming, ranching, sportsmen, and the general public (NRS 501.171).",
+      "seatSource": "https://www.leg.state.nv.us/NRS/NRS-501.html",
+      "criticalNote": "Curated from Nevada Revised Statutes; NV publishes no central board-vacancy list (inventory mode)"
+    },
+    {
+      "id": 4,
+      "name": "Nevada Real Estate Commission",
+      "domain": "housing",
+      "totalSeats": 5,
+      "vacantSeats": 0,
+      "vacantSince": null,
+      "authority": "Governor's Office — Boards & Commissions",
+      "constituent": "Nevada home buyers & licensed brokers",
+      "applyUrl": "https://gov.nv.gov/",
+      "sourceUrl": "https://gov.nv.gov/",
+      "lastVerified": "2026-08-13",
+      "mandate": "Licenses and regulates Nevada's real estate brokers and salespersons. Five members appointed by the Governor, with regional residency requirements across the state (NRS 645.050).",
+      "seatSource": "https://www.leg.state.nv.us/nrs/nrs-645.html",
+      "criticalNote": "Curated from Nevada Revised Statutes; NV publishes no central board-vacancy list (inventory mode)"
+    },
+    {
+      "id": 5,
+      "name": "Nevada Gaming Commission",
+      "domain": "justice",
+      "totalSeats": 5,
+      "vacantSeats": 0,
+      "vacantSince": null,
+      "authority": "Governor's Office — Boards & Commissions",
+      "constituent": "Nevada's casino industry & gaming integrity",
+      "applyUrl": "https://gov.nv.gov/",
+      "sourceUrl": "https://gov.nv.gov/",
+      "lastVerified": "2026-08-13",
+      "mandate": "Final authority on gaming licensing and policy for Nevada's casino industry. Five members appointed by the Governor to four-year part-time terms (NRS 463.022).",
+      "seatSource": "https://www.leg.state.nv.us/nrs/nrs-463.html",
+      "criticalNote": "Curated from Nevada Revised Statutes; NV publishes no central board-vacancy list (inventory mode)"
+    }
+  ]
+}
