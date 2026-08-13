@@ -1,0 +1,90 @@
+{
+  "scrapedAt": "2026-08-13T00:00:00.000Z",
+  "registry": {
+    "profile": "manual",
+    "dataSource": "Kansas Statutes / Governor's Office of Appointments (no central vacancy list)"
+  },
+  "summary": { "state": "KS", "total": 5, "full": 5, "provisional": 0, "missingFields": {} },
+  "rows": [
+    {
+      "id": 1,
+      "name": "Kansas State Board of Healing Arts",
+      "domain": "health",
+      "totalSeats": 15,
+      "vacantSeats": 0,
+      "vacantSince": null,
+      "authority": "Governor's Office of Appointments",
+      "constituent": "Kansas patients & licensed physicians",
+      "applyUrl": "https://www.governor.ks.gov/serving-kansans/office-of-appointments/boards-commissions",
+      "sourceUrl": "https://www.governor.ks.gov/serving-kansans/office-of-appointments/boards-commissions",
+      "lastVerified": "2026-08-13",
+      "mandate": "Licenses and disciplines Kansas's physicians, chiropractors, and other healing-arts practitioners. Fifteen members appointed by the Governor from professional and public nominees (K.S.A. 65-2812).",
+      "seatSource": "https://www.ksrevisor.gov/statutes/chapters/ch65/065_028_0012.html",
+      "criticalNote": "Curated from the Kansas Statutes; KS publishes no central board-vacancy list (inventory mode)"
+    },
+    {
+      "id": 2,
+      "name": "Kansas State Board of Nursing",
+      "domain": "health",
+      "totalSeats": 11,
+      "vacantSeats": 0,
+      "vacantSince": null,
+      "authority": "Governor's Office of Appointments",
+      "constituent": "Kansas patients & licensed nurses",
+      "applyUrl": "https://www.governor.ks.gov/serving-kansans/office-of-appointments/boards-commissions",
+      "sourceUrl": "https://www.governor.ks.gov/serving-kansans/office-of-appointments/boards-commissions",
+      "lastVerified": "2026-08-13",
+      "mandate": "Licenses and regulates Kansas's nurses. Eleven members appointed by the Governor — six registered professional nurses, two licensed practical nurses, and three members of the public (K.S.A. 74-1106).",
+      "seatSource": "https://ksrevisor.gov/statutes/chapters/ch74/074_011_0006.html",
+      "criticalNote": "Curated from the Kansas Statutes; KS publishes no central board-vacancy list (inventory mode)"
+    },
+    {
+      "id": 3,
+      "name": "Kansas Wildlife and Parks Commission",
+      "domain": "environment",
+      "totalSeats": 7,
+      "vacantSeats": 0,
+      "vacantSince": null,
+      "authority": "Governor's Office of Appointments",
+      "constituent": "Kansas hunters, anglers & state parks",
+      "applyUrl": "https://www.governor.ks.gov/serving-kansans/office-of-appointments/boards-commissions",
+      "sourceUrl": "https://www.ksoutdoors.gov/about-kdwp/kansas-wildlife-and-parks-commission",
+      "lastVerified": "2026-08-13",
+      "mandate": "Advises on policy for the Kansas Department of Wildlife and Parks and votes on hunting, fishing, and parks regulations. Seven-member board — four appointed by the Governor, the others by legislative leaders and the Attorney General.",
+      "seatSource": "https://www.ksoutdoors.gov/about-kdwp/kansas-wildlife-and-parks-commission",
+      "criticalNote": "4 of 7 seats are governor-appointed"
+    },
+    {
+      "id": 4,
+      "name": "Kansas Real Estate Commission",
+      "domain": "housing",
+      "totalSeats": 5,
+      "vacantSeats": 0,
+      "vacantSince": null,
+      "authority": "Governor's Office of Appointments",
+      "constituent": "Kansas home buyers & licensed brokers",
+      "applyUrl": "https://www.governor.ks.gov/serving-kansans/office-of-appointments/boards-commissions",
+      "sourceUrl": "https://www.governor.ks.gov/serving-kansans/office-of-appointments/boards-commissions",
+      "lastVerified": "2026-08-13",
+      "mandate": "Licenses and regulates Kansas's real estate brokers and salespersons. Five members appointed by the Governor — one from each congressional district and one at large (K.S.A. 74-4201).",
+      "seatSource": "https://ksrevisor.gov/statutes/chapters/ch74/074_042_0001.html",
+      "criticalNote": "Curated from the Kansas Statutes; KS publishes no central board-vacancy list (inventory mode)"
+    },
+    {
+      "id": 5,
+      "name": "Kansas State Board of Pharmacy",
+      "domain": "health",
+      "totalSeats": 7,
+      "vacantSeats": 0,
+      "vacantSince": null,
+      "authority": "Governor's Office of Appointments",
+      "constituent": "Kansas patients & licensed pharmacists · drug safety",
+      "applyUrl": "https://www.governor.ks.gov/serving-kansans/office-of-appointments/boards-commissions",
+      "sourceUrl": "https://www.governor.ks.gov/serving-kansans/office-of-appointments/boards-commissions",
+      "lastVerified": "2026-08-13",
+      "mandate": "Licenses pharmacists and regulates pharmacy practice in Kansas. Seven members appointed by the Governor — six licensed pharmacists and one public member (K.S.A. 65-1602).",
+      "seatSource": "https://www.pharmacy.ks.gov/about-us/about-the-board",
+      "criticalNote": "Curated from the Kansas Statutes; KS publishes no central board-vacancy list (inventory mode)"
+    }
+  ]
+}
