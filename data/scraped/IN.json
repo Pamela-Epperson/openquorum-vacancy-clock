@@ -1,0 +1,96 @@
+{
+  "scrapedAt": "2026-08-13T00:00:00.000Z",
+  "registry": {
+    "profile": "manual",
+    "dataSource": "Indiana Code / Governor's Office boards & commissions (no central vacancy list)"
+  },
+  "summary": {
+    "state": "IN",
+    "total": 5,
+    "full": 5,
+    "provisional": 0,
+    "missingFields": {}
+  },
+  "rows": [
+    {
+      "id": 1,
+      "name": "Indiana Medical Licensing Board",
+      "domain": "health",
+      "totalSeats": 7,
+      "vacantSeats": 0,
+      "vacantSince": null,
+      "authority": "Governor's Office — Boards & Commissions",
+      "constituent": "Indiana patients & licensed physicians",
+      "applyUrl": "https://www.in.gov/gov/",
+      "sourceUrl": "https://www.in.gov/gov/",
+      "lastVerified": "2026-08-13",
+      "mandate": "Licenses and disciplines Indiana's physicians. Seven members appointed by the Governor — five physicians, one osteopathic physician, and one public member; no more than four from one party (IC 25-22.5-2-1).",
+      "seatSource": "https://law.justia.com/codes/indiana/title-25/article-22-5/chapter-2/section-25-22-5-2-1/",
+      "criticalNote": "Curated from the Indiana Code; IN publishes no central board-vacancy list (inventory mode)"
+    },
+    {
+      "id": 2,
+      "name": "Indiana State Board of Nursing",
+      "domain": "health",
+      "totalSeats": 9,
+      "vacantSeats": 0,
+      "vacantSince": null,
+      "authority": "Governor's Office — Boards & Commissions",
+      "constituent": "Indiana patients & licensed nurses",
+      "applyUrl": "https://www.in.gov/gov/",
+      "sourceUrl": "https://www.in.gov/gov/",
+      "lastVerified": "2026-08-13",
+      "mandate": "Licenses and regulates Indiana's nurses. Nine members appointed by the Governor — six registered nurses, two licensed practical nurses, and one public member (IC 25-23-1-2).",
+      "seatSource": "https://law.justia.com/codes/indiana/title-25/article-23/chapter-1/section-25-23-1-2/",
+      "criticalNote": "Curated from the Indiana Code; IN publishes no central board-vacancy list (inventory mode)"
+    },
+    {
+      "id": 3,
+      "name": "Indiana Natural Resources Commission",
+      "domain": "environment",
+      "totalSeats": 12,
+      "vacantSeats": 0,
+      "vacantSince": null,
+      "authority": "Governor's Office — Boards & Commissions",
+      "constituent": "Indiana's wildlife, waterways & public lands",
+      "applyUrl": "https://www.in.gov/gov/",
+      "sourceUrl": "https://www.in.gov/nrc/2352.htm",
+      "lastVerified": "2026-08-13",
+      "mandate": "Sets policy for Indiana's Department of Natural Resources. Twelve-member board — six citizen members appointed by the Governor plus ex officio and designated seats.",
+      "seatSource": "https://www.in.gov/nrc/2352.htm",
+      "criticalNote": "6 of 12 seats are governor-appointed"
+    },
+    {
+      "id": 4,
+      "name": "Indiana Gaming Commission",
+      "domain": "justice",
+      "totalSeats": 7,
+      "vacantSeats": 0,
+      "vacantSince": null,
+      "authority": "Governor's Office — Boards & Commissions",
+      "constituent": "Indiana casino patrons & gaming integrity",
+      "applyUrl": "https://www.in.gov/gov/",
+      "sourceUrl": "https://www.in.gov/gov/",
+      "lastVerified": "2026-08-13",
+      "mandate": "Licenses and regulates Indiana's casinos and gaming. Seven members appointed by the Governor; no more than four from one party, with geographic and professional requirements (IC 4-33-3).",
+      "seatSource": "https://law.justia.com/codes/indiana/2010/title4/ar33/ch3.html",
+      "criticalNote": "Curated from the Indiana Code; IN publishes no central board-vacancy list (inventory mode)"
+    },
+    {
+      "id": 5,
+      "name": "Indiana Real Estate Commission",
+      "domain": "housing",
+      "totalSeats": 9,
+      "vacantSeats": 0,
+      "vacantSince": null,
+      "authority": "Governor's Office — Boards & Commissions",
+      "constituent": "Indiana home buyers & licensed brokers",
+      "applyUrl": "https://www.in.gov/gov/",
+      "sourceUrl": "https://www.in.gov/gov/",
+      "lastVerified": "2026-08-13",
+      "mandate": "Licenses and regulates Indiana's real estate brokers. Nine members appointed by the Governor — congressional-district brokers, a broker at large, and public members (IC 25-34.1-2-1).",
+      "seatSource": "https://law.justia.com/codes/indiana/title-25/article-34-1/chapter-2/section-25-34-1-2-1/",
+      "criticalNote": "Curated from the Indiana Code; IN publishes no central board-vacancy list (inventory mode)"
+    }
+  ]
+}
