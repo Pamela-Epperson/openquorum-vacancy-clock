@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-07-25T17:26:41.619Z",
+  "scrapedAt": "2026-08-17T11:14:23.990Z",
   "registry": {
     "profile": "sc",
     "endpoint": "https://search.scsos.com/files/Web_PositionVacancy_List.pdf",
@@ -11,8 +11,8 @@
   },
   "summary": {
     "state": "SC",
-    "total": 124,
-    "full": 5,
+    "total": 123,
+    "full": 4,
     "provisional": 119,
     "missingFields": {
       "totalSeats": 119,
@@ -31,7 +31,7 @@
       "constituent": null,
       "applyUrl": "https://governor.sc.gov/executive-branch/appointments",
       "sourceUrl": "https://search.scsos.com/files/Web_PositionVacancy_List.pdf",
-      "lastVerified": "2026-07-25",
+      "lastVerified": "2026-08-17",
       "criticalNote": "Listed in SC Secretary of State vacancy list"
     },
     {
@@ -45,7 +45,7 @@
       "constituent": null,
       "applyUrl": "https://governor.sc.gov/executive-branch/appointments",
       "sourceUrl": "https://search.scsos.com/files/Web_PositionVacancy_List.pdf",
-      "lastVerified": "2026-07-25",
+      "lastVerified": "2026-08-17",
       "criticalNote": "Listed in SC Secretary of State vacancy list"
     },
     {
@@ -59,7 +59,7 @@
       "constituent": null,
       "applyUrl": "https://governor.sc.gov/executive-branch/appointments",
       "sourceUrl": "https://search.scsos.com/files/Web_PositionVacancy_List.pdf",
-      "lastVerified": "2026-07-25",
+      "lastVerified": "2026-08-17",
       "criticalNote": "Listed in SC Secretary of State vacancy list"
     },
     {
@@ -73,7 +73,7 @@
       "constituent": null,
       "applyUrl": "https://governor.sc.gov/executive-branch/appointments",
       "sourceUrl": "https://search.scsos.com/files/Web_PositionVacancy_List.pdf",
-      "lastVerified": "2026-07-25",
+      "lastVerified": "2026-08-17",
       "criticalNote": "Listed in SC Secretary of State vacancy list"
     },
     {
@@ -87,7 +87,7 @@
       "constituent": null,
       "applyUrl": "https://governor.sc.gov/executive-branch/appointments",
       "sourceUrl": "https://search.scsos.com/files/Web_PositionVacancy_List.pdf",
-      "lastVerified": "2026-07-25",
+      "lastVerified": "2026-08-17",
       "criticalNote": "Listed in SC Secretary of State vacancy list"
     },
     {
@@ -101,7 +101,7 @@
       "constituent": null,
       "applyUrl": "https://governor.sc.gov/executive-branch/appointments",
       "sourceUrl": "https://search.scsos.com/files/Web_PositionVacancy_List.pdf",
-      "lastVerified": "2026-07-25",
+      "lastVerified": "2026-08-17",
       "criticalNote": "Listed in SC Secretary of State vacancy list"
     },
     {
@@ -115,7 +115,7 @@
       "constituent": null,
       "applyUrl": "https://governor.sc.gov/executive-branch/appointments",
       "sourceUrl": "https://search.scsos.com/files/Web_PositionVacancy_List.pdf",
-      "lastVerified": "2026-07-25",
+      "lastVerified": "2026-08-17",
       "criticalNote": "Listed in SC Secretary of State vacancy list"
     },
     {
@@ -129,7 +129,7 @@
       "constituent": null,
       "applyUrl": "https://governor.sc.gov/executive-branch/appointments",
       "sourceUrl": "https://search.scsos.com/files/Web_PositionVacancy_List.pdf",
-      "lastVerified": "2026-07-25",
+      "lastVerified": "2026-08-17",
       "criticalNote": "Listed in SC Secretary of State vacancy list"
     },
     {
@@ -143,7 +143,7 @@
       "constituent": null,
       "applyUrl": "https://governor.sc.gov/executive-branch/appointments",
       "sourceUrl": "https://search.scsos.com/files/Web_PositionVacancy_List.pdf",
-      "lastVerified": "2026-07-25",
+      "lastVerified": "2026-08-17",
       "criticalNote": "Listed in SC Secretary of State vacancy list"
     },
     {
@@ -157,7 +157,7 @@
       "constituent": null,
       "applyUrl": "https://governor.sc.gov/executive-branch/appointments",
       "sourceUrl": "https://search.scsos.com/files/Web_PositionVacancy_List.pdf",
-      "lastVerified": "2026-07-25",
+      "lastVerified": "2026-08-17",
       "criticalNote": "Listed in SC Secretary of State vacancy list"
     },
     {
@@ -171,7 +171,7 @@
       "constituent": null,
       "applyUrl": "https://governor.sc.gov/executive-branch/appointments",
       "sourceUrl": "https://search.scsos.com/files/Web_PositionVacancy_List.pdf",
-      "lastVerified": "2026-07-25",
+      "lastVerified": "2026-08-17",
       "criticalNote": "Listed in SC Secretary of State vacancy list"
     },
     {
@@ -185,7 +185,7 @@
       "constituent": null,
       "applyUrl": "https://governor.sc.gov/executive-branch/appointments",
       "sourceUrl": "https://search.scsos.com/files/Web_PositionVacancy_List.pdf",
-      "lastVerified": "2026-07-25",
+      "lastVerified": "2026-08-17",
       "criticalNote": "Listed in SC Secretary of State vacancy list"
     },
     {
@@ -199,7 +199,7 @@
       "constituent": null,
       "applyUrl": "https://governor.sc.gov/executive-branch/appointments",
       "sourceUrl": "https://search.scsos.com/files/Web_PositionVacancy_List.pdf",
-      "lastVerified": "2026-07-25",
+      "lastVerified": "2026-08-17",
       "criticalNote": "Listed in SC Secretary of State vacancy list"
     },
     {
@@ -213,7 +213,7 @@
       "constituent": null,
       "applyUrl": "https://governor.sc.gov/executive-branch/appointments",
       "sourceUrl": "https://search.scsos.com/files/Web_PositionVacancy_List.pdf",
-      "lastVerified": "2026-07-25",
+      "lastVerified": "2026-08-17",
       "criticalNote": "Listed in SC Secretary of State vacancy list"
     },
     {
@@ -227,7 +227,7 @@
       "constituent": null,
       "applyUrl": "https://governor.sc.gov/executive-branch/appointments",
       "sourceUrl": "https://search.scsos.com/files/Web_PositionVacancy_List.pdf",
-      "lastVerified": "2026-07-25",
+      "lastVerified": "2026-08-17",
       "criticalNote": "Listed in SC Secretary of State vacancy list"
     },
     {
@@ -241,7 +241,7 @@
       "constituent": null,
       "applyUrl": "https://governor.sc.gov/executive-branch/appointments",
       "sourceUrl": "https://search.scsos.com/files/Web_PositionVacancy_List.pdf",
-      "lastVerified": "2026-07-25",
+      "lastVerified": "2026-08-17",
       "criticalNote": "Listed in SC Secretary of State vacancy list"
     },
     {
@@ -255,7 +255,7 @@
       "constituent": null,
       "applyUrl": "https://governor.sc.gov/executive-branch/appointments",
       "sourceUrl": "https://search.scsos.com/files/Web_PositionVacancy_List.pdf",
-      "lastVerified": "2026-07-25",
+      "lastVerified": "2026-08-17",
       "criticalNote": "Listed in SC Secretary of State vacancy list"
     },
     {
@@ -269,7 +269,7 @@
       "constituent": null,
       "applyUrl": "https://governor.sc.gov/executive-branch/appointments",
       "sourceUrl": "https://search.scsos.com/files/Web_PositionVacancy_List.pdf",
-      "lastVerified": "2026-07-25",
+      "lastVerified": "2026-08-17",
       "criticalNote": "Listed in SC Secretary of State vacancy list"
     },
     {
@@ -283,7 +283,7 @@
       "constituent": null,
       "applyUrl": "https://governor.sc.gov/executive-branch/appointments",
       "sourceUrl": "https://search.scsos.com/files/Web_PositionVacancy_List.pdf",
-      "lastVerified": "2026-07-25",
+      "lastVerified": "2026-08-17",
       "criticalNote": "Listed in SC Secretary of State vacancy list"
     },
     {
@@ -297,7 +297,7 @@
       "constituent": null,
       "applyUrl": "https://governor.sc.gov/executive-branch/appointments",
       "sourceUrl": "https://search.scsos.com/files/Web_PositionVacancy_List.pdf",
-      "lastVerified": "2026-07-25",
+      "lastVerified": "2026-08-17",
       "criticalNote": "Listed in SC Secretary of State vacancy list"
     },
     {
@@ -311,7 +311,7 @@
       "constituent": null,
       "applyUrl": "https://governor.sc.gov/executive-branch/appointments",
       "sourceUrl": "https://search.scsos.com/files/Web_PositionVacancy_List.pdf",
-      "lastVerified": "2026-07-25",
+      "lastVerified": "2026-08-17",
       "criticalNote": "Listed in SC Secretary of State vacancy list"
     },
     {
@@ -325,7 +325,7 @@
       "constituent": null,
       "applyUrl": "https://governor.sc.gov/executive-branch/appointments",
       "sourceUrl": "https://search.scsos.com/files/Web_PositionVacancy_List.pdf",
-      "lastVerified": "2026-07-25",
+      "lastVerified": "2026-08-17",
       "criticalNote": "Listed in SC Secretary of State vacancy list"
     },
     {
@@ -339,7 +339,7 @@
       "constituent": null,
       "applyUrl": "https://governor.sc.gov/executive-branch/appointments",
       "sourceUrl": "https://search.scsos.com/files/Web_PositionVacancy_List.pdf",
-      "lastVerified": "2026-07-25",
+      "lastVerified": "2026-08-17",
       "criticalNote": "Listed in SC Secretary of State vacancy list"
     },
     {
@@ -353,7 +353,7 @@
       "constituent": null,
       "applyUrl": "https://governor.sc.gov/executive-branch/appointments",
       "sourceUrl": "https://search.scsos.com/files/Web_PositionVacancy_List.pdf",
-      "lastVerified": "2026-07-25",
+      "lastVerified": "2026-08-17",
       "criticalNote": "Listed in SC Secretary of State vacancy list"
     },
     {
@@ -367,7 +367,7 @@
       "constituent": null,
       "applyUrl": "https://governor.sc.gov/executive-branch/appointments",
       "sourceUrl": "https://search.scsos.com/files/Web_PositionVacancy_List.pdf",
-      "lastVerified": "2026-07-25",
+      "lastVerified": "2026-08-17",
       "criticalNote": "Listed in SC Secretary of State vacancy list"
     },
     {
@@ -381,7 +381,7 @@
       "constituent": null,
       "applyUrl": "https://governor.sc.gov/executive-branch/appointments",
       "sourceUrl": "https://search.scsos.com/files/Web_PositionVacancy_List.pdf",
-      "lastVerified": "2026-07-25",
+      "lastVerified": "2026-08-17",
       "criticalNote": "Listed in SC Secretary of State vacancy list"
     },
     {
@@ -395,7 +395,7 @@
       "constituent": null,
       "applyUrl": "https://governor.sc.gov/executive-branch/appointments",
       "sourceUrl": "https://search.scsos.com/files/Web_PositionVacancy_List.pdf",
-      "lastVerified": "2026-07-25",
+      "lastVerified": "2026-08-17",
       "criticalNote": "Listed in SC Secretary of State vacancy list"
     },
     {
@@ -409,7 +409,7 @@
       "constituent": null,
       "applyUrl": "https://governor.sc.gov/executive-branch/appointments",
       "sourceUrl": "https://search.scsos.com/files/Web_PositionVacancy_List.pdf",
-      "lastVerified": "2026-07-25",
+      "lastVerified": "2026-08-17",
       "criticalNote": "Listed in SC Secretary of State vacancy list"
     },
     {
@@ -423,7 +423,7 @@
       "constituent": null,
       "applyUrl": "https://governor.sc.gov/executive-branch/appointments",
       "sourceUrl": "https://search.scsos.com/files/Web_PositionVacancy_List.pdf",
-      "lastVerified": "2026-07-25",
+      "lastVerified": "2026-08-17",
       "criticalNote": "Listed in SC Secretary of State vacancy list"
     },
     {
@@ -437,7 +437,7 @@
       "constituent": null,
       "applyUrl": "https://governor.sc.gov/executive-branch/appointments",
       "sourceUrl": "https://search.scsos.com/files/Web_PositionVacancy_List.pdf",
-      "lastVerified": "2026-07-25",
+      "lastVerified": "2026-08-17",
       "criticalNote": "Listed in SC Secretary of State vacancy list"
     },
     {
@@ -451,7 +451,7 @@
       "constituent": null,
       "applyUrl": "https://governor.sc.gov/executive-branch/appointments",
       "sourceUrl": "https://search.scsos.com/files/Web_PositionVacancy_List.pdf",
-      "lastVerified": "2026-07-25",
+      "lastVerified": "2026-08-17",
       "criticalNote": "Listed in SC Secretary of State vacancy list"
     },
     {
@@ -465,7 +465,7 @@
       "constituent": null,
       "applyUrl": "https://governor.sc.gov/executive-branch/appointments",
       "sourceUrl": "https://search.scsos.com/files/Web_PositionVacancy_List.pdf",
-      "lastVerified": "2026-07-25",
+      "lastVerified": "2026-08-17",
       "criticalNote": "Listed in SC Secretary of State vacancy list"
     },
     {
@@ -479,7 +479,7 @@
       "constituent": null,
       "applyUrl": "https://governor.sc.gov/executive-branch/appointments",
       "sourceUrl": "https://search.scsos.com/files/Web_PositionVacancy_List.pdf",
-      "lastVerified": "2026-07-25",
+      "lastVerified": "2026-08-17",
       "criticalNote": "Listed in SC Secretary of State vacancy list"
     },
     {
@@ -493,7 +493,7 @@
       "constituent": null,
       "applyUrl": "https://governor.sc.gov/executive-branch/appointments",
       "sourceUrl": "https://search.scsos.com/files/Web_PositionVacancy_List.pdf",
-      "lastVerified": "2026-07-25",
+      "lastVerified": "2026-08-17",
       "criticalNote": "Listed in SC Secretary of State vacancy list"
     },
     {
@@ -507,7 +507,7 @@
       "constituent": null,
       "applyUrl": "https://governor.sc.gov/executive-branch/appointments",
       "sourceUrl": "https://search.scsos.com/files/Web_PositionVacancy_List.pdf",
-      "lastVerified": "2026-07-25",
+      "lastVerified": "2026-08-17",
       "criticalNote": "Listed in SC Secretary of State vacancy list"
     },
     {
@@ -521,7 +521,7 @@
       "constituent": null,
       "applyUrl": "https://governor.sc.gov/executive-branch/appointments",
       "sourceUrl": "https://search.scsos.com/files/Web_PositionVacancy_List.pdf",
-      "lastVerified": "2026-07-25",
+      "lastVerified": "2026-08-17",
       "criticalNote": "Listed in SC Secretary of State vacancy list"
     },
     {
@@ -535,7 +535,7 @@
       "constituent": null,
       "applyUrl": "https://governor.sc.gov/executive-branch/appointments",
       "sourceUrl": "https://search.scsos.com/files/Web_PositionVacancy_List.pdf",
-      "lastVerified": "2026-07-25",
+      "lastVerified": "2026-08-17",
       "criticalNote": "Listed in SC Secretary of State vacancy list"
     },
     {
@@ -549,7 +549,7 @@
       "constituent": null,
       "applyUrl": "https://governor.sc.gov/executive-branch/appointments",
       "sourceUrl": "https://search.scsos.com/files/Web_PositionVacancy_List.pdf",
-      "lastVerified": "2026-07-25",
+      "lastVerified": "2026-08-17",
       "criticalNote": "Listed in SC Secretary of State vacancy list"
     },
     {
@@ -563,7 +563,7 @@
       "constituent": null,
       "applyUrl": "https://governor.sc.gov/executive-branch/appointments",
       "sourceUrl": "https://search.scsos.com/files/Web_PositionVacancy_List.pdf",
-      "lastVerified": "2026-07-25",
+      "lastVerified": "2026-08-17",
       "criticalNote": "Listed in SC Secretary of State vacancy list"
     },
     {
@@ -577,7 +577,7 @@
       "constituent": null,
       "applyUrl": "https://governor.sc.gov/executive-branch/appointments",
       "sourceUrl": "https://search.scsos.com/files/Web_PositionVacancy_List.pdf",
-      "lastVerified": "2026-07-25",
+      "lastVerified": "2026-08-17",
       "criticalNote": "Listed in SC Secretary of State vacancy list"
     },
     {
@@ -591,7 +591,7 @@
       "constituent": null,
       "applyUrl": "https://governor.sc.gov/executive-branch/appointments",
       "sourceUrl": "https://search.scsos.com/files/Web_PositionVacancy_List.pdf",
-      "lastVerified": "2026-07-25",
+      "lastVerified": "2026-08-17",
       "criticalNote": "Listed in SC Secretary of State vacancy list"
     },
     {
@@ -605,7 +605,7 @@
       "constituent": null,
       "applyUrl": "https://governor.sc.gov/executive-branch/appointments",
       "sourceUrl": "https://search.scsos.com/files/Web_PositionVacancy_List.pdf",
-      "lastVerified": "2026-07-25",
+      "lastVerified": "2026-08-17",
       "criticalNote": "Listed in SC Secretary of State vacancy list"
     },
     {
@@ -619,7 +619,7 @@
       "constituent": null,
       "applyUrl": "https://governor.sc.gov/executive-branch/appointments",
       "sourceUrl": "https://search.scsos.com/files/Web_PositionVacancy_List.pdf",
-      "lastVerified": "2026-07-25",
+      "lastVerified": "2026-08-17",
       "criticalNote": "Listed in SC Secretary of State vacancy list"
     },
     {
@@ -633,7 +633,7 @@
       "constituent": null,
       "applyUrl": "https://governor.sc.gov/executive-branch/appointments",
       "sourceUrl": "https://search.scsos.com/files/Web_PositionVacancy_List.pdf",
-      "lastVerified": "2026-07-25",
+      "lastVerified": "2026-08-17",
       "criticalNote": "Listed in SC Secretary of State vacancy list"
     },
     {
@@ -647,7 +647,7 @@
       "constituent": null,
       "applyUrl": "https://governor.sc.gov/executive-branch/appointments",
       "sourceUrl": "https://search.scsos.com/files/Web_PositionVacancy_List.pdf",
-      "lastVerified": "2026-07-25",
+      "lastVerified": "2026-08-17",
       "criticalNote": "Listed in SC Secretary of State vacancy list"
     },
     {
@@ -661,7 +661,7 @@
       "constituent": null,
       "applyUrl": "https://governor.sc.gov/executive-branch/appointments",
       "sourceUrl": "https://search.scsos.com/files/Web_PositionVacancy_List.pdf",
-      "lastVerified": "2026-07-25",
+      "lastVerified": "2026-08-17",
       "criticalNote": "Listed in SC Secretary of State vacancy list"
     },
     {
@@ -675,7 +675,7 @@
       "constituent": null,
       "applyUrl": "https://governor.sc.gov/executive-branch/appointments",
       "sourceUrl": "https://search.scsos.com/files/Web_PositionVacancy_List.pdf",
-      "lastVerified": "2026-07-25",
+      "lastVerified": "2026-08-17",
       "criticalNote": "Listed in SC Secretary of State vacancy list"
     },
     {
@@ -689,7 +689,7 @@
       "constituent": null,
       "applyUrl": "https://governor.sc.gov/executive-branch/appointments",
       "sourceUrl": "https://search.scsos.com/files/Web_PositionVacancy_List.pdf",
-      "lastVerified": "2026-07-25",
+      "lastVerified": "2026-08-17",
       "criticalNote": "Listed in SC Secretary of State vacancy list"
     },
     {
@@ -703,7 +703,7 @@
       "constituent": null,
       "applyUrl": "https://governor.sc.gov/executive-branch/appointments",
       "sourceUrl": "https://search.scsos.com/files/Web_PositionVacancy_List.pdf",
-      "lastVerified": "2026-07-25",
+      "lastVerified": "2026-08-17",
       "criticalNote": "Listed in SC Secretary of State vacancy list"
     },
     {
@@ -717,7 +717,7 @@
       "constituent": null,
       "applyUrl": "https://governor.sc.gov/executive-branch/appointments",
       "sourceUrl": "https://search.scsos.com/files/Web_PositionVacancy_List.pdf",
-      "lastVerified": "2026-07-25",
+      "lastVerified": "2026-08-17",
       "criticalNote": "Listed in SC Secretary of State vacancy list"
     },
     {
@@ -731,7 +731,7 @@
       "constituent": null,
       "applyUrl": "https://governor.sc.gov/executive-branch/appointments",
       "sourceUrl": "https://search.scsos.com/files/Web_PositionVacancy_List.pdf",
-      "lastVerified": "2026-07-25",
+      "lastVerified": "2026-08-17",
       "criticalNote": "Listed in SC Secretary of State vacancy list"
     },
     {
@@ -745,7 +745,7 @@
       "constituent": null,
       "applyUrl": "https://governor.sc.gov/executive-branch/appointments",
       "sourceUrl": "https://search.scsos.com/files/Web_PositionVacancy_List.pdf",
-      "lastVerified": "2026-07-25",
+      "lastVerified": "2026-08-17",
       "criticalNote": "Listed in SC Secretary of State vacancy list"
     },
     {
@@ -759,7 +759,7 @@
       "constituent": null,
       "applyUrl": "https://governor.sc.gov/executive-branch/appointments",
       "sourceUrl": "https://search.scsos.com/files/Web_PositionVacancy_List.pdf",
-      "lastVerified": "2026-07-25",
+      "lastVerified": "2026-08-17",
       "criticalNote": "Listed in SC Secretary of State vacancy list"
     },
     {
@@ -773,7 +773,7 @@
       "constituent": null,
       "applyUrl": "https://governor.sc.gov/executive-branch/appointments",
       "sourceUrl": "https://search.scsos.com/files/Web_PositionVacancy_List.pdf",
-      "lastVerified": "2026-07-25",
+      "lastVerified": "2026-08-17",
       "criticalNote": "Listed in SC Secretary of State vacancy list"
     },
     {
@@ -787,7 +787,7 @@
       "constituent": null,
       "applyUrl": "https://governor.sc.gov/executive-branch/appointments",
       "sourceUrl": "https://search.scsos.com/files/Web_PositionVacancy_List.pdf",
-      "lastVerified": "2026-07-25",
+      "lastVerified": "2026-08-17",
       "criticalNote": "Listed in SC Secretary of State vacancy list"
     },
     {
@@ -801,11 +801,25 @@
       "constituent": null,
       "applyUrl": "https://governor.sc.gov/executive-branch/appointments",
       "sourceUrl": "https://search.scsos.com/files/Web_PositionVacancy_List.pdf",
-      "lastVerified": "2026-07-25",
+      "lastVerified": "2026-08-17",
       "criticalNote": "Listed in SC Secretary of State vacancy list"
     },
     {
       "id": 57,
+      "name": "SC STEM Coalition Advisory Council",
+      "domain": "justice",
+      "totalSeats": null,
+      "vacantSeats": 1,
+      "vacantSince": null,
+      "authority": "Governor's Appointments Office",
+      "constituent": null,
+      "applyUrl": "https://governor.sc.gov/executive-branch/appointments",
+      "sourceUrl": "https://search.scsos.com/files/Web_PositionVacancy_List.pdf",
+      "lastVerified": "2026-08-17",
+      "criticalNote": "Listed in SC Secretary of State vacancy list"
+    },
+    {
+      "id": 58,
       "name": "Small Business Regulatory Review Committee",
       "domain": "justice",
       "totalSeats": null,
@@ -815,11 +829,11 @@
       "constituent": null,
       "applyUrl": "https://governor.sc.gov/executive-branch/appointments",
       "sourceUrl": "https://search.scsos.com/files/Web_PositionVacancy_List.pdf",
-      "lastVerified": "2026-07-25",
+      "lastVerified": "2026-08-17",
       "criticalNote": "Listed in SC Secretary of State vacancy list"
     },
     {
-      "id": 58,
+      "id": 59,
       "name": "South Carolina - Ireland Trade Commission",
       "domain": "environment",
       "totalSeats": null,
@@ -829,21 +843,7 @@
       "constituent": null,
       "applyUrl": "https://governor.sc.gov/executive-branch/appointments",
       "sourceUrl": "https://search.scsos.com/files/Web_PositionVacancy_List.pdf",
-      "lastVerified": "2026-07-25",
-      "criticalNote": "Listed in SC Secretary of State vacancy list"
-    },
-    {
-      "id": 59,
-      "name": "South Carolina Advisory Council on Aging",
-      "domain": "health",
-      "totalSeats": null,
-      "vacantSeats": 1,
-      "vacantSince": null,
-      "authority": "Governor's Appointments Office",
-      "constituent": null,
-      "applyUrl": "https://governor.sc.gov/executive-branch/appointments",
-      "sourceUrl": "https://search.scsos.com/files/Web_PositionVacancy_List.pdf",
-      "lastVerified": "2026-07-25",
+      "lastVerified": "2026-08-17",
       "criticalNote": "Listed in SC Secretary of State vacancy list"
     },
     {
@@ -857,7 +857,7 @@
       "constituent": null,
       "applyUrl": "https://governor.sc.gov/executive-branch/appointments",
       "sourceUrl": "https://search.scsos.com/files/Web_PositionVacancy_List.pdf",
-      "lastVerified": "2026-07-25",
+      "lastVerified": "2026-08-17",
       "criticalNote": "Listed in SC Secretary of State vacancy list"
     },
     {
@@ -871,7 +871,7 @@
       "constituent": "South Carolina dental patients & licensed dentists/hygienists",
       "applyUrl": "https://governor.sc.gov/executive-branch/appointments",
       "sourceUrl": "https://search.scsos.com/files/Web_PositionVacancy_List.pdf",
-      "lastVerified": "2026-07-25",
+      "lastVerified": "2026-08-17",
       "criticalNote": "Listed in SC Secretary of State vacancy list",
       "mandate": "Licenses and regulates South Carolina's dentists and dental hygienists. Eleven members — seven district dentists, one at-large dentist, two dental hygienists, and one lay member; the Governor appoints and fills vacancies (S.C. Code 40-15-20).",
       "seatSource": "https://www.scstatehouse.gov/code/t40c015.php"
@@ -887,7 +887,7 @@
       "constituent": null,
       "applyUrl": "https://governor.sc.gov/executive-branch/appointments",
       "sourceUrl": "https://search.scsos.com/files/Web_PositionVacancy_List.pdf",
-      "lastVerified": "2026-07-25",
+      "lastVerified": "2026-08-17",
       "criticalNote": "Listed in SC Secretary of State vacancy list"
     },
     {
@@ -901,7 +901,7 @@
       "constituent": null,
       "applyUrl": "https://governor.sc.gov/executive-branch/appointments",
       "sourceUrl": "https://search.scsos.com/files/Web_PositionVacancy_List.pdf",
-      "lastVerified": "2026-07-25",
+      "lastVerified": "2026-08-17",
       "criticalNote": "Listed in SC Secretary of State vacancy list"
     },
     {
@@ -915,7 +915,7 @@
       "constituent": null,
       "applyUrl": "https://governor.sc.gov/executive-branch/appointments",
       "sourceUrl": "https://search.scsos.com/files/Web_PositionVacancy_List.pdf",
-      "lastVerified": "2026-07-25",
+      "lastVerified": "2026-08-17",
       "criticalNote": "Listed in SC Secretary of State vacancy list"
     },
     {
@@ -929,7 +929,7 @@
       "constituent": null,
       "applyUrl": "https://governor.sc.gov/executive-branch/appointments",
       "sourceUrl": "https://search.scsos.com/files/Web_PositionVacancy_List.pdf",
-      "lastVerified": "2026-07-25",
+      "lastVerified": "2026-08-17",
       "criticalNote": "Listed in SC Secretary of State vacancy list"
     },
     {
@@ -943,7 +943,7 @@
       "constituent": "South Carolina college students & public/independent institutions",
       "applyUrl": "https://governor.sc.gov/executive-branch/appointments",
       "sourceUrl": "https://search.scsos.com/files/Web_PositionVacancy_List.pdf",
-      "lastVerified": "2026-07-25",
+      "lastVerified": "2026-08-17",
       "criticalNote": "Listed in SC Secretary of State vacancy list",
       "mandate": "Coordinates South Carolina's public higher education policy, funding, and program approval. Fifteen members appointed by the Governor — one per congressional district, three at-large, plus institutional representatives (S.C. Code 59-103-10).",
       "seatSource": "https://www.scstatehouse.gov/code/t59c103.php"
@@ -959,7 +959,7 @@
       "constituent": null,
       "applyUrl": "https://governor.sc.gov/executive-branch/appointments",
       "sourceUrl": "https://search.scsos.com/files/Web_PositionVacancy_List.pdf",
-      "lastVerified": "2026-07-25",
+      "lastVerified": "2026-08-17",
       "criticalNote": "Listed in SC Secretary of State vacancy list"
     },
     {
@@ -973,7 +973,7 @@
       "constituent": null,
       "applyUrl": "https://governor.sc.gov/executive-branch/appointments",
       "sourceUrl": "https://search.scsos.com/files/Web_PositionVacancy_List.pdf",
-      "lastVerified": "2026-07-25",
+      "lastVerified": "2026-08-17",
       "criticalNote": "Listed in SC Secretary of State vacancy list"
     },
     {
@@ -987,7 +987,7 @@
       "constituent": null,
       "applyUrl": "https://governor.sc.gov/executive-branch/appointments",
       "sourceUrl": "https://search.scsos.com/files/Web_PositionVacancy_List.pdf",
-      "lastVerified": "2026-07-25",
+      "lastVerified": "2026-08-17",
       "criticalNote": "Listed in SC Secretary of State vacancy list"
     },
     {
@@ -1001,7 +1001,7 @@
       "constituent": null,
       "applyUrl": "https://governor.sc.gov/executive-branch/appointments",
       "sourceUrl": "https://search.scsos.com/files/Web_PositionVacancy_List.pdf",
-      "lastVerified": "2026-07-25",
+      "lastVerified": "2026-08-17",
       "criticalNote": "Listed in SC Secretary of State vacancy list"
     },
     {
@@ -1015,7 +1015,7 @@
       "constituent": null,
       "applyUrl": "https://governor.sc.gov/executive-branch/appointments",
       "sourceUrl": "https://search.scsos.com/files/Web_PositionVacancy_List.pdf",
-      "lastVerified": "2026-07-25",
+      "lastVerified": "2026-08-17",
       "criticalNote": "Listed in SC Secretary of State vacancy list"
     },
     {
@@ -1029,7 +1029,7 @@
       "constituent": null,
       "applyUrl": "https://governor.sc.gov/executive-branch/appointments",
       "sourceUrl": "https://search.scsos.com/files/Web_PositionVacancy_List.pdf",
-      "lastVerified": "2026-07-25",
+      "lastVerified": "2026-08-17",
       "criticalNote": "Listed in SC Secretary of State vacancy list"
     },
     {
@@ -1043,7 +1043,7 @@
       "constituent": null,
       "applyUrl": "https://governor.sc.gov/executive-branch/appointments",
       "sourceUrl": "https://search.scsos.com/files/Web_PositionVacancy_List.pdf",
-      "lastVerified": "2026-07-25",
+      "lastVerified": "2026-08-17",
       "criticalNote": "Listed in SC Secretary of State vacancy list"
     },
     {
@@ -1057,7 +1057,7 @@
       "constituent": null,
       "applyUrl": "https://governor.sc.gov/executive-branch/appointments",
       "sourceUrl": "https://search.scsos.com/files/Web_PositionVacancy_List.pdf",
-      "lastVerified": "2026-07-25",
+      "lastVerified": "2026-08-17",
       "criticalNote": "Listed in SC Secretary of State vacancy list"
     },
     {
@@ -1071,7 +1071,7 @@
       "constituent": null,
       "applyUrl": "https://governor.sc.gov/executive-branch/appointments",
       "sourceUrl": "https://search.scsos.com/files/Web_PositionVacancy_List.pdf",
-      "lastVerified": "2026-07-25",
+      "lastVerified": "2026-08-17",
       "criticalNote": "Listed in SC Secretary of State vacancy list"
     },
     {
@@ -1085,7 +1085,7 @@
       "constituent": null,
       "applyUrl": "https://governor.sc.gov/executive-branch/appointments",
       "sourceUrl": "https://search.scsos.com/files/Web_PositionVacancy_List.pdf",
-      "lastVerified": "2026-07-25",
+      "lastVerified": "2026-08-17",
       "criticalNote": "Listed in SC Secretary of State vacancy list"
     },
     {
@@ -1099,7 +1099,7 @@
       "constituent": null,
       "applyUrl": "https://governor.sc.gov/executive-branch/appointments",
       "sourceUrl": "https://search.scsos.com/files/Web_PositionVacancy_List.pdf",
-      "lastVerified": "2026-07-25",
+      "lastVerified": "2026-08-17",
       "criticalNote": "Listed in SC Secretary of State vacancy list"
     },
     {
@@ -1113,7 +1113,7 @@
       "constituent": null,
       "applyUrl": "https://governor.sc.gov/executive-branch/appointments",
       "sourceUrl": "https://search.scsos.com/files/Web_PositionVacancy_List.pdf",
-      "lastVerified": "2026-07-25",
+      "lastVerified": "2026-08-17",
       "criticalNote": "Listed in SC Secretary of State vacancy list"
     },
     {
@@ -1127,7 +1127,7 @@
       "constituent": null,
       "applyUrl": "https://governor.sc.gov/executive-branch/appointments",
       "sourceUrl": "https://search.scsos.com/files/Web_PositionVacancy_List.pdf",
-      "lastVerified": "2026-07-25",
+      "lastVerified": "2026-08-17",
       "criticalNote": "Listed in SC Secretary of State vacancy list"
     },
     {
@@ -1141,7 +1141,7 @@
       "constituent": null,
       "applyUrl": "https://governor.sc.gov/executive-branch/appointments",
       "sourceUrl": "https://search.scsos.com/files/Web_PositionVacancy_List.pdf",
-      "lastVerified": "2026-07-25",
+      "lastVerified": "2026-08-17",
       "criticalNote": "Listed in SC Secretary of State vacancy list"
     },
     {
@@ -1155,7 +1155,7 @@
       "constituent": null,
       "applyUrl": "https://governor.sc.gov/executive-branch/appointments",
       "sourceUrl": "https://search.scsos.com/files/Web_PositionVacancy_List.pdf",
-      "lastVerified": "2026-07-25",
+      "lastVerified": "2026-08-17",
       "criticalNote": "Listed in SC Secretary of State vacancy list"
     },
     {
@@ -1169,7 +1169,7 @@
       "constituent": null,
       "applyUrl": "https://governor.sc.gov/executive-branch/appointments",
       "sourceUrl": "https://search.scsos.com/files/Web_PositionVacancy_List.pdf",
-      "lastVerified": "2026-07-25",
+      "lastVerified": "2026-08-17",
       "criticalNote": "Listed in SC Secretary of State vacancy list"
     },
     {
@@ -1183,7 +1183,7 @@
       "constituent": null,
       "applyUrl": "https://governor.sc.gov/executive-branch/appointments",
       "sourceUrl": "https://search.scsos.com/files/Web_PositionVacancy_List.pdf",
-      "lastVerified": "2026-07-25",
+      "lastVerified": "2026-08-17",
       "criticalNote": "Listed in SC Secretary of State vacancy list"
     },
     {
@@ -1197,25 +1197,11 @@
       "constituent": null,
       "applyUrl": "https://governor.sc.gov/executive-branch/appointments",
       "sourceUrl": "https://search.scsos.com/files/Web_PositionVacancy_List.pdf",
-      "lastVerified": "2026-07-25",
+      "lastVerified": "2026-08-17",
       "criticalNote": "Listed in SC Secretary of State vacancy list"
     },
     {
       "id": 85,
-      "name": "South Carolina State Board of Funeral Service",
-      "domain": "justice",
-      "totalSeats": null,
-      "vacantSeats": 1,
-      "vacantSince": null,
-      "authority": "Governor's Appointments Office",
-      "constituent": null,
-      "applyUrl": "https://governor.sc.gov/executive-branch/appointments",
-      "sourceUrl": "https://search.scsos.com/files/Web_PositionVacancy_List.pdf",
-      "lastVerified": "2026-07-25",
-      "criticalNote": "Listed in SC Secretary of State vacancy list"
-    },
-    {
-      "id": 86,
       "name": "South Carolina State Housing, Finance and Development Authority",
       "domain": "housing",
       "totalSeats": 9,
@@ -1225,13 +1211,13 @@
       "constituent": "South Carolinians needing affordable housing",
       "applyUrl": "https://governor.sc.gov/executive-branch/appointments",
       "sourceUrl": "https://search.scsos.com/files/Web_PositionVacancy_List.pdf",
-      "lastVerified": "2026-07-25",
+      "lastVerified": "2026-08-17",
       "criticalNote": "7 of 9 seats are governor-appointed",
       "mandate": "Oversees SC Housing's affordable-housing finance programs. Nine commissioners — seven governor-appointed with Senate consent plus two ex officio (S.C. Code Title 31, Ch. 13).",
       "seatSource": "https://www.scstatehouse.gov/code/t31c013.php"
     },
     {
-      "id": 87,
+      "id": 86,
       "name": "South Carolina State Ports Authority",
       "domain": "justice",
       "totalSeats": null,
@@ -1241,27 +1227,11 @@
       "constituent": null,
       "applyUrl": "https://governor.sc.gov/executive-branch/appointments",
       "sourceUrl": "https://search.scsos.com/files/Web_PositionVacancy_List.pdf",
-      "lastVerified": "2026-07-25",
+      "lastVerified": "2026-08-17",
       "criticalNote": "Listed in SC Secretary of State vacancy list"
     },
     {
-      "id": 88,
-      "name": "South Carolina Workers' Compensation Commission",
-      "domain": "justice",
-      "totalSeats": 7,
-      "vacantSeats": 1,
-      "vacantSince": null,
-      "authority": "Governor's Appointments Office",
-      "constituent": "South Carolina's injured workers & employers",
-      "applyUrl": "https://governor.sc.gov/executive-branch/appointments",
-      "sourceUrl": "https://search.scsos.com/files/Web_PositionVacancy_List.pdf",
-      "lastVerified": "2026-07-25",
-      "criticalNote": "Listed in SC Secretary of State vacancy list",
-      "mandate": "Adjudicates South Carolina workers' compensation claims — a quasi-judicial body. Seven commissioners appointed by the Governor with Senate consent for six-year terms (S.C. Code 42-3-20).",
-      "seatSource": "https://www.scstatehouse.gov/code/t42c003.php"
-    },
-    {
-      "id": 89,
+      "id": 87,
       "name": "South Carolina Youth Smoking Prevention Advisory Commission",
       "domain": "justice",
       "totalSeats": null,
@@ -1271,11 +1241,25 @@
       "constituent": null,
       "applyUrl": "https://governor.sc.gov/executive-branch/appointments",
       "sourceUrl": "https://search.scsos.com/files/Web_PositionVacancy_List.pdf",
-      "lastVerified": "2026-07-25",
+      "lastVerified": "2026-08-17",
       "criticalNote": "Listed in SC Secretary of State vacancy list"
     },
     {
-      "id": 90,
+      "id": 88,
+      "name": "South Carolina-Bahamas Trade Commission",
+      "domain": "justice",
+      "totalSeats": null,
+      "vacantSeats": 1,
+      "vacantSince": null,
+      "authority": "Governor's Appointments Office",
+      "constituent": null,
+      "applyUrl": "https://governor.sc.gov/executive-branch/appointments",
+      "sourceUrl": "https://search.scsos.com/files/Web_PositionVacancy_List.pdf",
+      "lastVerified": "2026-08-17",
+      "criticalNote": "Listed in SC Secretary of State vacancy list"
+    },
+    {
+      "id": 89,
       "name": "State Advisory Committee on the Regulation of Child Care Facilities",
       "domain": "justice",
       "totalSeats": null,
@@ -1285,11 +1269,11 @@
       "constituent": null,
       "applyUrl": "https://governor.sc.gov/executive-branch/appointments",
       "sourceUrl": "https://search.scsos.com/files/Web_PositionVacancy_List.pdf",
-      "lastVerified": "2026-07-25",
+      "lastVerified": "2026-08-17",
       "criticalNote": "Listed in SC Secretary of State vacancy list"
     },
     {
-      "id": 91,
+      "id": 90,
       "name": "State Advisory Council on Erosion and Sediment Reduction",
       "domain": "justice",
       "totalSeats": null,
@@ -1299,11 +1283,11 @@
       "constituent": null,
       "applyUrl": "https://governor.sc.gov/executive-branch/appointments",
       "sourceUrl": "https://search.scsos.com/files/Web_PositionVacancy_List.pdf",
-      "lastVerified": "2026-07-25",
+      "lastVerified": "2026-08-17",
       "criticalNote": "Listed in SC Secretary of State vacancy list"
     },
     {
-      "id": 92,
+      "id": 91,
       "name": "Council of Governments",
       "domain": "justice",
       "totalSeats": null,
@@ -1313,11 +1297,11 @@
       "constituent": null,
       "applyUrl": "https://governor.sc.gov/executive-branch/appointments",
       "sourceUrl": "https://search.scsos.com/files/Web_PositionVacancy_List.pdf",
-      "lastVerified": "2026-07-25",
+      "lastVerified": "2026-08-17",
       "criticalNote": "Listed in SC Secretary of State vacancy list"
     },
     {
-      "id": 93,
+      "id": 92,
       "name": "State Athletic Commission",
       "domain": "justice",
       "totalSeats": null,
@@ -1327,11 +1311,11 @@
       "constituent": null,
       "applyUrl": "https://governor.sc.gov/executive-branch/appointments",
       "sourceUrl": "https://search.scsos.com/files/Web_PositionVacancy_List.pdf",
-      "lastVerified": "2026-07-25",
+      "lastVerified": "2026-08-17",
       "criticalNote": "Listed in SC Secretary of State vacancy list"
     },
     {
-      "id": 94,
+      "id": 93,
       "name": "State Board for Technical and Comprehensive Education",
       "domain": "education",
       "totalSeats": null,
@@ -1341,11 +1325,11 @@
       "constituent": null,
       "applyUrl": "https://governor.sc.gov/executive-branch/appointments",
       "sourceUrl": "https://search.scsos.com/files/Web_PositionVacancy_List.pdf",
-      "lastVerified": "2026-07-25",
+      "lastVerified": "2026-08-17",
       "criticalNote": "Listed in SC Secretary of State vacancy list"
     },
     {
-      "id": 95,
+      "id": 94,
       "name": "State Board of Barber Examiners",
       "domain": "justice",
       "totalSeats": null,
@@ -1355,11 +1339,11 @@
       "constituent": null,
       "applyUrl": "https://governor.sc.gov/executive-branch/appointments",
       "sourceUrl": "https://search.scsos.com/files/Web_PositionVacancy_List.pdf",
-      "lastVerified": "2026-07-25",
+      "lastVerified": "2026-08-17",
       "criticalNote": "Listed in SC Secretary of State vacancy list"
     },
     {
-      "id": 96,
+      "id": 95,
       "name": "State Board of Cosmetology",
       "domain": "justice",
       "totalSeats": null,
@@ -1369,11 +1353,11 @@
       "constituent": null,
       "applyUrl": "https://governor.sc.gov/executive-branch/appointments",
       "sourceUrl": "https://search.scsos.com/files/Web_PositionVacancy_List.pdf",
-      "lastVerified": "2026-07-25",
+      "lastVerified": "2026-08-17",
       "criticalNote": "Listed in SC Secretary of State vacancy list"
     },
     {
-      "id": 97,
+      "id": 96,
       "name": "State Board of Medical Examiners",
       "domain": "health",
       "totalSeats": 13,
@@ -1383,13 +1367,13 @@
       "constituent": "South Carolina patients & licensed physicians",
       "applyUrl": "https://governor.sc.gov/executive-branch/appointments",
       "sourceUrl": "https://search.scsos.com/files/Web_PositionVacancy_List.pdf",
-      "lastVerified": "2026-07-25",
+      "lastVerified": "2026-08-17",
       "criticalNote": "Listed in SC Secretary of State vacancy list",
       "mandate": "Licenses and disciplines South Carolina's physicians. Thirteen members appointed by the Governor with Senate consent — seven physicians (one per congressional district), two at-large physicians, one osteopathic physician, and three lay members (S.C. Code 40-47-10).",
       "seatSource": "https://www.scstatehouse.gov/code/t40c047.php"
     },
     {
-      "id": 98,
+      "id": 97,
       "name": "State Board of Physical Therapy Examiners",
       "domain": "justice",
       "totalSeats": null,
@@ -1399,11 +1383,11 @@
       "constituent": null,
       "applyUrl": "https://governor.sc.gov/executive-branch/appointments",
       "sourceUrl": "https://search.scsos.com/files/Web_PositionVacancy_List.pdf",
-      "lastVerified": "2026-07-25",
+      "lastVerified": "2026-08-17",
       "criticalNote": "Listed in SC Secretary of State vacancy list"
     },
     {
-      "id": 99,
+      "id": 98,
       "name": "State Board of Pyrotechnic Safety",
       "domain": "justice",
       "totalSeats": null,
@@ -1413,11 +1397,11 @@
       "constituent": null,
       "applyUrl": "https://governor.sc.gov/executive-branch/appointments",
       "sourceUrl": "https://search.scsos.com/files/Web_PositionVacancy_List.pdf",
-      "lastVerified": "2026-07-25",
+      "lastVerified": "2026-08-17",
       "criticalNote": "Listed in SC Secretary of State vacancy list"
     },
     {
-      "id": 100,
+      "id": 99,
       "name": "State Board of Registration for Geologists",
       "domain": "justice",
       "totalSeats": null,
@@ -1427,11 +1411,11 @@
       "constituent": null,
       "applyUrl": "https://governor.sc.gov/executive-branch/appointments",
       "sourceUrl": "https://search.scsos.com/files/Web_PositionVacancy_List.pdf",
-      "lastVerified": "2026-07-25",
+      "lastVerified": "2026-08-17",
       "criticalNote": "Listed in SC Secretary of State vacancy list"
     },
     {
-      "id": 101,
+      "id": 100,
       "name": "State Board of Social Work Examiners",
       "domain": "justice",
       "totalSeats": null,
@@ -1441,11 +1425,11 @@
       "constituent": null,
       "applyUrl": "https://governor.sc.gov/executive-branch/appointments",
       "sourceUrl": "https://search.scsos.com/files/Web_PositionVacancy_List.pdf",
-      "lastVerified": "2026-07-25",
+      "lastVerified": "2026-08-17",
       "criticalNote": "Listed in SC Secretary of State vacancy list"
     },
     {
-      "id": 102,
+      "id": 101,
       "name": "State Board of Veterinary Medical Examiners",
       "domain": "health",
       "totalSeats": null,
@@ -1455,11 +1439,11 @@
       "constituent": null,
       "applyUrl": "https://governor.sc.gov/executive-branch/appointments",
       "sourceUrl": "https://search.scsos.com/files/Web_PositionVacancy_List.pdf",
-      "lastVerified": "2026-07-25",
+      "lastVerified": "2026-08-17",
       "criticalNote": "Listed in SC Secretary of State vacancy list"
     },
     {
-      "id": 103,
+      "id": 102,
       "name": "State Commission for Community Advancement and Engagement",
       "domain": "justice",
       "totalSeats": null,
@@ -1469,11 +1453,11 @@
       "constituent": null,
       "applyUrl": "https://governor.sc.gov/executive-branch/appointments",
       "sourceUrl": "https://search.scsos.com/files/Web_PositionVacancy_List.pdf",
-      "lastVerified": "2026-07-25",
+      "lastVerified": "2026-08-17",
       "criticalNote": "Listed in SC Secretary of State vacancy list"
     },
     {
-      "id": 104,
+      "id": 103,
       "name": "State Interagency Planning and Evaluation Advisory Committee",
       "domain": "justice",
       "totalSeats": null,
@@ -1483,11 +1467,11 @@
       "constituent": null,
       "applyUrl": "https://governor.sc.gov/executive-branch/appointments",
       "sourceUrl": "https://search.scsos.com/files/Web_PositionVacancy_List.pdf",
-      "lastVerified": "2026-07-25",
+      "lastVerified": "2026-08-17",
       "criticalNote": "Listed in SC Secretary of State vacancy list"
     },
     {
-      "id": 105,
+      "id": 104,
       "name": "Committee Designee",
       "domain": "justice",
       "totalSeats": null,
@@ -1497,11 +1481,11 @@
       "constituent": null,
       "applyUrl": "https://governor.sc.gov/executive-branch/appointments",
       "sourceUrl": "https://search.scsos.com/files/Web_PositionVacancy_List.pdf",
-      "lastVerified": "2026-07-25",
+      "lastVerified": "2026-08-17",
       "criticalNote": "Listed in SC Secretary of State vacancy list"
     },
     {
-      "id": 106,
+      "id": 105,
       "name": "Senate Finance Committee",
       "domain": "justice",
       "totalSeats": null,
@@ -1511,11 +1495,11 @@
       "constituent": null,
       "applyUrl": "https://governor.sc.gov/executive-branch/appointments",
       "sourceUrl": "https://search.scsos.com/files/Web_PositionVacancy_List.pdf",
-      "lastVerified": "2026-07-25",
+      "lastVerified": "2026-08-17",
       "criticalNote": "Listed in SC Secretary of State vacancy list"
     },
     {
-      "id": 107,
+      "id": 106,
       "name": "Senate General Committee",
       "domain": "justice",
       "totalSeats": null,
@@ -1525,11 +1509,11 @@
       "constituent": null,
       "applyUrl": "https://governor.sc.gov/executive-branch/appointments",
       "sourceUrl": "https://search.scsos.com/files/Web_PositionVacancy_List.pdf",
-      "lastVerified": "2026-07-25",
+      "lastVerified": "2026-08-17",
       "criticalNote": "Listed in SC Secretary of State vacancy list"
     },
     {
-      "id": 108,
+      "id": 107,
       "name": "State Regulation of Public Utilities Review Committee",
       "domain": "justice",
       "totalSeats": null,
@@ -1539,11 +1523,11 @@
       "constituent": null,
       "applyUrl": "https://governor.sc.gov/executive-branch/appointments",
       "sourceUrl": "https://search.scsos.com/files/Web_PositionVacancy_List.pdf",
-      "lastVerified": "2026-07-25",
+      "lastVerified": "2026-08-17",
       "criticalNote": "Listed in SC Secretary of State vacancy list"
     },
     {
-      "id": 109,
+      "id": 108,
       "name": "State Vocational Rehabilitation Board",
       "domain": "justice",
       "totalSeats": null,
@@ -1553,11 +1537,11 @@
       "constituent": null,
       "applyUrl": "https://governor.sc.gov/executive-branch/appointments",
       "sourceUrl": "https://search.scsos.com/files/Web_PositionVacancy_List.pdf",
-      "lastVerified": "2026-07-25",
+      "lastVerified": "2026-08-17",
       "criticalNote": "Listed in SC Secretary of State vacancy list"
     },
     {
-      "id": 110,
+      "id": 109,
       "name": "State Workforce Development Board",
       "domain": "education",
       "totalSeats": null,
@@ -1567,11 +1551,11 @@
       "constituent": null,
       "applyUrl": "https://governor.sc.gov/executive-branch/appointments",
       "sourceUrl": "https://search.scsos.com/files/Web_PositionVacancy_List.pdf",
-      "lastVerified": "2026-07-25",
+      "lastVerified": "2026-08-17",
       "criticalNote": "Listed in SC Secretary of State vacancy list"
     },
     {
-      "id": 111,
+      "id": 110,
       "name": "Statewide Health Coordinating Council",
       "domain": "health",
       "totalSeats": null,
@@ -1581,11 +1565,11 @@
       "constituent": null,
       "applyUrl": "https://governor.sc.gov/executive-branch/appointments",
       "sourceUrl": "https://search.scsos.com/files/Web_PositionVacancy_List.pdf",
-      "lastVerified": "2026-07-25",
+      "lastVerified": "2026-08-17",
       "criticalNote": "Listed in SC Secretary of State vacancy list"
     },
     {
-      "id": 112,
+      "id": 111,
       "name": "Statewide Independent Living Council",
       "domain": "disability",
       "totalSeats": null,
@@ -1595,11 +1579,11 @@
       "constituent": null,
       "applyUrl": "https://governor.sc.gov/executive-branch/appointments",
       "sourceUrl": "https://search.scsos.com/files/Web_PositionVacancy_List.pdf",
-      "lastVerified": "2026-07-25",
+      "lastVerified": "2026-08-17",
       "criticalNote": "Listed in SC Secretary of State vacancy list"
     },
     {
-      "id": 113,
+      "id": 112,
       "name": "Statewide Resilience Plan Advisory Committee",
       "domain": "justice",
       "totalSeats": null,
@@ -1609,11 +1593,11 @@
       "constituent": null,
       "applyUrl": "https://governor.sc.gov/executive-branch/appointments",
       "sourceUrl": "https://search.scsos.com/files/Web_PositionVacancy_List.pdf",
-      "lastVerified": "2026-07-25",
+      "lastVerified": "2026-08-17",
       "criticalNote": "Listed in SC Secretary of State vacancy list"
     },
     {
-      "id": 114,
+      "id": 113,
       "name": "Tobacco Community Development Board",
       "domain": "justice",
       "totalSeats": null,
@@ -1623,11 +1607,11 @@
       "constituent": null,
       "applyUrl": "https://governor.sc.gov/executive-branch/appointments",
       "sourceUrl": "https://search.scsos.com/files/Web_PositionVacancy_List.pdf",
-      "lastVerified": "2026-07-25",
+      "lastVerified": "2026-08-17",
       "criticalNote": "Listed in SC Secretary of State vacancy list"
     },
     {
-      "id": 115,
+      "id": 114,
       "name": "Tourism Expenditure Review Committee",
       "domain": "justice",
       "totalSeats": null,
@@ -1637,11 +1621,11 @@
       "constituent": null,
       "applyUrl": "https://governor.sc.gov/executive-branch/appointments",
       "sourceUrl": "https://search.scsos.com/files/Web_PositionVacancy_List.pdf",
-      "lastVerified": "2026-07-25",
+      "lastVerified": "2026-08-17",
       "criticalNote": "Listed in SC Secretary of State vacancy list"
     },
     {
-      "id": 116,
+      "id": 115,
       "name": "Veterans Policy Advisory Committee",
       "domain": "justice",
       "totalSeats": null,
@@ -1651,11 +1635,11 @@
       "constituent": null,
       "applyUrl": "https://governor.sc.gov/executive-branch/appointments",
       "sourceUrl": "https://search.scsos.com/files/Web_PositionVacancy_List.pdf",
-      "lastVerified": "2026-07-25",
+      "lastVerified": "2026-08-17",
       "criticalNote": "Listed in SC Secretary of State vacancy list"
     },
     {
-      "id": 117,
+      "id": 116,
       "name": "Vulnerable Adults Fatalities Review Committee",
       "domain": "justice",
       "totalSeats": null,
@@ -1665,11 +1649,11 @@
       "constituent": null,
       "applyUrl": "https://governor.sc.gov/executive-branch/appointments",
       "sourceUrl": "https://search.scsos.com/files/Web_PositionVacancy_List.pdf",
-      "lastVerified": "2026-07-25",
+      "lastVerified": "2026-08-17",
       "criticalNote": "Listed in SC Secretary of State vacancy list"
     },
     {
-      "id": 118,
+      "id": 117,
       "name": "War Between the States Heritage Trust Advisory Board",
       "domain": "justice",
       "totalSeats": null,
@@ -1679,11 +1663,11 @@
       "constituent": null,
       "applyUrl": "https://governor.sc.gov/executive-branch/appointments",
       "sourceUrl": "https://search.scsos.com/files/Web_PositionVacancy_List.pdf",
-      "lastVerified": "2026-07-25",
+      "lastVerified": "2026-08-17",
       "criticalNote": "Listed in SC Secretary of State vacancy list"
     },
     {
-      "id": 119,
+      "id": 118,
       "name": "War Between the States Heritage Trust Advisory Commission",
       "domain": "justice",
       "totalSeats": null,
@@ -1693,11 +1677,11 @@
       "constituent": null,
       "applyUrl": "https://governor.sc.gov/executive-branch/appointments",
       "sourceUrl": "https://search.scsos.com/files/Web_PositionVacancy_List.pdf",
-      "lastVerified": "2026-07-25",
+      "lastVerified": "2026-08-17",
       "criticalNote": "Listed in SC Secretary of State vacancy list"
     },
     {
-      "id": 120,
+      "id": 119,
       "name": "Water Resources Coordinating Council",
       "domain": "environment",
       "totalSeats": null,
@@ -1707,11 +1691,11 @@
       "constituent": null,
       "applyUrl": "https://governor.sc.gov/executive-branch/appointments",
       "sourceUrl": "https://search.scsos.com/files/Web_PositionVacancy_List.pdf",
-      "lastVerified": "2026-07-25",
+      "lastVerified": "2026-08-17",
       "criticalNote": "Listed in SC Secretary of State vacancy list"
     },
     {
-      "id": 121,
+      "id": 120,
       "name": "Wil Lou Gray Opportunity School Board of Trustees",
       "domain": "education",
       "totalSeats": null,
@@ -1721,11 +1705,11 @@
       "constituent": null,
       "applyUrl": "https://governor.sc.gov/executive-branch/appointments",
       "sourceUrl": "https://search.scsos.com/files/Web_PositionVacancy_List.pdf",
-      "lastVerified": "2026-07-25",
+      "lastVerified": "2026-08-17",
       "criticalNote": "Listed in SC Secretary of State vacancy list"
     },
     {
-      "id": 122,
+      "id": 121,
       "name": "Wildlife and Freshwater Fisheries Advisory Board",
       "domain": "environment",
       "totalSeats": null,
@@ -1735,11 +1719,11 @@
       "constituent": null,
       "applyUrl": "https://governor.sc.gov/executive-branch/appointments",
       "sourceUrl": "https://search.scsos.com/files/Web_PositionVacancy_List.pdf",
-      "lastVerified": "2026-07-25",
+      "lastVerified": "2026-08-17",
       "criticalNote": "Listed in SC Secretary of State vacancy list"
     },
     {
-      "id": 123,
+      "id": 122,
       "name": "Yadkin/Pee Dee Commission",
       "domain": "justice",
       "totalSeats": null,
@@ -1749,11 +1733,11 @@
       "constituent": null,
       "applyUrl": "https://governor.sc.gov/executive-branch/appointments",
       "sourceUrl": "https://search.scsos.com/files/Web_PositionVacancy_List.pdf",
-      "lastVerified": "2026-07-25",
+      "lastVerified": "2026-08-17",
       "criticalNote": "Listed in SC Secretary of State vacancy list"
     },
     {
-      "id": 124,
+      "id": 123,
       "name": "Authority",
       "domain": "justice",
       "totalSeats": null,
@@ -1763,7 +1747,7 @@
       "constituent": null,
       "applyUrl": "https://governor.sc.gov/executive-branch/appointments",
       "sourceUrl": "https://search.scsos.com/files/Web_PositionVacancy_List.pdf",
-      "lastVerified": "2026-07-25",
+      "lastVerified": "2026-08-17",
       "criticalNote": "Listed in SC Secretary of State vacancy list"
     }
   ]
