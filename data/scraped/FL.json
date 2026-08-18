@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-08-18T15:33:34.067Z",
+  "scrapedAt": "2026-08-18T15:43:36.437Z",
   "registry": {
     "profile": "fl",
     "mode": "inventory",
@@ -15,11 +15,11 @@
   "summary": {
     "state": "FL",
     "total": 291,
-    "full": 2,
-    "provisional": 289,
+    "full": 16,
+    "provisional": 275,
     "missingFields": {
-      "totalSeats": 289,
-      "constituent": 289
+      "totalSeats": 275,
+      "constituent": 275
     }
   },
   "rows": [
@@ -405,15 +405,17 @@
       "id": 28,
       "name": "Board of Accountancy",
       "domain": "justice",
-      "totalSeats": null,
+      "totalSeats": 9,
       "vacantSeats": 0,
       "vacantSince": null,
       "authority": "Governor's Appointments Office",
-      "constituent": null,
+      "constituent": "Florida businesses & licensed CPAs · audit integrity",
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "lastVerified": "2026-08-18",
-      "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
+      "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list",
+      "mandate": "Licenses and disciplines Florida's certified public accountants. Nine members appointed by the Governor with Senate confirmation — seven CPAs and two lay members (F.S. 473.303).",
+      "seatSource": "https://law.justia.com/codes/florida/title-xxxii/chapter-473/section-473-303/"
     },
     {
       "id": 29,
@@ -474,16 +476,18 @@
     {
       "id": 33,
       "name": "Board of Chiropractic Medicine",
-      "domain": "justice",
-      "totalSeats": null,
+      "domain": "health",
+      "totalSeats": 7,
       "vacantSeats": 0,
       "vacantSince": null,
       "authority": "Governor's Appointments Office",
-      "constituent": null,
+      "constituent": "Florida chiropractic patients & licensees",
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "lastVerified": "2026-08-18",
-      "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
+      "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list",
+      "mandate": "Licenses and disciplines Florida's chiropractic physicians. Seven members appointed by the Governor with Senate confirmation (F.S. 460.404).",
+      "seatSource": "https://law.justia.com/codes/florida/title-xxxii/chapter-460/section-460-404/"
     },
     {
       "id": 34,
@@ -659,15 +663,17 @@
       "id": 46,
       "name": "Board of Nursing",
       "domain": "health",
-      "totalSeats": null,
+      "totalSeats": 13,
       "vacantSeats": 0,
       "vacantSince": null,
       "authority": "Governor's Appointments Office",
-      "constituent": null,
+      "constituent": "Florida patients & licensed nurses",
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "lastVerified": "2026-08-18",
-      "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
+      "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list",
+      "mandate": "Licenses and disciplines Florida's nurses. Thirteen members appointed by the Governor and confirmed by the Senate — registered and practical nurses plus consumer members (F.S. 464.004).",
+      "seatSource": "https://law.justia.com/codes/florida/title-xxxii/chapter-464/section-464-004/"
     },
     {
       "id": 47,
@@ -714,16 +720,18 @@
     {
       "id": 50,
       "name": "Board of Optometry",
-      "domain": "justice",
-      "totalSeats": null,
+      "domain": "health",
+      "totalSeats": 7,
       "vacantSeats": 0,
       "vacantSince": null,
       "authority": "Governor's Appointments Office",
-      "constituent": null,
+      "constituent": "Florida eye-care patients & licensed optometrists",
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "lastVerified": "2026-08-18",
-      "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
+      "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list",
+      "mandate": "Licenses and regulates Florida's optometrists. Seven members appointed by the Governor with Senate confirmation — five optometrists and two consumer members (F.S. 463.003).",
+      "seatSource": "https://law.justia.com/codes/florida/title-xxxii/chapter-463/section-463-003/"
     },
     {
       "id": 51,
@@ -742,44 +750,50 @@
     {
       "id": 52,
       "name": "Board of Osteopathic Medicine",
-      "domain": "justice",
-      "totalSeats": null,
+      "domain": "health",
+      "totalSeats": 7,
       "vacantSeats": 0,
       "vacantSince": null,
       "authority": "Governor's Appointments Office",
-      "constituent": null,
+      "constituent": "Florida patients & licensed D.O. physicians",
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "lastVerified": "2026-08-18",
-      "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
+      "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list",
+      "mandate": "Licenses and disciplines Florida's osteopathic physicians. Seven members appointed by the Governor with Senate confirmation — five D.O.s and two consumer members (F.S. 459.004).",
+      "seatSource": "https://law.justia.com/codes/florida/title-xxxii/chapter-459/section-459-004/"
     },
     {
       "id": 53,
       "name": "Board of Pharmacy",
       "domain": "health",
-      "totalSeats": null,
+      "totalSeats": 9,
       "vacantSeats": 0,
       "vacantSince": null,
       "authority": "Governor's Appointments Office",
-      "constituent": null,
+      "constituent": "Florida patients & licensed pharmacists · drug safety",
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "lastVerified": "2026-08-18",
-      "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
+      "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list",
+      "mandate": "Licenses pharmacists and regulates pharmacy practice in Florida. Nine members appointed by the Governor with Senate confirmation — seven pharmacists and two consumer members (F.S. 465.004).",
+      "seatSource": "https://law.justia.com/codes/florida/title-xxxii/chapter-465/section-465-004/"
     },
     {
       "id": 54,
       "name": "Board of Physical Therapy Practice",
-      "domain": "justice",
-      "totalSeats": null,
+      "domain": "health",
+      "totalSeats": 7,
       "vacantSeats": 0,
       "vacantSince": null,
       "authority": "Governor's Appointments Office",
-      "constituent": null,
+      "constituent": "Florida patients & licensed physical therapists",
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "lastVerified": "2026-08-18",
-      "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
+      "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list",
+      "mandate": "Licenses and regulates Florida's physical therapists and PT assistants. Seven members appointed by the Governor with Senate confirmation (F.S. 486.023).",
+      "seatSource": "https://law.justia.com/codes/florida/title-xxxii/chapter-486/section-486-023/"
     },
     {
       "id": 55,
@@ -798,30 +812,34 @@
     {
       "id": 56,
       "name": "Board of Podiatric Medicine",
-      "domain": "justice",
-      "totalSeats": null,
+      "domain": "health",
+      "totalSeats": 7,
       "vacantSeats": 0,
       "vacantSince": null,
       "authority": "Governor's Appointments Office",
-      "constituent": null,
+      "constituent": "Florida patients & licensed podiatrists",
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "lastVerified": "2026-08-18",
-      "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
+      "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list",
+      "mandate": "Licenses and disciplines Florida's podiatric physicians. Seven members appointed by the Governor with Senate confirmation — five podiatrists and two consumer members (F.S. 461.005).",
+      "seatSource": "https://law.justia.com/codes/florida/title-xxxii/chapter-461/"
     },
     {
       "id": 57,
       "name": "Board of Professional Engineers",
       "domain": "justice",
-      "totalSeats": null,
+      "totalSeats": 11,
       "vacantSeats": 0,
       "vacantSince": null,
       "authority": "Governor's Appointments Office",
-      "constituent": null,
+      "constituent": "Floridians & licensed professional engineers · public safety",
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "lastVerified": "2026-08-18",
-      "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
+      "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list",
+      "mandate": "Licenses and regulates Florida's professional engineers. Eleven members appointed by the Governor — nine licensed engineers and two lay members (F.S. 471.007).",
+      "seatSource": "https://law.justia.com/codes/florida/title-xxxii/chapter-471/section-471-007/"
     },
     {
       "id": 58,
@@ -841,15 +859,17 @@
       "id": 59,
       "name": "Board of Psychology",
       "domain": "health",
-      "totalSeats": null,
+      "totalSeats": 7,
       "vacantSeats": 0,
       "vacantSince": null,
       "authority": "Governor's Appointments Office",
-      "constituent": null,
+      "constituent": "Floridians seeking psychological care & licensed psychologists",
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "lastVerified": "2026-08-18",
-      "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
+      "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list",
+      "mandate": "Licenses and regulates Florida's psychologists. Seven members appointed by the Governor with Senate confirmation — five psychologists and two consumer members (F.S. 490.004).",
+      "seatSource": "https://law.justia.com/codes/florida/title-xxxii/chapter-490/section-490-004/"
     },
     {
       "id": 60,
@@ -2199,15 +2219,17 @@
       "id": 156,
       "name": "Florida Fish and Wildlife Conservation Commission",
       "domain": "environment",
-      "totalSeats": null,
+      "totalSeats": 7,
       "vacantSeats": 0,
       "vacantSince": null,
       "authority": "Governor's Appointments Office",
-      "constituent": null,
+      "constituent": "Florida's fish, wildlife & outdoors",
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "lastVerified": "2026-08-18",
-      "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
+      "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list",
+      "mandate": "Manages Florida's fish and wildlife resources — a constitutional commission. Seven members appointed by the Governor with Senate confirmation, staggered five-year terms (Fla. Const. Art. IV, Sec. 9).",
+      "seatSource": "https://codes.findlaw.com/fl/florida-constitution1968-revision/fl-const-art-4-sect-9/"
     },
     {
       "id": 157,
@@ -2423,15 +2445,17 @@
       "id": 172,
       "name": "Florida Public Service Commission",
       "domain": "justice",
-      "totalSeats": null,
+      "totalSeats": 5,
       "vacantSeats": 0,
       "vacantSince": null,
       "authority": "Governor's Appointments Office",
-      "constituent": null,
+      "constituent": "Every Florida utility ratepayer · electric, gas, water, telecom",
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "lastVerified": "2026-08-18",
-      "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
+      "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list",
+      "mandate": "Regulates Florida's investor-owned electric, natural-gas, water, and telecom utilities and their rates. Five commissioners appointed by the Governor from a nominating council's slate, Senate-confirmed (F.S. 350.031).",
+      "seatSource": "https://law.justia.com/codes/florida/title-xxvii/chapter-350/section-350-031/"
     },
     {
       "id": 173,
@@ -2450,16 +2474,18 @@
     {
       "id": 174,
       "name": "Florida Real Estate Commission",
-      "domain": "justice",
-      "totalSeats": null,
+      "domain": "housing",
+      "totalSeats": 7,
       "vacantSeats": 0,
       "vacantSince": null,
       "authority": "Governor's Appointments Office",
-      "constituent": null,
+      "constituent": "Florida home buyers & licensed real estate brokers",
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "lastVerified": "2026-08-18",
-      "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
+      "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list",
+      "mandate": "Licenses and regulates Florida's real estate brokers and sales associates. Seven members appointed by the Governor with Senate confirmation — five licensees and two consumer members (F.S. 475.02).",
+      "seatSource": "https://law.justia.com/codes/florida/title-xxxii/chapter-475/section-475-02/"
     },
     {
       "id": 175,
@@ -2534,16 +2560,18 @@
     {
       "id": 180,
       "name": "Florida Transportation Commission",
-      "domain": "justice",
-      "totalSeats": null,
+      "domain": "environment",
+      "totalSeats": 9,
       "vacantSeats": 0,
       "vacantSince": null,
       "authority": "Governor's Appointments Office",
-      "constituent": null,
+      "constituent": "Florida travelers & the statewide transportation system",
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "lastVerified": "2026-08-18",
-      "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
+      "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list",
+      "mandate": "Citizen oversight board for the Florida Department of Transportation — policy, accountability, and major-project review. Nine members appointed by the Governor with Senate confirmation (F.S. 20.23).",
+      "seatSource": "https://law.justia.com/codes/florida/title-iv/chapter-20/section-20-23/"
     },
     {
       "id": 181,

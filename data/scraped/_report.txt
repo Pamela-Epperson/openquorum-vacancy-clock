@@ -1,2 +1,1 @@
-CA: manual state — staged data maintained by hand in data/scraped/CA.json
-FL: 291 rows (2 full / 289 provisional) — missing: totalSeats×289, constituent×289
+FL: 291 rows (16 full / 275 provisional) — missing: totalSeats×275, constituent×275
