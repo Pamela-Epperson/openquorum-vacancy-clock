@@ -45,4 +45,40 @@ export const ENRICHMENTS = {
     mandate: "Oversees the Arizona State Retirement System, which serves state, university, and school employees. Nine trustees appointed by the Governor — five ASRS members and four public members (A.R.S. § 38-713).",
     seatSource: "https://www.azleg.gov/ars/38/00713.htm",
   },
+  "ARIZONA STATE VETERINARY EXAMINING BOARD": {
+    totalSeats: 9, domain: "health",
+    constituent: "Arizona pet owners, livestock producers & licensed veterinarians",
+    mandate: "Licenses and disciplines Arizona's veterinarians. Nine governor-appointed members — five licensed veterinarians, two public members, one livestock-industry representative, and one certified veterinary technician (A.R.S. § 32-2202).",
+    seatSource: "https://www.azleg.gov/ars/32/02202.htm",
+  },
+  "BOARD OF CHIROPRACTIC EXAMINERS": {
+    totalSeats: 5, domain: "health",
+    constituent: "Arizona patients & licensed chiropractors",
+    mandate: "Licenses and disciplines Arizona's chiropractors. Five governor-appointed members — three licensed chiropractors and two consumer members (A.R.S. § 32-901).",
+    seatSource: "https://www.azleg.gov/ars/32/00901.htm",
+  },
+  "BOARD OF BEHAVIORAL HEALTH EXAMINERS": {
+    totalSeats: 12, domain: "health",
+    constituent: "Arizona behavioral-health clients & licensed counselors, social workers, therapists",
+    mandate: "Licenses Arizona's counselors, social workers, marriage-and-family therapists, and addiction counselors. Twelve governor-appointed members — eight professional and four public (A.R.S. § 32-3252).",
+    seatSource: "https://www.azleg.gov/ars/32/03252.htm",
+  },
+  "BOARD OF OCCUPATIONAL THERAPY EXAMINERS": {
+    totalSeats: 5, domain: "health",
+    constituent: "Arizona patients & licensed occupational therapists",
+    mandate: "Licenses and regulates Arizona's occupational therapists. Five governor-appointed members — three occupational-therapy professionals and two public members (A.R.S. § 32-3402).",
+    seatSource: "https://www.azleg.gov/ars/32/03402.htm",
+  },
+  "BARBERING AND COSMETOLOGY BOARD": {
+    totalSeats: 9, domain: "equity",
+    constituent: "Arizona salon consumers & licensed barbers, cosmetologists, nail technicians",
+    mandate: "Licenses and regulates Arizona's barbering and cosmetology professions. Nine governor-appointed members — one barber, one cosmetologist, two school owners, and five public members (A.R.S. § 32-502).",
+    seatSource: "https://www.azleg.gov/ars/32/00502.htm",
+  },
+  "STATE PERSONNEL BOARD": {
+    totalSeats: 5, domain: "justice",
+    constituent: "Arizona state-government employees",
+    mandate: "Hears appeals from Arizona state employees in the covered personnel system. Five governor-appointed members, no more than three from one political party (A.R.S. § 41-781).",
+    seatSource: "https://www.azleg.gov/ars/41/00781.htm",
+  },
 };
