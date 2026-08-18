@@ -36,4 +36,41 @@ export const ENRICHMENTS = {
     seatSource: "https://law.justia.com/codes/colorado/2016/title-26/article-1/part-3/section-26-1-302/",
     criticalNote: "Statute caps appointed membership at 10 (+3 ex officio)",
   },
+  "State Board of Psychologist Examiners": {
+    totalSeats: 7, domain: "health",
+    constituent: "Coloradans receiving psychological care & licensed psychologists",
+    mandate: "Licenses and disciplines Colorado's psychologists. Seven governor-appointed members — four licensed psychologists and three public members (C.R.S. 12-245-302).",
+    seatSource: "https://law.justia.com/codes/colorado/title-12/health-care-professions-and-occupations/article-245/part-3/section-12-245-302/",
+  },
+  "Plumbers, State Board": {
+    totalSeats: 7, domain: "housing",
+    constituent: "Colorado building occupants & licensed plumbers",
+    mandate: "Licenses Colorado's plumbers and adopts the state plumbing code. Seven governor-appointed voting members with Senate consent — plumbers, contractors, an inspector, and a public member (C.R.S. 12-155-104).",
+    seatSource: "https://law.justia.com/codes/colorado/title-12/business-professions-and-occupations/article-155/section-12-155-104/",
+    criticalNote: "Seven governor-appointed voting members; a public-health department representative serves ex officio, nonvoting",
+  },
+  "Civil Rights Commission, Colorado": {
+    totalSeats: 7, domain: "equity",
+    constituent: "Coloradans protected under state anti-discrimination law",
+    mandate: "Adjudicates discrimination complaints and sets civil-rights policy in Colorado. Seven members appointed by the Governor with Senate consent (C.R.S. 24-34-303).",
+    seatSource: "https://law.justia.com/codes/colorado/title-24/principal-departments/article-34/part-3/section-24-34-303/",
+  },
+  "Marriage and Family Therapist Examiners, State Board of": {
+    totalSeats: 7, domain: "health",
+    constituent: "Colorado therapy clients & licensed marriage and family therapists",
+    mandate: "Licenses and regulates Colorado's marriage and family therapists. Seven governor-appointed members — four therapists and three public members (C.R.S. 12-245-502).",
+    seatSource: "https://law.justia.com/codes/colorado/title-12/health-care-professions-and-occupations/article-245/part-5/section-12-245-502/",
+  },
+  "Marriage and Family Therapists Board of Examiners": {
+    totalSeats: 7, domain: "health",
+    constituent: "Colorado therapy clients & licensed marriage and family therapists",
+    mandate: "Licenses and regulates Colorado's marriage and family therapists. Seven governor-appointed members — four therapists and three public members (C.R.S. 12-245-502).",
+    seatSource: "https://law.justia.com/codes/colorado/title-12/health-care-professions-and-occupations/article-245/part-5/section-12-245-502/",
+  },
+  "Counselor Examiners, State Board of Licensed Professionals": {
+    totalSeats: 7, domain: "health",
+    constituent: "Colorado counseling clients & licensed professional counselors",
+    mandate: "Licenses and regulates Colorado's licensed professional counselors. Seven governor-appointed members — four counselors and three public members (C.R.S. 12-245-602).",
+    seatSource: "https://law.justia.com/codes/colorado/title-12/health-care-professions-and-occupations/article-245/part-6/section-12-245-602/",
+  },
 };
