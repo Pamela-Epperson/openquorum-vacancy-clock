@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-08-18T16:59:56.051Z",
+  "scrapedAt": "2026-08-18T17:14:51.990Z",
   "registry": {
     "profile": "ct",
     "mode": "inventory",
@@ -15,11 +15,11 @@
   "summary": {
     "state": "CT",
     "total": 39,
-    "full": 3,
-    "provisional": 36,
+    "full": 6,
+    "provisional": 33,
     "missingFields": {
-      "totalSeats": 36,
-      "constituent": 36
+      "totalSeats": 33,
+      "constituent": 33
     }
   },
   "rows": [
@@ -309,15 +309,17 @@
       "id": 21,
       "name": "Human Rights and Opportunities, Commission on",
       "domain": "equity",
-      "totalSeats": null,
+      "totalSeats": 9,
       "vacantSeats": 0,
       "vacantSince": null,
       "authority": "Governor's Office via DAS Statewide HR",
-      "constituent": null,
+      "constituent": "Connecticut residents protected under state anti-discrimination law",
       "applyUrl": "https://www.jobapscloud.com/CT/sup/bulpreview.asp?R1=190219&R2=1234BC&R3=BCM",
       "sourceUrl": "https://portal.ct.gov/government/departments-and-agencies/boards-councils-and-commissions",
       "lastVerified": "2026-08-18",
-      "criticalNote": "Listed in CT's official Boards, Councils & Commissions directory; CT publishes no central vacancy list (inventory mode)"
+      "criticalNote": "5 of 9 seats are governor-appointed (4 appointed by legislative leaders)",
+      "mandate": "Enforces Connecticut's anti-discrimination laws and adjudicates civil-rights complaints. Nine members — five appointed by the Governor, four by legislative leaders, all with General Assembly consent (CGS 46a-52).",
+      "seatSource": "https://law.justia.com/codes/connecticut/title-46a/chapter-814c/"
     },
     {
       "id": 22,
@@ -379,29 +381,33 @@
       "id": 26,
       "name": "Pardons and Paroles, Board of",
       "domain": "justice",
-      "totalSeats": null,
+      "totalSeats": 10,
       "vacantSeats": 0,
       "vacantSince": null,
       "authority": "Governor's Office via DAS Statewide HR",
-      "constituent": null,
+      "constituent": "Connecticut's incarcerated people, parolees & pardon applicants",
       "applyUrl": "https://www.jobapscloud.com/CT/sup/bulpreview.asp?R1=190219&R2=1234BC&R3=BCM",
       "sourceUrl": "https://portal.ct.gov/government/departments-and-agencies/boards-councils-and-commissions",
       "lastVerified": "2026-08-18",
-      "criticalNote": "Listed in CT's official Boards, Councils & Commissions directory; CT publishes no central vacancy list (inventory mode)"
+      "criticalNote": "Ten full-time governor-appointed members; the Governor may also appoint up to five part-time members",
+      "mandate": "Grants paroles and pardons and sets release policy in Connecticut. Ten full-time members appointed by the Governor with the consent of the General Assembly (CGS 54-124a).",
+      "seatSource": "https://law.justia.com/codes/connecticut/title-54/chapter-961/section-54-124a/"
     },
     {
       "id": 27,
       "name": "Psychiatric Security Review Board",
-      "domain": "health",
-      "totalSeats": null,
+      "domain": "justice",
+      "totalSeats": 6,
       "vacantSeats": 0,
       "vacantSince": null,
       "authority": "Governor's Office via DAS Statewide HR",
-      "constituent": null,
+      "constituent": "Connecticut insanity acquittees, victims & the public",
       "applyUrl": "https://www.jobapscloud.com/CT/sup/bulpreview.asp?R1=190219&R2=1234BC&R3=BCM",
       "sourceUrl": "https://portal.ct.gov/government/departments-and-agencies/boards-councils-and-commissions",
       "lastVerified": "2026-08-18",
-      "criticalNote": "Listed in CT's official Boards, Councils & Commissions directory; CT publishes no central vacancy list (inventory mode)"
+      "criticalNote": "Listed in CT's official Boards, Councils & Commissions directory; CT publishes no central vacancy list (inventory mode)",
+      "mandate": "Supervises persons acquitted by reason of mental disease and committed to its jurisdiction. Six governor-appointed members — a psychiatrist, a psychologist, a probation expert, an attorney, and two public members (CGS 17a-581).",
+      "seatSource": "https://law.justia.com/codes/connecticut/title-17a/chapter-319i/section-17a-581-formerly-sec-17-257b/"
     },
     {
       "id": 28,

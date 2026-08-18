@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-08-18T16:59:54.270Z",
+  "scrapedAt": "2026-08-18T17:14:50.692Z",
   "registry": {
     "profile": "co",
     "endpoint": "https://governorsoffice.colorado.gov/governor/appointments-and-openings",
@@ -12,11 +12,11 @@
   "summary": {
     "state": "CO",
     "total": 56,
-    "full": 2,
-    "provisional": 54,
+    "full": 8,
+    "provisional": 48,
     "missingFields": {
-      "totalSeats": 54,
-      "constituent": 54
+      "totalSeats": 48,
+      "constituent": 48
     }
   },
   "rows": [
@@ -93,16 +93,18 @@
     {
       "id": 6,
       "name": "Plumbers, State Board",
-      "domain": "justice",
-      "totalSeats": null,
+      "domain": "housing",
+      "totalSeats": 7,
       "vacantSeats": 1,
       "vacantSince": null,
       "authority": "Governor's Boards & Commissions Office",
-      "constituent": null,
+      "constituent": "Colorado building occupants & licensed plumbers",
       "applyUrl": "https://governorsoffice.colorado.gov/governor/boards-commissions-application",
       "sourceUrl": "https://governorsoffice.colorado.gov/governor/appointments-and-openings",
       "lastVerified": "2026-08-18",
-      "criticalNote": "Opening: July 2026"
+      "criticalNote": "Seven governor-appointed voting members; a public-health department representative serves ex officio, nonvoting",
+      "mandate": "Licenses Colorado's plumbers and adopts the state plumbing code. Seven governor-appointed voting members with Senate consent — plumbers, contractors, an inspector, and a public member (C.R.S. 12-155-104).",
+      "seatSource": "https://law.justia.com/codes/colorado/title-12/business-professions-and-occupations/article-155/section-12-155-104/"
     },
     {
       "id": 7,
@@ -163,16 +165,18 @@
     {
       "id": 11,
       "name": "Counselor Examiners, State Board of Licensed Professionals",
-      "domain": "justice",
-      "totalSeats": null,
+      "domain": "health",
+      "totalSeats": 7,
       "vacantSeats": 1,
       "vacantSince": null,
       "authority": "Governor's Boards & Commissions Office",
-      "constituent": null,
+      "constituent": "Colorado counseling clients & licensed professional counselors",
       "applyUrl": "https://governorsoffice.colorado.gov/governor/boards-commissions-application",
       "sourceUrl": "https://governorsoffice.colorado.gov/governor/appointments-and-openings",
       "lastVerified": "2026-08-18",
-      "criticalNote": "Opening: August"
+      "criticalNote": "Opening: August",
+      "mandate": "Licenses and regulates Colorado's licensed professional counselors. Seven governor-appointed members — four counselors and three public members (C.R.S. 12-245-602).",
+      "seatSource": "https://law.justia.com/codes/colorado/title-12/health-care-professions-and-occupations/article-245/part-6/section-12-245-602/"
     },
     {
       "id": 12,
@@ -205,16 +209,18 @@
     {
       "id": 14,
       "name": "Marriage and Family Therapist Examiners, State Board of",
-      "domain": "justice",
-      "totalSeats": null,
+      "domain": "health",
+      "totalSeats": 7,
       "vacantSeats": 1,
       "vacantSince": null,
       "authority": "Governor's Boards & Commissions Office",
-      "constituent": null,
+      "constituent": "Colorado therapy clients & licensed marriage and family therapists",
       "applyUrl": "https://governorsoffice.colorado.gov/governor/boards-commissions-application",
       "sourceUrl": "https://governorsoffice.colorado.gov/governor/appointments-and-openings",
       "lastVerified": "2026-08-18",
-      "criticalNote": "Opening: August"
+      "criticalNote": "Opening: August",
+      "mandate": "Licenses and regulates Colorado's marriage and family therapists. Seven governor-appointed members — four therapists and three public members (C.R.S. 12-245-502).",
+      "seatSource": "https://law.justia.com/codes/colorado/title-12/health-care-professions-and-occupations/article-245/part-5/section-12-245-502/"
     },
     {
       "id": 15,
@@ -556,15 +562,17 @@
       "id": 39,
       "name": "Civil Rights Commission, Colorado",
       "domain": "equity",
-      "totalSeats": null,
+      "totalSeats": 7,
       "vacantSeats": 1,
       "vacantSince": null,
       "authority": "Governor's Boards & Commissions Office",
-      "constituent": null,
+      "constituent": "Coloradans protected under state anti-discrimination law",
       "applyUrl": "https://governorsoffice.colorado.gov/governor/boards-commissions-application",
       "sourceUrl": "https://governorsoffice.colorado.gov/governor/appointments-and-openings",
       "lastVerified": "2026-08-18",
-      "criticalNote": "Immediate opening — resignation"
+      "criticalNote": "Immediate opening — resignation",
+      "mandate": "Adjudicates discrimination complaints and sets civil-rights policy in Colorado. Seven members appointed by the Governor with Senate consent (C.R.S. 24-34-303).",
+      "seatSource": "https://law.justia.com/codes/colorado/title-24/principal-departments/article-34/part-3/section-24-34-303/"
     },
     {
       "id": 40,
@@ -667,16 +675,18 @@
     {
       "id": 47,
       "name": "Marriage and Family Therapists Board of Examiners",
-      "domain": "justice",
-      "totalSeats": null,
+      "domain": "health",
+      "totalSeats": 7,
       "vacantSeats": 1,
       "vacantSince": null,
       "authority": "Governor's Boards & Commissions Office",
-      "constituent": null,
+      "constituent": "Colorado therapy clients & licensed marriage and family therapists",
       "applyUrl": "https://governorsoffice.colorado.gov/governor/boards-commissions-application",
       "sourceUrl": "https://governorsoffice.colorado.gov/governor/appointments-and-openings",
       "lastVerified": "2026-08-18",
-      "criticalNote": "Immediate opening — resignation"
+      "criticalNote": "Immediate opening — resignation",
+      "mandate": "Licenses and regulates Colorado's marriage and family therapists. Seven governor-appointed members — four therapists and three public members (C.R.S. 12-245-502).",
+      "seatSource": "https://law.justia.com/codes/colorado/title-12/health-care-professions-and-occupations/article-245/part-5/section-12-245-502/"
     },
     {
       "id": 48,
@@ -740,15 +750,17 @@
       "id": 52,
       "name": "State Board of Psychologist Examiners",
       "domain": "health",
-      "totalSeats": null,
+      "totalSeats": 7,
       "vacantSeats": 1,
       "vacantSince": null,
       "authority": "Governor's Boards & Commissions Office",
-      "constituent": null,
+      "constituent": "Coloradans receiving psychological care & licensed psychologists",
       "applyUrl": "https://governorsoffice.colorado.gov/governor/boards-commissions-application",
       "sourceUrl": "https://governorsoffice.colorado.gov/governor/appointments-and-openings",
       "lastVerified": "2026-08-18",
-      "criticalNote": "Immediate opening — resignation"
+      "criticalNote": "Immediate opening — resignation",
+      "mandate": "Licenses and disciplines Colorado's psychologists. Seven governor-appointed members — four licensed psychologists and three public members (C.R.S. 12-245-302).",
+      "seatSource": "https://law.justia.com/codes/colorado/title-12/health-care-professions-and-occupations/article-245/part-3/section-12-245-302/"
     },
     {
       "id": 53,
