@@ -33,7 +33,7 @@ export const REGISTRY = {
     promote: true, // enrichments/OR.mjs: 11 statute-verified boards (Jul 15 2026) — refresh path
   },
   CA: {
-    profile: "ca",
+    profile: "manual", // curated 21-board flagship set — CA vacancy PDF went image-only Aug 2026; Statutory-Index parser pending
     mode: "vacancy",
     endpoint: "https://www.gov.ca.gov/join-the-administration/government-appointments/",
     applyUrl: "https://govca.avature.net/GOVCACareers/Home",
