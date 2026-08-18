@@ -1,3 +1,2 @@
-TX: 263 rows (26 full / 237 provisional) — missing: totalSeats×237, constituent×237
-OH: 102 rows (25 full / 77 provisional) — missing: totalSeats×77, constituent×77
-WA: 129 rows (9 full / 120 provisional) — missing: totalSeats×120, constituent×120
+WA: 129 rows (23 full / 106 provisional) — missing: totalSeats×106, constituent×106
+OR: 40 rows (11 full / 29 provisional) — missing: totalSeats×29
