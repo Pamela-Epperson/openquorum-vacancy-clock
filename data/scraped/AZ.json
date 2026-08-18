@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-08-18T16:59:55.191Z",
+  "scrapedAt": "2026-08-18T17:14:51.479Z",
   "registry": {
     "profile": "az",
     "endpoint": "https://bc.azgovernor.gov/",
@@ -12,11 +12,11 @@
   "summary": {
     "state": "AZ",
     "total": 47,
-    "full": 6,
-    "provisional": 41,
+    "full": 12,
+    "provisional": 35,
     "missingFields": {
-      "totalSeats": 41,
-      "constituent": 41
+      "totalSeats": 35,
+      "constituent": 35
     }
   },
   "rows": [
@@ -269,16 +269,18 @@
     {
       "id": 18,
       "name": "ARIZONA STATE VETERINARY EXAMINING BOARD",
-      "domain": "justice",
-      "totalSeats": null,
+      "domain": "health",
+      "totalSeats": 9,
       "vacantSeats": 1,
       "vacantSince": null,
       "authority": "Governor's Office of Boards & Commissions",
-      "constituent": null,
+      "constituent": "Arizona pet owners, livestock producers & licensed veterinarians",
       "applyUrl": "https://bc.azgovernor.gov/boards-and-commissions-application",
       "sourceUrl": "https://bc.azgovernor.gov/sites/default/files/vacancy-report-7-6-2026.pdf",
       "lastVerified": "2026-08-18",
-      "criticalNote": "Listed in Governor's vacancy report"
+      "criticalNote": "Listed in Governor's vacancy report",
+      "mandate": "Licenses and disciplines Arizona's veterinarians. Nine governor-appointed members — five licensed veterinarians, two public members, one livestock-industry representative, and one certified veterinary technician (A.R.S. § 32-2202).",
+      "seatSource": "https://www.azleg.gov/ars/32/02202.htm"
     },
     {
       "id": 19,
@@ -297,30 +299,34 @@
     {
       "id": 20,
       "name": "BARBERING AND COSMETOLOGY BOARD",
-      "domain": "justice",
-      "totalSeats": null,
+      "domain": "equity",
+      "totalSeats": 9,
       "vacantSeats": 1,
       "vacantSince": null,
       "authority": "Governor's Office of Boards & Commissions",
-      "constituent": null,
+      "constituent": "Arizona salon consumers & licensed barbers, cosmetologists, nail technicians",
       "applyUrl": "https://bc.azgovernor.gov/boards-and-commissions-application",
       "sourceUrl": "https://bc.azgovernor.gov/sites/default/files/vacancy-report-7-6-2026.pdf",
       "lastVerified": "2026-08-18",
-      "criticalNote": "Listed in Governor's vacancy report"
+      "criticalNote": "Listed in Governor's vacancy report",
+      "mandate": "Licenses and regulates Arizona's barbering and cosmetology professions. Nine governor-appointed members — one barber, one cosmetologist, two school owners, and five public members (A.R.S. § 32-502).",
+      "seatSource": "https://www.azleg.gov/ars/32/00502.htm"
     },
     {
       "id": 21,
       "name": "BOARD OF BEHAVIORAL HEALTH EXAMINERS",
       "domain": "health",
-      "totalSeats": null,
+      "totalSeats": 12,
       "vacantSeats": 1,
       "vacantSince": null,
       "authority": "Governor's Office of Boards & Commissions",
-      "constituent": null,
+      "constituent": "Arizona behavioral-health clients & licensed counselors, social workers, therapists",
       "applyUrl": "https://bc.azgovernor.gov/boards-and-commissions-application",
       "sourceUrl": "https://bc.azgovernor.gov/sites/default/files/vacancy-report-7-6-2026.pdf",
       "lastVerified": "2026-08-18",
-      "criticalNote": "Listed in Governor's vacancy report"
+      "criticalNote": "Listed in Governor's vacancy report",
+      "mandate": "Licenses Arizona's counselors, social workers, marriage-and-family therapists, and addiction counselors. Twelve governor-appointed members — eight professional and four public (A.R.S. § 32-3252).",
+      "seatSource": "https://www.azleg.gov/ars/32/03252.htm"
     },
     {
       "id": 22,
@@ -367,16 +373,18 @@
     {
       "id": 25,
       "name": "BOARD OF CHIROPRACTIC EXAMINERS",
-      "domain": "justice",
-      "totalSeats": null,
+      "domain": "health",
+      "totalSeats": 5,
       "vacantSeats": 1,
       "vacantSince": null,
       "authority": "Governor's Office of Boards & Commissions",
-      "constituent": null,
+      "constituent": "Arizona patients & licensed chiropractors",
       "applyUrl": "https://bc.azgovernor.gov/boards-and-commissions-application",
       "sourceUrl": "https://bc.azgovernor.gov/sites/default/files/vacancy-report-7-6-2026.pdf",
       "lastVerified": "2026-08-18",
-      "criticalNote": "Listed in Governor's vacancy report"
+      "criticalNote": "Listed in Governor's vacancy report",
+      "mandate": "Licenses and disciplines Arizona's chiropractors. Five governor-appointed members — three licensed chiropractors and two consumer members (A.R.S. § 32-901).",
+      "seatSource": "https://www.azleg.gov/ars/32/00901.htm"
     },
     {
       "id": 26,
@@ -395,16 +403,18 @@
     {
       "id": 27,
       "name": "BOARD OF OCCUPATIONAL THERAPY EXAMINERS",
-      "domain": "justice",
-      "totalSeats": null,
+      "domain": "health",
+      "totalSeats": 5,
       "vacantSeats": 1,
       "vacantSince": null,
       "authority": "Governor's Office of Boards & Commissions",
-      "constituent": null,
+      "constituent": "Arizona patients & licensed occupational therapists",
       "applyUrl": "https://bc.azgovernor.gov/boards-and-commissions-application",
       "sourceUrl": "https://bc.azgovernor.gov/sites/default/files/vacancy-report-7-6-2026.pdf",
       "lastVerified": "2026-08-18",
-      "criticalNote": "Listed in Governor's vacancy report"
+      "criticalNote": "Listed in Governor's vacancy report",
+      "mandate": "Licenses and regulates Arizona's occupational therapists. Five governor-appointed members — three occupational-therapy professionals and two public members (A.R.S. § 32-3402).",
+      "seatSource": "https://www.azleg.gov/ars/32/03402.htm"
     },
     {
       "id": 28,
@@ -666,15 +676,17 @@
       "id": 46,
       "name": "STATE PERSONNEL BOARD",
       "domain": "justice",
-      "totalSeats": null,
+      "totalSeats": 5,
       "vacantSeats": 1,
       "vacantSince": null,
       "authority": "Governor's Office of Boards & Commissions",
-      "constituent": null,
+      "constituent": "Arizona state-government employees",
       "applyUrl": "https://bc.azgovernor.gov/boards-and-commissions-application",
       "sourceUrl": "https://bc.azgovernor.gov/sites/default/files/vacancy-report-7-6-2026.pdf",
       "lastVerified": "2026-08-18",
-      "criticalNote": "Listed in Governor's vacancy report"
+      "criticalNote": "Listed in Governor's vacancy report",
+      "mandate": "Hears appeals from Arizona state employees in the covered personnel system. Five governor-appointed members, no more than three from one political party (A.R.S. § 41-781).",
+      "seatSource": "https://www.azleg.gov/ars/41/00781.htm"
     },
     {
       "id": 47,
