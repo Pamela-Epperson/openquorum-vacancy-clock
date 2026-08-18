@@ -1,2 +1,1 @@
-OR: 40 rows (22 full / 18 provisional) — missing: totalSeats×18
-SC: 123 rows (4 full / 119 provisional) — missing: totalSeats×119, constituent×119
+SC: 123 rows (16 full / 107 provisional) — missing: totalSeats×107, constituent×107
