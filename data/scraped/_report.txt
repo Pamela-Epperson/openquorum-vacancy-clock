@@ -1,1 +1,24 @@
-NV,OK,AR,KS,NM: not in registry — skipped
+CO: 56 rows (2 full / 54 provisional) — missing: totalSeats×54, constituent×54
+WA: 129 rows (9 full / 120 provisional) — missing: totalSeats×120, constituent×120
+OR: 40 rows (11 full / 29 provisional) — missing: totalSeats×29
+CA: FAILED — CA parser found only 0 rows — PDF layout may have changed
+FL: 291 rows (2 full / 289 provisional) — missing: totalSeats×289, constituent×289
+OH: 102 rows (13 full / 89 provisional) — missing: totalSeats×89, constituent×89
+TX: 263 rows (12 full / 251 provisional) — missing: totalSeats×251, constituent×251
+AZ: 47 rows (6 full / 41 provisional) — missing: totalSeats×41, constituent×41
+MO: 183 rows (5 full / 178 provisional) — missing: totalSeats×178, constituent×178
+CT: 39 rows (3 full / 36 provisional) — missing: totalSeats×36, constituent×36
+WI: manual state — staged data maintained by hand in data/scraped/WI.json
+MS: manual state — staged data maintained by hand in data/scraped/MS.json
+AL: manual state — staged data maintained by hand in data/scraped/AL.json
+LA: manual state — staged data maintained by hand in data/scraped/LA.json
+SC: 123 rows (4 full / 119 provisional) — missing: totalSeats×119, constituent×119
+MI: manual state — staged data maintained by hand in data/scraped/MI.json
+IN: manual state — staged data maintained by hand in data/scraped/IN.json
+TN: manual state — staged data maintained by hand in data/scraped/TN.json
+KY: manual state — staged data maintained by hand in data/scraped/KY.json
+NV: manual state — staged data maintained by hand in data/scraped/NV.json
+OK: manual state — staged data maintained by hand in data/scraped/OK.json
+AR: manual state — staged data maintained by hand in data/scraped/AR.json
+KS: manual state — staged data maintained by hand in data/scraped/KS.json
+NM: manual state — staged data maintained by hand in data/scraped/NM.json
