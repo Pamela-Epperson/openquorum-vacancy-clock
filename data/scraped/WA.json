@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-08-18T16:00:01.761Z",
+  "scrapedAt": "2026-08-18T16:14:09.711Z",
   "registry": {
     "profile": "wa",
     "endpoint": "https://governor.wa.gov/boards-and-commissions/boards-commissions/current-and-upcoming-appointment-opportunities",
@@ -12,11 +12,11 @@
   "summary": {
     "state": "WA",
     "total": 129,
-    "full": 9,
-    "provisional": 120,
+    "full": 23,
+    "provisional": 106,
     "missingFields": {
-      "totalSeats": 120,
-      "constituent": 120
+      "totalSeats": 106,
+      "constituent": 106
     }
   },
   "rows": [
@@ -587,16 +587,18 @@
     {
       "id": 41,
       "name": "Engineers and Land Surveyors, Board of Registration for Professional",
-      "domain": "environment",
-      "totalSeats": null,
+      "domain": "justice",
+      "totalSeats": 7,
       "vacantSeats": 1,
       "vacantSince": null,
       "authority": "Governor's Boards & Commissions Office",
-      "constituent": null,
+      "constituent": "Washingtonians & licensed engineers/surveyors · public safety",
       "applyUrl": "https://governor.wa.gov/boards-and-commissions/boards-commissions/apply-serve",
       "sourceUrl": "https://governor.wa.gov/sites/default/files/2025-01/MonthlyOutreachReport_1.pdf",
       "lastVerified": "2026-08-18",
-      "criticalNote": "Listed in monthly opportunities report"
+      "criticalNote": "Listed in monthly opportunities report",
+      "mandate": "Licenses and regulates Washington's professional engineers and land surveyors. Seven members appointed by the Governor — engineers and land surveyors (RCW 18.43.030).",
+      "seatSource": "https://law.justia.com/codes/washington/title-18/chapter-18-43/"
     },
     {
       "id": 42,
@@ -743,16 +745,18 @@
     {
       "id": 52,
       "name": "Real Estate Commission",
-      "domain": "justice",
-      "totalSeats": null,
+      "domain": "housing",
+      "totalSeats": 7,
       "vacantSeats": 1,
       "vacantSince": null,
       "authority": "Governor's Boards & Commissions Office",
-      "constituent": null,
+      "constituent": "Washington home buyers & licensed real estate brokers",
       "applyUrl": "https://governor.wa.gov/boards-and-commissions/boards-commissions/apply-serve",
       "sourceUrl": "https://governor.wa.gov/sites/default/files/2025-01/MonthlyOutreachReport_1.pdf",
       "lastVerified": "2026-08-18",
-      "criticalNote": "Listed in monthly opportunities report"
+      "criticalNote": "6 of 7 seats are governor-appointed (Director ex officio chair)",
+      "mandate": "Advises on and regulates Washington's real estate brokers and managing brokers. Six members appointed by the Governor to six-year terms, with the Director of Licensing serving ex officio as chair (RCW 18.85.021).",
+      "seatSource": "https://law.justia.com/codes/washington/title-18/chapter-18-85/"
     },
     {
       "id": 53,
@@ -801,30 +805,34 @@
     {
       "id": 56,
       "name": "Chiropractic Quality Assurance Commission",
-      "domain": "justice",
-      "totalSeats": null,
+      "domain": "health",
+      "totalSeats": 14,
       "vacantSeats": 1,
       "vacantSince": null,
       "authority": "Governor's Boards & Commissions Office",
-      "constituent": null,
+      "constituent": "Washington chiropractic patients & licensees",
       "applyUrl": "https://governor.wa.gov/boards-and-commissions/boards-commissions/apply-serve",
       "sourceUrl": "https://governor.wa.gov/sites/default/files/2025-01/MonthlyOutreachReport_1.pdf",
       "lastVerified": "2026-08-18",
-      "criticalNote": "Listed in monthly opportunities report"
+      "criticalNote": "Listed in monthly opportunities report",
+      "mandate": "Licenses and disciplines Washington's chiropractors. Fourteen members appointed by the Governor — eleven practicing chiropractors and three public members (RCW 18.25).",
+      "seatSource": "https://law.justia.com/codes/washington/title-18/chapter-18-25/"
     },
     {
       "id": 57,
       "name": "Dental Quality Assurance Commission",
       "domain": "health",
-      "totalSeats": null,
+      "totalSeats": 21,
       "vacantSeats": 1,
       "vacantSince": null,
       "authority": "Governor's Boards & Commissions Office",
-      "constituent": null,
+      "constituent": "Washington dental patients & licensed dentists",
       "applyUrl": "https://governor.wa.gov/boards-and-commissions/boards-commissions/apply-serve",
       "sourceUrl": "https://governor.wa.gov/sites/default/files/2025-01/MonthlyOutreachReport_1.pdf",
       "lastVerified": "2026-08-18",
-      "criticalNote": "Listed in monthly opportunities report"
+      "criticalNote": "Listed in monthly opportunities report",
+      "mandate": "Licenses and disciplines Washington's dentists, dental therapists, and auxiliaries. Twenty-one members appointed by the Governor — twelve dentists, four dental therapists, two expanded-function auxiliaries, and three public members (RCW 18.32).",
+      "seatSource": "https://law.justia.com/codes/washington/title-18/chapter-18-32/"
     },
     {
       "id": 58,
@@ -974,15 +982,17 @@
       "id": 68,
       "name": "Nursing Home Administrators, Board of",
       "domain": "health",
-      "totalSeats": null,
+      "totalSeats": 11,
       "vacantSeats": 1,
       "vacantSince": null,
       "authority": "Governor's Boards & Commissions Office",
-      "constituent": null,
+      "constituent": "Washington nursing-home residents & licensed administrators",
       "applyUrl": "https://governor.wa.gov/boards-and-commissions/boards-commissions/apply-serve",
       "sourceUrl": "https://governor.wa.gov/sites/default/files/2025-01/MonthlyOutreachReport_1.pdf",
       "lastVerified": "2026-08-18",
-      "criticalNote": "Listed in monthly opportunities report"
+      "criticalNote": "Listed in monthly opportunities report",
+      "mandate": "Licenses and regulates Washington's nursing home administrators. Eleven members appointed by the Governor (RCW 18.52).",
+      "seatSource": "https://law.justia.com/codes/washington/title-18/chapter-18-52/"
     },
     {
       "id": 69,
@@ -1003,72 +1013,82 @@
     {
       "id": 70,
       "name": "Optometry Board",
-      "domain": "justice",
-      "totalSeats": null,
+      "domain": "health",
+      "totalSeats": 6,
       "vacantSeats": 1,
       "vacantSince": null,
       "authority": "Governor's Boards & Commissions Office",
-      "constituent": null,
+      "constituent": "Washington eye-care patients & licensed optometrists",
       "applyUrl": "https://governor.wa.gov/boards-and-commissions/boards-commissions/apply-serve",
       "sourceUrl": "https://governor.wa.gov/sites/default/files/2025-01/MonthlyOutreachReport_1.pdf",
       "lastVerified": "2026-08-18",
-      "criticalNote": "Listed in monthly opportunities report"
+      "criticalNote": "Listed in monthly opportunities report",
+      "mandate": "Licenses and regulates Washington's optometrists. Six members appointed by the Governor — five optometrists and one consumer member (RCW 18.54).",
+      "seatSource": "https://law.justia.com/codes/washington/title-18/chapter-18-54/"
     },
     {
       "id": 71,
       "name": "Osteopathic Medicine and Surgery, Board of",
-      "domain": "justice",
-      "totalSeats": null,
+      "domain": "health",
+      "totalSeats": 11,
       "vacantSeats": 1,
       "vacantSince": null,
       "authority": "Governor's Boards & Commissions Office",
-      "constituent": null,
+      "constituent": "Washington patients & licensed D.O. physicians",
       "applyUrl": "https://governor.wa.gov/boards-and-commissions/boards-commissions/apply-serve",
       "sourceUrl": "https://governor.wa.gov/sites/default/files/2025-01/MonthlyOutreachReport_1.pdf",
       "lastVerified": "2026-08-18",
-      "criticalNote": "Listed in monthly opportunities report"
+      "criticalNote": "Listed in monthly opportunities report",
+      "mandate": "Licenses and disciplines Washington's osteopathic physicians and surgeons. Eleven members appointed by the Governor — nine osteopathic physicians and two public members (RCW 18.57.003).",
+      "seatSource": "https://law.justia.com/codes/washington/title-18/chapter-18-57/"
     },
     {
       "id": 72,
       "name": "Pharmacy Quality Assurance Commission",
       "domain": "health",
-      "totalSeats": null,
+      "totalSeats": 16,
       "vacantSeats": 1,
       "vacantSince": null,
       "authority": "Governor's Boards & Commissions Office",
-      "constituent": null,
+      "constituent": "Washington patients & licensed pharmacists · drug safety",
       "applyUrl": "https://governor.wa.gov/boards-and-commissions/boards-commissions/apply-serve",
       "sourceUrl": "https://governor.wa.gov/sites/default/files/2025-01/MonthlyOutreachReport_1.pdf",
       "lastVerified": "2026-08-18",
-      "criticalNote": "Listed in monthly opportunities report"
+      "criticalNote": "Listed in monthly opportunities report",
+      "mandate": "Licenses pharmacists and regulates pharmacy practice in Washington. Sixteen members appointed by the Governor with Senate consent — nine pharmacists, two technicians, four public, and one pharmacy-owner member (RCW 18.64.001).",
+      "seatSource": "https://law.justia.com/codes/washington/title-18/chapter-18-64/"
     },
     {
       "id": 73,
       "name": "Physical Therapy, Board of",
-      "domain": "justice",
-      "totalSeats": null,
+      "domain": "health",
+      "totalSeats": 7,
       "vacantSeats": 1,
       "vacantSince": null,
       "authority": "Governor's Boards & Commissions Office",
-      "constituent": null,
+      "constituent": "Washington patients & licensed physical therapists",
       "applyUrl": "https://governor.wa.gov/boards-and-commissions/boards-commissions/apply-serve",
       "sourceUrl": "https://governor.wa.gov/sites/default/files/2025-01/MonthlyOutreachReport_1.pdf",
       "lastVerified": "2026-08-18",
-      "criticalNote": "Listed in monthly opportunities report"
+      "criticalNote": "Listed in monthly opportunities report",
+      "mandate": "Licenses and regulates Washington's physical therapists and assistants. Seven members appointed by the Governor — five PTs, one PT assistant, and one public member (RCW 18.74.020).",
+      "seatSource": "https://law.justia.com/codes/washington/title-18/chapter-18-74/"
     },
     {
       "id": 74,
       "name": "Podiatric Medical Board",
       "domain": "health",
-      "totalSeats": null,
+      "totalSeats": 7,
       "vacantSeats": 1,
       "vacantSince": null,
       "authority": "Governor's Boards & Commissions Office",
-      "constituent": null,
+      "constituent": "Washington patients & licensed podiatrists",
       "applyUrl": "https://governor.wa.gov/boards-and-commissions/boards-commissions/apply-serve",
       "sourceUrl": "https://governor.wa.gov/sites/default/files/2025-01/MonthlyOutreachReport_1.pdf",
       "lastVerified": "2026-08-18",
-      "criticalNote": "Listed in monthly opportunities report"
+      "criticalNote": "Listed in monthly opportunities report",
+      "mandate": "Licenses and disciplines Washington's podiatric physicians and surgeons. Seven members appointed by the Governor — five podiatric physicians and two public members (RCW 18.22.013).",
+      "seatSource": "https://law.justia.com/codes/washington/title-18/chapter-18-22/"
     },
     {
       "id": 75,
@@ -1088,15 +1108,17 @@
       "id": 76,
       "name": "Psychology, Examining Board of",
       "domain": "health",
-      "totalSeats": null,
+      "totalSeats": 11,
       "vacantSeats": 1,
       "vacantSince": null,
       "authority": "Governor's Boards & Commissions Office",
-      "constituent": null,
+      "constituent": "Washingtonians seeking psychological care & licensed psychologists",
       "applyUrl": "https://governor.wa.gov/boards-and-commissions/boards-commissions/apply-serve",
       "sourceUrl": "https://governor.wa.gov/sites/default/files/2025-01/MonthlyOutreachReport_1.pdf",
       "lastVerified": "2026-08-18",
-      "criticalNote": "Listed in monthly opportunities report"
+      "criticalNote": "Listed in monthly opportunities report",
+      "mandate": "Licenses and regulates Washington's psychologists. Eleven members appointed by the Governor — nine psychologists and two public members (RCW 18.83.035).",
+      "seatSource": "https://law.justia.com/codes/washington/title-18/chapter-18-83/"
     },
     {
       "id": 77,
@@ -1145,16 +1167,18 @@
     {
       "id": 80,
       "name": "Veterinary Board of Governors",
-      "domain": "justice",
-      "totalSeats": null,
+      "domain": "health",
+      "totalSeats": 9,
       "vacantSeats": 1,
       "vacantSince": null,
       "authority": "Governor's Boards & Commissions Office",
-      "constituent": null,
+      "constituent": "Washington animal owners & licensed veterinarians",
       "applyUrl": "https://governor.wa.gov/boards-and-commissions/boards-commissions/apply-serve",
       "sourceUrl": "https://governor.wa.gov/sites/default/files/2025-01/MonthlyOutreachReport_1.pdf",
       "lastVerified": "2026-08-18",
-      "criticalNote": "Listed in monthly opportunities report"
+      "criticalNote": "Listed in monthly opportunities report",
+      "mandate": "Licenses and disciplines Washington's veterinarians and veterinary technicians. Nine members appointed by the Governor — veterinarians, a veterinary technician, and a public member (RCW 18.92.021).",
+      "seatSource": "https://law.justia.com/codes/washington/title-18/chapter-18-92/"
     },
     {
       "id": 81,
@@ -1512,15 +1536,17 @@
       "id": 106,
       "name": "Parks and Recreation Commission",
       "domain": "environment",
-      "totalSeats": null,
+      "totalSeats": 7,
       "vacantSeats": 1,
       "vacantSince": null,
       "authority": "Governor's Boards & Commissions Office",
-      "constituent": null,
+      "constituent": "Washington state-park visitors & public lands",
       "applyUrl": "https://governor.wa.gov/boards-and-commissions/boards-commissions/apply-serve",
       "sourceUrl": "https://governor.wa.gov/sites/default/files/2025-01/MonthlyOutreachReport_1.pdf",
       "lastVerified": "2026-08-18",
-      "criticalNote": "Listed in monthly opportunities report"
+      "criticalNote": "Listed in monthly opportunities report",
+      "mandate": "Sets policy for Washington's state parks system — budget priorities, strategic plan, and park rules. Seven citizen members appointed by the Governor with Senate consent (RCW 79A.05.015).",
+      "seatSource": "https://law.justia.com/codes/washington/title-79a/chapter-79a-05/"
     },
     {
       "id": 107,
@@ -1652,15 +1678,17 @@
       "id": 116,
       "name": "Architects, Board of Registration for",
       "domain": "justice",
-      "totalSeats": null,
+      "totalSeats": 7,
       "vacantSeats": 1,
       "vacantSince": null,
       "authority": "Governor's Boards & Commissions Office",
-      "constituent": null,
+      "constituent": "Washingtonians & licensed architects · building safety",
       "applyUrl": "https://governor.wa.gov/boards-and-commissions/boards-commissions/apply-serve",
       "sourceUrl": "https://governor.wa.gov/sites/default/files/2025-01/MonthlyOutreachReport_1.pdf",
       "lastVerified": "2026-08-18",
-      "criticalNote": "Listed in monthly opportunities report"
+      "criticalNote": "Listed in monthly opportunities report",
+      "mandate": "Licenses and regulates Washington's architects. Seven members appointed by the Governor — six registered architects and one public member (RCW 18.08.330).",
+      "seatSource": "https://law.justia.com/codes/washington/title-18/chapter-18-08/"
     },
     {
       "id": 117,
