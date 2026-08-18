@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-08-18T16:14:56.117Z",
+  "scrapedAt": "2026-08-18T16:28:49.389Z",
   "registry": {
     "profile": "or",
     "endpoint": "https://oregon.wd5.myworkdayjobs.com/wday/cxs/oregon/Boards/jobs",
@@ -12,10 +12,10 @@
   "summary": {
     "state": "OR",
     "total": 40,
-    "full": 11,
-    "provisional": 29,
+    "full": 22,
+    "provisional": 18,
     "missingFields": {
-      "totalSeats": 29
+      "totalSeats": 18
     }
   },
   "rows": [
@@ -351,18 +351,19 @@
     {
       "id": 21,
       "name": "Appraiser Certification and Licensure Board",
-      "domain": "justice",
-      "totalSeats": null,
+      "domain": "housing",
+      "totalSeats": 8,
       "vacantSeats": 1,
       "vacantSince": null,
       "authority": "Governor's Executive Appointments Office",
-      "constituent": "Oregonians served by the Appraiser Certification and Licensure Board",
-      "mandate": "",
+      "constituent": "Oregon property owners & licensed appraisers",
+      "mandate": "Certifies and licenses Oregon's real estate appraisers. Eight members appointed by the Governor (ORS 674.305).",
       "requires": [],
       "applyUrl": "https://oregon.wd5.myworkdayjobs.com/en-US/Boards/job/Employee-Exempt-From-Mass-Transit-Tax/Appraiser-Certification-and-Licensure-Board---Board-Member_REQ-192851",
       "sourceUrl": "https://oregon.wd5.myworkdayjobs.com/en-US/Boards/job/Employee-Exempt-From-Mass-Transit-Tax/Appraiser-Certification-and-Licensure-Board---Board-Member_REQ-192851",
       "lastVerified": "2026-08-18",
-      "criticalNote": "Open posting on Workday"
+      "criticalNote": "Open posting on Workday",
+      "seatSource": "https://oregon.public.law/statutes/ors_674.305"
     },
     {
       "id": 22,
@@ -383,18 +384,19 @@
     {
       "id": 23,
       "name": "Behavior Analysis Regulatory Board",
-      "domain": "justice",
-      "totalSeats": null,
+      "domain": "health",
+      "totalSeats": 9,
       "vacantSeats": 1,
       "vacantSince": null,
       "authority": "Governor's Executive Appointments Office",
-      "constituent": "Oregonians served by the Behavior Analysis Regulatory Board",
-      "mandate": "",
+      "constituent": "Oregonians receiving behavior analysis & licensed analysts",
+      "mandate": "Licenses and regulates Oregon's applied behavior analysts. Nine members appointed by the Governor with Senate confirmation (ORS 676.806).",
       "requires": [],
       "applyUrl": "https://oregon.wd5.myworkdayjobs.com/en-US/Boards/job/Employee-Exempt-From-Mass-Transit-Tax/Behavior-Analysis-Regulatory-Board---Board-Member_REQ-192853",
       "sourceUrl": "https://oregon.wd5.myworkdayjobs.com/en-US/Boards/job/Employee-Exempt-From-Mass-Transit-Tax/Behavior-Analysis-Regulatory-Board---Board-Member_REQ-192853",
       "lastVerified": "2026-08-18",
-      "criticalNote": "Open posting on Workday"
+      "criticalNote": "Open posting on Workday",
+      "seatSource": "https://oregon.public.law/statutes/ors_676.806"
     },
     {
       "id": 24,
@@ -432,34 +434,36 @@
     {
       "id": 26,
       "name": "Board of Athletic Trainers",
-      "domain": "justice",
-      "totalSeats": null,
+      "domain": "health",
+      "totalSeats": 5,
       "vacantSeats": 1,
       "vacantSince": null,
       "authority": "Governor's Executive Appointments Office",
-      "constituent": "Oregonians served by the Board of Athletic Trainers",
-      "mandate": "",
+      "constituent": "Oregon athletes & licensed athletic trainers",
+      "mandate": "Licenses and regulates Oregon's athletic trainers. Five members appointed by the Governor — three athletic trainers, a physician, and a public member (ORS 688.705).",
       "requires": [],
       "applyUrl": "https://oregon.wd5.myworkdayjobs.com/en-US/Boards/job/Employee-Exempt-From-Mass-Transit-Tax/Board-of-Athletic-Trainers---Board-Member_REQ-192855",
       "sourceUrl": "https://oregon.wd5.myworkdayjobs.com/en-US/Boards/job/Employee-Exempt-From-Mass-Transit-Tax/Board-of-Athletic-Trainers---Board-Member_REQ-192855",
       "lastVerified": "2026-08-18",
-      "criticalNote": "Open posting on Workday"
+      "criticalNote": "Open posting on Workday",
+      "seatSource": "https://oregon.public.law/statutes/ors_688.705"
     },
     {
       "id": 27,
       "name": "Board of Boiler Rules",
       "domain": "justice",
-      "totalSeats": null,
+      "totalSeats": 11,
       "vacantSeats": 1,
       "vacantSince": null,
       "authority": "Governor's Executive Appointments Office",
-      "constituent": "Oregonians served by the Board of Boiler Rules",
-      "mandate": "",
+      "constituent": "Oregonians & boiler/pressure-vessel safety",
+      "mandate": "Sets Oregon's boiler and pressure-vessel safety code. Eleven members appointed by the Governor with Senate confirmation (ORS 480.535).",
       "requires": [],
       "applyUrl": "https://oregon.wd5.myworkdayjobs.com/en-US/Boards/job/Employee-Exempt-From-Mass-Transit-Tax/Board-of-Boiler-Rules---Board-Member_REQ-192856",
       "sourceUrl": "https://oregon.wd5.myworkdayjobs.com/en-US/Boards/job/Employee-Exempt-From-Mass-Transit-Tax/Board-of-Boiler-Rules---Board-Member_REQ-192856",
       "lastVerified": "2026-08-18",
-      "criticalNote": "Open posting on Workday"
+      "criticalNote": "Open posting on Workday",
+      "seatSource": "https://oregon.public.law/statutes/ors_480.535"
     },
     {
       "id": 28,
@@ -497,49 +501,52 @@
       "id": 30,
       "name": "Board of Commissioners of the Port of Portland",
       "domain": "environment",
-      "totalSeats": null,
+      "totalSeats": 9,
       "vacantSeats": 1,
       "vacantSince": null,
       "authority": "Governor's Executive Appointments Office",
-      "constituent": "Oregonians served by the Board of Commissioners of the Port of Portland",
-      "mandate": "",
+      "constituent": "Oregon travelers, shippers & the Portland port district",
+      "mandate": "Governs the Port of Portland — PDX airport, marine terminals, and industrial development. Nine commissioners appointed by the Governor with Senate ratification, four-year terms (ORS 778.215).",
       "requires": [],
       "applyUrl": "https://oregon.wd5.myworkdayjobs.com/en-US/Boards/job/Employee-Exempt-From-Mass-Transit-Tax/Board-of-Commissioners-of-the-Port-of-Portland---Board-Member_REQ-192859",
       "sourceUrl": "https://oregon.wd5.myworkdayjobs.com/en-US/Boards/job/Employee-Exempt-From-Mass-Transit-Tax/Board-of-Commissioners-of-the-Port-of-Portland---Board-Member_REQ-192859",
       "lastVerified": "2026-08-18",
-      "criticalNote": "Open posting on Workday"
+      "criticalNote": "Open posting on Workday",
+      "seatSource": "https://oregon.public.law/statutes/ors_778.215"
     },
     {
       "id": 31,
       "name": "Board of Cosmetology",
       "domain": "justice",
-      "totalSeats": null,
+      "totalSeats": 7,
       "vacantSeats": 1,
       "vacantSince": null,
       "authority": "Governor's Executive Appointments Office",
-      "constituent": "Oregonians served by the Board of Cosmetology",
-      "mandate": "",
+      "constituent": "Oregon salon clients & licensed cosmetologists",
+      "mandate": "Licenses and regulates Oregon's cosmetology practitioners and facilities. Seven members appointed by the Governor (ORS 690.155).",
       "requires": [],
       "applyUrl": "https://oregon.wd5.myworkdayjobs.com/en-US/Boards/job/Employee-Exempt-From-Mass-Transit-Tax/Board-of-Cosmetology---Board-Member_REQ-192860",
       "sourceUrl": "https://oregon.wd5.myworkdayjobs.com/en-US/Boards/job/Employee-Exempt-From-Mass-Transit-Tax/Board-of-Cosmetology---Board-Member_REQ-192860",
       "lastVerified": "2026-08-18",
-      "criticalNote": "Open posting on Workday"
+      "criticalNote": "Open posting on Workday",
+      "seatSource": "https://oregon.public.law/statutes/ors_690.155"
     },
     {
       "id": 32,
       "name": "Board of Directors of the State Accident Insurance Fund Corporation",
-      "domain": "justice",
-      "totalSeats": null,
+      "domain": "equity",
+      "totalSeats": 5,
       "vacantSeats": 1,
       "vacantSince": null,
       "authority": "Governor's Executive Appointments Office",
-      "constituent": "Oregonians served by the Board of Directors of the State Accident Insurance Fund Corporation",
-      "mandate": "",
+      "constituent": "Oregon's injured workers & employers · workers' comp",
+      "mandate": "Governs SAIF, Oregon's not-for-profit workers' compensation insurer. Five directors appointed by the Governor with Senate confirmation — three industry-connected and two public members (ORS 656.751).",
       "requires": [],
       "applyUrl": "https://oregon.wd5.myworkdayjobs.com/en-US/Boards/job/Employee-Exempt-From-Mass-Transit-Tax/Board-of-Directors-of-the-State-Accident-Insurance-Fund-Corporation---Board-Member_REQ-192861",
       "sourceUrl": "https://oregon.wd5.myworkdayjobs.com/en-US/Boards/job/Employee-Exempt-From-Mass-Transit-Tax/Board-of-Directors-of-the-State-Accident-Insurance-Fund-Corporation---Board-Member_REQ-192861",
       "lastVerified": "2026-08-18",
-      "criticalNote": "Open posting on Workday"
+      "criticalNote": "Open posting on Workday",
+      "seatSource": "https://oregon.public.law/statutes/ors_656.751"
     },
     {
       "id": 33,
@@ -560,18 +567,19 @@
     {
       "id": 34,
       "name": "Board of Licensed Dietitians",
-      "domain": "justice",
-      "totalSeats": null,
+      "domain": "health",
+      "totalSeats": 7,
       "vacantSeats": 1,
       "vacantSince": null,
       "authority": "Governor's Executive Appointments Office",
-      "constituent": "Oregonians served by the Board of Licensed Dietitians",
-      "mandate": "",
+      "constituent": "Oregon patients & licensed dietitians",
+      "mandate": "Licenses and regulates Oregon's dietitians. Seven members appointed by the Governor — four dietitians, a physician, and two public members (ORS 691.485).",
       "requires": [],
       "applyUrl": "https://oregon.wd5.myworkdayjobs.com/en-US/Boards/job/Employee-Exempt-From-Mass-Transit-Tax/Board-of-Licensed-Dietitians---Board-Member_REQ-192863",
       "sourceUrl": "https://oregon.wd5.myworkdayjobs.com/en-US/Boards/job/Employee-Exempt-From-Mass-Transit-Tax/Board-of-Licensed-Dietitians---Board-Member_REQ-192863",
       "lastVerified": "2026-08-18",
-      "criticalNote": "Open posting on Workday"
+      "criticalNote": "Open posting on Workday",
+      "seatSource": "https://oregon.public.law/statutes/ors_691.485"
     },
     {
       "id": 35,
@@ -610,33 +618,35 @@
       "id": 37,
       "name": "Board of Trustees of Oregon State University",
       "domain": "education",
-      "totalSeats": null,
+      "totalSeats": 15,
       "vacantSeats": 1,
       "vacantSince": null,
       "authority": "Governor's Executive Appointments Office",
-      "constituent": "Oregonians served by the Board of Trustees of Oregon State University",
-      "mandate": "",
+      "constituent": "Oregon State University students & Oregon higher education",
+      "mandate": "Governs Oregon State University — budget, tuition, and university policy. Up to fifteen members appointed by the Governor with Senate confirmation; the university president serves ex officio (ORS 352.054).",
       "requires": [],
       "applyUrl": "https://oregon.wd5.myworkdayjobs.com/en-US/Boards/job/Employee-Exempt-From-Mass-Transit-Tax/Board-of-Trustees-of-Oregon-State-University---Board-Member_REQ-192866",
       "sourceUrl": "https://oregon.wd5.myworkdayjobs.com/en-US/Boards/job/Employee-Exempt-From-Mass-Transit-Tax/Board-of-Trustees-of-Oregon-State-University---Board-Member_REQ-192866",
       "lastVerified": "2026-08-18",
-      "criticalNote": "Open posting on Workday"
+      "criticalNote": "Governor-appointed; university president serves ex officio (nonvoting)",
+      "seatSource": "https://oregon.public.law/statutes/ors_352.054"
     },
     {
       "id": 38,
       "name": "Board of Trustees of Portland State University",
       "domain": "education",
-      "totalSeats": null,
+      "totalSeats": 15,
       "vacantSeats": 1,
       "vacantSince": null,
       "authority": "Governor's Executive Appointments Office",
-      "constituent": "Oregonians served by the Board of Trustees of Portland State University",
-      "mandate": "",
+      "constituent": "Portland State University students & Oregon higher education",
+      "mandate": "Governs Portland State University — budget, tuition, and university policy. Up to fifteen members appointed by the Governor with Senate confirmation; the university president serves ex officio (ORS 352.054).",
       "requires": [],
       "applyUrl": "https://oregon.wd5.myworkdayjobs.com/en-US/Boards/job/Employee-Exempt-From-Mass-Transit-Tax/Board-of-Trustees-of-Portland-State-University---Board-Member_REQ-192867",
       "sourceUrl": "https://oregon.wd5.myworkdayjobs.com/en-US/Boards/job/Employee-Exempt-From-Mass-Transit-Tax/Board-of-Trustees-of-Portland-State-University---Board-Member_REQ-192867",
       "lastVerified": "2026-08-18",
-      "criticalNote": "Open posting on Workday"
+      "criticalNote": "Governor-appointed; university president serves ex officio (nonvoting)",
+      "seatSource": "https://oregon.public.law/statutes/ors_352.054"
     },
     {
       "id": 39,
@@ -658,17 +668,18 @@
       "id": 40,
       "name": "Board of Trustees of University Of Oregon",
       "domain": "education",
-      "totalSeats": null,
+      "totalSeats": 15,
       "vacantSeats": 1,
       "vacantSince": null,
       "authority": "Governor's Executive Appointments Office",
-      "constituent": "Oregonians served by the Board of Trustees of University Of Oregon",
-      "mandate": "",
+      "constituent": "University of Oregon students & Oregon higher education",
+      "mandate": "Governs the University of Oregon — budget, tuition, and university policy. Up to fifteen members appointed by the Governor with Senate confirmation; the university president serves ex officio (ORS 352.054).",
       "requires": [],
       "applyUrl": "https://oregon.wd5.myworkdayjobs.com/en-US/Boards/job/Employee-Exempt-From-Mass-Transit-Tax/Board-of-Trustees-of-University-Of-Oregon---Board-Member_REQ-192870",
       "sourceUrl": "https://oregon.wd5.myworkdayjobs.com/en-US/Boards/job/Employee-Exempt-From-Mass-Transit-Tax/Board-of-Trustees-of-University-Of-Oregon---Board-Member_REQ-192870",
       "lastVerified": "2026-08-18",
-      "criticalNote": "Open posting on Workday"
+      "criticalNote": "Governor-appointed; university president serves ex officio (nonvoting)",
+      "seatSource": "https://oregon.public.law/statutes/ors_352.054"
     }
   ]
 }
