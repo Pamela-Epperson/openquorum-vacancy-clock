@@ -1,3 +1,1 @@
-CO: 56 rows (8 full / 48 provisional) — missing: totalSeats×48, constituent×48
-AZ: 47 rows (12 full / 35 provisional) — missing: totalSeats×35, constituent×35
-CT: 39 rows (6 full / 33 provisional) — missing: totalSeats×33, constituent×33
+CA: 253 rows (21 full / 232 provisional) — missing: totalSeats×232, constituent×232
