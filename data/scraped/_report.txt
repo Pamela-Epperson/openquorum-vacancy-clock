@@ -1,1 +1,10 @@
-CA: 253 rows (21 full / 232 provisional) — missing: totalSeats×232, constituent×232
+WV: manual state — staged data maintained by hand in data/scraped/WV.json
+NE: manual state — staged data maintained by hand in data/scraped/NE.json
+ID: manual state — staged data maintained by hand in data/scraped/ID.json
+MT: manual state — staged data maintained by hand in data/scraped/MT.json
+RI: manual state — staged data maintained by hand in data/scraped/RI.json
+ME: manual state — staged data maintained by hand in data/scraped/ME.json
+NH: manual state — staged data maintained by hand in data/scraped/NH.json
+ND: manual state — staged data maintained by hand in data/scraped/ND.json
+UT: manual state — staged data maintained by hand in data/scraped/UT.json
+IA: manual state — staged data maintained by hand in data/scraped/IA.json
