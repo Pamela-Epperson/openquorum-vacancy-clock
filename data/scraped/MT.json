@@ -1,0 +1,15 @@
+{ "scrapedAt": "2026-08-19T00:00:00.000Z",
+  "registry": { "profile": "manual", "dataSource": "Montana Code Annotated / Governor's appointments (no central vacancy list)" },
+  "summary": { "state": "MT", "total": 2, "full": 2, "provisional": 0, "missingFields": {} },
+  "rows": [
+    { "id": 1, "name": "Montana Board of Realty Regulation", "domain": "housing", "totalSeats": 7, "vacantSeats": 0, "vacantSince": null,
+      "authority": "Governor's Office", "constituent": "Montana home buyers & licensed brokers",
+      "applyUrl": "https://governor.mt.gov/", "sourceUrl": "https://law.justia.com/codes/montana/title-2/chapter-15/part-17/section-2-15-1757/", "lastVerified": "2026-08-19",
+      "mandate": "Licenses and regulates Montana's real estate brokers, salespersons, and property managers. Seven members appointed by the Governor with Senate consent — five licensees and two public members (MCA 2-15-1757).",
+      "seatSource": "https://law.justia.com/codes/montana/title-2/chapter-15/part-17/section-2-15-1757/", "criticalNote": "Curated from the Montana Code; MT publishes no central board-vacancy list (inventory mode)" },
+    { "id": 2, "name": "Montana Fish and Wildlife Commission", "domain": "environment", "totalSeats": 7, "vacantSeats": 0, "vacantSince": null,
+      "authority": "Governor's Office", "constituent": "Montana hunters, anglers & wildlife",
+      "applyUrl": "https://governor.mt.gov/", "sourceUrl": "https://law.justia.com/codes/montana/title-2/chapter-15/part-34/section-2-15-3402/", "lastVerified": "2026-08-19",
+      "mandate": "Sets policy for Montana's wildlife, fisheries, and state parks. Seven commissioners appointed by the Governor with Senate confirmation, one per department region (MCA 2-15-3402).",
+      "seatSource": "https://law.justia.com/codes/montana/title-2/chapter-15/part-34/section-2-15-3402/", "criticalNote": "Curated from the Montana Code; MT publishes no central board-vacancy list (inventory mode)" }
+  ] }
