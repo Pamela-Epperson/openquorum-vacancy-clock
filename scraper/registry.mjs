@@ -260,4 +260,94 @@ export const REGISTRY = {
   //     · Governor's Boards & Commissions Office
   //     · Governor's Appointments Office
   // CT: TODO verify — no central vacancy list; applications route via CT DAS recruitment portal
+  WV: {
+    profile: "manual", endpoint: null,
+    applyUrl: "https://governor.wv.gov/",
+    applyAuthority: "Governor's Boards & Commissions",
+    dataSource: "West Virginia Code / Governor's Boards & Commissions",
+    totalBoardsNote: "Hand-verified statute-cited seed · no central vacancy list",
+    contextNote: "West Virginia boards shown are hand-verified, statute-cited governor-appointed appointment opportunities — apply any time through the Governor's Office.",
+    promote: true, // data/scraped/WV.json manual seed (Aug 19 2026) — INVENTORY MODE
+  },
+  NE: {
+    profile: "manual", endpoint: null,
+    applyUrl: "https://governor.nebraska.gov/",
+    applyAuthority: "Governor's Office",
+    dataSource: "Nebraska Revised Statutes / Governor's appointments",
+    totalBoardsNote: "Hand-verified statute-cited seed · no central vacancy list",
+    contextNote: "Nebraska boards shown are hand-verified, statute-cited governor-appointed appointment opportunities — apply any time through the Governor's Office.",
+    promote: true, // data/scraped/NE.json manual seed (Aug 19 2026) — INVENTORY MODE
+  },
+  ID: {
+    profile: "manual", endpoint: null,
+    applyUrl: "https://gov.idaho.gov/boards-and-commissions/",
+    applyAuthority: "Governor's Office",
+    dataSource: "Idaho Code / Governor's appointments",
+    totalBoardsNote: "Hand-verified statute-cited seed · no central vacancy list",
+    contextNote: "Idaho boards shown are hand-verified, statute-cited governor-appointed appointment opportunities — apply any time through the Governor's Office.",
+    promote: true, // data/scraped/ID.json manual seed (Aug 19 2026) — INVENTORY MODE
+  },
+  MT: {
+    profile: "manual", endpoint: null,
+    applyUrl: "https://governor.mt.gov/",
+    applyAuthority: "Governor's Office",
+    dataSource: "Montana Code Annotated / Governor's appointments",
+    totalBoardsNote: "Hand-verified statute-cited seed · no central vacancy list",
+    contextNote: "Montana boards shown are hand-verified, statute-cited governor-appointed appointment opportunities — apply any time through the Governor's Office.",
+    promote: true, // data/scraped/MT.json manual seed (Aug 19 2026) — INVENTORY MODE
+  },
+  RI: {
+    profile: "manual", endpoint: null,
+    applyUrl: "https://governor.ri.gov/",
+    applyAuthority: "Governor's Office",
+    dataSource: "Rhode Island General Laws / Governor's appointments",
+    totalBoardsNote: "Hand-verified statute-cited seed · no central vacancy list",
+    contextNote: "Rhode Island boards shown are hand-verified, statute-cited governor-appointed appointment opportunities — apply any time through the Governor's Office.",
+    promote: true, // data/scraped/RI.json manual seed (Aug 19 2026) — INVENTORY MODE
+  },
+  ME: {
+    profile: "manual", endpoint: null,
+    applyUrl: "https://www.maine.gov/governor/",
+    applyAuthority: "Governor's Office",
+    dataSource: "Maine Revised Statutes / Governor's appointments",
+    totalBoardsNote: "Hand-verified statute-cited seed · no central vacancy list",
+    contextNote: "Maine boards shown are hand-verified, statute-cited governor-appointed appointment opportunities — apply any time through the Governor's Office.",
+    promote: true, // data/scraped/ME.json manual seed (Aug 19 2026) — INVENTORY MODE
+  },
+  NH: {
+    profile: "manual", endpoint: null,
+    applyUrl: "https://www.governor.nh.gov/",
+    applyAuthority: "Governor & Executive Council",
+    dataSource: "New Hampshire Revised Statutes / Governor & Executive Council",
+    totalBoardsNote: "Hand-verified statute-cited seed · no central vacancy list",
+    contextNote: "New Hampshire boards shown are hand-verified, statute-cited governor-appointed appointment opportunities — apply any time through the Governor & Executive Council.",
+    promote: true, // data/scraped/NH.json manual seed (Aug 19 2026) — INVENTORY MODE
+  },
+  ND: {
+    profile: "manual", endpoint: null,
+    applyUrl: "https://www.governor.nd.gov/",
+    applyAuthority: "Governor's Office",
+    dataSource: "North Dakota Century Code / Governor's appointments",
+    totalBoardsNote: "Hand-verified statute-cited seed · no central vacancy list",
+    contextNote: "North Dakota boards shown are hand-verified, statute-cited governor-appointed appointment opportunities — apply any time through the Governor's Office.",
+    promote: true, // data/scraped/ND.json manual seed (Aug 19 2026) — INVENTORY MODE
+  },
+  UT: {
+    profile: "manual", endpoint: null,
+    applyUrl: "https://governor.utah.gov/",
+    applyAuthority: "Governor's Office",
+    dataSource: "Utah Code / Governor's Boards & Commissions",
+    totalBoardsNote: "Hand-verified statute-cited seed · no central vacancy list",
+    contextNote: "Utah boards shown are hand-verified, statute-cited governor-appointed appointment opportunities — apply any time through the Governor's Office.",
+    promote: true, // data/scraped/UT.json manual seed (Aug 19 2026) — INVENTORY MODE
+  },
+  IA: {
+    profile: "manual", endpoint: null,
+    applyUrl: "https://governor.iowa.gov/",
+    applyAuthority: "Governor's Office",
+    dataSource: "Iowa Code / Governor's appointments",
+    totalBoardsNote: "Hand-verified statute-cited seed · no central vacancy list",
+    contextNote: "Iowa boards shown are hand-verified, statute-cited governor-appointed appointment opportunities — apply any time through the Governor's Office.",
+    promote: true, // data/scraped/IA.json manual seed (Aug 19 2026) — INVENTORY MODE
+  },
 };
