@@ -1,0 +1,15 @@
+{ "scrapedAt": "2026-08-19T00:00:00.000Z",
+  "registry": { "profile": "manual", "dataSource": "North Dakota Century Code / Governor's appointments (no central vacancy list)" },
+  "summary": { "state": "ND", "total": 2, "full": 2, "provisional": 0, "missingFields": {} },
+  "rows": [
+    { "id": 1, "name": "North Dakota State Board of Medical Examiners", "domain": "health", "totalSeats": 13, "vacantSeats": 0, "vacantSince": null,
+      "authority": "Governor's Office", "constituent": "North Dakota patients & licensed physicians",
+      "applyUrl": "https://www.governor.nd.gov/", "sourceUrl": "https://ndlegis.gov/cencode/t43c17.pdf", "lastVerified": "2026-08-19",
+      "mandate": "Licenses and disciplines North Dakota's physicians and physician assistants. Thirteen members appointed by the Governor — nine MDs, one DO, one physician assistant, and two public members (N.D.C.C. 43-17).",
+      "seatSource": "https://ndlegis.gov/cencode/t43c17.pdf", "criticalNote": "Curated from the North Dakota Century Code; ND publishes no central board-vacancy list (inventory mode)" },
+    { "id": 2, "name": "North Dakota State Real Estate Commission", "domain": "housing", "totalSeats": 5, "vacantSeats": 0, "vacantSince": null,
+      "authority": "Governor's Office", "constituent": "North Dakota home buyers & licensed brokers",
+      "applyUrl": "https://www.governor.nd.gov/", "sourceUrl": "https://ndlegis.gov/cencode/t43c23.pdf", "lastVerified": "2026-08-19",
+      "mandate": "Licenses and regulates North Dakota's real estate brokers and salespersons. Five members appointed by the Governor, three of whom must be active real estate brokers (N.D.C.C. 43-23-01).",
+      "seatSource": "https://ndlegis.gov/cencode/t43c23.pdf", "criticalNote": "Curated from the North Dakota Century Code; ND publishes no central board-vacancy list (inventory mode)" }
+  ] }
