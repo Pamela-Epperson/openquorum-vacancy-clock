@@ -1,0 +1,15 @@
+{ "scrapedAt": "2026-08-19T00:00:00.000Z",
+  "registry": { "profile": "manual", "dataSource": "Maine Revised Statutes / Governor's appointments (no central vacancy list)" },
+  "summary": { "state": "ME", "total": 2, "full": 2, "provisional": 0, "missingFields": {} },
+  "rows": [
+    { "id": 1, "name": "Maine Board of Licensure in Medicine", "domain": "health", "totalSeats": 11, "vacantSeats": 0, "vacantSince": null,
+      "authority": "Governor's Office", "constituent": "Maine patients & licensed physicians",
+      "applyUrl": "https://www.maine.gov/governor/", "sourceUrl": "https://legislature.maine.gov/statutes/32/title32sec3263.html", "lastVerified": "2026-08-19",
+      "mandate": "Licenses and disciplines Maine's physicians and physician assistants. Eleven members appointed by the Governor — six physicians, two physician assistants, and three public members (32 M.R.S. 3263).",
+      "seatSource": "https://legislature.maine.gov/statutes/32/title32sec3263.html", "criticalNote": "Curated from the Maine Revised Statutes; ME publishes no central board-vacancy list (inventory mode)" },
+    { "id": 2, "name": "Maine Real Estate Commission", "domain": "housing", "totalSeats": 6, "vacantSeats": 0, "vacantSince": null,
+      "authority": "Governor's Office", "constituent": "Maine home buyers & licensed brokers",
+      "applyUrl": "https://www.maine.gov/governor/", "sourceUrl": "https://www.mainelegislature.org/legis/statutes/32/title32sec13062.html", "lastVerified": "2026-08-19",
+      "mandate": "Licenses and regulates Maine's real estate brokers and salespersons. Six members appointed by the Governor — four industry members and two public members (32 M.R.S. 13062).",
+      "seatSource": "https://www.mainelegislature.org/legis/statutes/32/title32sec13062.html", "criticalNote": "Curated from the Maine Revised Statutes; ME publishes no central board-vacancy list (inventory mode)" }
+  ] }

@@ -1,0 +1,22 @@
+{
+  "scrapedAt": "2026-08-19T00:00:00.000Z",
+  "registry": { "profile": "manual", "dataSource": "Nebraska Revised Statutes / Governor's appointments (no central vacancy list)" },
+  "summary": { "state": "NE", "total": 3, "full": 3, "provisional": 0, "missingFields": {} },
+  "rows": [
+    { "id": 1, "name": "Nebraska Real Estate Commission", "domain": "housing", "totalSeats": 6, "vacantSeats": 0, "vacantSince": null,
+      "authority": "Governor's Office", "constituent": "Nebraska home buyers & licensed brokers",
+      "applyUrl": "https://governor.nebraska.gov/", "sourceUrl": "https://nebraskalegislature.gov/laws/statutes.php?statute=81-885.02", "lastVerified": "2026-08-19",
+      "mandate": "Licenses and regulates Nebraska's real estate brokers and salespersons. Six members appointed by the Governor — three district brokers plus a public member, a salesperson, and an at-large broker (Neb. Rev. Stat. 81-885.02).",
+      "seatSource": "https://nebraskalegislature.gov/laws/statutes.php?statute=81-885.02", "criticalNote": "Curated from the Nebraska Statutes; NE publishes no central board-vacancy list (inventory mode)" },
+    { "id": 2, "name": "Nebraska Game and Parks Commission", "domain": "environment", "totalSeats": 9, "vacantSeats": 0, "vacantSince": null,
+      "authority": "Governor's Office", "constituent": "Nebraska hunters, anglers & state parks",
+      "applyUrl": "https://governor.nebraska.gov/", "sourceUrl": "https://nebraskalegislature.gov/laws/statutes.php?statute=37-101", "lastVerified": "2026-08-19",
+      "mandate": "Sets policy for Nebraska's wildlife, fisheries, and state parks. Nine commissioners appointed by the Governor with legislative consent — one from each of eight districts plus one at large (Neb. Rev. Stat. 37-101).",
+      "seatSource": "https://nebraskalegislature.gov/laws/statutes.php?statute=37-101", "criticalNote": "Curated from the Nebraska Statutes; NE publishes no central board-vacancy list (inventory mode)" },
+    { "id": 3, "name": "Nebraska Power Review Board", "domain": "environment", "totalSeats": 5, "vacantSeats": 0, "vacantSince": null,
+      "authority": "Governor's Office", "constituent": "Nebraska public-power ratepayers & utilities",
+      "applyUrl": "https://governor.nebraska.gov/", "sourceUrl": "https://nebraskalegislature.gov/laws/statutes.php?statute=70-1003", "lastVerified": "2026-08-19",
+      "mandate": "Regulates the structure of Nebraska's public-power system and approves major electric projects. Five members appointed by the Governor — at least one engineer and one attorney (Neb. Rev. Stat. 70-1003).",
+      "seatSource": "https://nebraskalegislature.gov/laws/statutes.php?statute=70-1003", "criticalNote": "Curated from the Nebraska Statutes; NE publishes no central board-vacancy list (inventory mode)" }
+  ]
+}

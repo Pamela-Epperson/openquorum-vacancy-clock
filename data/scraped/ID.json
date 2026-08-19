@@ -1,0 +1,22 @@
+{
+  "scrapedAt": "2026-08-19T00:00:00.000Z",
+  "registry": { "profile": "manual", "dataSource": "Idaho Code / Governor's appointments (no central vacancy list)" },
+  "summary": { "state": "ID", "total": 3, "full": 3, "provisional": 0, "missingFields": {} },
+  "rows": [
+    { "id": 1, "name": "Idaho State Board of Pharmacy", "domain": "health", "totalSeats": 7, "vacantSeats": 0, "vacantSince": null,
+      "authority": "Governor's Office", "constituent": "Idaho patients & licensed pharmacists · drug safety",
+      "applyUrl": "https://gov.idaho.gov/boards-and-commissions/", "sourceUrl": "https://law.justia.com/codes/idaho/title-54/chapter-17/section-54-1706/", "lastVerified": "2026-08-19",
+      "mandate": "Licenses pharmacists and regulates pharmacy practice in Idaho. Seven members appointed by the Governor — five licensed pharmacists, one certified pharmacy technician, and one public member (Idaho Code 54-1706).",
+      "seatSource": "https://law.justia.com/codes/idaho/title-54/chapter-17/section-54-1706/", "criticalNote": "Curated from the Idaho Code; ID publishes no central board-vacancy list (inventory mode)" },
+    { "id": 2, "name": "Idaho Real Estate Commission", "domain": "housing", "totalSeats": 4, "vacantSeats": 0, "vacantSince": null,
+      "authority": "Governor's Office", "constituent": "Idaho home buyers & licensed brokers",
+      "applyUrl": "https://gov.idaho.gov/boards-and-commissions/", "sourceUrl": "https://law.justia.com/codes/idaho/title-54/chapter-20/", "lastVerified": "2026-08-19",
+      "mandate": "Licenses and regulates Idaho's real estate brokers and salespersons. Four members appointed by the Governor, one from each of the state's four districts, each an actively licensed broker (Idaho Code 54-2005).",
+      "seatSource": "https://law.justia.com/codes/idaho/title-54/chapter-20/", "criticalNote": "Curated from the Idaho Code; ID publishes no central board-vacancy list (inventory mode)" },
+    { "id": 3, "name": "Idaho Fish and Game Commission", "domain": "environment", "totalSeats": 7, "vacantSeats": 0, "vacantSince": null,
+      "authority": "Governor's Office", "constituent": "Idaho hunters, anglers & wildlife",
+      "applyUrl": "https://gov.idaho.gov/boards-and-commissions/", "sourceUrl": "https://legislature.idaho.gov/statutesrules/idstat/title36/t36ch1/sect36-102/", "lastVerified": "2026-08-19",
+      "mandate": "Sets policy for Idaho's wildlife and the Department of Fish and Game. Seven commissioners appointed by the Governor with Senate confirmation, one per region, no more than four from one party (Idaho Code 36-102).",
+      "seatSource": "https://legislature.idaho.gov/statutesrules/idstat/title36/t36ch1/sect36-102/", "criticalNote": "Curated from the Idaho Code; ID publishes no central board-vacancy list (inventory mode)" }
+  ]
+}

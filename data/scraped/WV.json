@@ -1,0 +1,32 @@
+{
+  "scrapedAt": "2026-08-19T00:00:00.000Z",
+  "registry": { "profile": "manual", "dataSource": "West Virginia Code / Governor's Boards & Commissions (no central vacancy list)" },
+  "summary": { "state": "WV", "total": 5, "full": 5, "provisional": 0, "missingFields": {} },
+  "rows": [
+    { "id": 1, "name": "West Virginia Board of Medicine", "domain": "health", "totalSeats": 15, "vacantSeats": 0, "vacantSince": null,
+      "authority": "Governor's Office — Boards & Commissions", "constituent": "West Virginia patients & licensed physicians",
+      "applyUrl": "https://governor.wv.gov/", "sourceUrl": "https://code.wvlegislature.gov/30-3-5/", "lastVerified": "2026-08-19",
+      "mandate": "Licenses and disciplines West Virginia's physicians and podiatrists. Fifteen members — fourteen appointed by the Governor with Senate consent plus the State Health Officer ex officio (W. Va. Code 30-3-5).",
+      "seatSource": "https://code.wvlegislature.gov/30-3-5/", "criticalNote": "14 of 15 seats are governor-appointed (State Health Officer serves ex officio)" },
+    { "id": 2, "name": "West Virginia Board of Examiners for Registered Professional Nurses", "domain": "health", "totalSeats": 7, "vacantSeats": 0, "vacantSince": null,
+      "authority": "Governor's Office — Boards & Commissions", "constituent": "West Virginia patients & registered nurses",
+      "applyUrl": "https://governor.wv.gov/", "sourceUrl": "https://code.wvlegislature.gov/30-7-3/", "lastVerified": "2026-08-19",
+      "mandate": "Licenses and regulates West Virginia's registered professional nurses. Seven members appointed by the Governor with Senate consent — an APRN, a dialysis technician, four registered nurses, and one citizen member (W. Va. Code 30-7-3).",
+      "seatSource": "https://code.wvlegislature.gov/30-7-3/", "criticalNote": "Curated from the West Virginia Code; WV publishes no central board-vacancy list (inventory mode)" },
+    { "id": 3, "name": "West Virginia Board of Pharmacy", "domain": "health", "totalSeats": 7, "vacantSeats": 0, "vacantSince": null,
+      "authority": "Governor's Office — Boards & Commissions", "constituent": "West Virginia patients & licensed pharmacists · drug safety",
+      "applyUrl": "https://governor.wv.gov/", "sourceUrl": "https://code.wvlegislature.gov/30-5-5/", "lastVerified": "2026-08-19",
+      "mandate": "Licenses pharmacists and regulates pharmacy practice in West Virginia. Seven members appointed by the Governor with Senate consent — five licensed pharmacists and two citizen members (W. Va. Code 30-5-5).",
+      "seatSource": "https://code.wvlegislature.gov/30-5-5/", "criticalNote": "Curated from the West Virginia Code; WV publishes no central board-vacancy list (inventory mode)" },
+    { "id": 4, "name": "West Virginia Real Estate Commission", "domain": "housing", "totalSeats": 5, "vacantSeats": 0, "vacantSince": null,
+      "authority": "Governor's Office — Boards & Commissions", "constituent": "West Virginia home buyers & licensed brokers",
+      "applyUrl": "https://governor.wv.gov/", "sourceUrl": "https://code.wvlegislature.gov/30-40-6/", "lastVerified": "2026-08-19",
+      "mandate": "Licenses and regulates West Virginia's real estate brokers and salespersons. Five members appointed by the Governor with Senate consent — four licensees and one citizen member (W. Va. Code 30-40-6).",
+      "seatSource": "https://code.wvlegislature.gov/30-40-6/", "criticalNote": "Curated from the West Virginia Code; WV publishes no central board-vacancy list (inventory mode)" },
+    { "id": 5, "name": "West Virginia Natural Resources Commission", "domain": "environment", "totalSeats": 7, "vacantSeats": 0, "vacantSince": null,
+      "authority": "Governor's Office — Boards & Commissions", "constituent": "West Virginia hunters, anglers & wildlife",
+      "applyUrl": "https://governor.wv.gov/", "sourceUrl": "https://code.wvlegislature.gov/20-1-16/", "lastVerified": "2026-08-19",
+      "mandate": "Sets policy for West Virginia's wildlife, parks, and natural resources. Seven commissioners appointed by the Governor with Senate consent, one per DNR district and the rest at large (W. Va. Code 20-1-16).",
+      "seatSource": "https://code.wvlegislature.gov/20-1-16/", "criticalNote": "Curated from the West Virginia Code; WV publishes no central board-vacancy list (inventory mode)" }
+  ]
+}
