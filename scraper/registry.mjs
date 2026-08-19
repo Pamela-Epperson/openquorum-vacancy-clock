@@ -33,15 +33,16 @@ export const REGISTRY = {
     promote: true, // enrichments/OR.mjs: 11 statute-verified boards (Jul 15 2026) — refresh path
   },
   CA: {
-    profile: "manual", // curated 21-board flagship set — CA vacancy PDF went image-only Aug 2026; Statutory-Index parser pending
-    mode: "vacancy",
+    profile: "ca",
+    mode: "inventory",
     endpoint: "https://www.gov.ca.gov/join-the-administration/government-appointments/",
     applyUrl: "https://govca.avature.net/GOVCACareers/Home",
     applyAuthority: "Governor's Appointments Office",
-    dataSource: "gov.ca.gov/join-the-administration/government-appointments",
-    totalBoardsNote: "Current Board Vacancies report (PDF) ≈150 boards, Governor's Appointments Unit",
-    minRows: 40, // yield-floor guard: report reliably lists 100+ (parser rewritten Jul 25 2026)
-    promote: true, // enrichments/CA.mjs statute-verified boards (Jul 25 2026)
+    dataSource: "gov.ca.gov Statutory Index of Positions (PDF) — comprehensive appointive-board roster",
+    totalBoardsNote: "Statutory Index of Positions (PDF) ~250 appointive boards, Governor's Appointments Unit",
+    contextNote: "California's Vacancy Report went image-only (Aug 2026); boards shown are the full appointive-board roster from the Governor's Statutory Index of Positions — apply any time through the Governor's Appointments Office.",
+    minRows: 120, // yield-floor guard: the Statutory Index reliably lists 200+ boards
+    promote: true, // profiles/ca.mjs Statutory-Index parser + enrichments/CA.mjs 21 statute-verified boards (Aug 2026)
   },
   FL: {
     profile: "fl",
