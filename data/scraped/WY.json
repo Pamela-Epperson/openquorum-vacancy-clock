@@ -1,0 +1,70 @@
+{
+  "scrapedAt": "2026-08-20T00:00:00.000Z",
+  "registry": {
+    "profile": "manual",
+    "dataSource": "Wyoming Statutes / Governor's appointments (no central vacancy list)"
+  },
+  "summary": {
+    "state": "WY",
+    "total": 3,
+    "full": 3,
+    "provisional": 0,
+    "missingFields": {}
+  },
+  "rows": [
+    {
+      "id": 1,
+      "name": "Wyoming Board of Medicine",
+      "domain": "health",
+      "totalSeats": 8,
+      "vacantSeats": 0,
+      "vacantSince": null,
+      "authority": "Governor's Office",
+      "constituent": "Wyoming patients & licensed physicians",
+      "applyUrl": "https://governor.wyo.gov/",
+      "sourceUrl": "https://law.justia.com/codes/wyoming/title-33/chapter-26/article-2/section-33-26-201/",
+      "lastVerified": "2026-08-20",
+      "mandate": "Licenses and disciplines Wyoming's physicians and physician assistants. Eight members appointed by the Governor with Senate consent — five physicians, a physician assistant, and two lay members (Wyo. Stat. 33-26-201).",
+      "seatSource": "https://law.justia.com/codes/wyoming/title-33/chapter-26/article-2/section-33-26-201/",
+      "criticalNote": "Curated from the Wyoming Statutes; WY publishes no central board-vacancy list (inventory mode)",
+      "populationServed": 576851,
+      "populationSource": "https://www.census.gov/quickfacts/WY"
+    },
+    {
+      "id": 2,
+      "name": "Wyoming Game and Fish Commission",
+      "domain": "environment",
+      "totalSeats": 7,
+      "vacantSeats": 0,
+      "vacantSince": null,
+      "authority": "Governor's Office",
+      "constituent": "Wyoming hunters, anglers & wildlife",
+      "applyUrl": "https://governor.wyo.gov/",
+      "sourceUrl": "https://law.justia.com/codes/wyoming/title-23/chapter-1/article-2/section-23-1-201/",
+      "lastVerified": "2026-08-20",
+      "mandate": "Sets policy for Wyoming's wildlife and the Game and Fish Department. Seven commissioners appointed by the Governor with Senate consent (the Governor also serves ex officio), each knowledgeable in wildlife management (Wyo. Stat. 23-1-201).",
+      "seatSource": "https://law.justia.com/codes/wyoming/title-23/chapter-1/article-2/section-23-1-201/",
+      "criticalNote": "Seven governor-appointed voting commissioners; the Governor serves ex officio",
+      "populationServed": 576851,
+      "populationSource": "https://www.census.gov/quickfacts/WY"
+    },
+    {
+      "id": 3,
+      "name": "Wyoming Real Estate Commission",
+      "domain": "housing",
+      "totalSeats": 5,
+      "vacantSeats": 0,
+      "vacantSince": null,
+      "authority": "Governor's Office",
+      "constituent": "Wyoming home buyers & licensed brokers",
+      "applyUrl": "https://governor.wyo.gov/",
+      "sourceUrl": "https://law.justia.com/codes/wyoming/title-33/chapter-28/",
+      "lastVerified": "2026-08-20",
+      "mandate": "Licenses and regulates Wyoming's real estate brokers and salespersons. Five commissioners appointed by the Governor with Senate consent, no more than one per county (Wyo. Stat. 33-28-105).",
+      "seatSource": "https://law.justia.com/codes/wyoming/title-33/chapter-28/",
+      "criticalNote": "Curated from the Wyoming Statutes; WY publishes no central board-vacancy list (inventory mode)",
+      "populationServed": 576851,
+      "populationSource": "https://www.census.gov/quickfacts/WY"
+    }
+  ]
+}
