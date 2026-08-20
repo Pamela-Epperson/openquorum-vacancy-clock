@@ -1,0 +1,52 @@
+{
+  "scrapedAt": "2026-08-20T00:00:00.000Z",
+  "registry": {
+    "profile": "manual",
+    "dataSource": "Vermont Statutes / Governor's appointments (no central vacancy list)"
+  },
+  "summary": {
+    "state": "VT",
+    "total": 2,
+    "full": 2,
+    "provisional": 0,
+    "missingFields": {}
+  },
+  "rows": [
+    {
+      "id": 1,
+      "name": "Vermont Board of Medical Practice",
+      "domain": "health",
+      "totalSeats": 17,
+      "vacantSeats": 0,
+      "vacantSince": null,
+      "authority": "Governor's Office",
+      "constituent": "Vermont patients & licensed physicians",
+      "applyUrl": "https://governor.vermont.gov/",
+      "sourceUrl": "https://law.justia.com/codes/vermont/title-26/chapter-23/section-1351/",
+      "lastVerified": "2026-08-20",
+      "mandate": "Licenses and disciplines Vermont's physicians, physician assistants, and podiatrists. Seventeen members appointed by the Governor with Senate consent — nine physicians, a PA, a podiatrist, and six public members (26 V.S.A. 1351).",
+      "seatSource": "https://law.justia.com/codes/vermont/title-26/chapter-23/section-1351/",
+      "criticalNote": "Curated from the Vermont Statutes; VT publishes no central board-vacancy list (inventory mode)",
+      "populationServed": 643077,
+      "populationSource": "https://www.census.gov/quickfacts/VT"
+    },
+    {
+      "id": 2,
+      "name": "Vermont Fish and Wildlife Board",
+      "domain": "environment",
+      "totalSeats": 14,
+      "vacantSeats": 0,
+      "vacantSince": null,
+      "authority": "Governor's Office",
+      "constituent": "Vermont hunters, anglers & wildlife",
+      "applyUrl": "https://governor.vermont.gov/",
+      "sourceUrl": "https://law.justia.com/codes/vermont/title-10/chapter-103/section-4041/",
+      "lastVerified": "2026-08-20",
+      "mandate": "Sets hunting, fishing, and trapping rules for Vermont's fish and wildlife. Fourteen members appointed by the Governor with Senate consent, one from each county (10 V.S.A. 4041).",
+      "seatSource": "https://law.justia.com/codes/vermont/title-10/chapter-103/section-4041/",
+      "criticalNote": "Curated from the Vermont Statutes; VT publishes no central board-vacancy list (inventory mode)",
+      "populationServed": 643077,
+      "populationSource": "https://www.census.gov/quickfacts/VT"
+    }
+  ]
+}
