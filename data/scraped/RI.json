@@ -1,15 +1,52 @@
-{ "scrapedAt": "2026-08-19T00:00:00.000Z",
-  "registry": { "profile": "manual", "dataSource": "Rhode Island General Laws / Governor's appointments (no central vacancy list)" },
-  "summary": { "state": "RI", "total": 2, "full": 2, "provisional": 0, "missingFields": {} },
+{
+  "scrapedAt": "2026-08-19T00:00:00.000Z",
+  "registry": {
+    "profile": "manual",
+    "dataSource": "Rhode Island General Laws / Governor's appointments (no central vacancy list)"
+  },
+  "summary": {
+    "state": "RI",
+    "total": 2,
+    "full": 2,
+    "provisional": 0,
+    "missingFields": {}
+  },
   "rows": [
-    { "id": 1, "name": "Rhode Island Real Estate Commission", "domain": "housing", "totalSeats": 11, "vacantSeats": 0, "vacantSince": null,
-      "authority": "Governor's Office", "constituent": "Rhode Island home buyers & licensed brokers",
-      "applyUrl": "https://governor.ri.gov/", "sourceUrl": "https://law.justia.com/codes/rhode-island/2018/title-5/chapter-5-20.5/section-5-20.5-12/", "lastVerified": "2026-08-19",
+    {
+      "id": 1,
+      "name": "Rhode Island Real Estate Commission",
+      "domain": "housing",
+      "totalSeats": 11,
+      "vacantSeats": 0,
+      "vacantSince": null,
+      "authority": "Governor's Office",
+      "constituent": "Rhode Island home buyers & licensed brokers",
+      "applyUrl": "https://governor.ri.gov/",
+      "sourceUrl": "https://law.justia.com/codes/rhode-island/2018/title-5/chapter-5-20.5/section-5-20.5-12/",
+      "lastVerified": "2026-08-19",
       "mandate": "Licenses and regulates Rhode Island's real estate brokers and salespersons. Nine members appointed by the Governor plus the Attorney General and department director ex officio (R.I. Gen. Laws 5-20.5-12).",
-      "seatSource": "https://law.justia.com/codes/rhode-island/2018/title-5/chapter-5-20.5/section-5-20.5-12/", "criticalNote": "9 of 11 seats are governor-appointed (Attorney General and department director serve ex officio)" },
-    { "id": 2, "name": "Rhode Island Board of Medical Licensure and Discipline", "domain": "health", "totalSeats": 11, "vacantSeats": 0, "vacantSince": null,
-      "authority": "Governor's Office", "constituent": "Rhode Island patients & licensed physicians",
-      "applyUrl": "https://governor.ri.gov/", "sourceUrl": "https://law.justia.com/codes/rhode-island/title-5/chapter-5-37/", "lastVerified": "2026-08-19",
+      "seatSource": "https://law.justia.com/codes/rhode-island/2018/title-5/chapter-5-20.5/section-5-20.5-12/",
+      "criticalNote": "9 of 11 seats are governor-appointed (Attorney General and department director serve ex officio)",
+      "populationServed": 1097379,
+      "populationSource": "https://www.census.gov/quickfacts/RI"
+    },
+    {
+      "id": 2,
+      "name": "Rhode Island Board of Medical Licensure and Discipline",
+      "domain": "health",
+      "totalSeats": 11,
+      "vacantSeats": 0,
+      "vacantSince": null,
+      "authority": "Governor's Office",
+      "constituent": "Rhode Island patients & licensed physicians",
+      "applyUrl": "https://governor.ri.gov/",
+      "sourceUrl": "https://law.justia.com/codes/rhode-island/title-5/chapter-5-37/",
+      "lastVerified": "2026-08-19",
       "mandate": "Licenses and disciplines Rhode Island's physicians. Eleven members appointed by the Governor — four MDs, two DOs, and five public members (R.I. Gen. Laws 5-37-1.1).",
-      "seatSource": "https://law.justia.com/codes/rhode-island/title-5/chapter-5-37/", "criticalNote": "Curated from the Rhode Island General Laws; RI publishes no central board-vacancy list (inventory mode)" }
-  ] }
+      "seatSource": "https://law.justia.com/codes/rhode-island/title-5/chapter-5-37/",
+      "criticalNote": "Curated from the Rhode Island General Laws; RI publishes no central board-vacancy list (inventory mode)",
+      "populationServed": 1097379,
+      "populationSource": "https://www.census.gov/quickfacts/RI"
+    }
+  ]
+}
