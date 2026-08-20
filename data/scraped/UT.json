@@ -1,20 +1,70 @@
-{ "scrapedAt": "2026-08-19T00:00:00.000Z",
-  "registry": { "profile": "manual", "dataSource": "Utah Code / Governor's Boards & Commissions (no central vacancy list)" },
-  "summary": { "state": "UT", "total": 3, "full": 3, "provisional": 0, "missingFields": {} },
+{
+  "scrapedAt": "2026-08-19T00:00:00.000Z",
+  "registry": {
+    "profile": "manual",
+    "dataSource": "Utah Code / Governor's Boards & Commissions (no central vacancy list)"
+  },
+  "summary": {
+    "state": "UT",
+    "total": 3,
+    "full": 3,
+    "provisional": 0,
+    "missingFields": {}
+  },
   "rows": [
-    { "id": 1, "name": "Utah Real Estate Commission", "domain": "housing", "totalSeats": 5, "vacantSeats": 0, "vacantSince": null,
-      "authority": "Governor's Office", "constituent": "Utah home buyers & licensed brokers",
-      "applyUrl": "https://governor.utah.gov/", "sourceUrl": "https://le.utah.gov/xcode/Title61/Chapter2f/61-2f-S103.html", "lastVerified": "2026-08-19",
+    {
+      "id": 1,
+      "name": "Utah Real Estate Commission",
+      "domain": "housing",
+      "totalSeats": 5,
+      "vacantSeats": 0,
+      "vacantSince": null,
+      "authority": "Governor's Office",
+      "constituent": "Utah home buyers & licensed brokers",
+      "applyUrl": "https://governor.utah.gov/",
+      "sourceUrl": "https://le.utah.gov/xcode/Title61/Chapter2f/61-2f-S103.html",
+      "lastVerified": "2026-08-19",
       "mandate": "Licenses and regulates Utah's real estate brokers and sales agents. Five members appointed by the Governor with Senate consent — four licensees and one public member (Utah Code 61-2f-103).",
-      "seatSource": "https://le.utah.gov/xcode/Title61/Chapter2f/61-2f-S103.html", "criticalNote": "Curated from the Utah Code; UT publishes no central board-vacancy list (inventory mode)" },
-    { "id": 2, "name": "Utah Wildlife Board", "domain": "environment", "totalSeats": 7, "vacantSeats": 0, "vacantSince": null,
-      "authority": "Governor's Office", "constituent": "Utah hunters, anglers & wildlife",
-      "applyUrl": "https://governor.utah.gov/", "sourceUrl": "https://le.utah.gov/xcode/Title23A/23A.html", "lastVerified": "2026-08-19",
+      "seatSource": "https://le.utah.gov/xcode/Title61/Chapter2f/61-2f-S103.html",
+      "criticalNote": "Curated from the Utah Code; UT publishes no central board-vacancy list (inventory mode)",
+      "populationServed": 3271616,
+      "populationSource": "https://www.census.gov/quickfacts/UT"
+    },
+    {
+      "id": 2,
+      "name": "Utah Wildlife Board",
+      "domain": "environment",
+      "totalSeats": 7,
+      "vacantSeats": 0,
+      "vacantSince": null,
+      "authority": "Governor's Office",
+      "constituent": "Utah hunters, anglers & wildlife",
+      "applyUrl": "https://governor.utah.gov/",
+      "sourceUrl": "https://le.utah.gov/xcode/Title23A/23A.html",
+      "lastVerified": "2026-08-19",
       "mandate": "Sets policy and rules for Utah's wildlife and the Division of Wildlife Resources. Seven members appointed by the Governor with Senate consent, representing wildlife, habitat, business, and economics expertise across regions (Utah Code 23A-2-301).",
-      "seatSource": "https://le.utah.gov/xcode/Title23A/23A.html", "criticalNote": "Curated from the Utah Code; UT publishes no central board-vacancy list (inventory mode)" },
-    { "id": 3, "name": "Utah Physicians Licensing Board", "domain": "health", "totalSeats": 15, "vacantSeats": 0, "vacantSince": null,
-      "authority": "Governor's Office", "constituent": "Utah patients & licensed physicians",
-      "applyUrl": "https://governor.utah.gov/", "sourceUrl": "https://le.utah.gov/xcode/Title58/Chapter67/58-67-S201.html", "lastVerified": "2026-08-19",
+      "seatSource": "https://le.utah.gov/xcode/Title23A/23A.html",
+      "criticalNote": "Curated from the Utah Code; UT publishes no central board-vacancy list (inventory mode)",
+      "populationServed": 3271616,
+      "populationSource": "https://www.census.gov/quickfacts/UT"
+    },
+    {
+      "id": 3,
+      "name": "Utah Physicians Licensing Board",
+      "domain": "health",
+      "totalSeats": 15,
+      "vacantSeats": 0,
+      "vacantSince": null,
+      "authority": "Governor's Office",
+      "constituent": "Utah patients & licensed physicians",
+      "applyUrl": "https://governor.utah.gov/",
+      "sourceUrl": "https://le.utah.gov/xcode/Title58/Chapter67/58-67-S201.html",
+      "lastVerified": "2026-08-19",
       "mandate": "Advises on licensing and discipline of Utah's physicians and physician assistants. Fifteen members appointed by the Governor — seven MDs, two DOs, a psychiatrist, three physician assistants, and two public members (Utah Code 58-67-201).",
-      "seatSource": "https://le.utah.gov/xcode/Title58/Chapter67/58-67-S201.html", "criticalNote": "Curated from the Utah Code; UT publishes no central board-vacancy list (inventory mode)" }
-  ] }
+      "seatSource": "https://le.utah.gov/xcode/Title58/Chapter67/58-67-S201.html",
+      "criticalNote": "Curated from the Utah Code; UT publishes no central board-vacancy list (inventory mode)",
+      "populationServed": 3271616,
+      "populationSource": "https://www.census.gov/quickfacts/UT"
+    }
+  ]
+}

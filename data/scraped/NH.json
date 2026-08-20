@@ -1,15 +1,52 @@
-{ "scrapedAt": "2026-08-19T00:00:00.000Z",
-  "registry": { "profile": "manual", "dataSource": "New Hampshire Revised Statutes / Governor & Executive Council (no central vacancy list)" },
-  "summary": { "state": "NH", "total": 2, "full": 2, "provisional": 0, "missingFields": {} },
+{
+  "scrapedAt": "2026-08-19T00:00:00.000Z",
+  "registry": {
+    "profile": "manual",
+    "dataSource": "New Hampshire Revised Statutes / Governor & Executive Council (no central vacancy list)"
+  },
+  "summary": {
+    "state": "NH",
+    "total": 2,
+    "full": 2,
+    "provisional": 0,
+    "missingFields": {}
+  },
   "rows": [
-    { "id": 1, "name": "New Hampshire Fish and Game Commission", "domain": "environment", "totalSeats": 11, "vacantSeats": 0, "vacantSince": null,
-      "authority": "Governor & Executive Council", "constituent": "New Hampshire hunters, anglers & wildlife",
-      "applyUrl": "https://www.governor.nh.gov/", "sourceUrl": "https://www.gencourt.state.nh.us/rsa/html/XVIII/206/206-2.htm", "lastVerified": "2026-08-19",
+    {
+      "id": 1,
+      "name": "New Hampshire Fish and Game Commission",
+      "domain": "environment",
+      "totalSeats": 11,
+      "vacantSeats": 0,
+      "vacantSince": null,
+      "authority": "Governor & Executive Council",
+      "constituent": "New Hampshire hunters, anglers & wildlife",
+      "applyUrl": "https://www.governor.nh.gov/",
+      "sourceUrl": "https://www.gencourt.state.nh.us/rsa/html/XVIII/206/206-2.htm",
+      "lastVerified": "2026-08-19",
       "mandate": "Sets policy for New Hampshire's fish and wildlife. Eleven members appointed by the Governor with Executive Council consent, one from each county and tidewater (RSA 206:2).",
-      "seatSource": "https://www.gencourt.state.nh.us/rsa/html/XVIII/206/206-2.htm", "criticalNote": "Curated from the New Hampshire Revised Statutes; NH publishes no central board-vacancy list (inventory mode)" },
-    { "id": 2, "name": "New Hampshire Real Estate Commission", "domain": "housing", "totalSeats": 5, "vacantSeats": 0, "vacantSince": null,
-      "authority": "Governor & Executive Council", "constituent": "New Hampshire home buyers & licensed brokers",
-      "applyUrl": "https://www.governor.nh.gov/", "sourceUrl": "https://law.justia.com/codes/new-hampshire/title-xxx/chapter-331-a/section-331-a-5/", "lastVerified": "2026-08-19",
+      "seatSource": "https://www.gencourt.state.nh.us/rsa/html/XVIII/206/206-2.htm",
+      "criticalNote": "Curated from the New Hampshire Revised Statutes; NH publishes no central board-vacancy list (inventory mode)",
+      "populationServed": 1377529,
+      "populationSource": "https://www.census.gov/quickfacts/NH"
+    },
+    {
+      "id": 2,
+      "name": "New Hampshire Real Estate Commission",
+      "domain": "housing",
+      "totalSeats": 5,
+      "vacantSeats": 0,
+      "vacantSince": null,
+      "authority": "Governor & Executive Council",
+      "constituent": "New Hampshire home buyers & licensed brokers",
+      "applyUrl": "https://www.governor.nh.gov/",
+      "sourceUrl": "https://law.justia.com/codes/new-hampshire/title-xxx/chapter-331-a/section-331-a-5/",
+      "lastVerified": "2026-08-19",
       "mandate": "Licenses and regulates New Hampshire's real estate brokers and salespersons. Five members appointed by the Governor with Executive Council consent — two brokers, a salesperson, a lawyer, and a public member (RSA 331-A:5).",
-      "seatSource": "https://law.justia.com/codes/new-hampshire/title-xxx/chapter-331-a/section-331-a-5/", "criticalNote": "Curated from the New Hampshire Revised Statutes; NH publishes no central board-vacancy list (inventory mode)" }
-  ] }
+      "seatSource": "https://law.justia.com/codes/new-hampshire/title-xxx/chapter-331-a/section-331-a-5/",
+      "criticalNote": "Curated from the New Hampshire Revised Statutes; NH publishes no central board-vacancy list (inventory mode)",
+      "populationServed": 1377529,
+      "populationSource": "https://www.census.gov/quickfacts/NH"
+    }
+  ]
+}

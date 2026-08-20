@@ -1,15 +1,52 @@
-{ "scrapedAt": "2026-08-19T00:00:00.000Z",
-  "registry": { "profile": "manual", "dataSource": "Iowa Code / Governor's appointments (no central vacancy list)" },
-  "summary": { "state": "IA", "total": 2, "full": 2, "provisional": 0, "missingFields": {} },
+{
+  "scrapedAt": "2026-08-19T00:00:00.000Z",
+  "registry": {
+    "profile": "manual",
+    "dataSource": "Iowa Code / Governor's appointments (no central vacancy list)"
+  },
+  "summary": {
+    "state": "IA",
+    "total": 2,
+    "full": 2,
+    "provisional": 0,
+    "missingFields": {}
+  },
   "rows": [
-    { "id": 1, "name": "Iowa Board of Medicine", "domain": "health", "totalSeats": 10, "vacantSeats": 0, "vacantSince": null,
-      "authority": "Governor's Office", "constituent": "Iowa patients & licensed physicians",
-      "applyUrl": "https://governor.iowa.gov/", "sourceUrl": "https://www.legis.iowa.gov/docs/code/147.14.pdf", "lastVerified": "2026-08-19",
+    {
+      "id": 1,
+      "name": "Iowa Board of Medicine",
+      "domain": "health",
+      "totalSeats": 10,
+      "vacantSeats": 0,
+      "vacantSince": null,
+      "authority": "Governor's Office",
+      "constituent": "Iowa patients & licensed physicians",
+      "applyUrl": "https://governor.iowa.gov/",
+      "sourceUrl": "https://www.legis.iowa.gov/docs/code/147.14.pdf",
+      "lastVerified": "2026-08-19",
       "mandate": "Licenses and disciplines Iowa's physicians. Ten members appointed by the Governor with Senate confirmation — five physicians, two osteopathic physicians, and three public members (Iowa Code 147.14 / 148).",
-      "seatSource": "https://www.legis.iowa.gov/docs/code/147.14.pdf", "criticalNote": "Curated from the Iowa Code; IA's new IAppoint vacancy system is JS-rendered (inventory mode)" },
-    { "id": 2, "name": "Iowa Natural Resource Commission", "domain": "environment", "totalSeats": 7, "vacantSeats": 0, "vacantSince": null,
-      "authority": "Governor's Office", "constituent": "Iowa hunters, anglers, parks & wildlife",
-      "applyUrl": "https://governor.iowa.gov/", "sourceUrl": "https://www.legis.iowa.gov/docs/ico/chapter/456A.pdf", "lastVerified": "2026-08-19",
+      "seatSource": "https://www.legis.iowa.gov/docs/code/147.14.pdf",
+      "criticalNote": "Curated from the Iowa Code; IA's new IAppoint vacancy system is JS-rendered (inventory mode)",
+      "populationServed": 3190369,
+      "populationSource": "https://www.census.gov/quickfacts/IA"
+    },
+    {
+      "id": 2,
+      "name": "Iowa Natural Resource Commission",
+      "domain": "environment",
+      "totalSeats": 7,
+      "vacantSeats": 0,
+      "vacantSince": null,
+      "authority": "Governor's Office",
+      "constituent": "Iowa hunters, anglers, parks & wildlife",
+      "applyUrl": "https://governor.iowa.gov/",
+      "sourceUrl": "https://www.legis.iowa.gov/docs/ico/chapter/456A.pdf",
+      "lastVerified": "2026-08-19",
       "mandate": "Sets policy for Iowa's fish, wildlife, parks, and land management under the DNR. Seven members appointed by the Governor with Senate confirmation, balanced by party and geography (Iowa Code 455A.5).",
-      "seatSource": "https://www.legis.iowa.gov/docs/ico/chapter/456A.pdf", "criticalNote": "Curated from the Iowa Code; IA's new IAppoint vacancy system is JS-rendered (inventory mode)" }
-  ] }
+      "seatSource": "https://www.legis.iowa.gov/docs/ico/chapter/456A.pdf",
+      "criticalNote": "Curated from the Iowa Code; IA's new IAppoint vacancy system is JS-rendered (inventory mode)",
+      "populationServed": 3190369,
+      "populationSource": "https://www.census.gov/quickfacts/IA"
+    }
+  ]
+}
