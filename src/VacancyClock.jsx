@@ -68,16 +68,16 @@ function RequestStateModal({stateLabel,onClose}){
     <div style={{position:"fixed",inset:0,background:"rgba(0,0,0,0.4)",display:"flex",alignItems:"center",justifyContent:"center",zIndex:1000}} onClick={onClose} aria-hidden="true">
       <div role="dialog" aria-modal="true" aria-labelledby="request-modal-title" style={{background:"#fff",borderRadius:12,padding:"1.5rem",maxWidth:440,width:"90%"}} onClick={e=>e.stopPropagation()}>
         <div style={{display:"flex",justifyContent:"space-between",marginBottom:8}}>
-          <p id="request-modal-title" style={{margin:0,fontSize:14,fontWeight:600}}>Request priority{stateLabel?` — ${stateLabel}`:""}</p>
+          <p id="request-modal-title" style={{margin:0,fontSize:14,fontWeight:600}}>Suggest a missing board</p>
           <button onClick={onClose} aria-label="Close request dialog" style={{border:"none",background:"none",cursor:"pointer",fontSize:18,color:INK.body}}>×</button>
         </div>
         <p style={{margin:"0 0 12px",fontSize:13,color:INK.body,lineHeight:1.65}}>
-          States come online as their board data is verified — we never publish unverified data.
-          Tell us which state matters to you and we'll prioritize its scraper.
+          We track governor-appointed seats on boards and commissions in all 50 states + DC.
+          Know a board we're missing? Tell us — add a source if you have one — and we'll verify and add it.
         </p>
-        <a href={`${REQUEST_STATE_CONTACT}${stateLabel?encodeURIComponent(` — ${stateLabel}`):""}`}
+        <a href={REQUEST_STATE_CONTACT} target="_blank" rel="noopener noreferrer"
           style={{display:"block",textAlign:"center",padding:"10px 0",borderRadius:8,border:"none",background:"#1D9E75",color:"#fff",fontSize:13,fontWeight:600,textDecoration:"none"}}>
-          Request {stateLabel||"my state"} →
+          Suggest a missing board →
         </a>
       </div>
     </div>
@@ -185,6 +185,7 @@ export default function VacancyClock(){
           ))}
         </div>
       ))}
+      {SCAFFOLDED_STATES.length>0 && (<>
       <p style={{margin:"4px 0 0",padding:"6px 14px 4px",fontSize:10,fontWeight:600,color:INK.micro,textTransform:"uppercase",letterSpacing:"0.08em",borderTop:"1px solid #f0f0f0"}}>Coming online — scraper in progress</p>
       {SCAFFOLDED_STATES.map(c=>(
         <button key={c} onClick={()=>handleStateChange(c)}
@@ -192,8 +193,9 @@ export default function VacancyClock(){
           <span>{STATE_CONFIG[c].label}</span><span style={{fontSize:10,background:"#f5f5f5",padding:"1px 6px",borderRadius:20}}>in progress</span>
         </button>
       ))}
+      </>)}
       <div style={{padding:"8px 12px",borderTop:"1px solid #f0f0f0",marginTop:4}}>
-        <button onClick={()=>{setShowMenu(false);setShowRequest(true);}} style={{width:"100%",padding:"6px 0",border:"1px dashed #1D9E75",borderRadius:8,background:"transparent",color:"#1D9E75",fontSize:12,cursor:"pointer",fontWeight:500}}>+ Request your state</button>
+        <button onClick={()=>{setShowMenu(false);setShowRequest(true);}} style={{width:"100%",padding:"6px 0",border:"1px dashed #1D9E75",borderRadius:8,background:"transparent",color:"#1D9E75",fontSize:12,cursor:"pointer",fontWeight:500}}>+ Suggest a missing board</button>
       </div>
     </div>
   );
@@ -272,7 +274,7 @@ export default function VacancyClock(){
               );
             })}
           </div>
-          <p style={{marginTop:"1.5rem",fontSize:12,color:INK.micro}}>All 50 states + DC are being brought online · <button onClick={()=>setShowRequest(true)} style={{border:"none",background:"none",padding:0,color:"#1D9E75",cursor:"pointer",fontSize:12,fontWeight:500}}>request priority for yours →</button></p>
+          <p style={{marginTop:"1.5rem",fontSize:12,color:INK.micro}}>All 50 states + DC are live · <button onClick={()=>setShowRequest(true)} style={{border:"none",background:"none",padding:0,color:"#1D9E75",cursor:"pointer",fontSize:12,fontWeight:500}}>Suggest a missing board →</button></p>
         </div>
       )}
 
@@ -287,7 +289,7 @@ export default function VacancyClock(){
           </p>
           <button onClick={()=>setShowRequest(true)}
             style={{padding:"10px 22px",borderRadius:8,border:"none",background:"#1D9E75",color:"#fff",fontSize:13,fontWeight:600,cursor:"pointer"}}>
-            Request priority →
+            Suggest a missing board →
           </button>
         </div>
       )}
