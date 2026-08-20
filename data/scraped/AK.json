@@ -1,0 +1,70 @@
+{
+  "scrapedAt": "2026-08-20T00:00:00.000Z",
+  "registry": {
+    "profile": "manual",
+    "dataSource": "Alaska Statutes / Governor's appointments (no central vacancy list)"
+  },
+  "summary": {
+    "state": "AK",
+    "total": 3,
+    "full": 3,
+    "provisional": 0,
+    "missingFields": {}
+  },
+  "rows": [
+    {
+      "id": 1,
+      "name": "Alaska State Medical Board",
+      "domain": "health",
+      "totalSeats": 8,
+      "vacantSeats": 0,
+      "vacantSince": null,
+      "authority": "Governor's Office",
+      "constituent": "Alaska patients & licensed physicians",
+      "applyUrl": "https://gov.alaska.gov/",
+      "sourceUrl": "https://law.justia.com/codes/alaska/title-8/chapter-64/article-1/section-08-64-010/",
+      "lastVerified": "2026-08-20",
+      "mandate": "Licenses and disciplines Alaska's physicians and physician assistants. Eight members appointed by the Governor — five physicians from separate regions, a physician assistant, and two public members (AS 08.64.010).",
+      "seatSource": "https://law.justia.com/codes/alaska/title-8/chapter-64/article-1/section-08-64-010/",
+      "criticalNote": "Curated from the Alaska Statutes; AK publishes no central board-vacancy list (inventory mode)",
+      "populationServed": 733391,
+      "populationSource": "https://www.census.gov/quickfacts/AK"
+    },
+    {
+      "id": 2,
+      "name": "Alaska Board of Game",
+      "domain": "environment",
+      "totalSeats": 7,
+      "vacantSeats": 0,
+      "vacantSince": null,
+      "authority": "Governor's Office",
+      "constituent": "Alaska hunters, anglers & wildlife",
+      "applyUrl": "https://gov.alaska.gov/",
+      "sourceUrl": "https://law.justia.com/codes/alaska/title-16/",
+      "lastVerified": "2026-08-20",
+      "mandate": "Sets Alaska's hunting and trapping regulations and wildlife conservation policy. Seven members appointed by the Governor and confirmed by the Legislature, chosen for diversity of interest (AS 16.05.221).",
+      "seatSource": "https://law.justia.com/codes/alaska/title-16/",
+      "criticalNote": "Curated from the Alaska Statutes; AK publishes no central board-vacancy list (inventory mode)",
+      "populationServed": 733391,
+      "populationSource": "https://www.census.gov/quickfacts/AK"
+    },
+    {
+      "id": 3,
+      "name": "Alaska Real Estate Commission",
+      "domain": "housing",
+      "totalSeats": 7,
+      "vacantSeats": 0,
+      "vacantSince": null,
+      "authority": "Governor's Office",
+      "constituent": "Alaska home buyers & licensed brokers",
+      "applyUrl": "https://gov.alaska.gov/",
+      "sourceUrl": "https://law.justia.com/codes/alaska/title-8/chapter-88/article-1/",
+      "lastVerified": "2026-08-20",
+      "mandate": "Licenses and regulates Alaska's real estate brokers and licensees. Seven members appointed by the Governor — five brokers across the judicial districts and two public members (AS 08.88.011).",
+      "seatSource": "https://law.justia.com/codes/alaska/title-8/chapter-88/article-1/",
+      "criticalNote": "Curated from the Alaska Statutes; AK publishes no central board-vacancy list (inventory mode)",
+      "populationServed": 733391,
+      "populationSource": "https://www.census.gov/quickfacts/AK"
+    }
+  ]
+}
