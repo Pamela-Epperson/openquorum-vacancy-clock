@@ -1,0 +1,52 @@
+{
+  "scrapedAt": "2026-08-20T00:00:00.000Z",
+  "registry": {
+    "profile": "manual",
+    "dataSource": "South Dakota Codified Laws / Governor's appointments (no central vacancy list)"
+  },
+  "summary": {
+    "state": "SD",
+    "total": 2,
+    "full": 2,
+    "provisional": 0,
+    "missingFields": {}
+  },
+  "rows": [
+    {
+      "id": 1,
+      "name": "South Dakota Game, Fish and Parks Commission",
+      "domain": "environment",
+      "totalSeats": 8,
+      "vacantSeats": 0,
+      "vacantSince": null,
+      "authority": "Governor's Office",
+      "constituent": "South Dakota hunters, anglers & wildlife",
+      "applyUrl": "https://governor.sd.gov/",
+      "sourceUrl": "https://law.justia.com/codes/south-dakota/title-41/chapter-02/",
+      "lastVerified": "2026-08-20",
+      "mandate": "Sets policy for South Dakota's wildlife, fisheries, and state parks. Eight members appointed by the Governor with Senate consent, balanced east/west-river and by party (SDCL 41-2-1).",
+      "seatSource": "https://law.justia.com/codes/south-dakota/title-41/chapter-02/",
+      "criticalNote": "Curated from the South Dakota Codified Laws; SD publishes no central board-vacancy list (inventory mode)",
+      "populationServed": 886667,
+      "populationSource": "https://www.census.gov/quickfacts/SD"
+    },
+    {
+      "id": 2,
+      "name": "South Dakota Real Estate Commission",
+      "domain": "housing",
+      "totalSeats": 5,
+      "vacantSeats": 0,
+      "vacantSince": null,
+      "authority": "Governor's Office",
+      "constituent": "South Dakota home buyers & licensed brokers",
+      "applyUrl": "https://governor.sd.gov/",
+      "sourceUrl": "https://law.justia.com/codes/south-dakota/title-36/chapter-21a/section-36-21a-13/",
+      "lastVerified": "2026-08-20",
+      "mandate": "Licenses and regulates South Dakota's real estate brokers and salespersons. Five members appointed by the Governor — three active brokers and two public members (SDCL 36-21A-13).",
+      "seatSource": "https://law.justia.com/codes/south-dakota/title-36/chapter-21a/section-36-21a-13/",
+      "criticalNote": "Curated from the South Dakota Codified Laws; SD publishes no central board-vacancy list (inventory mode)",
+      "populationServed": 886667,
+      "populationSource": "https://www.census.gov/quickfacts/SD"
+    }
+  ]
+}
