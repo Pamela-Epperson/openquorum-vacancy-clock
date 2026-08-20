@@ -241,7 +241,7 @@ export default function VacancyClock(){
                   {locLabel} coming online — choose a state below
                 </span>
               )}
-              <span style={{fontSize:11,fontWeight:500,padding:"3px 8px",borderRadius:20,background:"#f0f0f0",color:INK.body}}>Sample data · scraper in development</span>
+              <span style={{fontSize:11,fontWeight:500,padding:"3px 8px",borderRadius:20,background:"#f0f0f0",color:INK.body}}>50 states + DC · sourced data</span>
               <style>{`@keyframes spin{to{transform:rotate(360deg)}}@media(prefers-reduced-motion:reduce){*{animation-duration:0.01ms!important;animation-iteration-count:1!important;transition-duration:0.01ms!important}}`}</style>
             </div>
             <p style={{margin:0,fontSize:12,color:INK.body}}>{cfg&&isLive?`Vacancy Clock · ${cfg.dataSource}`:"Vacancy Clock · openquorum.us.com"}</p>
