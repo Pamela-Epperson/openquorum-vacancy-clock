@@ -1,0 +1,70 @@
+{
+  "scrapedAt": "2026-08-20T00:00:00.000Z",
+  "registry": {
+    "profile": "manual",
+    "dataSource": "Hawaii Revised Statutes / Governor's appointments (no central vacancy list)"
+  },
+  "summary": {
+    "state": "HI",
+    "total": 3,
+    "full": 3,
+    "provisional": 0,
+    "missingFields": {}
+  },
+  "rows": [
+    {
+      "id": 1,
+      "name": "Hawaii Medical Board",
+      "domain": "health",
+      "totalSeats": 11,
+      "vacantSeats": 0,
+      "vacantSince": null,
+      "authority": "Governor's Office",
+      "constituent": "Hawaii patients & licensed physicians",
+      "applyUrl": "https://governor.hawaii.gov/",
+      "sourceUrl": "https://law.justia.com/codes/hawaii/title-25/chapter-453/section-453-5/",
+      "lastVerified": "2026-08-20",
+      "mandate": "Licenses and disciplines Hawaii's physicians and osteopathic physicians. Eleven members appointed by the Governor — seven physicians, two osteopathic physicians, and two public members, spread across the counties (HRS 453-5).",
+      "seatSource": "https://law.justia.com/codes/hawaii/title-25/chapter-453/section-453-5/",
+      "criticalNote": "Curated from the Hawaii Revised Statutes; HI publishes no central board-vacancy list (inventory mode)",
+      "populationServed": 1455271,
+      "populationSource": "https://www.census.gov/quickfacts/HI"
+    },
+    {
+      "id": 2,
+      "name": "Hawaii Board of Land and Natural Resources",
+      "domain": "environment",
+      "totalSeats": 7,
+      "vacantSeats": 0,
+      "vacantSince": null,
+      "authority": "Governor's Office",
+      "constituent": "Hawaii hunters, anglers & wildlife",
+      "applyUrl": "https://governor.hawaii.gov/",
+      "sourceUrl": "https://law.justia.com/codes/hawaii/title-12/chapter-171/section-171-4/",
+      "lastVerified": "2026-08-20",
+      "mandate": "Governs Hawaii's public lands, water, forests, aquatic resources, and historic sites. Seven members appointed by the Governor with Senate consent — one per land district and three at large (HRS 171-4).",
+      "seatSource": "https://law.justia.com/codes/hawaii/title-12/chapter-171/section-171-4/",
+      "criticalNote": "Curated from the Hawaii Revised Statutes; HI publishes no central board-vacancy list (inventory mode)",
+      "populationServed": 1455271,
+      "populationSource": "https://www.census.gov/quickfacts/HI"
+    },
+    {
+      "id": 3,
+      "name": "Hawaii Real Estate Commission",
+      "domain": "housing",
+      "totalSeats": 9,
+      "vacantSeats": 0,
+      "vacantSince": null,
+      "authority": "Governor's Office",
+      "constituent": "Hawaii home buyers & licensed brokers",
+      "applyUrl": "https://governor.hawaii.gov/",
+      "sourceUrl": "https://law.justia.com/codes/hawaii/title-25/chapter-467/section-467-3/",
+      "lastVerified": "2026-08-20",
+      "mandate": "Licenses and regulates Hawaii's real estate brokers and salespersons. Nine members appointed by the Governor — at least four licensed brokers, two public members, spread across the counties (HRS 467-3).",
+      "seatSource": "https://law.justia.com/codes/hawaii/title-25/chapter-467/section-467-3/",
+      "criticalNote": "Curated from the Hawaii Revised Statutes; HI publishes no central board-vacancy list (inventory mode)",
+      "populationServed": 1455271,
+      "populationSource": "https://www.census.gov/quickfacts/HI"
+    }
+  ]
+}
