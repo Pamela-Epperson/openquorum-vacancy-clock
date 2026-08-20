@@ -350,4 +350,49 @@ export const REGISTRY = {
     contextNote: "Iowa boards shown are hand-verified, statute-cited governor-appointed appointment opportunities — apply any time through the Governor's Office.",
     promote: true, // data/scraped/IA.json manual seed (Aug 19 2026) — INVENTORY MODE
   },
+  SD: {
+    profile: "manual", endpoint: null,
+    applyUrl: "https://governor.sd.gov/",
+    applyAuthority: "Governor's Office",
+    dataSource: "South Dakota Codified Laws / Governor's appointments",
+    totalBoardsNote: "Hand-verified statute-cited seed · no central vacancy list",
+    contextNote: "South Dakota boards shown are hand-verified, statute-cited governor-appointed appointment opportunities — apply any time through the Governor's Office.",
+    promote: true, // data/scraped/SD.json manual seed (Aug 20 2026) — INVENTORY MODE
+  },
+  VT: {
+    profile: "manual", endpoint: null,
+    applyUrl: "https://governor.vermont.gov/",
+    applyAuthority: "Governor's Office",
+    dataSource: "Vermont Statutes / Governor's appointments",
+    totalBoardsNote: "Hand-verified statute-cited seed · no central vacancy list",
+    contextNote: "Vermont boards shown are hand-verified, statute-cited governor-appointed appointment opportunities. NOTE: most VT professional boards are appointed by the Secretary of State (Office of Professional Regulation), not the Governor — only clearly gubernatorial boards are shown.",
+    promote: true, // data/scraped/VT.json manual seed (Aug 20 2026) — INVENTORY MODE
+  },
+  WY: {
+    profile: "manual", endpoint: null,
+    applyUrl: "https://governor.wyo.gov/",
+    applyAuthority: "Governor's Office",
+    dataSource: "Wyoming Statutes / Governor's appointments",
+    totalBoardsNote: "Hand-verified statute-cited seed · no central vacancy list",
+    contextNote: "Wyoming boards shown are hand-verified, statute-cited governor-appointed appointment opportunities — apply any time through the Governor's Office.",
+    promote: true, // data/scraped/WY.json manual seed (Aug 20 2026) — INVENTORY MODE
+  },
+  HI: {
+    profile: "manual", endpoint: null,
+    applyUrl: "https://governor.hawaii.gov/",
+    applyAuthority: "Governor's Office",
+    dataSource: "Hawaii Revised Statutes / Governor's appointments",
+    totalBoardsNote: "Hand-verified statute-cited seed · no central vacancy list",
+    contextNote: "Hawaii boards shown are hand-verified, statute-cited governor-appointed appointment opportunities — apply any time through the Governor's Office.",
+    promote: true, // data/scraped/HI.json manual seed (Aug 20 2026) — INVENTORY MODE
+  },
+  AK: {
+    profile: "manual", endpoint: null,
+    applyUrl: "https://gov.alaska.gov/",
+    applyAuthority: "Governor's Office",
+    dataSource: "Alaska Statutes / Governor's appointments",
+    totalBoardsNote: "Hand-verified statute-cited seed · no central vacancy list",
+    contextNote: "Alaska boards shown are hand-verified, statute-cited governor-appointed appointment opportunities — apply any time through the Governor's Office.",
+    promote: true, // data/scraped/AK.json manual seed (Aug 20 2026) — INVENTORY MODE
+  },
 };
