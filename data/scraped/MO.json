@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-08-17T11:14:22.668Z",
+  "scrapedAt": "2026-09-21T16:41:10.861Z",
   "registry": {
     "profile": "mo",
     "endpoint": "https://boards.mo.gov/userpages/boardsearch.aspx",
@@ -11,59 +11,17 @@
   },
   "summary": {
     "state": "MO",
-    "total": 183,
+    "total": 171,
     "full": 5,
-    "provisional": 178,
+    "provisional": 166,
     "missingFields": {
-      "totalSeats": 178,
-      "constituent": 178
+      "totalSeats": 166,
+      "constituent": 166
     }
   },
   "rows": [
     {
       "id": 1,
-      "name": "16th Circuit Judicial Commission",
-      "domain": "justice",
-      "totalSeats": null,
-      "vacantSeats": 1,
-      "vacantSince": null,
-      "authority": "Governor's Office — Boards & Commissions",
-      "constituent": null,
-      "applyUrl": "https://apps1.mo.gov/boardsapp/UserPages/Login.aspx",
-      "sourceUrl": "https://boards.mo.gov/userpages/Board.aspx?0",
-      "lastVerified": "2026-08-17",
-      "criticalNote": "Current vacancy or expired term per boards.mo.gov"
-    },
-    {
-      "id": 2,
-      "name": "21st Circuit Judicial Commission",
-      "domain": "justice",
-      "totalSeats": null,
-      "vacantSeats": 1,
-      "vacantSince": null,
-      "authority": "Governor's Office — Boards & Commissions",
-      "constituent": null,
-      "applyUrl": "https://apps1.mo.gov/boardsapp/UserPages/Login.aspx",
-      "sourceUrl": "https://boards.mo.gov/userpages/Board.aspx?1",
-      "lastVerified": "2026-08-17",
-      "criticalNote": "Current vacancy or expired term per boards.mo.gov"
-    },
-    {
-      "id": 3,
-      "name": "22nd Circuit Judicial Commission",
-      "domain": "justice",
-      "totalSeats": null,
-      "vacantSeats": 1,
-      "vacantSince": null,
-      "authority": "Governor's Office — Boards & Commissions",
-      "constituent": null,
-      "applyUrl": "https://apps1.mo.gov/boardsapp/UserPages/Login.aspx",
-      "sourceUrl": "https://boards.mo.gov/userpages/Board.aspx?2",
-      "lastVerified": "2026-08-17",
-      "criticalNote": "Current vacancy or expired term per boards.mo.gov"
-    },
-    {
-      "id": 4,
       "name": "31st Circuit Judicial Commission",
       "domain": "justice",
       "totalSeats": null,
@@ -73,11 +31,11 @@
       "constituent": null,
       "applyUrl": "https://apps1.mo.gov/boardsapp/UserPages/Login.aspx",
       "sourceUrl": "https://boards.mo.gov/userpages/Board.aspx?163",
-      "lastVerified": "2026-08-17",
+      "lastVerified": "2026-09-21",
       "criticalNote": "Current vacancy or expired term per boards.mo.gov"
     },
     {
-      "id": 5,
+      "id": 2,
       "name": "6th Circuit Judicial Commission",
       "domain": "justice",
       "totalSeats": null,
@@ -87,11 +45,11 @@
       "constituent": null,
       "applyUrl": "https://apps1.mo.gov/boardsapp/UserPages/Login.aspx",
       "sourceUrl": "https://boards.mo.gov/userpages/Board.aspx?3",
-      "lastVerified": "2026-08-17",
+      "lastVerified": "2026-09-21",
       "criticalNote": "Current vacancy or expired term per boards.mo.gov"
     },
     {
-      "id": 6,
+      "id": 3,
       "name": "7th Circuit Judicial Commission",
       "domain": "justice",
       "totalSeats": null,
@@ -101,11 +59,11 @@
       "constituent": null,
       "applyUrl": "https://apps1.mo.gov/boardsapp/UserPages/Login.aspx",
       "sourceUrl": "https://boards.mo.gov/userpages/Board.aspx?4",
-      "lastVerified": "2026-08-17",
+      "lastVerified": "2026-09-21",
       "criticalNote": "Current vacancy or expired term per boards.mo.gov"
     },
     {
-      "id": 7,
+      "id": 4,
       "name": "Administrative Hearing Commission",
       "domain": "justice",
       "totalSeats": null,
@@ -115,11 +73,11 @@
       "constituent": null,
       "applyUrl": "https://apps1.mo.gov/boardsapp/UserPages/Login.aspx",
       "sourceUrl": "https://boards.mo.gov/userpages/Board.aspx?34",
-      "lastVerified": "2026-08-17",
+      "lastVerified": "2026-09-21",
       "criticalNote": "Current vacancy or expired term per boards.mo.gov"
     },
     {
-      "id": 8,
+      "id": 5,
       "name": "Administrative Law Judge Review Committee",
       "domain": "justice",
       "totalSeats": null,
@@ -129,25 +87,11 @@
       "constituent": null,
       "applyUrl": "https://apps1.mo.gov/boardsapp/UserPages/Login.aspx",
       "sourceUrl": "https://boards.mo.gov/userpages/Board.aspx?35",
-      "lastVerified": "2026-08-17",
+      "lastVerified": "2026-09-21",
       "criticalNote": "Current vacancy or expired term per boards.mo.gov"
     },
     {
-      "id": 9,
-      "name": "AgriMissouri Advisory Commission for Marketing Missouri Agricultural Products",
-      "domain": "justice",
-      "totalSeats": null,
-      "vacantSeats": 1,
-      "vacantSince": null,
-      "authority": "Governor's Office — Boards & Commissions",
-      "constituent": null,
-      "applyUrl": "https://apps1.mo.gov/boardsapp/UserPages/Login.aspx",
-      "sourceUrl": "https://boards.mo.gov/userpages/Board.aspx?18",
-      "lastVerified": "2026-08-17",
-      "criticalNote": "Current vacancy or expired term per boards.mo.gov"
-    },
-    {
-      "id": 10,
+      "id": 6,
       "name": "Air Conservation Commission",
       "domain": "environment",
       "totalSeats": null,
@@ -157,11 +101,11 @@
       "constituent": null,
       "applyUrl": "https://apps1.mo.gov/boardsapp/UserPages/Login.aspx",
       "sourceUrl": "https://boards.mo.gov/userpages/Board.aspx?165",
-      "lastVerified": "2026-08-17",
+      "lastVerified": "2026-09-21",
       "criticalNote": "Current vacancy or expired term per boards.mo.gov"
     },
     {
-      "id": 11,
+      "id": 7,
       "name": "Alzheimer's State Plan Task Force",
       "domain": "justice",
       "totalSeats": null,
@@ -171,11 +115,11 @@
       "constituent": null,
       "applyUrl": "https://apps1.mo.gov/boardsapp/UserPages/Login.aspx",
       "sourceUrl": "https://boards.mo.gov/userpages/Board.aspx?472",
-      "lastVerified": "2026-08-17",
+      "lastVerified": "2026-09-21",
       "criticalNote": "Current vacancy or expired term per boards.mo.gov"
     },
     {
-      "id": 12,
+      "id": 8,
       "name": "Amber Alert System Oversight Committee",
       "domain": "justice",
       "totalSeats": null,
@@ -185,11 +129,11 @@
       "constituent": null,
       "applyUrl": "https://apps1.mo.gov/boardsapp/UserPages/Login.aspx",
       "sourceUrl": "https://boards.mo.gov/userpages/Board.aspx?166",
-      "lastVerified": "2026-08-17",
+      "lastVerified": "2026-09-21",
       "criticalNote": "Current vacancy or expired term per boards.mo.gov"
     },
     {
-      "id": 13,
+      "id": 9,
       "name": "America 250 Missouri Commission",
       "domain": "justice",
       "totalSeats": null,
@@ -199,11 +143,11 @@
       "constituent": null,
       "applyUrl": "https://apps1.mo.gov/boardsapp/UserPages/Login.aspx",
       "sourceUrl": "https://boards.mo.gov/userpages/Board.aspx?484",
-      "lastVerified": "2026-08-17",
+      "lastVerified": "2026-09-21",
       "criticalNote": "Current vacancy or expired term per boards.mo.gov"
     },
     {
-      "id": 14,
+      "id": 10,
       "name": "Amusement Ride Safety Board",
       "domain": "justice",
       "totalSeats": null,
@@ -213,11 +157,11 @@
       "constituent": null,
       "applyUrl": "https://apps1.mo.gov/boardsapp/UserPages/Login.aspx",
       "sourceUrl": "https://boards.mo.gov/userpages/Board.aspx?168",
-      "lastVerified": "2026-08-17",
+      "lastVerified": "2026-09-21",
       "criticalNote": "Current vacancy or expired term per boards.mo.gov"
     },
     {
-      "id": 15,
+      "id": 11,
       "name": "Appellate Judicial Commission",
       "domain": "justice",
       "totalSeats": null,
@@ -227,11 +171,11 @@
       "constituent": null,
       "applyUrl": "https://apps1.mo.gov/boardsapp/UserPages/Login.aspx",
       "sourceUrl": "https://boards.mo.gov/userpages/Board.aspx?169",
-      "lastVerified": "2026-08-17",
+      "lastVerified": "2026-09-21",
       "criticalNote": "Current vacancy or expired term per boards.mo.gov"
     },
     {
-      "id": 16,
+      "id": 12,
       "name": "Behavior Analyst Advisory Board",
       "domain": "justice",
       "totalSeats": null,
@@ -241,11 +185,11 @@
       "constituent": null,
       "applyUrl": "https://apps1.mo.gov/boardsapp/UserPages/Login.aspx",
       "sourceUrl": "https://boards.mo.gov/userpages/Board.aspx?46",
-      "lastVerified": "2026-08-17",
+      "lastVerified": "2026-09-21",
       "criticalNote": "Current vacancy or expired term per boards.mo.gov"
     },
     {
-      "id": 17,
+      "id": 13,
       "name": "Bi-State Development Agency of the Missouri-Illinois Metropolitan District",
       "domain": "justice",
       "totalSeats": null,
@@ -255,11 +199,11 @@
       "constituent": null,
       "applyUrl": "https://apps1.mo.gov/boardsapp/UserPages/Login.aspx",
       "sourceUrl": "https://boards.mo.gov/userpages/Board.aspx?170",
-      "lastVerified": "2026-08-17",
+      "lastVerified": "2026-09-21",
       "criticalNote": "Current vacancy or expired term per boards.mo.gov"
     },
     {
-      "id": 18,
+      "id": 14,
       "name": "Board of Boiler and Pressure Vessel Rules",
       "domain": "justice",
       "totalSeats": null,
@@ -269,25 +213,11 @@
       "constituent": null,
       "applyUrl": "https://apps1.mo.gov/boardsapp/UserPages/Login.aspx",
       "sourceUrl": "https://boards.mo.gov/userpages/Board.aspx?171",
-      "lastVerified": "2026-08-17",
+      "lastVerified": "2026-09-21",
       "criticalNote": "Current vacancy or expired term per boards.mo.gov"
     },
     {
-      "id": 19,
-      "name": "Board of Certification of Interpreters",
-      "domain": "justice",
-      "totalSeats": null,
-      "vacantSeats": 1,
-      "vacantSince": null,
-      "authority": "Governor's Office — Boards & Commissions",
-      "constituent": null,
-      "applyUrl": "https://apps1.mo.gov/boardsapp/UserPages/Login.aspx",
-      "sourceUrl": "https://boards.mo.gov/userpages/Board.aspx?172",
-      "lastVerified": "2026-08-17",
-      "criticalNote": "Current vacancy or expired term per boards.mo.gov"
-    },
-    {
-      "id": 20,
+      "id": 15,
       "name": "Board of Cosmetology and Barber Examiners",
       "domain": "justice",
       "totalSeats": null,
@@ -297,11 +227,11 @@
       "constituent": null,
       "applyUrl": "https://apps1.mo.gov/boardsapp/UserPages/Login.aspx",
       "sourceUrl": "https://boards.mo.gov/userpages/Board.aspx?173",
-      "lastVerified": "2026-08-17",
+      "lastVerified": "2026-09-21",
       "criticalNote": "Current vacancy or expired term per boards.mo.gov"
     },
     {
-      "id": 21,
+      "id": 16,
       "name": "Board of Geologist Registration",
       "domain": "justice",
       "totalSeats": null,
@@ -311,11 +241,11 @@
       "constituent": null,
       "applyUrl": "https://apps1.mo.gov/boardsapp/UserPages/Login.aspx",
       "sourceUrl": "https://boards.mo.gov/userpages/Board.aspx?176",
-      "lastVerified": "2026-08-17",
+      "lastVerified": "2026-09-21",
       "criticalNote": "Current vacancy or expired term per boards.mo.gov"
     },
     {
-      "id": 22,
+      "id": 17,
       "name": "Board of Nursing Home Administrators",
       "domain": "health",
       "totalSeats": null,
@@ -325,11 +255,11 @@
       "constituent": null,
       "applyUrl": "https://apps1.mo.gov/boardsapp/UserPages/Login.aspx",
       "sourceUrl": "https://boards.mo.gov/userpages/Board.aspx?300",
-      "lastVerified": "2026-08-17",
+      "lastVerified": "2026-09-21",
       "criticalNote": "Current vacancy or expired term per boards.mo.gov"
     },
     {
-      "id": 23,
+      "id": 18,
       "name": "Board of Private Investigator and Private Fire Investigator Examiners",
       "domain": "justice",
       "totalSeats": null,
@@ -339,11 +269,11 @@
       "constituent": null,
       "applyUrl": "https://apps1.mo.gov/boardsapp/UserPages/Login.aspx",
       "sourceUrl": "https://boards.mo.gov/userpages/Board.aspx?177",
-      "lastVerified": "2026-08-17",
+      "lastVerified": "2026-09-21",
       "criticalNote": "Current vacancy or expired term per boards.mo.gov"
     },
     {
-      "id": 24,
+      "id": 19,
       "name": "Board of Therapeutic Massage",
       "domain": "justice",
       "totalSeats": null,
@@ -353,11 +283,11 @@
       "constituent": null,
       "applyUrl": "https://apps1.mo.gov/boardsapp/UserPages/Login.aspx",
       "sourceUrl": "https://boards.mo.gov/userpages/Board.aspx?10",
-      "lastVerified": "2026-08-17",
+      "lastVerified": "2026-09-21",
       "criticalNote": "Current vacancy or expired term per boards.mo.gov"
     },
     {
-      "id": 25,
+      "id": 20,
       "name": "Child Abuse and Neglect Review Board A",
       "domain": "justice",
       "totalSeats": null,
@@ -367,11 +297,11 @@
       "constituent": null,
       "applyUrl": "https://apps1.mo.gov/boardsapp/UserPages/Login.aspx",
       "sourceUrl": "https://boards.mo.gov/userpages/Board.aspx?12",
-      "lastVerified": "2026-08-17",
+      "lastVerified": "2026-09-21",
       "criticalNote": "Current vacancy or expired term per boards.mo.gov"
     },
     {
-      "id": 26,
+      "id": 21,
       "name": "Child Abuse and Neglect Review Board B",
       "domain": "justice",
       "totalSeats": null,
@@ -381,11 +311,11 @@
       "constituent": null,
       "applyUrl": "https://apps1.mo.gov/boardsapp/UserPages/Login.aspx",
       "sourceUrl": "https://boards.mo.gov/userpages/Board.aspx?13",
-      "lastVerified": "2026-08-17",
+      "lastVerified": "2026-09-21",
       "criticalNote": "Current vacancy or expired term per boards.mo.gov"
     },
     {
-      "id": 27,
+      "id": 22,
       "name": "Child Abuse and Neglect Review Board C",
       "domain": "justice",
       "totalSeats": null,
@@ -395,11 +325,11 @@
       "constituent": null,
       "applyUrl": "https://apps1.mo.gov/boardsapp/UserPages/Login.aspx",
       "sourceUrl": "https://boards.mo.gov/userpages/Board.aspx?14",
-      "lastVerified": "2026-08-17",
+      "lastVerified": "2026-09-21",
       "criticalNote": "Current vacancy or expired term per boards.mo.gov"
     },
     {
-      "id": 28,
+      "id": 23,
       "name": "Child Abuse and Neglect Review Board D",
       "domain": "justice",
       "totalSeats": null,
@@ -409,11 +339,11 @@
       "constituent": null,
       "applyUrl": "https://apps1.mo.gov/boardsapp/UserPages/Login.aspx",
       "sourceUrl": "https://boards.mo.gov/userpages/Board.aspx?15",
-      "lastVerified": "2026-08-17",
+      "lastVerified": "2026-09-21",
       "criticalNote": "Current vacancy or expired term per boards.mo.gov"
     },
     {
-      "id": 29,
+      "id": 24,
       "name": "Child Abuse and Neglect Review Board E",
       "domain": "justice",
       "totalSeats": null,
@@ -423,11 +353,11 @@
       "constituent": null,
       "applyUrl": "https://apps1.mo.gov/boardsapp/UserPages/Login.aspx",
       "sourceUrl": "https://boards.mo.gov/userpages/Board.aspx?11",
-      "lastVerified": "2026-08-17",
+      "lastVerified": "2026-09-21",
       "criticalNote": "Current vacancy or expired term per boards.mo.gov"
     },
     {
-      "id": 30,
+      "id": 25,
       "name": "Child Abuse and Neglect Review Board F",
       "domain": "justice",
       "totalSeats": null,
@@ -437,11 +367,11 @@
       "constituent": null,
       "applyUrl": "https://apps1.mo.gov/boardsapp/UserPages/Login.aspx",
       "sourceUrl": "https://boards.mo.gov/userpages/Board.aspx?407",
-      "lastVerified": "2026-08-17",
+      "lastVerified": "2026-09-21",
       "criticalNote": "Current vacancy or expired term per boards.mo.gov"
     },
     {
-      "id": 31,
+      "id": 26,
       "name": "Children's Trust Fund Board",
       "domain": "justice",
       "totalSeats": null,
@@ -451,11 +381,11 @@
       "constituent": null,
       "applyUrl": "https://apps1.mo.gov/boardsapp/UserPages/Login.aspx",
       "sourceUrl": "https://boards.mo.gov/userpages/Board.aspx?16",
-      "lastVerified": "2026-08-17",
+      "lastVerified": "2026-09-21",
       "criticalNote": "Current vacancy or expired term per boards.mo.gov"
     },
     {
-      "id": 32,
+      "id": 27,
       "name": "Citizen's Land Development Cooperative Commission",
       "domain": "environment",
       "totalSeats": null,
@@ -465,11 +395,11 @@
       "constituent": null,
       "applyUrl": "https://apps1.mo.gov/boardsapp/UserPages/Login.aspx",
       "sourceUrl": "https://boards.mo.gov/userpages/Board.aspx?495",
-      "lastVerified": "2026-08-17",
+      "lastVerified": "2026-09-21",
       "criticalNote": "Current vacancy or expired term per boards.mo.gov"
     },
     {
-      "id": 33,
+      "id": 28,
       "name": "Clay County Board of Election Commissioners",
       "domain": "justice",
       "totalSeats": null,
@@ -479,11 +409,11 @@
       "constituent": null,
       "applyUrl": "https://apps1.mo.gov/boardsapp/UserPages/Login.aspx",
       "sourceUrl": "https://boards.mo.gov/userpages/Board.aspx?39",
-      "lastVerified": "2026-08-17",
+      "lastVerified": "2026-09-21",
       "criticalNote": "Current vacancy or expired term per boards.mo.gov"
     },
     {
-      "id": 34,
+      "id": 29,
       "name": "Clay County Sports Complex Authority",
       "domain": "justice",
       "totalSeats": null,
@@ -493,11 +423,11 @@
       "constituent": null,
       "applyUrl": "https://apps1.mo.gov/boardsapp/UserPages/Login.aspx",
       "sourceUrl": "https://boards.mo.gov/userpages/Board.aspx?500",
-      "lastVerified": "2026-08-17",
+      "lastVerified": "2026-09-21",
       "criticalNote": "Current vacancy or expired term per boards.mo.gov"
     },
     {
-      "id": 35,
+      "id": 30,
       "name": "Clean Water Commission",
       "domain": "environment",
       "totalSeats": null,
@@ -507,11 +437,11 @@
       "constituent": null,
       "applyUrl": "https://apps1.mo.gov/boardsapp/UserPages/Login.aspx",
       "sourceUrl": "https://boards.mo.gov/userpages/Board.aspx?40",
-      "lastVerified": "2026-08-17",
+      "lastVerified": "2026-09-21",
       "criticalNote": "Current vacancy or expired term per boards.mo.gov"
     },
     {
-      "id": 36,
+      "id": 31,
       "name": "Commission on Retirement, Removal, and Discipline of Judges",
       "domain": "justice",
       "totalSeats": null,
@@ -521,11 +451,11 @@
       "constituent": null,
       "applyUrl": "https://apps1.mo.gov/boardsapp/UserPages/Login.aspx",
       "sourceUrl": "https://boards.mo.gov/userpages/Board.aspx?178",
-      "lastVerified": "2026-08-17",
+      "lastVerified": "2026-09-21",
       "criticalNote": "Current vacancy or expired term per boards.mo.gov"
     },
     {
-      "id": 37,
+      "id": 32,
       "name": "Committee for Professional Counselors",
       "domain": "justice",
       "totalSeats": null,
@@ -535,25 +465,11 @@
       "constituent": null,
       "applyUrl": "https://apps1.mo.gov/boardsapp/UserPages/Login.aspx",
       "sourceUrl": "https://boards.mo.gov/userpages/Board.aspx?131",
-      "lastVerified": "2026-08-17",
+      "lastVerified": "2026-09-21",
       "criticalNote": "Current vacancy or expired term per boards.mo.gov"
     },
     {
-      "id": 38,
-      "name": "Coordinating Board for Early Childhood",
-      "domain": "education",
-      "totalSeats": null,
-      "vacantSeats": 1,
-      "vacantSince": null,
-      "authority": "Governor's Office — Boards & Commissions",
-      "constituent": null,
-      "applyUrl": "https://apps1.mo.gov/boardsapp/UserPages/Login.aspx",
-      "sourceUrl": "https://boards.mo.gov/userpages/Board.aspx?55",
-      "lastVerified": "2026-08-17",
-      "criticalNote": "Current vacancy or expired term per boards.mo.gov"
-    },
-    {
-      "id": 39,
+      "id": 33,
       "name": "Coordinating Board for Higher Education",
       "domain": "education",
       "totalSeats": null,
@@ -563,11 +479,11 @@
       "constituent": null,
       "applyUrl": "https://apps1.mo.gov/boardsapp/UserPages/Login.aspx",
       "sourceUrl": "https://boards.mo.gov/userpages/Board.aspx?179",
-      "lastVerified": "2026-08-17",
+      "lastVerified": "2026-09-21",
       "criticalNote": "Current vacancy or expired term per boards.mo.gov"
     },
     {
-      "id": 40,
+      "id": 34,
       "name": "County Employees Retirement Fund Board of Directors",
       "domain": "justice",
       "totalSeats": null,
@@ -577,11 +493,11 @@
       "constituent": null,
       "applyUrl": "https://apps1.mo.gov/boardsapp/UserPages/Login.aspx",
       "sourceUrl": "https://boards.mo.gov/userpages/Board.aspx?181",
-      "lastVerified": "2026-08-17",
+      "lastVerified": "2026-09-21",
       "criticalNote": "Current vacancy or expired term per boards.mo.gov"
     },
     {
-      "id": 41,
+      "id": 35,
       "name": "Credit Union Commission",
       "domain": "justice",
       "totalSeats": null,
@@ -591,11 +507,11 @@
       "constituent": null,
       "applyUrl": "https://apps1.mo.gov/boardsapp/UserPages/Login.aspx",
       "sourceUrl": "https://boards.mo.gov/userpages/Board.aspx?182",
-      "lastVerified": "2026-08-17",
+      "lastVerified": "2026-09-21",
       "criticalNote": "Current vacancy or expired term per boards.mo.gov"
     },
     {
-      "id": 42,
+      "id": 36,
       "name": "Crime Laboratory Review Commission",
       "domain": "justice",
       "totalSeats": null,
@@ -605,11 +521,11 @@
       "constituent": null,
       "applyUrl": "https://apps1.mo.gov/boardsapp/UserPages/Login.aspx",
       "sourceUrl": "https://boards.mo.gov/userpages/Board.aspx?191",
-      "lastVerified": "2026-08-17",
+      "lastVerified": "2026-09-21",
       "criticalNote": "Current vacancy or expired term per boards.mo.gov"
     },
     {
-      "id": 43,
+      "id": 37,
       "name": "Dam and Reservoir Safety Council",
       "domain": "justice",
       "totalSeats": null,
@@ -619,11 +535,11 @@
       "constituent": null,
       "applyUrl": "https://apps1.mo.gov/boardsapp/UserPages/Login.aspx",
       "sourceUrl": "https://boards.mo.gov/userpages/Board.aspx?183",
-      "lastVerified": "2026-08-17",
+      "lastVerified": "2026-09-21",
       "criticalNote": "Current vacancy or expired term per boards.mo.gov"
     },
     {
-      "id": 44,
+      "id": 38,
       "name": "Drug Utilization Review Board",
       "domain": "health",
       "totalSeats": null,
@@ -633,11 +549,11 @@
       "constituent": null,
       "applyUrl": "https://apps1.mo.gov/boardsapp/UserPages/Login.aspx",
       "sourceUrl": "https://boards.mo.gov/userpages/Board.aspx?184",
-      "lastVerified": "2026-08-17",
+      "lastVerified": "2026-09-21",
       "criticalNote": "Current vacancy or expired term per boards.mo.gov"
     },
     {
-      "id": 45,
+      "id": 39,
       "name": "Elevator Safety Board",
       "domain": "justice",
       "totalSeats": null,
@@ -647,11 +563,11 @@
       "constituent": null,
       "applyUrl": "https://apps1.mo.gov/boardsapp/UserPages/Login.aspx",
       "sourceUrl": "https://boards.mo.gov/userpages/Board.aspx?186",
-      "lastVerified": "2026-08-17",
+      "lastVerified": "2026-09-21",
       "criticalNote": "Current vacancy or expired term per boards.mo.gov"
     },
     {
-      "id": 46,
+      "id": 40,
       "name": "Governor's Council on Disability",
       "domain": "disability",
       "totalSeats": null,
@@ -661,11 +577,11 @@
       "constituent": null,
       "applyUrl": "https://apps1.mo.gov/boardsapp/UserPages/Login.aspx",
       "sourceUrl": "https://boards.mo.gov/userpages/Board.aspx?192",
-      "lastVerified": "2026-08-17",
+      "lastVerified": "2026-09-21",
       "criticalNote": "Current vacancy or expired term per boards.mo.gov"
     },
     {
-      "id": 47,
+      "id": 41,
       "name": "Harris-Stowe State University Board of Regents",
       "domain": "education",
       "totalSeats": null,
@@ -675,11 +591,11 @@
       "constituent": null,
       "applyUrl": "https://apps1.mo.gov/boardsapp/UserPages/Login.aspx",
       "sourceUrl": "https://boards.mo.gov/userpages/Board.aspx?193",
-      "lastVerified": "2026-08-17",
+      "lastVerified": "2026-09-21",
       "criticalNote": "Current vacancy or expired term per boards.mo.gov"
     },
     {
-      "id": 48,
+      "id": 42,
       "name": "Hazardous Waste Management Commission",
       "domain": "justice",
       "totalSeats": null,
@@ -689,11 +605,11 @@
       "constituent": null,
       "applyUrl": "https://apps1.mo.gov/boardsapp/UserPages/Login.aspx",
       "sourceUrl": "https://boards.mo.gov/userpages/Board.aspx?194",
-      "lastVerified": "2026-08-17",
+      "lastVerified": "2026-09-21",
       "criticalNote": "Current vacancy or expired term per boards.mo.gov"
     },
     {
-      "id": 49,
+      "id": 43,
       "name": "Health and Educational Facilities Authority of the State of Missouri",
       "domain": "health",
       "totalSeats": null,
@@ -703,11 +619,11 @@
       "constituent": null,
       "applyUrl": "https://apps1.mo.gov/boardsapp/UserPages/Login.aspx",
       "sourceUrl": "https://boards.mo.gov/userpages/Board.aspx?195",
-      "lastVerified": "2026-08-17",
+      "lastVerified": "2026-09-21",
       "criticalNote": "Current vacancy or expired term per boards.mo.gov"
     },
     {
-      "id": 50,
+      "id": 44,
       "name": "Holocaust Education and Awareness Commission",
       "domain": "education",
       "totalSeats": null,
@@ -717,11 +633,11 @@
       "constituent": null,
       "applyUrl": "https://apps1.mo.gov/boardsapp/UserPages/Login.aspx",
       "sourceUrl": "https://boards.mo.gov/userpages/Board.aspx?197",
-      "lastVerified": "2026-08-17",
+      "lastVerified": "2026-09-21",
       "criticalNote": "Current vacancy or expired term per boards.mo.gov"
     },
     {
-      "id": 51,
+      "id": 45,
       "name": "Interscholastic Athletic Oversight Commission",
       "domain": "justice",
       "totalSeats": null,
@@ -731,11 +647,11 @@
       "constituent": null,
       "applyUrl": "https://apps1.mo.gov/boardsapp/UserPages/Login.aspx",
       "sourceUrl": "https://boards.mo.gov/userpages/Board.aspx?503",
-      "lastVerified": "2026-08-17",
+      "lastVerified": "2026-09-21",
       "criticalNote": "Current vacancy or expired term per boards.mo.gov"
     },
     {
-      "id": 52,
+      "id": 46,
       "name": "Interstate Mining Compact Commission",
       "domain": "justice",
       "totalSeats": null,
@@ -745,11 +661,11 @@
       "constituent": null,
       "applyUrl": "https://apps1.mo.gov/boardsapp/UserPages/Login.aspx",
       "sourceUrl": "https://boards.mo.gov/userpages/Board.aspx?201",
-      "lastVerified": "2026-08-17",
+      "lastVerified": "2026-09-21",
       "criticalNote": "Current vacancy or expired term per boards.mo.gov"
     },
     {
-      "id": 53,
+      "id": 47,
       "name": "Jackson County Board of Election Commissioners",
       "domain": "justice",
       "totalSeats": null,
@@ -759,11 +675,11 @@
       "constituent": null,
       "applyUrl": "https://apps1.mo.gov/boardsapp/UserPages/Login.aspx",
       "sourceUrl": "https://boards.mo.gov/userpages/Board.aspx?202",
-      "lastVerified": "2026-08-17",
+      "lastVerified": "2026-09-21",
       "criticalNote": "Current vacancy or expired term per boards.mo.gov"
     },
     {
-      "id": 54,
+      "id": 48,
       "name": "Jackson County Sports Complex Authority",
       "domain": "justice",
       "totalSeats": null,
@@ -773,11 +689,11 @@
       "constituent": null,
       "applyUrl": "https://apps1.mo.gov/boardsapp/UserPages/Login.aspx",
       "sourceUrl": "https://boards.mo.gov/userpages/Board.aspx?42",
-      "lastVerified": "2026-08-17",
+      "lastVerified": "2026-09-21",
       "criticalNote": "Current vacancy or expired term per boards.mo.gov"
     },
     {
-      "id": 55,
+      "id": 49,
       "name": "Kansas City Board of Election Commissioners",
       "domain": "justice",
       "totalSeats": null,
@@ -787,11 +703,11 @@
       "constituent": null,
       "applyUrl": "https://apps1.mo.gov/boardsapp/UserPages/Login.aspx",
       "sourceUrl": "https://boards.mo.gov/userpages/Board.aspx?20",
-      "lastVerified": "2026-08-17",
+      "lastVerified": "2026-09-21",
       "criticalNote": "Current vacancy or expired term per boards.mo.gov"
     },
     {
-      "id": 56,
+      "id": 50,
       "name": "Kansas City Board of Police Commissioners",
       "domain": "justice",
       "totalSeats": null,
@@ -801,11 +717,11 @@
       "constituent": null,
       "applyUrl": "https://apps1.mo.gov/boardsapp/UserPages/Login.aspx",
       "sourceUrl": "https://boards.mo.gov/userpages/Board.aspx?21",
-      "lastVerified": "2026-08-17",
+      "lastVerified": "2026-09-21",
       "criticalNote": "Current vacancy or expired term per boards.mo.gov"
     },
     {
-      "id": 57,
+      "id": 51,
       "name": "Labor and Industrial Relations Commission",
       "domain": "justice",
       "totalSeats": null,
@@ -815,25 +731,11 @@
       "constituent": null,
       "applyUrl": "https://apps1.mo.gov/boardsapp/UserPages/Login.aspx",
       "sourceUrl": "https://boards.mo.gov/userpages/Board.aspx?22",
-      "lastVerified": "2026-08-17",
+      "lastVerified": "2026-09-21",
       "criticalNote": "Current vacancy or expired term per boards.mo.gov"
     },
     {
-      "id": 58,
-      "name": "Life Sciences Research Board",
-      "domain": "justice",
-      "totalSeats": null,
-      "vacantSeats": 1,
-      "vacantSince": null,
-      "authority": "Governor's Office — Boards & Commissions",
-      "constituent": null,
-      "applyUrl": "https://apps1.mo.gov/boardsapp/UserPages/Login.aspx",
-      "sourceUrl": "https://boards.mo.gov/userpages/Board.aspx?24",
-      "lastVerified": "2026-08-17",
-      "criticalNote": "Current vacancy or expired term per boards.mo.gov"
-    },
-    {
-      "id": 59,
+      "id": 52,
       "name": "Lincoln University Board of Curators",
       "domain": "education",
       "totalSeats": null,
@@ -843,11 +745,11 @@
       "constituent": null,
       "applyUrl": "https://apps1.mo.gov/boardsapp/UserPages/Login.aspx",
       "sourceUrl": "https://boards.mo.gov/userpages/Board.aspx?25",
-      "lastVerified": "2026-08-17",
+      "lastVerified": "2026-09-21",
       "criticalNote": "Current vacancy or expired term per boards.mo.gov"
     },
     {
-      "id": 60,
+      "id": 53,
       "name": "Martin Luther King, Jr. State Celebration Commission",
       "domain": "justice",
       "totalSeats": null,
@@ -857,11 +759,11 @@
       "constituent": null,
       "applyUrl": "https://apps1.mo.gov/boardsapp/UserPages/Login.aspx",
       "sourceUrl": "https://boards.mo.gov/userpages/Board.aspx?29",
-      "lastVerified": "2026-08-17",
+      "lastVerified": "2026-09-21",
       "criticalNote": "Current vacancy or expired term per boards.mo.gov"
     },
     {
-      "id": 61,
+      "id": 54,
       "name": "Mental Health Commission",
       "domain": "health",
       "totalSeats": null,
@@ -871,11 +773,11 @@
       "constituent": null,
       "applyUrl": "https://apps1.mo.gov/boardsapp/UserPages/Login.aspx",
       "sourceUrl": "https://boards.mo.gov/userpages/Board.aspx?30",
-      "lastVerified": "2026-08-17",
+      "lastVerified": "2026-09-21",
       "criticalNote": "Current vacancy or expired term per boards.mo.gov"
     },
     {
-      "id": 62,
+      "id": 55,
       "name": "Midwest Interstate Passenger Rail Compact",
       "domain": "justice",
       "totalSeats": null,
@@ -885,11 +787,11 @@
       "constituent": null,
       "applyUrl": "https://apps1.mo.gov/boardsapp/UserPages/Login.aspx",
       "sourceUrl": "https://boards.mo.gov/userpages/Board.aspx?204",
-      "lastVerified": "2026-08-17",
+      "lastVerified": "2026-09-21",
       "criticalNote": "Current vacancy or expired term per boards.mo.gov"
     },
     {
-      "id": 63,
+      "id": 56,
       "name": "Midwestern Higher Education Commission",
       "domain": "education",
       "totalSeats": null,
@@ -899,25 +801,11 @@
       "constituent": null,
       "applyUrl": "https://apps1.mo.gov/boardsapp/UserPages/Login.aspx",
       "sourceUrl": "https://boards.mo.gov/userpages/Board.aspx?205",
-      "lastVerified": "2026-08-17",
+      "lastVerified": "2026-09-21",
       "criticalNote": "Current vacancy or expired term per boards.mo.gov"
     },
     {
-      "id": 64,
-      "name": "Minority and Underrepresented Environmental Literacy Program",
-      "domain": "equity",
-      "totalSeats": null,
-      "vacantSeats": 1,
-      "vacantSince": null,
-      "authority": "Governor's Office — Boards & Commissions",
-      "constituent": null,
-      "applyUrl": "https://apps1.mo.gov/boardsapp/UserPages/Login.aspx",
-      "sourceUrl": "https://boards.mo.gov/userpages/Board.aspx?206",
-      "lastVerified": "2026-08-17",
-      "criticalNote": "Current vacancy or expired term per boards.mo.gov"
-    },
-    {
-      "id": 65,
+      "id": 57,
       "name": "Mississippi River Parkway Commission",
       "domain": "justice",
       "totalSeats": null,
@@ -927,11 +815,11 @@
       "constituent": null,
       "applyUrl": "https://apps1.mo.gov/boardsapp/UserPages/Login.aspx",
       "sourceUrl": "https://boards.mo.gov/userpages/Board.aspx?207",
-      "lastVerified": "2026-08-17",
+      "lastVerified": "2026-09-21",
       "criticalNote": "Current vacancy or expired term per boards.mo.gov"
     },
     {
-      "id": 66,
+      "id": 58,
       "name": "Missouri 911 Service Board",
       "domain": "justice",
       "totalSeats": null,
@@ -941,11 +829,11 @@
       "constituent": null,
       "applyUrl": "https://apps1.mo.gov/boardsapp/UserPages/Login.aspx",
       "sourceUrl": "https://boards.mo.gov/userpages/Board.aspx?8",
-      "lastVerified": "2026-08-17",
+      "lastVerified": "2026-09-21",
       "criticalNote": "Current vacancy or expired term per boards.mo.gov"
     },
     {
-      "id": 67,
+      "id": 59,
       "name": "Missouri Achieving a Better Life Experience Board",
       "domain": "justice",
       "totalSeats": null,
@@ -955,11 +843,11 @@
       "constituent": null,
       "applyUrl": "https://apps1.mo.gov/boardsapp/UserPages/Login.aspx",
       "sourceUrl": "https://boards.mo.gov/userpages/Board.aspx?422",
-      "lastVerified": "2026-08-17",
+      "lastVerified": "2026-09-21",
       "criticalNote": "Current vacancy or expired term per boards.mo.gov"
     },
     {
-      "id": 68,
+      "id": 60,
       "name": "Missouri Advisory Council on Historic Preservation",
       "domain": "justice",
       "totalSeats": null,
@@ -969,11 +857,11 @@
       "constituent": null,
       "applyUrl": "https://apps1.mo.gov/boardsapp/UserPages/Login.aspx",
       "sourceUrl": "https://boards.mo.gov/userpages/Board.aspx?209",
-      "lastVerified": "2026-08-17",
+      "lastVerified": "2026-09-21",
       "criticalNote": "Current vacancy or expired term per boards.mo.gov"
     },
     {
-      "id": 69,
+      "id": 61,
       "name": "Missouri Agricultural and Small Business Development Authority",
       "domain": "justice",
       "totalSeats": null,
@@ -983,11 +871,11 @@
       "constituent": null,
       "applyUrl": "https://apps1.mo.gov/boardsapp/UserPages/Login.aspx",
       "sourceUrl": "https://boards.mo.gov/userpages/Board.aspx?210",
-      "lastVerified": "2026-08-17",
+      "lastVerified": "2026-09-21",
       "criticalNote": "Current vacancy or expired term per boards.mo.gov"
     },
     {
-      "id": 70,
+      "id": 62,
       "name": "Missouri Alternative Fuels Commission",
       "domain": "justice",
       "totalSeats": null,
@@ -997,11 +885,11 @@
       "constituent": null,
       "applyUrl": "https://apps1.mo.gov/boardsapp/UserPages/Login.aspx",
       "sourceUrl": "https://boards.mo.gov/userpages/Board.aspx?211",
-      "lastVerified": "2026-08-17",
+      "lastVerified": "2026-09-21",
       "criticalNote": "Current vacancy or expired term per boards.mo.gov"
     },
     {
-      "id": 71,
+      "id": 63,
       "name": "Missouri Assistive Technology Advisory Council",
       "domain": "justice",
       "totalSeats": null,
@@ -1011,11 +899,11 @@
       "constituent": null,
       "applyUrl": "https://apps1.mo.gov/boardsapp/UserPages/Login.aspx",
       "sourceUrl": "https://boards.mo.gov/userpages/Board.aspx?213",
-      "lastVerified": "2026-08-17",
+      "lastVerified": "2026-09-21",
       "criticalNote": "Current vacancy or expired term per boards.mo.gov"
     },
     {
-      "id": 72,
+      "id": 64,
       "name": "Missouri Board for Architects, Professional Engineers, Professional Land Surveyors, and Professional Landscape Architects",
       "domain": "environment",
       "totalSeats": null,
@@ -1025,11 +913,11 @@
       "constituent": null,
       "applyUrl": "https://apps1.mo.gov/boardsapp/UserPages/Login.aspx",
       "sourceUrl": "https://boards.mo.gov/userpages/Board.aspx?270",
-      "lastVerified": "2026-08-17",
+      "lastVerified": "2026-09-21",
       "criticalNote": "Current vacancy or expired term per boards.mo.gov"
     },
     {
-      "id": 73,
+      "id": 65,
       "name": "Missouri Board for Respiratory Care",
       "domain": "justice",
       "totalSeats": null,
@@ -1039,11 +927,11 @@
       "constituent": null,
       "applyUrl": "https://apps1.mo.gov/boardsapp/UserPages/Login.aspx",
       "sourceUrl": "https://boards.mo.gov/userpages/Board.aspx?271",
-      "lastVerified": "2026-08-17",
+      "lastVerified": "2026-09-21",
       "criticalNote": "Current vacancy or expired term per boards.mo.gov"
     },
     {
-      "id": 74,
+      "id": 66,
       "name": "Missouri Board of Examiners for Hearing Instrument Specialists",
       "domain": "justice",
       "totalSeats": null,
@@ -1053,11 +941,11 @@
       "constituent": null,
       "applyUrl": "https://apps1.mo.gov/boardsapp/UserPages/Login.aspx",
       "sourceUrl": "https://boards.mo.gov/userpages/Board.aspx?175",
-      "lastVerified": "2026-08-17",
+      "lastVerified": "2026-09-21",
       "criticalNote": "Current vacancy or expired term per boards.mo.gov"
     },
     {
-      "id": 75,
+      "id": 67,
       "name": "Missouri Board of Occupational Therapy",
       "domain": "justice",
       "totalSeats": null,
@@ -1067,11 +955,11 @@
       "constituent": null,
       "applyUrl": "https://apps1.mo.gov/boardsapp/UserPages/Login.aspx",
       "sourceUrl": "https://boards.mo.gov/userpages/Board.aspx?32",
-      "lastVerified": "2026-08-17",
+      "lastVerified": "2026-09-21",
       "criticalNote": "Current vacancy or expired term per boards.mo.gov"
     },
     {
-      "id": 76,
+      "id": 68,
       "name": "Missouri Charter Public School Commission",
       "domain": "education",
       "totalSeats": null,
@@ -1081,11 +969,25 @@
       "constituent": null,
       "applyUrl": "https://apps1.mo.gov/boardsapp/UserPages/Login.aspx",
       "sourceUrl": "https://boards.mo.gov/userpages/Board.aspx?349",
-      "lastVerified": "2026-08-17",
+      "lastVerified": "2026-09-21",
       "criticalNote": "Current vacancy or expired term per boards.mo.gov"
     },
     {
-      "id": 77,
+      "id": 69,
+      "name": "Missouri Child Welfare Task Force",
+      "domain": "justice",
+      "totalSeats": null,
+      "vacantSeats": 1,
+      "vacantSince": null,
+      "authority": "Governor's Office — Boards & Commissions",
+      "constituent": null,
+      "applyUrl": "https://apps1.mo.gov/boardsapp/UserPages/Login.aspx",
+      "sourceUrl": "https://boards.mo.gov/userpages/Board.aspx?508",
+      "lastVerified": "2026-09-21",
+      "criticalNote": "Current vacancy or expired term per boards.mo.gov"
+    },
+    {
+      "id": 70,
       "name": "Missouri Citizens' Commission on Compensation for Elected Officials",
       "domain": "justice",
       "totalSeats": null,
@@ -1095,11 +997,11 @@
       "constituent": null,
       "applyUrl": "https://apps1.mo.gov/boardsapp/UserPages/Login.aspx",
       "sourceUrl": "https://boards.mo.gov/userpages/Board.aspx?33",
-      "lastVerified": "2026-08-17",
+      "lastVerified": "2026-09-21",
       "criticalNote": "Current vacancy or expired term per boards.mo.gov"
     },
     {
-      "id": 78,
+      "id": 71,
       "name": "Missouri Commission for the Deaf and Hard of Hearing",
       "domain": "disability",
       "totalSeats": null,
@@ -1109,11 +1011,11 @@
       "constituent": null,
       "applyUrl": "https://apps1.mo.gov/boardsapp/UserPages/Login.aspx",
       "sourceUrl": "https://boards.mo.gov/userpages/Board.aspx?43",
-      "lastVerified": "2026-08-17",
+      "lastVerified": "2026-09-21",
       "criticalNote": "Current vacancy or expired term per boards.mo.gov"
     },
     {
-      "id": 79,
+      "id": 72,
       "name": "Missouri Commission on Human Rights",
       "domain": "equity",
       "totalSeats": null,
@@ -1123,11 +1025,11 @@
       "constituent": null,
       "applyUrl": "https://apps1.mo.gov/boardsapp/UserPages/Login.aspx",
       "sourceUrl": "https://boards.mo.gov/userpages/Board.aspx?45",
-      "lastVerified": "2026-08-17",
+      "lastVerified": "2026-09-21",
       "criticalNote": "Current vacancy or expired term per boards.mo.gov"
     },
     {
-      "id": 80,
+      "id": 73,
       "name": "Missouri Community Service Commission",
       "domain": "justice",
       "totalSeats": null,
@@ -1137,11 +1039,11 @@
       "constituent": null,
       "applyUrl": "https://apps1.mo.gov/boardsapp/UserPages/Login.aspx",
       "sourceUrl": "https://boards.mo.gov/userpages/Board.aspx?62",
-      "lastVerified": "2026-08-17",
+      "lastVerified": "2026-09-21",
       "criticalNote": "Current vacancy or expired term per boards.mo.gov"
     },
     {
-      "id": 81,
+      "id": 74,
       "name": "Missouri Consolidated Health Care Plan Board of Trustees",
       "domain": "health",
       "totalSeats": null,
@@ -1151,11 +1053,11 @@
       "constituent": null,
       "applyUrl": "https://apps1.mo.gov/boardsapp/UserPages/Login.aspx",
       "sourceUrl": "https://boards.mo.gov/userpages/Board.aspx?54",
-      "lastVerified": "2026-08-17",
+      "lastVerified": "2026-09-21",
       "criticalNote": "Current vacancy or expired term per boards.mo.gov"
     },
     {
-      "id": 82,
+      "id": 75,
       "name": "Missouri Cotton Growers' Organization Board of Directors",
       "domain": "justice",
       "totalSeats": null,
@@ -1165,25 +1067,11 @@
       "constituent": null,
       "applyUrl": "https://apps1.mo.gov/boardsapp/UserPages/Login.aspx",
       "sourceUrl": "https://boards.mo.gov/userpages/Board.aspx?63",
-      "lastVerified": "2026-08-17",
+      "lastVerified": "2026-09-21",
       "criticalNote": "Current vacancy or expired term per boards.mo.gov"
     },
     {
-      "id": 83,
-      "name": "Missouri Cybersecurity Commission",
-      "domain": "justice",
-      "totalSeats": null,
-      "vacantSeats": 1,
-      "vacantSince": null,
-      "authority": "Governor's Office — Boards & Commissions",
-      "constituent": null,
-      "applyUrl": "https://apps1.mo.gov/boardsapp/UserPages/Login.aspx",
-      "sourceUrl": "https://boards.mo.gov/userpages/Board.aspx?471",
-      "lastVerified": "2026-08-17",
-      "criticalNote": "Current vacancy or expired term per boards.mo.gov"
-    },
-    {
-      "id": 84,
+      "id": 76,
       "name": "Missouri Development Finance Board",
       "domain": "justice",
       "totalSeats": null,
@@ -1193,11 +1081,11 @@
       "constituent": null,
       "applyUrl": "https://apps1.mo.gov/boardsapp/UserPages/Login.aspx",
       "sourceUrl": "https://boards.mo.gov/userpages/Board.aspx?65",
-      "lastVerified": "2026-08-17",
+      "lastVerified": "2026-09-21",
       "criticalNote": "Current vacancy or expired term per boards.mo.gov"
     },
     {
-      "id": 85,
+      "id": 77,
       "name": "Missouri Developmental Disabilities Council",
       "domain": "disability",
       "totalSeats": null,
@@ -1207,11 +1095,11 @@
       "constituent": null,
       "applyUrl": "https://apps1.mo.gov/boardsapp/UserPages/Login.aspx",
       "sourceUrl": "https://boards.mo.gov/userpages/Board.aspx?58",
-      "lastVerified": "2026-08-17",
+      "lastVerified": "2026-09-21",
       "criticalNote": "Current vacancy or expired term per boards.mo.gov"
     },
     {
-      "id": 86,
+      "id": 78,
       "name": "Missouri Early Childhood State Advisory Council (State Interagency Coordinating Council)",
       "domain": "education",
       "totalSeats": null,
@@ -1221,11 +1109,11 @@
       "constituent": null,
       "applyUrl": "https://apps1.mo.gov/boardsapp/UserPages/Login.aspx",
       "sourceUrl": "https://boards.mo.gov/userpages/Board.aspx?140",
-      "lastVerified": "2026-08-17",
+      "lastVerified": "2026-09-21",
       "criticalNote": "Current vacancy or expired term per boards.mo.gov"
     },
     {
-      "id": 87,
+      "id": 79,
       "name": "Missouri Education Savings Program Board",
       "domain": "education",
       "totalSeats": null,
@@ -1235,11 +1123,11 @@
       "constituent": null,
       "applyUrl": "https://apps1.mo.gov/boardsapp/UserPages/Login.aspx",
       "sourceUrl": "https://boards.mo.gov/userpages/Board.aspx?443",
-      "lastVerified": "2026-08-17",
+      "lastVerified": "2026-09-21",
       "criticalNote": "Current vacancy or expired term per boards.mo.gov"
     },
     {
-      "id": 88,
+      "id": 80,
       "name": "Missouri Emergency Response Commission",
       "domain": "justice",
       "totalSeats": null,
@@ -1249,11 +1137,11 @@
       "constituent": null,
       "applyUrl": "https://apps1.mo.gov/boardsapp/UserPages/Login.aspx",
       "sourceUrl": "https://boards.mo.gov/userpages/Board.aspx?66",
-      "lastVerified": "2026-08-17",
+      "lastVerified": "2026-09-21",
       "criticalNote": "Current vacancy or expired term per boards.mo.gov"
     },
     {
-      "id": 89,
+      "id": 81,
       "name": "Missouri Empowerment Scholarship Accounts Board",
       "domain": "justice",
       "totalSeats": null,
@@ -1263,11 +1151,11 @@
       "constituent": null,
       "applyUrl": "https://apps1.mo.gov/boardsapp/UserPages/Login.aspx",
       "sourceUrl": "https://boards.mo.gov/userpages/Board.aspx?480",
-      "lastVerified": "2026-08-17",
+      "lastVerified": "2026-09-21",
       "criticalNote": "Current vacancy or expired term per boards.mo.gov"
     },
     {
-      "id": 90,
+      "id": 82,
       "name": "Missouri Ethics Commission",
       "domain": "justice",
       "totalSeats": null,
@@ -1277,11 +1165,11 @@
       "constituent": null,
       "applyUrl": "https://apps1.mo.gov/boardsapp/UserPages/Login.aspx",
       "sourceUrl": "https://boards.mo.gov/userpages/Board.aspx?272",
-      "lastVerified": "2026-08-17",
+      "lastVerified": "2026-09-21",
       "criticalNote": "Current vacancy or expired term per boards.mo.gov"
     },
     {
-      "id": 91,
+      "id": 83,
       "name": "Missouri Family Trust Board of Trustees",
       "domain": "justice",
       "totalSeats": null,
@@ -1291,11 +1179,11 @@
       "constituent": null,
       "applyUrl": "https://apps1.mo.gov/boardsapp/UserPages/Login.aspx",
       "sourceUrl": "https://boards.mo.gov/userpages/Board.aspx?273",
-      "lastVerified": "2026-08-17",
+      "lastVerified": "2026-09-21",
       "criticalNote": "Current vacancy or expired term per boards.mo.gov"
     },
     {
-      "id": 92,
+      "id": 84,
       "name": "Missouri Fire Safety Education / Advisory Commission",
       "domain": "education",
       "totalSeats": null,
@@ -1305,11 +1193,11 @@
       "constituent": null,
       "applyUrl": "https://apps1.mo.gov/boardsapp/UserPages/Login.aspx",
       "sourceUrl": "https://boards.mo.gov/userpages/Board.aspx?301",
-      "lastVerified": "2026-08-17",
+      "lastVerified": "2026-09-21",
       "criticalNote": "Current vacancy or expired term per boards.mo.gov"
     },
     {
-      "id": 93,
+      "id": 85,
       "name": "Missouri Gaming Commission",
       "domain": "justice",
       "totalSeats": null,
@@ -1319,11 +1207,11 @@
       "constituent": null,
       "applyUrl": "https://apps1.mo.gov/boardsapp/UserPages/Login.aspx",
       "sourceUrl": "https://boards.mo.gov/userpages/Board.aspx?304",
-      "lastVerified": "2026-08-17",
+      "lastVerified": "2026-09-21",
       "criticalNote": "Current vacancy or expired term per boards.mo.gov"
     },
     {
-      "id": 94,
+      "id": 86,
       "name": "Missouri Health Facilities Review Committee",
       "domain": "health",
       "totalSeats": null,
@@ -1333,11 +1221,11 @@
       "constituent": null,
       "applyUrl": "https://apps1.mo.gov/boardsapp/UserPages/Login.aspx",
       "sourceUrl": "https://boards.mo.gov/userpages/Board.aspx?307",
-      "lastVerified": "2026-08-17",
+      "lastVerified": "2026-09-21",
       "criticalNote": "Current vacancy or expired term per boards.mo.gov"
     },
     {
-      "id": 95,
+      "id": 87,
       "name": "Missouri Higher Education Loan Authority",
       "domain": "education",
       "totalSeats": null,
@@ -1347,11 +1235,11 @@
       "constituent": null,
       "applyUrl": "https://apps1.mo.gov/boardsapp/UserPages/Login.aspx",
       "sourceUrl": "https://boards.mo.gov/userpages/Board.aspx?56",
-      "lastVerified": "2026-08-17",
+      "lastVerified": "2026-09-21",
       "criticalNote": "Current vacancy or expired term per boards.mo.gov"
     },
     {
-      "id": 96,
+      "id": 88,
       "name": "Missouri Horse Racing Commission",
       "domain": "justice",
       "totalSeats": null,
@@ -1361,11 +1249,11 @@
       "constituent": null,
       "applyUrl": "https://apps1.mo.gov/boardsapp/UserPages/Login.aspx",
       "sourceUrl": "https://boards.mo.gov/userpages/Board.aspx?57",
-      "lastVerified": "2026-08-17",
+      "lastVerified": "2026-09-21",
       "criticalNote": "Current vacancy or expired term per boards.mo.gov"
     },
     {
-      "id": 97,
+      "id": 89,
       "name": "Missouri Housing Development Commission",
       "domain": "housing",
       "totalSeats": null,
@@ -1375,11 +1263,11 @@
       "constituent": null,
       "applyUrl": "https://apps1.mo.gov/boardsapp/UserPages/Login.aspx",
       "sourceUrl": "https://boards.mo.gov/userpages/Board.aspx?67",
-      "lastVerified": "2026-08-17",
+      "lastVerified": "2026-09-21",
       "criticalNote": "Current vacancy or expired term per boards.mo.gov"
     },
     {
-      "id": 98,
+      "id": 90,
       "name": "Missouri Ireland Trade Commission",
       "domain": "environment",
       "totalSeats": null,
@@ -1389,11 +1277,11 @@
       "constituent": null,
       "applyUrl": "https://apps1.mo.gov/boardsapp/UserPages/Login.aspx",
       "sourceUrl": "https://boards.mo.gov/userpages/Board.aspx?505",
-      "lastVerified": "2026-08-17",
+      "lastVerified": "2026-09-21",
       "criticalNote": "Current vacancy or expired term per boards.mo.gov"
     },
     {
-      "id": 99,
+      "id": 91,
       "name": "Missouri Juvenile Justice Advisory Group",
       "domain": "justice",
       "totalSeats": null,
@@ -1403,11 +1291,11 @@
       "constituent": null,
       "applyUrl": "https://apps1.mo.gov/boardsapp/UserPages/Login.aspx",
       "sourceUrl": "https://boards.mo.gov/userpages/Board.aspx?70",
-      "lastVerified": "2026-08-17",
+      "lastVerified": "2026-09-21",
       "criticalNote": "Current vacancy or expired term per boards.mo.gov"
     },
     {
-      "id": 100,
+      "id": 92,
       "name": "Missouri Local Government Employees Retirement System Board of Trustees",
       "domain": "justice",
       "totalSeats": null,
@@ -1417,11 +1305,11 @@
       "constituent": null,
       "applyUrl": "https://apps1.mo.gov/boardsapp/UserPages/Login.aspx",
       "sourceUrl": "https://boards.mo.gov/userpages/Board.aspx?72",
-      "lastVerified": "2026-08-17",
+      "lastVerified": "2026-09-21",
       "criticalNote": "Current vacancy or expired term per boards.mo.gov"
     },
     {
-      "id": 101,
+      "id": 93,
       "name": "Missouri Medal of Valor Review Board",
       "domain": "justice",
       "totalSeats": null,
@@ -1431,11 +1319,11 @@
       "constituent": null,
       "applyUrl": "https://apps1.mo.gov/boardsapp/UserPages/Login.aspx",
       "sourceUrl": "https://boards.mo.gov/userpages/Board.aspx?73",
-      "lastVerified": "2026-08-17",
+      "lastVerified": "2026-09-21",
       "criticalNote": "Current vacancy or expired term per boards.mo.gov"
     },
     {
-      "id": 102,
+      "id": 94,
       "name": "Missouri Military Preparedness and Enhancement Commission",
       "domain": "justice",
       "totalSeats": null,
@@ -1445,11 +1333,11 @@
       "constituent": null,
       "applyUrl": "https://apps1.mo.gov/boardsapp/UserPages/Login.aspx",
       "sourceUrl": "https://boards.mo.gov/userpages/Board.aspx?74",
-      "lastVerified": "2026-08-17",
+      "lastVerified": "2026-09-21",
       "criticalNote": "Current vacancy or expired term per boards.mo.gov"
     },
     {
-      "id": 103,
+      "id": 95,
       "name": "Missouri Mining Commission",
       "domain": "justice",
       "totalSeats": null,
@@ -1459,11 +1347,11 @@
       "constituent": null,
       "applyUrl": "https://apps1.mo.gov/boardsapp/UserPages/Login.aspx",
       "sourceUrl": "https://boards.mo.gov/userpages/Board.aspx?465",
-      "lastVerified": "2026-08-17",
+      "lastVerified": "2026-09-21",
       "criticalNote": "Current vacancy or expired term per boards.mo.gov"
     },
     {
-      "id": 104,
+      "id": 96,
       "name": "Missouri Minority Business Advocacy Commission",
       "domain": "equity",
       "totalSeats": null,
@@ -1473,11 +1361,11 @@
       "constituent": null,
       "applyUrl": "https://apps1.mo.gov/boardsapp/UserPages/Login.aspx",
       "sourceUrl": "https://boards.mo.gov/userpages/Board.aspx?75",
-      "lastVerified": "2026-08-17",
+      "lastVerified": "2026-09-21",
       "criticalNote": "Current vacancy or expired term per boards.mo.gov"
     },
     {
-      "id": 105,
+      "id": 97,
       "name": "Missouri Pet Spay/Neuter Fund Board",
       "domain": "justice",
       "totalSeats": null,
@@ -1487,11 +1375,11 @@
       "constituent": null,
       "applyUrl": "https://apps1.mo.gov/boardsapp/UserPages/Login.aspx",
       "sourceUrl": "https://boards.mo.gov/userpages/Board.aspx?76",
-      "lastVerified": "2026-08-17",
+      "lastVerified": "2026-09-21",
       "criticalNote": "Current vacancy or expired term per boards.mo.gov"
     },
     {
-      "id": 106,
+      "id": 98,
       "name": "Missouri Propane Safety Commission",
       "domain": "justice",
       "totalSeats": null,
@@ -1501,11 +1389,11 @@
       "constituent": null,
       "applyUrl": "https://apps1.mo.gov/boardsapp/UserPages/Login.aspx",
       "sourceUrl": "https://boards.mo.gov/userpages/Board.aspx?59",
-      "lastVerified": "2026-08-17",
+      "lastVerified": "2026-09-21",
       "criticalNote": "Current vacancy or expired term per boards.mo.gov"
     },
     {
-      "id": 107,
+      "id": 99,
       "name": "Missouri Public Entity Risk Management Board of Trustees",
       "domain": "justice",
       "totalSeats": null,
@@ -1515,11 +1403,11 @@
       "constituent": null,
       "applyUrl": "https://apps1.mo.gov/boardsapp/UserPages/Login.aspx",
       "sourceUrl": "https://boards.mo.gov/userpages/Board.aspx?310",
-      "lastVerified": "2026-08-17",
+      "lastVerified": "2026-09-21",
       "criticalNote": "Current vacancy or expired term per boards.mo.gov"
     },
     {
-      "id": 108,
+      "id": 100,
       "name": "Missouri Real Estate Appraisers Commission",
       "domain": "justice",
       "totalSeats": null,
@@ -1529,11 +1417,11 @@
       "constituent": null,
       "applyUrl": "https://apps1.mo.gov/boardsapp/UserPages/Login.aspx",
       "sourceUrl": "https://boards.mo.gov/userpages/Board.aspx?311",
-      "lastVerified": "2026-08-17",
+      "lastVerified": "2026-09-21",
       "criticalNote": "Current vacancy or expired term per boards.mo.gov"
     },
     {
-      "id": 109,
+      "id": 101,
       "name": "Missouri Real Estate Commission",
       "domain": "justice",
       "totalSeats": 7,
@@ -1543,13 +1431,13 @@
       "constituent": "Missouri home buyers & licensed real estate brokers",
       "applyUrl": "https://apps1.mo.gov/boardsapp/UserPages/Login.aspx",
       "sourceUrl": "https://boards.mo.gov/userpages/Board.aspx?312",
-      "lastVerified": "2026-08-17",
+      "lastVerified": "2026-09-21",
       "criticalNote": "Current vacancy or expired term per boards.mo.gov",
       "mandate": "Licenses and regulates Missouri's real estate brokers and salespersons. Seven members appointed by the Governor with Senate consent — six experienced brokers and one voting public member (RSMo 339.120).",
       "seatSource": "https://revisor.mo.gov/main/OneSection.aspx?section=339.120"
     },
     {
-      "id": 110,
+      "id": 102,
       "name": "Missouri Route 66 Centennial Commission",
       "domain": "justice",
       "totalSeats": null,
@@ -1559,11 +1447,11 @@
       "constituent": null,
       "applyUrl": "https://apps1.mo.gov/boardsapp/UserPages/Login.aspx",
       "sourceUrl": "https://boards.mo.gov/userpages/Board.aspx?429",
-      "lastVerified": "2026-08-17",
+      "lastVerified": "2026-09-21",
       "criticalNote": "Current vacancy or expired term per boards.mo.gov"
     },
     {
-      "id": 111,
+      "id": 103,
       "name": "Missouri Sheriff Methamphetamine Relief Taskforce",
       "domain": "justice",
       "totalSeats": null,
@@ -1573,25 +1461,11 @@
       "constituent": null,
       "applyUrl": "https://apps1.mo.gov/boardsapp/UserPages/Login.aspx",
       "sourceUrl": "https://boards.mo.gov/userpages/Board.aspx?316",
-      "lastVerified": "2026-08-17",
+      "lastVerified": "2026-09-21",
       "criticalNote": "Current vacancy or expired term per boards.mo.gov"
     },
     {
-      "id": 112,
-      "name": "Missouri Small Business Regulatory Fairness Board",
-      "domain": "justice",
-      "totalSeats": null,
-      "vacantSeats": 1,
-      "vacantSince": null,
-      "authority": "Governor's Office — Boards & Commissions",
-      "constituent": null,
-      "applyUrl": "https://apps1.mo.gov/boardsapp/UserPages/Login.aspx",
-      "sourceUrl": "https://boards.mo.gov/userpages/Board.aspx?317",
-      "lastVerified": "2026-08-17",
-      "criticalNote": "Current vacancy or expired term per boards.mo.gov"
-    },
-    {
-      "id": 113,
+      "id": 104,
       "name": "Missouri Southern State University Board of Governors",
       "domain": "education",
       "totalSeats": null,
@@ -1601,11 +1475,11 @@
       "constituent": null,
       "applyUrl": "https://apps1.mo.gov/boardsapp/UserPages/Login.aspx",
       "sourceUrl": "https://boards.mo.gov/userpages/Board.aspx?318",
-      "lastVerified": "2026-08-17",
+      "lastVerified": "2026-09-21",
       "criticalNote": "Current vacancy or expired term per boards.mo.gov"
     },
     {
-      "id": 114,
+      "id": 105,
       "name": "Missouri State Board of Accountancy",
       "domain": "justice",
       "totalSeats": 7,
@@ -1615,13 +1489,13 @@
       "constituent": "Missouri businesses & licensed CPAs · audit integrity",
       "applyUrl": "https://apps1.mo.gov/boardsapp/UserPages/Login.aspx",
       "sourceUrl": "https://boards.mo.gov/userpages/Board.aspx?320",
-      "lastVerified": "2026-08-17",
+      "lastVerified": "2026-09-21",
       "criticalNote": "Current vacancy or expired term per boards.mo.gov",
       "mandate": "Licenses and disciplines Missouri's certified public accountants. Seven members appointed by the Governor with Senate consent — six licensees and one voting public member (RSMo 326.259).",
       "seatSource": "https://revisor.mo.gov/main/OneSection.aspx?section=326.259"
     },
     {
-      "id": 115,
+      "id": 106,
       "name": "Missouri State Board of Chiropractic Examiners",
       "domain": "justice",
       "totalSeats": null,
@@ -1631,11 +1505,11 @@
       "constituent": null,
       "applyUrl": "https://apps1.mo.gov/boardsapp/UserPages/Login.aspx",
       "sourceUrl": "https://boards.mo.gov/userpages/Board.aspx?77",
-      "lastVerified": "2026-08-17",
+      "lastVerified": "2026-09-21",
       "criticalNote": "Current vacancy or expired term per boards.mo.gov"
     },
     {
-      "id": 116,
+      "id": 107,
       "name": "Missouri State Board of Nursing",
       "domain": "health",
       "totalSeats": 9,
@@ -1645,13 +1519,13 @@
       "constituent": "Missouri patients & licensed nurses",
       "applyUrl": "https://apps1.mo.gov/boardsapp/UserPages/Login.aspx",
       "sourceUrl": "https://boards.mo.gov/userpages/Board.aspx?78",
-      "lastVerified": "2026-08-17",
+      "lastVerified": "2026-09-21",
       "criticalNote": "Current vacancy or expired term per boards.mo.gov",
       "mandate": "Licenses and disciplines Missouri's nurses and enforces the Nursing Practice Act. Nine members appointed by the Governor with the advice and consent of the Senate (RSMo 335.021).",
       "seatSource": "https://revisor.mo.gov/main/OneSection.aspx?section=335.021"
     },
     {
-      "id": 117,
+      "id": 108,
       "name": "Missouri State Capitol Commission",
       "domain": "justice",
       "totalSeats": null,
@@ -1661,11 +1535,11 @@
       "constituent": null,
       "applyUrl": "https://apps1.mo.gov/boardsapp/UserPages/Login.aspx",
       "sourceUrl": "https://boards.mo.gov/userpages/Board.aspx?113",
-      "lastVerified": "2026-08-17",
+      "lastVerified": "2026-09-21",
       "criticalNote": "Current vacancy or expired term per boards.mo.gov"
     },
     {
-      "id": 118,
+      "id": 109,
       "name": "Missouri State Committee of Interpreters",
       "domain": "justice",
       "totalSeats": null,
@@ -1675,11 +1549,11 @@
       "constituent": null,
       "applyUrl": "https://apps1.mo.gov/boardsapp/UserPages/Login.aspx",
       "sourceUrl": "https://boards.mo.gov/userpages/Board.aspx?79",
-      "lastVerified": "2026-08-17",
+      "lastVerified": "2026-09-21",
       "criticalNote": "Current vacancy or expired term per boards.mo.gov"
     },
     {
-      "id": 119,
+      "id": 110,
       "name": "Missouri State Council on the Arts",
       "domain": "justice",
       "totalSeats": null,
@@ -1689,11 +1563,11 @@
       "constituent": null,
       "applyUrl": "https://apps1.mo.gov/boardsapp/UserPages/Login.aspx",
       "sourceUrl": "https://boards.mo.gov/userpages/Board.aspx?80",
-      "lastVerified": "2026-08-17",
+      "lastVerified": "2026-09-21",
       "criticalNote": "Current vacancy or expired term per boards.mo.gov"
     },
     {
-      "id": 120,
+      "id": 111,
       "name": "Missouri State Employees Retirement System Board of Trustees",
       "domain": "justice",
       "totalSeats": null,
@@ -1703,11 +1577,11 @@
       "constituent": null,
       "applyUrl": "https://apps1.mo.gov/boardsapp/UserPages/Login.aspx",
       "sourceUrl": "https://boards.mo.gov/userpages/Board.aspx?81",
-      "lastVerified": "2026-08-17",
+      "lastVerified": "2026-09-21",
       "criticalNote": "Current vacancy or expired term per boards.mo.gov"
     },
     {
-      "id": 121,
+      "id": 112,
       "name": "Missouri State Foster Care and Adoption Board",
       "domain": "justice",
       "totalSeats": null,
@@ -1717,11 +1591,11 @@
       "constituent": null,
       "applyUrl": "https://apps1.mo.gov/boardsapp/UserPages/Login.aspx",
       "sourceUrl": "https://boards.mo.gov/userpages/Board.aspx?332",
-      "lastVerified": "2026-08-17",
+      "lastVerified": "2026-09-21",
       "criticalNote": "Current vacancy or expired term per boards.mo.gov"
     },
     {
-      "id": 122,
+      "id": 113,
       "name": "Missouri State University Board of Governors",
       "domain": "education",
       "totalSeats": null,
@@ -1731,11 +1605,11 @@
       "constituent": null,
       "applyUrl": "https://apps1.mo.gov/boardsapp/UserPages/Login.aspx",
       "sourceUrl": "https://boards.mo.gov/userpages/Board.aspx?86",
-      "lastVerified": "2026-08-17",
+      "lastVerified": "2026-09-21",
       "criticalNote": "Current vacancy or expired term per boards.mo.gov"
     },
     {
-      "id": 123,
+      "id": 114,
       "name": "Missouri Statewide Independent Living Council",
       "domain": "disability",
       "totalSeats": null,
@@ -1745,11 +1619,11 @@
       "constituent": null,
       "applyUrl": "https://apps1.mo.gov/boardsapp/UserPages/Login.aspx",
       "sourceUrl": "https://boards.mo.gov/userpages/Board.aspx?87",
-      "lastVerified": "2026-08-17",
+      "lastVerified": "2026-09-21",
       "criticalNote": "Current vacancy or expired term per boards.mo.gov"
     },
     {
-      "id": 124,
+      "id": 115,
       "name": "Missouri Technology Corporation",
       "domain": "justice",
       "totalSeats": null,
@@ -1759,11 +1633,11 @@
       "constituent": null,
       "applyUrl": "https://apps1.mo.gov/boardsapp/UserPages/Login.aspx",
       "sourceUrl": "https://boards.mo.gov/userpages/Board.aspx?88",
-      "lastVerified": "2026-08-17",
+      "lastVerified": "2026-09-21",
       "criticalNote": "Current vacancy or expired term per boards.mo.gov"
     },
     {
-      "id": 125,
+      "id": 116,
       "name": "Missouri Veterans' Commission",
       "domain": "justice",
       "totalSeats": null,
@@ -1773,11 +1647,11 @@
       "constituent": null,
       "applyUrl": "https://apps1.mo.gov/boardsapp/UserPages/Login.aspx",
       "sourceUrl": "https://boards.mo.gov/userpages/Board.aspx?90",
-      "lastVerified": "2026-08-17",
+      "lastVerified": "2026-09-21",
       "criticalNote": "Current vacancy or expired term per boards.mo.gov"
     },
     {
-      "id": 126,
+      "id": 117,
       "name": "Missouri Veterinary Medical Board",
       "domain": "health",
       "totalSeats": null,
@@ -1787,11 +1661,11 @@
       "constituent": null,
       "applyUrl": "https://apps1.mo.gov/boardsapp/UserPages/Login.aspx",
       "sourceUrl": "https://boards.mo.gov/userpages/Board.aspx?91",
-      "lastVerified": "2026-08-17",
+      "lastVerified": "2026-09-21",
       "criticalNote": "Current vacancy or expired term per boards.mo.gov"
     },
     {
-      "id": 127,
+      "id": 118,
       "name": "Missouri Western State University Board of Governors",
       "domain": "education",
       "totalSeats": null,
@@ -1801,11 +1675,11 @@
       "constituent": null,
       "applyUrl": "https://apps1.mo.gov/boardsapp/UserPages/Login.aspx",
       "sourceUrl": "https://boards.mo.gov/userpages/Board.aspx?92",
-      "lastVerified": "2026-08-17",
+      "lastVerified": "2026-09-21",
       "criticalNote": "Current vacancy or expired term per boards.mo.gov"
     },
     {
-      "id": 128,
+      "id": 119,
       "name": "Missouri Wine & Grape Board",
       "domain": "justice",
       "totalSeats": null,
@@ -1815,11 +1689,11 @@
       "constituent": null,
       "applyUrl": "https://apps1.mo.gov/boardsapp/UserPages/Login.aspx",
       "sourceUrl": "https://boards.mo.gov/userpages/Board.aspx?93",
-      "lastVerified": "2026-08-17",
+      "lastVerified": "2026-09-21",
       "criticalNote": "Current vacancy or expired term per boards.mo.gov"
     },
     {
-      "id": 129,
+      "id": 120,
       "name": "Missouri Women's Council",
       "domain": "equity",
       "totalSeats": null,
@@ -1829,11 +1703,11 @@
       "constituent": null,
       "applyUrl": "https://apps1.mo.gov/boardsapp/UserPages/Login.aspx",
       "sourceUrl": "https://boards.mo.gov/userpages/Board.aspx?94",
-      "lastVerified": "2026-08-17",
+      "lastVerified": "2026-09-21",
       "criticalNote": "Current vacancy or expired term per boards.mo.gov"
     },
     {
-      "id": 130,
+      "id": 121,
       "name": "Missouri Workforce Development Board",
       "domain": "education",
       "totalSeats": null,
@@ -1843,11 +1717,11 @@
       "constituent": null,
       "applyUrl": "https://apps1.mo.gov/boardsapp/UserPages/Login.aspx",
       "sourceUrl": "https://boards.mo.gov/userpages/Board.aspx?95",
-      "lastVerified": "2026-08-17",
+      "lastVerified": "2026-09-21",
       "criticalNote": "Current vacancy or expired term per boards.mo.gov"
     },
     {
-      "id": 131,
+      "id": 122,
       "name": "MO HealthNet Oversight Committee",
       "domain": "health",
       "totalSeats": null,
@@ -1857,11 +1731,11 @@
       "constituent": null,
       "applyUrl": "https://apps1.mo.gov/boardsapp/UserPages/Login.aspx",
       "sourceUrl": "https://boards.mo.gov/userpages/Board.aspx?96",
-      "lastVerified": "2026-08-17",
+      "lastVerified": "2026-09-21",
       "criticalNote": "Current vacancy or expired term per boards.mo.gov"
     },
     {
-      "id": 132,
+      "id": 123,
       "name": "Northwest Missouri State University Board of Regents",
       "domain": "education",
       "totalSeats": null,
@@ -1871,11 +1745,11 @@
       "constituent": null,
       "applyUrl": "https://apps1.mo.gov/boardsapp/UserPages/Login.aspx",
       "sourceUrl": "https://boards.mo.gov/userpages/Board.aspx?99",
-      "lastVerified": "2026-08-17",
+      "lastVerified": "2026-09-21",
       "criticalNote": "Current vacancy or expired term per boards.mo.gov"
     },
     {
-      "id": 133,
+      "id": 124,
       "name": "Parole Board",
       "domain": "justice",
       "totalSeats": null,
@@ -1885,11 +1759,11 @@
       "constituent": null,
       "applyUrl": "https://apps1.mo.gov/boardsapp/UserPages/Login.aspx",
       "sourceUrl": "https://boards.mo.gov/userpages/Board.aspx?9",
-      "lastVerified": "2026-08-17",
+      "lastVerified": "2026-09-21",
       "criticalNote": "Current vacancy or expired term per boards.mo.gov"
     },
     {
-      "id": 134,
+      "id": 125,
       "name": "Peace Officer Standards and Training Commission",
       "domain": "justice",
       "totalSeats": null,
@@ -1899,11 +1773,11 @@
       "constituent": null,
       "applyUrl": "https://apps1.mo.gov/boardsapp/UserPages/Login.aspx",
       "sourceUrl": "https://boards.mo.gov/userpages/Board.aspx?102",
-      "lastVerified": "2026-08-17",
+      "lastVerified": "2026-09-21",
       "criticalNote": "Current vacancy or expired term per boards.mo.gov"
     },
     {
-      "id": 135,
+      "id": 126,
       "name": "Pediatric Disease Task Force",
       "domain": "justice",
       "totalSeats": null,
@@ -1913,11 +1787,11 @@
       "constituent": null,
       "applyUrl": "https://apps1.mo.gov/boardsapp/UserPages/Login.aspx",
       "sourceUrl": "https://boards.mo.gov/userpages/Board.aspx?507",
-      "lastVerified": "2026-08-17",
+      "lastVerified": "2026-09-21",
       "criticalNote": "Current vacancy or expired term per boards.mo.gov"
     },
     {
-      "id": 136,
+      "id": 127,
       "name": "Petroleum Storage Tank Insurance Fund Board of Trustees",
       "domain": "justice",
       "totalSeats": null,
@@ -1927,11 +1801,11 @@
       "constituent": null,
       "applyUrl": "https://apps1.mo.gov/boardsapp/UserPages/Login.aspx",
       "sourceUrl": "https://boards.mo.gov/userpages/Board.aspx?104",
-      "lastVerified": "2026-08-17",
+      "lastVerified": "2026-09-21",
       "criticalNote": "Current vacancy or expired term per boards.mo.gov"
     },
     {
-      "id": 137,
+      "id": 128,
       "name": "Platte County Election Board",
       "domain": "justice",
       "totalSeats": null,
@@ -1941,11 +1815,11 @@
       "constituent": null,
       "applyUrl": "https://apps1.mo.gov/boardsapp/UserPages/Login.aspx",
       "sourceUrl": "https://boards.mo.gov/userpages/Board.aspx?105",
-      "lastVerified": "2026-08-17",
+      "lastVerified": "2026-09-21",
       "criticalNote": "Current vacancy or expired term per boards.mo.gov"
     },
     {
-      "id": 138,
+      "id": 129,
       "name": "Public Defender Commission",
       "domain": "justice",
       "totalSeats": null,
@@ -1955,11 +1829,11 @@
       "constituent": null,
       "applyUrl": "https://apps1.mo.gov/boardsapp/UserPages/Login.aspx",
       "sourceUrl": "https://boards.mo.gov/userpages/Board.aspx?107",
-      "lastVerified": "2026-08-17",
+      "lastVerified": "2026-09-21",
       "criticalNote": "Current vacancy or expired term per boards.mo.gov"
     },
     {
-      "id": 139,
+      "id": 130,
       "name": "Public School Retirement System of Missouri, Board of Trustees",
       "domain": "education",
       "totalSeats": null,
@@ -1969,11 +1843,11 @@
       "constituent": null,
       "applyUrl": "https://apps1.mo.gov/boardsapp/UserPages/Login.aspx",
       "sourceUrl": "https://boards.mo.gov/userpages/Board.aspx?108",
-      "lastVerified": "2026-08-17",
+      "lastVerified": "2026-09-21",
       "criticalNote": "Current vacancy or expired term per boards.mo.gov"
     },
     {
-      "id": 140,
+      "id": 131,
       "name": "Public Service Commission",
       "domain": "justice",
       "totalSeats": null,
@@ -1983,25 +1857,11 @@
       "constituent": null,
       "applyUrl": "https://apps1.mo.gov/boardsapp/UserPages/Login.aspx",
       "sourceUrl": "https://boards.mo.gov/userpages/Board.aspx?109",
-      "lastVerified": "2026-08-17",
+      "lastVerified": "2026-09-21",
       "criticalNote": "Current vacancy or expired term per boards.mo.gov"
     },
     {
-      "id": 141,
-      "name": "Regional Convention and Sports Complex Authority",
-      "domain": "justice",
-      "totalSeats": null,
-      "vacantSeats": 1,
-      "vacantSince": null,
-      "authority": "Governor's Office — Boards & Commissions",
-      "constituent": null,
-      "applyUrl": "https://apps1.mo.gov/boardsapp/UserPages/Login.aspx",
-      "sourceUrl": "https://boards.mo.gov/userpages/Board.aspx?110",
-      "lastVerified": "2026-08-17",
-      "criticalNote": "Current vacancy or expired term per boards.mo.gov"
-    },
-    {
-      "id": 142,
+      "id": 132,
       "name": "Residential Mortgage Board",
       "domain": "justice",
       "totalSeats": null,
@@ -2011,11 +1871,11 @@
       "constituent": null,
       "applyUrl": "https://apps1.mo.gov/boardsapp/UserPages/Login.aspx",
       "sourceUrl": "https://boards.mo.gov/userpages/Board.aspx?111",
-      "lastVerified": "2026-08-17",
+      "lastVerified": "2026-09-21",
       "criticalNote": "Current vacancy or expired term per boards.mo.gov"
     },
     {
-      "id": 143,
+      "id": 133,
       "name": "Safe Drinking Water Commission",
       "domain": "environment",
       "totalSeats": null,
@@ -2025,25 +1885,11 @@
       "constituent": null,
       "applyUrl": "https://apps1.mo.gov/boardsapp/UserPages/Login.aspx",
       "sourceUrl": "https://boards.mo.gov/userpages/Board.aspx?112",
-      "lastVerified": "2026-08-17",
+      "lastVerified": "2026-09-21",
       "criticalNote": "Current vacancy or expired term per boards.mo.gov"
     },
     {
-      "id": 144,
-      "name": "Saint Louis Regional Convention and Visitors Commission",
-      "domain": "justice",
-      "totalSeats": null,
-      "vacantSeats": 1,
-      "vacantSince": null,
-      "authority": "Governor's Office — Boards & Commissions",
-      "constituent": null,
-      "applyUrl": "https://apps1.mo.gov/boardsapp/UserPages/Login.aspx",
-      "sourceUrl": "https://boards.mo.gov/userpages/Board.aspx?122",
-      "lastVerified": "2026-08-17",
-      "criticalNote": "Current vacancy or expired term per boards.mo.gov"
-    },
-    {
-      "id": 145,
+      "id": 134,
       "name": "Seismic Safety Commission",
       "domain": "justice",
       "totalSeats": null,
@@ -2053,25 +1899,11 @@
       "constituent": null,
       "applyUrl": "https://apps1.mo.gov/boardsapp/UserPages/Login.aspx",
       "sourceUrl": "https://boards.mo.gov/userpages/Board.aspx?114",
-      "lastVerified": "2026-08-17",
+      "lastVerified": "2026-09-21",
       "criticalNote": "Current vacancy or expired term per boards.mo.gov"
     },
     {
-      "id": 146,
-      "name": "Small Business Compliance Advisory Committee",
-      "domain": "justice",
-      "totalSeats": null,
-      "vacantSeats": 1,
-      "vacantSince": null,
-      "authority": "Governor's Office — Boards & Commissions",
-      "constituent": null,
-      "applyUrl": "https://apps1.mo.gov/boardsapp/UserPages/Login.aspx",
-      "sourceUrl": "https://boards.mo.gov/userpages/Board.aspx?116",
-      "lastVerified": "2026-08-17",
-      "criticalNote": "Current vacancy or expired term per boards.mo.gov"
-    },
-    {
-      "id": 147,
+      "id": 135,
       "name": "Southeast Missouri State University Board of Governors",
       "domain": "education",
       "totalSeats": null,
@@ -2081,25 +1913,11 @@
       "constituent": null,
       "applyUrl": "https://apps1.mo.gov/boardsapp/UserPages/Login.aspx",
       "sourceUrl": "https://boards.mo.gov/userpages/Board.aspx?117",
-      "lastVerified": "2026-08-17",
+      "lastVerified": "2026-09-21",
       "criticalNote": "Current vacancy or expired term per boards.mo.gov"
     },
     {
-      "id": 148,
-      "name": "Special Health, Psychological and Social Needs of Minority Older Individuals Commission",
-      "domain": "health",
-      "totalSeats": null,
-      "vacantSeats": 1,
-      "vacantSince": null,
-      "authority": "Governor's Office — Boards & Commissions",
-      "constituent": null,
-      "applyUrl": "https://apps1.mo.gov/boardsapp/UserPages/Login.aspx",
-      "sourceUrl": "https://boards.mo.gov/userpages/Board.aspx?118",
-      "lastVerified": "2026-08-17",
-      "criticalNote": "Current vacancy or expired term per boards.mo.gov"
-    },
-    {
-      "id": 149,
+      "id": 136,
       "name": "St. Louis City Board of Election Commissioners",
       "domain": "justice",
       "totalSeats": null,
@@ -2109,11 +1927,11 @@
       "constituent": null,
       "applyUrl": "https://apps1.mo.gov/boardsapp/UserPages/Login.aspx",
       "sourceUrl": "https://boards.mo.gov/userpages/Board.aspx?120",
-      "lastVerified": "2026-08-17",
+      "lastVerified": "2026-09-21",
       "criticalNote": "Current vacancy or expired term per boards.mo.gov"
     },
     {
-      "id": 150,
+      "id": 137,
       "name": "St. Louis City Board of Police Commissioners",
       "domain": "justice",
       "totalSeats": null,
@@ -2123,11 +1941,11 @@
       "constituent": null,
       "applyUrl": "https://apps1.mo.gov/boardsapp/UserPages/Login.aspx",
       "sourceUrl": "https://boards.mo.gov/userpages/Board.aspx?121",
-      "lastVerified": "2026-08-17",
+      "lastVerified": "2026-09-21",
       "criticalNote": "Current vacancy or expired term per boards.mo.gov"
     },
     {
-      "id": 151,
+      "id": 138,
       "name": "St. Louis County Board of Election Commissioners",
       "domain": "justice",
       "totalSeats": null,
@@ -2137,11 +1955,25 @@
       "constituent": null,
       "applyUrl": "https://apps1.mo.gov/boardsapp/UserPages/Login.aspx",
       "sourceUrl": "https://boards.mo.gov/userpages/Board.aspx?123",
-      "lastVerified": "2026-08-17",
+      "lastVerified": "2026-09-21",
       "criticalNote": "Current vacancy or expired term per boards.mo.gov"
     },
     {
-      "id": 152,
+      "id": 139,
+      "name": "St. Louis Regional Convention and Visitors Commission",
+      "domain": "justice",
+      "totalSeats": null,
+      "vacantSeats": 1,
+      "vacantSince": null,
+      "authority": "Governor's Office — Boards & Commissions",
+      "constituent": null,
+      "applyUrl": "https://apps1.mo.gov/boardsapp/UserPages/Login.aspx",
+      "sourceUrl": "https://boards.mo.gov/userpages/Board.aspx?122",
+      "lastVerified": "2026-09-21",
+      "criticalNote": "Current vacancy or expired term per boards.mo.gov"
+    },
+    {
+      "id": 140,
       "name": "St. Louis Regional Health Commission",
       "domain": "health",
       "totalSeats": null,
@@ -2151,11 +1983,11 @@
       "constituent": null,
       "applyUrl": "https://apps1.mo.gov/boardsapp/UserPages/Login.aspx",
       "sourceUrl": "https://boards.mo.gov/userpages/Board.aspx?424",
-      "lastVerified": "2026-08-17",
+      "lastVerified": "2026-09-21",
       "criticalNote": "Current vacancy or expired term per boards.mo.gov"
     },
     {
-      "id": 153,
+      "id": 141,
       "name": "State Banking Board and Savings and Loan Board",
       "domain": "justice",
       "totalSeats": null,
@@ -2165,11 +1997,11 @@
       "constituent": null,
       "applyUrl": "https://apps1.mo.gov/boardsapp/UserPages/Login.aspx",
       "sourceUrl": "https://boards.mo.gov/userpages/Board.aspx?47",
-      "lastVerified": "2026-08-17",
+      "lastVerified": "2026-09-21",
       "criticalNote": "Current vacancy or expired term per boards.mo.gov"
     },
     {
-      "id": 154,
+      "id": 142,
       "name": "State Blasting Safety Board",
       "domain": "justice",
       "totalSeats": null,
@@ -2179,11 +2011,11 @@
       "constituent": null,
       "applyUrl": "https://apps1.mo.gov/boardsapp/UserPages/Login.aspx",
       "sourceUrl": "https://boards.mo.gov/userpages/Board.aspx?48",
-      "lastVerified": "2026-08-17",
+      "lastVerified": "2026-09-21",
       "criticalNote": "Current vacancy or expired term per boards.mo.gov"
     },
     {
-      "id": 155,
+      "id": 143,
       "name": "State Board of Embalmers and Funeral Directors",
       "domain": "justice",
       "totalSeats": null,
@@ -2193,11 +2025,11 @@
       "constituent": null,
       "applyUrl": "https://apps1.mo.gov/boardsapp/UserPages/Login.aspx",
       "sourceUrl": "https://boards.mo.gov/userpages/Board.aspx?50",
-      "lastVerified": "2026-08-17",
+      "lastVerified": "2026-09-21",
       "criticalNote": "Current vacancy or expired term per boards.mo.gov"
     },
     {
-      "id": 156,
+      "id": 144,
       "name": "State Board of Health and Senior Services",
       "domain": "health",
       "totalSeats": null,
@@ -2207,11 +2039,11 @@
       "constituent": null,
       "applyUrl": "https://apps1.mo.gov/boardsapp/UserPages/Login.aspx",
       "sourceUrl": "https://boards.mo.gov/userpages/Board.aspx?51",
-      "lastVerified": "2026-08-17",
+      "lastVerified": "2026-09-21",
       "criticalNote": "Current vacancy or expired term per boards.mo.gov"
     },
     {
-      "id": 157,
+      "id": 145,
       "name": "State Board of Mediation",
       "domain": "justice",
       "totalSeats": null,
@@ -2221,11 +2053,11 @@
       "constituent": null,
       "applyUrl": "https://apps1.mo.gov/boardsapp/UserPages/Login.aspx",
       "sourceUrl": "https://boards.mo.gov/userpages/Board.aspx?125",
-      "lastVerified": "2026-08-17",
+      "lastVerified": "2026-09-21",
       "criticalNote": "Current vacancy or expired term per boards.mo.gov"
     },
     {
-      "id": 158,
+      "id": 146,
       "name": "State Board of Optometry",
       "domain": "justice",
       "totalSeats": null,
@@ -2235,11 +2067,11 @@
       "constituent": null,
       "applyUrl": "https://apps1.mo.gov/boardsapp/UserPages/Login.aspx",
       "sourceUrl": "https://boards.mo.gov/userpages/Board.aspx?126",
-      "lastVerified": "2026-08-17",
+      "lastVerified": "2026-09-21",
       "criticalNote": "Current vacancy or expired term per boards.mo.gov"
     },
     {
-      "id": 159,
+      "id": 147,
       "name": "State Board of Pharmacy",
       "domain": "health",
       "totalSeats": 7,
@@ -2249,13 +2081,13 @@
       "constituent": "Missouri patients & licensed pharmacists · drug safety",
       "applyUrl": "https://apps1.mo.gov/boardsapp/UserPages/Login.aspx",
       "sourceUrl": "https://boards.mo.gov/userpages/Board.aspx?127",
-      "lastVerified": "2026-08-17",
+      "lastVerified": "2026-09-21",
       "criticalNote": "Current vacancy or expired term per boards.mo.gov",
       "mandate": "Licenses pharmacists and regulates the practice of pharmacy across Missouri. Seven members appointed by the Governor with Senate consent — six pharmacists and one voting public member (RSMo 338.110).",
       "seatSource": "https://revisor.mo.gov/main/OneSection.aspx?section=338.110"
     },
     {
-      "id": 160,
+      "id": 148,
       "name": "State Board of Podiatric Medicine",
       "domain": "justice",
       "totalSeats": null,
@@ -2265,11 +2097,11 @@
       "constituent": null,
       "applyUrl": "https://apps1.mo.gov/boardsapp/UserPages/Login.aspx",
       "sourceUrl": "https://boards.mo.gov/userpages/Board.aspx?128",
-      "lastVerified": "2026-08-17",
+      "lastVerified": "2026-09-21",
       "criticalNote": "Current vacancy or expired term per boards.mo.gov"
     },
     {
-      "id": 161,
+      "id": 149,
       "name": "State Board of Registration for the Healing Arts",
       "domain": "health",
       "totalSeats": 9,
@@ -2279,13 +2111,13 @@
       "constituent": "Missouri patients & licensed physicians",
       "applyUrl": "https://apps1.mo.gov/boardsapp/UserPages/Login.aspx",
       "sourceUrl": "https://boards.mo.gov/userpages/Board.aspx?129",
-      "lastVerified": "2026-08-17",
+      "lastVerified": "2026-09-21",
       "criticalNote": "Current vacancy or expired term per boards.mo.gov",
       "mandate": "Licenses and disciplines Missouri's physicians and surgeons. Nine members appointed by the Governor with Senate consent — eight physicians and one voting public member (RSMo Chapter 334).",
       "seatSource": "https://pr.mo.gov/healingarts-about-the-board.asp"
     },
     {
-      "id": 162,
+      "id": 150,
       "name": "State Committee for Social Workers",
       "domain": "justice",
       "totalSeats": null,
@@ -2295,11 +2127,11 @@
       "constituent": null,
       "applyUrl": "https://apps1.mo.gov/boardsapp/UserPages/Login.aspx",
       "sourceUrl": "https://boards.mo.gov/userpages/Board.aspx?132",
-      "lastVerified": "2026-08-17",
+      "lastVerified": "2026-09-21",
       "criticalNote": "Current vacancy or expired term per boards.mo.gov"
     },
     {
-      "id": 163,
+      "id": 151,
       "name": "State Committee of Dietitians",
       "domain": "justice",
       "totalSeats": null,
@@ -2309,11 +2141,11 @@
       "constituent": null,
       "applyUrl": "https://apps1.mo.gov/boardsapp/UserPages/Login.aspx",
       "sourceUrl": "https://boards.mo.gov/userpages/Board.aspx?133",
-      "lastVerified": "2026-08-17",
+      "lastVerified": "2026-09-21",
       "criticalNote": "Current vacancy or expired term per boards.mo.gov"
     },
     {
-      "id": 164,
+      "id": 152,
       "name": "State Committee of Marital and Family Therapists",
       "domain": "justice",
       "totalSeats": null,
@@ -2323,11 +2155,11 @@
       "constituent": null,
       "applyUrl": "https://apps1.mo.gov/boardsapp/UserPages/Login.aspx",
       "sourceUrl": "https://boards.mo.gov/userpages/Board.aspx?134",
-      "lastVerified": "2026-08-17",
+      "lastVerified": "2026-09-21",
       "criticalNote": "Current vacancy or expired term per boards.mo.gov"
     },
     {
-      "id": 165,
+      "id": 153,
       "name": "State Committee of Psychologists",
       "domain": "health",
       "totalSeats": null,
@@ -2337,11 +2169,11 @@
       "constituent": null,
       "applyUrl": "https://apps1.mo.gov/boardsapp/UserPages/Login.aspx",
       "sourceUrl": "https://boards.mo.gov/userpages/Board.aspx?135",
-      "lastVerified": "2026-08-17",
+      "lastVerified": "2026-09-21",
       "criticalNote": "Current vacancy or expired term per boards.mo.gov"
     },
     {
-      "id": 166,
+      "id": 154,
       "name": "State Council for Interstate Adult Offender Supervision",
       "domain": "justice",
       "totalSeats": null,
@@ -2351,11 +2183,11 @@
       "constituent": null,
       "applyUrl": "https://apps1.mo.gov/boardsapp/UserPages/Login.aspx",
       "sourceUrl": "https://boards.mo.gov/userpages/Board.aspx?136",
-      "lastVerified": "2026-08-17",
+      "lastVerified": "2026-09-21",
       "criticalNote": "Current vacancy or expired term per boards.mo.gov"
     },
     {
-      "id": 167,
+      "id": 155,
       "name": "State Environmental Improvement and Energy Resources Authority",
       "domain": "environment",
       "totalSeats": null,
@@ -2365,11 +2197,11 @@
       "constituent": null,
       "applyUrl": "https://apps1.mo.gov/boardsapp/UserPages/Login.aspx",
       "sourceUrl": "https://boards.mo.gov/userpages/Board.aspx?188",
-      "lastVerified": "2026-08-17",
+      "lastVerified": "2026-09-21",
       "criticalNote": "Current vacancy or expired term per boards.mo.gov"
     },
     {
-      "id": 168,
+      "id": 156,
       "name": "State Fair Commission",
       "domain": "justice",
       "totalSeats": null,
@@ -2379,11 +2211,11 @@
       "constituent": null,
       "applyUrl": "https://apps1.mo.gov/boardsapp/UserPages/Login.aspx",
       "sourceUrl": "https://boards.mo.gov/userpages/Board.aspx?137",
-      "lastVerified": "2026-08-17",
+      "lastVerified": "2026-09-21",
       "criticalNote": "Current vacancy or expired term per boards.mo.gov"
     },
     {
-      "id": 169,
+      "id": 157,
       "name": "State Highways and Transportation Commission",
       "domain": "justice",
       "totalSeats": null,
@@ -2393,11 +2225,11 @@
       "constituent": null,
       "applyUrl": "https://apps1.mo.gov/boardsapp/UserPages/Login.aspx",
       "sourceUrl": "https://boards.mo.gov/userpages/Board.aspx?138",
-      "lastVerified": "2026-08-17",
+      "lastVerified": "2026-09-21",
       "criticalNote": "Current vacancy or expired term per boards.mo.gov"
     },
     {
-      "id": 170,
+      "id": 158,
       "name": "State Historical Records Advisory Board",
       "domain": "justice",
       "totalSeats": null,
@@ -2407,11 +2239,11 @@
       "constituent": null,
       "applyUrl": "https://apps1.mo.gov/boardsapp/UserPages/Login.aspx",
       "sourceUrl": "https://boards.mo.gov/userpages/Board.aspx?139",
-      "lastVerified": "2026-08-17",
+      "lastVerified": "2026-09-21",
       "criticalNote": "Current vacancy or expired term per boards.mo.gov"
     },
     {
-      "id": 171,
+      "id": 159,
       "name": "State Lottery Commission",
       "domain": "justice",
       "totalSeats": null,
@@ -2421,11 +2253,11 @@
       "constituent": null,
       "applyUrl": "https://apps1.mo.gov/boardsapp/UserPages/Login.aspx",
       "sourceUrl": "https://boards.mo.gov/userpages/Board.aspx?141",
-      "lastVerified": "2026-08-17",
+      "lastVerified": "2026-09-21",
       "criticalNote": "Current vacancy or expired term per boards.mo.gov"
     },
     {
-      "id": 172,
+      "id": 160,
       "name": "State Milk Board",
       "domain": "justice",
       "totalSeats": null,
@@ -2435,11 +2267,11 @@
       "constituent": null,
       "applyUrl": "https://apps1.mo.gov/boardsapp/UserPages/Login.aspx",
       "sourceUrl": "https://boards.mo.gov/userpages/Board.aspx?142",
-      "lastVerified": "2026-08-17",
+      "lastVerified": "2026-09-21",
       "criticalNote": "Current vacancy or expired term per boards.mo.gov"
     },
     {
-      "id": 173,
+      "id": 161,
       "name": "State Rehabilitation Advisory Council for the Blind",
       "domain": "disability",
       "totalSeats": null,
@@ -2449,11 +2281,11 @@
       "constituent": null,
       "applyUrl": "https://apps1.mo.gov/boardsapp/UserPages/Login.aspx",
       "sourceUrl": "https://boards.mo.gov/userpages/Board.aspx?143",
-      "lastVerified": "2026-08-17",
+      "lastVerified": "2026-09-21",
       "criticalNote": "Current vacancy or expired term per boards.mo.gov"
     },
     {
-      "id": 174,
+      "id": 162,
       "name": "State Rehabilitation Council",
       "domain": "justice",
       "totalSeats": null,
@@ -2463,11 +2295,11 @@
       "constituent": null,
       "applyUrl": "https://apps1.mo.gov/boardsapp/UserPages/Login.aspx",
       "sourceUrl": "https://boards.mo.gov/userpages/Board.aspx?144",
-      "lastVerified": "2026-08-17",
+      "lastVerified": "2026-09-21",
       "criticalNote": "Current vacancy or expired term per boards.mo.gov"
     },
     {
-      "id": 175,
+      "id": 163,
       "name": "State Soil and Water Districts Commission",
       "domain": "environment",
       "totalSeats": null,
@@ -2477,11 +2309,11 @@
       "constituent": null,
       "applyUrl": "https://apps1.mo.gov/boardsapp/UserPages/Login.aspx",
       "sourceUrl": "https://boards.mo.gov/userpages/Board.aspx?146",
-      "lastVerified": "2026-08-17",
+      "lastVerified": "2026-09-21",
       "criticalNote": "Current vacancy or expired term per boards.mo.gov"
     },
     {
-      "id": 176,
+      "id": 164,
       "name": "State Tax Commission",
       "domain": "justice",
       "totalSeats": null,
@@ -2491,11 +2323,11 @@
       "constituent": null,
       "applyUrl": "https://apps1.mo.gov/boardsapp/UserPages/Login.aspx",
       "sourceUrl": "https://boards.mo.gov/userpages/Board.aspx?147",
-      "lastVerified": "2026-08-17",
+      "lastVerified": "2026-09-21",
       "criticalNote": "Current vacancy or expired term per boards.mo.gov"
     },
     {
-      "id": 177,
+      "id": 165,
       "name": "State Technical College of Missouri Board of Regents",
       "domain": "education",
       "totalSeats": null,
@@ -2505,11 +2337,11 @@
       "constituent": null,
       "applyUrl": "https://apps1.mo.gov/boardsapp/UserPages/Login.aspx",
       "sourceUrl": "https://boards.mo.gov/userpages/Board.aspx?27",
-      "lastVerified": "2026-08-17",
+      "lastVerified": "2026-09-21",
       "criticalNote": "Current vacancy or expired term per boards.mo.gov"
     },
     {
-      "id": 178,
+      "id": 166,
       "name": "Tourism Commission",
       "domain": "justice",
       "totalSeats": null,
@@ -2519,11 +2351,11 @@
       "constituent": null,
       "applyUrl": "https://apps1.mo.gov/boardsapp/UserPages/Login.aspx",
       "sourceUrl": "https://boards.mo.gov/userpages/Board.aspx?150",
-      "lastVerified": "2026-08-17",
+      "lastVerified": "2026-09-21",
       "criticalNote": "Current vacancy or expired term per boards.mo.gov"
     },
     {
-      "id": 179,
+      "id": 167,
       "name": "Truman State University Board of Governors",
       "domain": "education",
       "totalSeats": null,
@@ -2533,11 +2365,11 @@
       "constituent": null,
       "applyUrl": "https://apps1.mo.gov/boardsapp/UserPages/Login.aspx",
       "sourceUrl": "https://boards.mo.gov/userpages/Board.aspx?151",
-      "lastVerified": "2026-08-17",
+      "lastVerified": "2026-09-21",
       "criticalNote": "Current vacancy or expired term per boards.mo.gov"
     },
     {
-      "id": 180,
+      "id": 168,
       "name": "University of Central Missouri Board of Governors",
       "domain": "education",
       "totalSeats": null,
@@ -2547,11 +2379,11 @@
       "constituent": null,
       "applyUrl": "https://apps1.mo.gov/boardsapp/UserPages/Login.aspx",
       "sourceUrl": "https://boards.mo.gov/userpages/Board.aspx?152",
-      "lastVerified": "2026-08-17",
+      "lastVerified": "2026-09-21",
       "criticalNote": "Current vacancy or expired term per boards.mo.gov"
     },
     {
-      "id": 181,
+      "id": 169,
       "name": "University of Missouri Board of Curators",
       "domain": "education",
       "totalSeats": null,
@@ -2561,11 +2393,11 @@
       "constituent": null,
       "applyUrl": "https://apps1.mo.gov/boardsapp/UserPages/Login.aspx",
       "sourceUrl": "https://boards.mo.gov/userpages/Board.aspx?153",
-      "lastVerified": "2026-08-17",
+      "lastVerified": "2026-09-21",
       "criticalNote": "Current vacancy or expired term per boards.mo.gov"
     },
     {
-      "id": 182,
+      "id": 170,
       "name": "Well Installation Board",
       "domain": "justice",
       "totalSeats": null,
@@ -2575,11 +2407,11 @@
       "constituent": null,
       "applyUrl": "https://apps1.mo.gov/boardsapp/UserPages/Login.aspx",
       "sourceUrl": "https://boards.mo.gov/userpages/Board.aspx?155",
-      "lastVerified": "2026-08-17",
+      "lastVerified": "2026-09-21",
       "criticalNote": "Current vacancy or expired term per boards.mo.gov"
     },
     {
-      "id": 183,
+      "id": 171,
       "name": "Workers' Compensation Determinations Review Board",
       "domain": "justice",
       "totalSeats": null,
@@ -2589,7 +2421,7 @@
       "constituent": null,
       "applyUrl": "https://apps1.mo.gov/boardsapp/UserPages/Login.aspx",
       "sourceUrl": "https://boards.mo.gov/userpages/Board.aspx?156",
-      "lastVerified": "2026-08-17",
+      "lastVerified": "2026-09-21",
       "criticalNote": "Current vacancy or expired term per boards.mo.gov"
     }
   ]
