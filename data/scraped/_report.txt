@@ -1,3 +1,37 @@
+CO: 55 rows (5 full / 50 provisional) — missing: totalSeats×50, constituent×50
+WA: 121 rows (21 full / 100 provisional) — missing: totalSeats×100, constituent×100
+OR: 40 rows (22 full / 18 provisional) — missing: totalSeats×18
+CA: 253 rows (21 full / 232 provisional) — missing: totalSeats×232, constituent×232
+FL: 290 rows (16 full / 274 provisional) — missing: totalSeats×274, constituent×274
+OH: 102 rows (25 full / 77 provisional) — missing: totalSeats×77, constituent×77
+TX: 263 rows (26 full / 237 provisional) — missing: totalSeats×237, constituent×237
+AZ: 44 rows (6 full / 38 provisional) — missing: totalSeats×38, constituent×38
+MO: 170 rows (5 full / 165 provisional) — missing: totalSeats×165, constituent×165
+CT: 39 rows (6 full / 33 provisional) — missing: totalSeats×33, constituent×33
+WI: manual state — staged data maintained by hand in data/scraped/WI.json
+MS: manual state — staged data maintained by hand in data/scraped/MS.json
+AL: manual state — staged data maintained by hand in data/scraped/AL.json
+LA: manual state — staged data maintained by hand in data/scraped/LA.json
+SC: 123 rows (16 full / 107 provisional) — missing: totalSeats×107, constituent×107
+MI: manual state — staged data maintained by hand in data/scraped/MI.json
+IN: manual state — staged data maintained by hand in data/scraped/IN.json
+TN: manual state — staged data maintained by hand in data/scraped/TN.json
+KY: manual state — staged data maintained by hand in data/scraped/KY.json
+NV: manual state — staged data maintained by hand in data/scraped/NV.json
+OK: manual state — staged data maintained by hand in data/scraped/OK.json
+AR: manual state — staged data maintained by hand in data/scraped/AR.json
+KS: manual state — staged data maintained by hand in data/scraped/KS.json
+NM: manual state — staged data maintained by hand in data/scraped/NM.json
+WV: manual state — staged data maintained by hand in data/scraped/WV.json
+NE: manual state — staged data maintained by hand in data/scraped/NE.json
+ID: manual state — staged data maintained by hand in data/scraped/ID.json
+MT: manual state — staged data maintained by hand in data/scraped/MT.json
+RI: manual state — staged data maintained by hand in data/scraped/RI.json
+ME: manual state — staged data maintained by hand in data/scraped/ME.json
+NH: manual state — staged data maintained by hand in data/scraped/NH.json
+ND: manual state — staged data maintained by hand in data/scraped/ND.json
+UT: manual state — staged data maintained by hand in data/scraped/UT.json
+IA: manual state — staged data maintained by hand in data/scraped/IA.json
 SD: manual state — staged data maintained by hand in data/scraped/SD.json
 VT: manual state — staged data maintained by hand in data/scraped/VT.json
 WY: manual state — staged data maintained by hand in data/scraped/WY.json
