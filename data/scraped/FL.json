@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-09-28T18:18:00.092Z",
+  "scrapedAt": "2026-09-30T18:53:05.494Z",
   "registry": {
     "profile": "fl",
     "mode": "inventory",
@@ -14,12 +14,12 @@
   },
   "summary": {
     "state": "FL",
-    "total": 290,
+    "total": 289,
     "full": 16,
-    "provisional": 274,
+    "provisional": 273,
     "missingFields": {
-      "totalSeats": 274,
-      "constituent": 274
+      "totalSeats": 273,
+      "constituent": 273
     }
   },
   "rows": [
@@ -34,7 +34,7 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
@@ -48,7 +48,7 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
@@ -62,7 +62,7 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
@@ -76,7 +76,7 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
@@ -90,7 +90,7 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
@@ -104,7 +104,7 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
@@ -118,7 +118,7 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
@@ -132,7 +132,7 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
@@ -146,7 +146,7 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
@@ -160,7 +160,7 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
@@ -174,7 +174,7 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
@@ -188,7 +188,7 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
@@ -202,7 +202,7 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
@@ -216,7 +216,7 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
@@ -230,7 +230,7 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
@@ -244,7 +244,7 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
@@ -258,7 +258,7 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
@@ -272,7 +272,7 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
@@ -286,7 +286,7 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
@@ -300,7 +300,7 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
@@ -314,7 +314,7 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
@@ -328,7 +328,7 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
@@ -342,7 +342,7 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
@@ -356,7 +356,7 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
@@ -370,7 +370,7 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
@@ -384,7 +384,7 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
@@ -398,7 +398,7 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
@@ -412,7 +412,7 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
@@ -426,7 +426,7 @@
       "constituent": "Florida businesses & licensed CPAs · audit integrity",
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list",
       "mandate": "Licenses and disciplines Florida's certified public accountants. Nine members appointed by the Governor with Senate confirmation — seven CPAs and two lay members (F.S. 473.303).",
       "seatSource": "https://law.justia.com/codes/florida/title-xxxii/chapter-473/section-473-303/"
@@ -442,7 +442,7 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
@@ -456,7 +456,7 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
@@ -470,7 +470,7 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
@@ -484,7 +484,7 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
@@ -498,7 +498,7 @@
       "constituent": "Florida chiropractic patients & licensees",
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list",
       "mandate": "Licenses and disciplines Florida's chiropractic physicians. Seven members appointed by the Governor with Senate confirmation (F.S. 460.404).",
       "seatSource": "https://law.justia.com/codes/florida/title-xxxii/chapter-460/section-460-404/"
@@ -514,7 +514,7 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
@@ -528,7 +528,7 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
@@ -542,7 +542,7 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
@@ -556,7 +556,7 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
@@ -570,7 +570,7 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
@@ -584,7 +584,7 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
@@ -598,7 +598,7 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
@@ -612,7 +612,7 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
@@ -626,7 +626,7 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
@@ -640,7 +640,7 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
@@ -654,7 +654,7 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
@@ -668,7 +668,7 @@
       "constituent": "Florida patients & licensed physicians",
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list",
       "mandate": "Licenses and disciplines Florida physicians. Fifteen members appointed by the Governor with Senate confirmation — twelve physicians, three consumer members (Fla. Stat. § 458.307).",
       "seatSource": "https://www.flsenate.gov/Laws/Statutes/2024/458.307"
@@ -684,7 +684,7 @@
       "constituent": "Florida patients & licensed nurses",
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list",
       "mandate": "Licenses and disciplines Florida's nurses. Thirteen members appointed by the Governor and confirmed by the Senate — registered and practical nurses plus consumer members (F.S. 464.004).",
       "seatSource": "https://law.justia.com/codes/florida/title-xxxii/chapter-464/section-464-004/"
@@ -700,7 +700,7 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
@@ -714,7 +714,7 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
@@ -728,7 +728,7 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
@@ -742,7 +742,7 @@
       "constituent": "Florida eye-care patients & licensed optometrists",
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list",
       "mandate": "Licenses and regulates Florida's optometrists. Seven members appointed by the Governor with Senate confirmation — five optometrists and two consumer members (F.S. 463.003).",
       "seatSource": "https://law.justia.com/codes/florida/title-xxxii/chapter-463/section-463-003/"
@@ -758,7 +758,7 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
@@ -772,7 +772,7 @@
       "constituent": "Florida patients & licensed D.O. physicians",
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list",
       "mandate": "Licenses and disciplines Florida's osteopathic physicians. Seven members appointed by the Governor with Senate confirmation — five D.O.s and two consumer members (F.S. 459.004).",
       "seatSource": "https://law.justia.com/codes/florida/title-xxxii/chapter-459/section-459-004/"
@@ -788,7 +788,7 @@
       "constituent": "Florida patients & licensed pharmacists · drug safety",
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list",
       "mandate": "Licenses pharmacists and regulates pharmacy practice in Florida. Nine members appointed by the Governor with Senate confirmation — seven pharmacists and two consumer members (F.S. 465.004).",
       "seatSource": "https://law.justia.com/codes/florida/title-xxxii/chapter-465/section-465-004/"
@@ -804,7 +804,7 @@
       "constituent": "Florida patients & licensed physical therapists",
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list",
       "mandate": "Licenses and regulates Florida's physical therapists and PT assistants. Seven members appointed by the Governor with Senate confirmation (F.S. 486.023).",
       "seatSource": "https://law.justia.com/codes/florida/title-xxxii/chapter-486/section-486-023/"
@@ -820,7 +820,7 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
@@ -834,7 +834,7 @@
       "constituent": "Florida patients & licensed podiatrists",
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list",
       "mandate": "Licenses and disciplines Florida's podiatric physicians. Seven members appointed by the Governor with Senate confirmation — five podiatrists and two consumer members (F.S. 461.005).",
       "seatSource": "https://law.justia.com/codes/florida/title-xxxii/chapter-461/"
@@ -850,7 +850,7 @@
       "constituent": "Floridians & licensed professional engineers · public safety",
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list",
       "mandate": "Licenses and regulates Florida's professional engineers. Eleven members appointed by the Governor — nine licensed engineers and two lay members (F.S. 471.007).",
       "seatSource": "https://law.justia.com/codes/florida/title-xxxii/chapter-471/section-471-007/"
@@ -866,7 +866,7 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
@@ -880,7 +880,7 @@
       "constituent": "Floridians seeking psychological care & licensed psychologists",
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list",
       "mandate": "Licenses and regulates Florida's psychologists. Seven members appointed by the Governor with Senate confirmation — five psychologists and two consumer members (F.S. 490.004).",
       "seatSource": "https://law.justia.com/codes/florida/title-xxxii/chapter-490/section-490-004/"
@@ -896,7 +896,7 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
@@ -910,7 +910,7 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
@@ -924,7 +924,7 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
@@ -938,7 +938,7 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
@@ -952,7 +952,7 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
@@ -966,7 +966,7 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
@@ -980,7 +980,7 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
@@ -994,7 +994,7 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
@@ -1008,7 +1008,7 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
@@ -1022,7 +1022,7 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
@@ -1036,7 +1036,7 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
@@ -1050,7 +1050,7 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
@@ -1064,7 +1064,7 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
@@ -1078,7 +1078,7 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
@@ -1092,7 +1092,7 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
@@ -1106,7 +1106,7 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
@@ -1120,7 +1120,7 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
@@ -1134,7 +1134,7 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
@@ -1148,7 +1148,7 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
@@ -1162,7 +1162,7 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
@@ -1176,7 +1176,7 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
@@ -1190,7 +1190,7 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
@@ -1204,7 +1204,7 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
@@ -1218,7 +1218,7 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
@@ -1232,7 +1232,7 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
@@ -1246,7 +1246,7 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
@@ -1260,7 +1260,7 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
@@ -1274,7 +1274,7 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
@@ -1288,7 +1288,7 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
@@ -1302,7 +1302,7 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
@@ -1316,7 +1316,7 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
@@ -1330,7 +1330,7 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
@@ -1344,7 +1344,7 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
@@ -1358,7 +1358,7 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
@@ -1372,7 +1372,7 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
@@ -1386,7 +1386,7 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
@@ -1400,7 +1400,7 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
@@ -1414,7 +1414,7 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
@@ -1428,7 +1428,7 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
@@ -1442,7 +1442,7 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
@@ -1456,7 +1456,7 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
@@ -1470,7 +1470,7 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
@@ -1484,7 +1484,7 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
@@ -1498,7 +1498,7 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
@@ -1512,7 +1512,7 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
@@ -1526,7 +1526,7 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
@@ -1540,7 +1540,7 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
@@ -1554,7 +1554,7 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
@@ -1568,7 +1568,7 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
@@ -1582,7 +1582,7 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
@@ -1596,7 +1596,7 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
@@ -1610,7 +1610,7 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
@@ -1624,7 +1624,7 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
@@ -1638,7 +1638,7 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
@@ -1652,7 +1652,7 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
@@ -1666,7 +1666,7 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
@@ -1680,7 +1680,7 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
@@ -1694,7 +1694,7 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
@@ -1708,7 +1708,7 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
@@ -1722,7 +1722,7 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
@@ -1736,7 +1736,7 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
@@ -1750,7 +1750,7 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
@@ -1764,7 +1764,7 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
@@ -1778,7 +1778,7 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
@@ -1792,7 +1792,7 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
@@ -1806,7 +1806,7 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
@@ -1820,7 +1820,7 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
@@ -1834,7 +1834,7 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
@@ -1848,7 +1848,7 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
@@ -1862,7 +1862,7 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
@@ -1876,7 +1876,7 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
@@ -1890,7 +1890,7 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
@@ -1904,7 +1904,7 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
@@ -1918,7 +1918,7 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
@@ -1932,7 +1932,7 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
@@ -1946,7 +1946,7 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
@@ -1960,7 +1960,7 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
@@ -1974,7 +1974,7 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
@@ -1988,7 +1988,7 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
@@ -2002,7 +2002,7 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
@@ -2016,7 +2016,7 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
@@ -2030,7 +2030,7 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
@@ -2044,7 +2044,7 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
@@ -2058,7 +2058,7 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
@@ -2072,7 +2072,7 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
@@ -2086,7 +2086,7 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
@@ -2100,7 +2100,7 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
@@ -2114,7 +2114,7 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
@@ -2128,7 +2128,7 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
@@ -2142,7 +2142,7 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
@@ -2156,7 +2156,7 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
@@ -2170,7 +2170,7 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
@@ -2184,7 +2184,7 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
@@ -2198,7 +2198,7 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
@@ -2212,7 +2212,7 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
@@ -2226,7 +2226,7 @@
       "constituent": "Florida's fish, wildlife & outdoors",
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list",
       "mandate": "Manages Florida's fish and wildlife resources — a constitutional commission. Seven members appointed by the Governor with Senate confirmation, staggered five-year terms (Fla. Const. Art. IV, Sec. 9).",
       "seatSource": "https://codes.findlaw.com/fl/florida-constitution1968-revision/fl-const-art-4-sect-9/"
@@ -2242,7 +2242,7 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
@@ -2256,7 +2256,7 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
@@ -2270,7 +2270,7 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
@@ -2284,7 +2284,7 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
@@ -2298,7 +2298,7 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
@@ -2312,7 +2312,7 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
@@ -2326,7 +2326,7 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
@@ -2340,7 +2340,7 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
@@ -2354,7 +2354,7 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
@@ -2368,7 +2368,7 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
@@ -2382,7 +2382,7 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
@@ -2396,7 +2396,7 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
@@ -2410,7 +2410,7 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
@@ -2424,7 +2424,7 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
@@ -2438,7 +2438,7 @@
       "constituent": "Every Florida utility ratepayer · electric, gas, water, telecom",
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list",
       "mandate": "Regulates Florida's investor-owned electric, natural-gas, water, and telecom utilities and their rates. Five commissioners appointed by the Governor from a nominating council's slate, Senate-confirmed (F.S. 350.031).",
       "seatSource": "https://law.justia.com/codes/florida/title-xxvii/chapter-350/section-350-031/"
@@ -2454,7 +2454,7 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
@@ -2468,7 +2468,7 @@
       "constituent": "Florida home buyers & licensed real estate brokers",
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list",
       "mandate": "Licenses and regulates Florida's real estate brokers and sales associates. Seven members appointed by the Governor with Senate confirmation — five licensees and two consumer members (F.S. 475.02).",
       "seatSource": "https://law.justia.com/codes/florida/title-xxxii/chapter-475/section-475-02/"
@@ -2484,7 +2484,7 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
@@ -2498,7 +2498,7 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
@@ -2512,7 +2512,7 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
@@ -2526,7 +2526,7 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
@@ -2540,7 +2540,7 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
@@ -2554,7 +2554,7 @@
       "constituent": "Florida travelers & the statewide transportation system",
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list",
       "mandate": "Citizen oversight board for the Florida Department of Transportation — policy, accountability, and major-project review. Nine members appointed by the Governor with Senate confirmation (F.S. 20.23).",
       "seatSource": "https://law.justia.com/codes/florida/title-iv/chapter-20/section-20-23/"
@@ -2570,7 +2570,7 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
@@ -2584,7 +2584,7 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
@@ -2598,7 +2598,7 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
@@ -2612,7 +2612,7 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
@@ -2626,7 +2626,7 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
@@ -2640,7 +2640,7 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
@@ -2654,7 +2654,7 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
@@ -2668,7 +2668,7 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
@@ -2682,7 +2682,7 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
@@ -2696,7 +2696,7 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
@@ -2710,7 +2710,7 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
@@ -2724,7 +2724,7 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
@@ -2738,7 +2738,7 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
@@ -2752,7 +2752,7 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
@@ -2766,7 +2766,7 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
@@ -2780,7 +2780,7 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
@@ -2794,7 +2794,7 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
@@ -2808,7 +2808,7 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
@@ -2822,7 +2822,7 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
@@ -2836,7 +2836,7 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
@@ -2850,7 +2850,7 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
@@ -2864,7 +2864,7 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
@@ -2878,7 +2878,7 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
@@ -2892,7 +2892,7 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
@@ -2906,7 +2906,7 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
@@ -2920,7 +2920,7 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
@@ -2934,7 +2934,7 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
@@ -2948,7 +2948,7 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
@@ -2962,7 +2962,7 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
@@ -2976,7 +2976,7 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
@@ -2990,7 +2990,7 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
@@ -3004,7 +3004,7 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
@@ -3018,7 +3018,7 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
@@ -3032,7 +3032,7 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
@@ -3046,7 +3046,7 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
@@ -3060,7 +3060,7 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
@@ -3074,7 +3074,7 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
@@ -3088,7 +3088,7 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
@@ -3102,7 +3102,7 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
@@ -3116,7 +3116,7 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
@@ -3130,7 +3130,7 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
@@ -3144,7 +3144,7 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
@@ -3158,7 +3158,7 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
@@ -3172,7 +3172,7 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
@@ -3186,7 +3186,7 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
@@ -3200,7 +3200,7 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
@@ -3214,7 +3214,7 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
@@ -3228,7 +3228,7 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
@@ -3242,7 +3242,7 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
@@ -3256,7 +3256,7 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
@@ -3270,7 +3270,7 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
@@ -3284,7 +3284,7 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
@@ -3298,7 +3298,7 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
@@ -3312,7 +3312,7 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
@@ -3326,7 +3326,7 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
@@ -3340,7 +3340,7 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
@@ -3354,7 +3354,7 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
@@ -3368,7 +3368,7 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
@@ -3382,7 +3382,7 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
@@ -3396,7 +3396,7 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
@@ -3410,7 +3410,7 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
@@ -3424,7 +3424,7 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
@@ -3438,7 +3438,7 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
@@ -3452,7 +3452,7 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
@@ -3466,7 +3466,7 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
@@ -3480,7 +3480,7 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
@@ -3494,7 +3494,7 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
@@ -3508,7 +3508,7 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
@@ -3522,7 +3522,7 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
@@ -3536,7 +3536,7 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
@@ -3550,7 +3550,7 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
@@ -3564,7 +3564,7 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
@@ -3578,7 +3578,7 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
@@ -3592,7 +3592,7 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
@@ -3606,7 +3606,7 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
@@ -3620,7 +3620,7 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
@@ -3634,7 +3634,7 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
@@ -3648,7 +3648,7 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
@@ -3662,7 +3662,7 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
@@ -3676,7 +3676,7 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
@@ -3690,7 +3690,7 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
@@ -3704,7 +3704,7 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
@@ -3718,7 +3718,7 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
@@ -3732,7 +3732,7 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
@@ -3746,7 +3746,7 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
@@ -3760,7 +3760,7 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
@@ -3774,7 +3774,7 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
@@ -3788,7 +3788,7 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
@@ -3802,7 +3802,7 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
@@ -3816,7 +3816,7 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
@@ -3830,7 +3830,7 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
@@ -3844,7 +3844,7 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
@@ -3858,7 +3858,7 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
@@ -3872,7 +3872,7 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
@@ -3886,7 +3886,7 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
@@ -3900,7 +3900,7 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
@@ -3914,7 +3914,7 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
@@ -3928,7 +3928,7 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
@@ -3942,7 +3942,7 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
@@ -3956,7 +3956,7 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
@@ -3970,7 +3970,7 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
@@ -3984,7 +3984,7 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
@@ -3998,7 +3998,7 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
@@ -4012,7 +4012,7 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
@@ -4026,7 +4026,7 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
@@ -4040,7 +4040,7 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
@@ -4054,25 +4054,11 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
       "id": 287,
-      "name": "Walton County Tax Collector",
-      "domain": "justice",
-      "totalSeats": null,
-      "vacantSeats": 0,
-      "vacantSince": null,
-      "authority": "Governor's Appointments Office",
-      "constituent": null,
-      "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-09-28",
-      "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
-    },
-    {
-      "id": 288,
       "name": "Wekiva River Basin Commission",
       "domain": "justice",
       "totalSeats": null,
@@ -4082,11 +4068,11 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
-      "id": 289,
+      "id": 288,
       "name": "West Florida Regional Planning Council, Region One",
       "domain": "justice",
       "totalSeats": null,
@@ -4096,11 +4082,11 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
-      "id": 290,
+      "id": 289,
       "name": "Florida State Board of Education",
       "domain": "education",
       "totalSeats": 7,
@@ -4110,7 +4096,7 @@
       "constituent": "Florida K-12 students & families",
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list",
       "mandate": "Chief policy body for Florida public education. Seven members appointed by the Governor to staggered four-year terms, Senate-confirmed (Fla. Const. art. IX).",
       "seatSource": "https://www.flsenate.gov/Laws/Constitution#A9S02"

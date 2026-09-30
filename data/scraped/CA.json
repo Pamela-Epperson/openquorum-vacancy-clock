@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-09-28T18:17:53.678Z",
+  "scrapedAt": "2026-09-30T18:52:56.977Z",
   "registry": {
     "profile": "ca",
     "mode": "inventory",
@@ -14,8 +14,8 @@
   },
   "summary": {
     "state": "CA",
-    "total": 253,
-    "full": 21,
+    "total": 258,
+    "full": 26,
     "provisional": 232,
     "missingFields": {
       "totalSeats": 232,
@@ -34,7 +34,7 @@
       "constituent": "Californians & licensed CPAs · audit integrity",
       "applyUrl": "https://govca.avature.net/GOVCACareers/Home",
       "sourceUrl": "https://www.gov.ca.gov/wp-content/uploads/2026/03/Statutory-Index-2026.pdf",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "11 of 15 seats are governor-appointed",
       "mandate": "Licenses and disciplines California's CPAs and public accounting firms. Fifteen members — seven licensees and eight public; the Governor appoints eleven (Bus. & Prof. Code § 5000/5015).",
       "seatSource": "https://www.cba.ca.gov/about/"
@@ -50,7 +50,7 @@
       "constituent": null,
       "applyUrl": "https://govca.avature.net/GOVCACareers/Home",
       "sourceUrl": "https://www.gov.ca.gov/wp-content/uploads/2026/03/Statutory-Index-2026.pdf",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Statutory Index of Positions (appointive board); apply any time"
     },
     {
@@ -64,7 +64,7 @@
       "constituent": null,
       "applyUrl": "https://govca.avature.net/GOVCACareers/Home",
       "sourceUrl": "https://www.gov.ca.gov/wp-content/uploads/2026/03/Statutory-Index-2026.pdf",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Statutory Index of Positions (appointive board); apply any time"
     },
     {
@@ -78,7 +78,7 @@
       "constituent": null,
       "applyUrl": "https://govca.avature.net/GOVCACareers/Home",
       "sourceUrl": "https://www.gov.ca.gov/wp-content/uploads/2026/03/Statutory-Index-2026.pdf",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Statutory Index of Positions (appointive board); apply any time"
     },
     {
@@ -92,7 +92,7 @@
       "constituent": null,
       "applyUrl": "https://govca.avature.net/GOVCACareers/Home",
       "sourceUrl": "https://www.gov.ca.gov/wp-content/uploads/2026/03/Statutory-Index-2026.pdf",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Statutory Index of Positions (appointive board); apply any time"
     },
     {
@@ -106,7 +106,7 @@
       "constituent": null,
       "applyUrl": "https://govca.avature.net/GOVCACareers/Home",
       "sourceUrl": "https://www.gov.ca.gov/wp-content/uploads/2026/03/Statutory-Index-2026.pdf",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Statutory Index of Positions (appointive board); apply any time"
     },
     {
@@ -120,7 +120,7 @@
       "constituent": null,
       "applyUrl": "https://govca.avature.net/GOVCACareers/Home",
       "sourceUrl": "https://www.gov.ca.gov/wp-content/uploads/2026/03/Statutory-Index-2026.pdf",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Statutory Index of Positions (appointive board); apply any time"
     },
     {
@@ -134,7 +134,7 @@
       "constituent": null,
       "applyUrl": "https://govca.avature.net/GOVCACareers/Home",
       "sourceUrl": "https://www.gov.ca.gov/wp-content/uploads/2026/03/Statutory-Index-2026.pdf",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Statutory Index of Positions (appointive board); apply any time"
     },
     {
@@ -148,7 +148,7 @@
       "constituent": null,
       "applyUrl": "https://govca.avature.net/GOVCACareers/Home",
       "sourceUrl": "https://www.gov.ca.gov/wp-content/uploads/2026/03/Statutory-Index-2026.pdf",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Statutory Index of Positions (appointive board); apply any time"
     },
     {
@@ -162,7 +162,7 @@
       "constituent": null,
       "applyUrl": "https://govca.avature.net/GOVCACareers/Home",
       "sourceUrl": "https://www.gov.ca.gov/wp-content/uploads/2026/03/Statutory-Index-2026.pdf",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Statutory Index of Positions (appointive board); apply any time"
     },
     {
@@ -176,7 +176,7 @@
       "constituent": null,
       "applyUrl": "https://govca.avature.net/GOVCACareers/Home",
       "sourceUrl": "https://www.gov.ca.gov/wp-content/uploads/2026/03/Statutory-Index-2026.pdf",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Statutory Index of Positions (appointive board); apply any time"
     },
     {
@@ -190,7 +190,7 @@
       "constituent": null,
       "applyUrl": "https://govca.avature.net/GOVCACareers/Home",
       "sourceUrl": "https://www.gov.ca.gov/wp-content/uploads/2026/03/Statutory-Index-2026.pdf",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Statutory Index of Positions (appointive board); apply any time"
     },
     {
@@ -204,7 +204,7 @@
       "constituent": null,
       "applyUrl": "https://govca.avature.net/GOVCACareers/Home",
       "sourceUrl": "https://www.gov.ca.gov/wp-content/uploads/2026/03/Statutory-Index-2026.pdf",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Statutory Index of Positions (appointive board); apply any time"
     },
     {
@@ -218,7 +218,7 @@
       "constituent": null,
       "applyUrl": "https://govca.avature.net/GOVCACareers/Home",
       "sourceUrl": "https://www.gov.ca.gov/wp-content/uploads/2026/03/Statutory-Index-2026.pdf",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Statutory Index of Positions (appointive board); apply any time"
     },
     {
@@ -232,7 +232,7 @@
       "constituent": null,
       "applyUrl": "https://govca.avature.net/GOVCACareers/Home",
       "sourceUrl": "https://www.gov.ca.gov/wp-content/uploads/2026/03/Statutory-Index-2026.pdf",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Statutory Index of Positions (appointive board); apply any time"
     },
     {
@@ -246,7 +246,7 @@
       "constituent": null,
       "applyUrl": "https://govca.avature.net/GOVCACareers/Home",
       "sourceUrl": "https://www.gov.ca.gov/wp-content/uploads/2026/03/Statutory-Index-2026.pdf",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Statutory Index of Positions (appointive board); apply any time"
     },
     {
@@ -260,7 +260,7 @@
       "constituent": null,
       "applyUrl": "https://govca.avature.net/GOVCACareers/Home",
       "sourceUrl": "https://www.gov.ca.gov/wp-content/uploads/2026/03/Statutory-Index-2026.pdf",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Statutory Index of Positions (appointive board); apply any time"
     },
     {
@@ -274,7 +274,7 @@
       "constituent": null,
       "applyUrl": "https://govca.avature.net/GOVCACareers/Home",
       "sourceUrl": "https://www.gov.ca.gov/wp-content/uploads/2026/03/Statutory-Index-2026.pdf",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Statutory Index of Positions (appointive board); apply any time"
     },
     {
@@ -288,7 +288,7 @@
       "constituent": null,
       "applyUrl": "https://govca.avature.net/GOVCACareers/Home",
       "sourceUrl": "https://www.gov.ca.gov/wp-content/uploads/2026/03/Statutory-Index-2026.pdf",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Statutory Index of Positions (appointive board); apply any time"
     },
     {
@@ -302,7 +302,7 @@
       "constituent": "California farmworkers & agricultural employers",
       "applyUrl": "https://govca.avature.net/GOVCACareers/Home",
       "sourceUrl": "https://www.gov.ca.gov/wp-content/uploads/2026/03/Statutory-Index-2026.pdf",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Statutory Index of Positions (appointive board); apply any time",
       "mandate": "Enforces the rights of California's farmworkers to organize and bargain. Five members appointed by the Governor with Senate confirmation (Labor Code § 1141).",
       "seatSource": "https://www.alrb.ca.gov/about-us/"
@@ -318,7 +318,7 @@
       "constituent": null,
       "applyUrl": "https://govca.avature.net/GOVCACareers/Home",
       "sourceUrl": "https://www.gov.ca.gov/wp-content/uploads/2026/03/Statutory-Index-2026.pdf",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Statutory Index of Positions (appointive board); apply any time"
     },
     {
@@ -332,7 +332,7 @@
       "constituent": null,
       "applyUrl": "https://govca.avature.net/GOVCACareers/Home",
       "sourceUrl": "https://www.gov.ca.gov/wp-content/uploads/2026/03/Statutory-Index-2026.pdf",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Statutory Index of Positions (appointive board); apply any time"
     },
     {
@@ -346,7 +346,7 @@
       "constituent": null,
       "applyUrl": "https://govca.avature.net/GOVCACareers/Home",
       "sourceUrl": "https://www.gov.ca.gov/wp-content/uploads/2026/03/Statutory-Index-2026.pdf",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Statutory Index of Positions (appointive board); apply any time"
     },
     {
@@ -360,7 +360,7 @@
       "constituent": null,
       "applyUrl": "https://govca.avature.net/GOVCACareers/Home",
       "sourceUrl": "https://www.gov.ca.gov/wp-content/uploads/2026/03/Statutory-Index-2026.pdf",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Statutory Index of Positions (appointive board); apply any time"
     },
     {
@@ -374,7 +374,7 @@
       "constituent": null,
       "applyUrl": "https://govca.avature.net/GOVCACareers/Home",
       "sourceUrl": "https://www.gov.ca.gov/wp-content/uploads/2026/03/Statutory-Index-2026.pdf",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Statutory Index of Positions (appointive board); apply any time"
     },
     {
@@ -388,7 +388,7 @@
       "constituent": null,
       "applyUrl": "https://govca.avature.net/GOVCACareers/Home",
       "sourceUrl": "https://www.gov.ca.gov/wp-content/uploads/2026/03/Statutory-Index-2026.pdf",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Statutory Index of Positions (appointive board); apply any time"
     },
     {
@@ -402,7 +402,7 @@
       "constituent": "Californians in therapy & licensed clinicians (LMFT, LCSW, LPCC)",
       "applyUrl": "https://govca.avature.net/GOVCACareers/Home",
       "sourceUrl": "https://www.gov.ca.gov/wp-content/uploads/2026/03/Statutory-Index-2026.pdf",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "9 of 11 seats are governor-appointed",
       "mandate": "Licenses California's marriage & family therapists, clinical social workers, professional clinical counselors, and educational psychologists. Eleven members; the Governor appoints nine (Bus. & Prof. Code § 4990).",
       "seatSource": "https://www.bbs.ca.gov/about/"
@@ -418,7 +418,7 @@
       "constituent": null,
       "applyUrl": "https://govca.avature.net/GOVCACareers/Home",
       "sourceUrl": "https://www.gov.ca.gov/wp-content/uploads/2026/03/Statutory-Index-2026.pdf",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Statutory Index of Positions (appointive board); apply any time"
     },
     {
@@ -432,7 +432,7 @@
       "constituent": null,
       "applyUrl": "https://govca.avature.net/GOVCACareers/Home",
       "sourceUrl": "https://www.gov.ca.gov/wp-content/uploads/2026/03/Statutory-Index-2026.pdf",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Statutory Index of Positions (appointive board); apply any time"
     },
     {
@@ -446,7 +446,7 @@
       "constituent": null,
       "applyUrl": "https://govca.avature.net/GOVCACareers/Home",
       "sourceUrl": "https://www.gov.ca.gov/wp-content/uploads/2026/03/Statutory-Index-2026.pdf",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Statutory Index of Positions (appointive board); apply any time"
     },
     {
@@ -460,7 +460,7 @@
       "constituent": null,
       "applyUrl": "https://govca.avature.net/GOVCACareers/Home",
       "sourceUrl": "https://www.gov.ca.gov/wp-content/uploads/2026/03/Statutory-Index-2026.pdf",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Statutory Index of Positions (appointive board); apply any time"
     },
     {
@@ -474,7 +474,7 @@
       "constituent": null,
       "applyUrl": "https://govca.avature.net/GOVCACareers/Home",
       "sourceUrl": "https://www.gov.ca.gov/wp-content/uploads/2026/03/Statutory-Index-2026.pdf",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Statutory Index of Positions (appointive board); apply any time"
     },
     {
@@ -488,7 +488,7 @@
       "constituent": null,
       "applyUrl": "https://govca.avature.net/GOVCACareers/Home",
       "sourceUrl": "https://www.gov.ca.gov/wp-content/uploads/2026/03/Statutory-Index-2026.pdf",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Statutory Index of Positions (appointive board); apply any time"
     },
     {
@@ -502,7 +502,7 @@
       "constituent": "California acupuncture patients & licensed acupuncturists",
       "applyUrl": "https://govca.avature.net/GOVCACareers/Home",
       "sourceUrl": "https://www.gov.ca.gov/wp-content/uploads/2026/03/Statutory-Index-2026.pdf",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "5 of 7 seats are governor-appointed",
       "mandate": "Licenses and regulates California's acupuncturists. Seven members — three acupuncturists and four public; the Governor appoints five (Bus. & Prof. Code § 4934).",
       "seatSource": "https://www.acupuncture.ca.gov/about_us/"
@@ -518,7 +518,7 @@
       "constituent": null,
       "applyUrl": "https://govca.avature.net/GOVCACareers/Home",
       "sourceUrl": "https://www.gov.ca.gov/wp-content/uploads/2026/03/Statutory-Index-2026.pdf",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Statutory Index of Positions (appointive board); apply any time"
     },
     {
@@ -532,7 +532,7 @@
       "constituent": null,
       "applyUrl": "https://govca.avature.net/GOVCACareers/Home",
       "sourceUrl": "https://www.gov.ca.gov/wp-content/uploads/2026/03/Statutory-Index-2026.pdf",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Statutory Index of Positions (appointive board); apply any time"
     },
     {
@@ -546,7 +546,7 @@
       "constituent": null,
       "applyUrl": "https://govca.avature.net/GOVCACareers/Home",
       "sourceUrl": "https://www.gov.ca.gov/wp-content/uploads/2026/03/Statutory-Index-2026.pdf",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Statutory Index of Positions (appointive board); apply any time"
     },
     {
@@ -560,7 +560,7 @@
       "constituent": null,
       "applyUrl": "https://govca.avature.net/GOVCACareers/Home",
       "sourceUrl": "https://www.gov.ca.gov/wp-content/uploads/2026/03/Statutory-Index-2026.pdf",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Statutory Index of Positions (appointive board); apply any time"
     },
     {
@@ -574,7 +574,7 @@
       "constituent": null,
       "applyUrl": "https://govca.avature.net/GOVCACareers/Home",
       "sourceUrl": "https://www.gov.ca.gov/wp-content/uploads/2026/03/Statutory-Index-2026.pdf",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Statutory Index of Positions (appointive board); apply any time"
     },
     {
@@ -588,7 +588,7 @@
       "constituent": null,
       "applyUrl": "https://govca.avature.net/GOVCACareers/Home",
       "sourceUrl": "https://www.gov.ca.gov/wp-content/uploads/2026/03/Statutory-Index-2026.pdf",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Statutory Index of Positions (appointive board); apply any time"
     },
     {
@@ -602,7 +602,7 @@
       "constituent": null,
       "applyUrl": "https://govca.avature.net/GOVCACareers/Home",
       "sourceUrl": "https://www.gov.ca.gov/wp-content/uploads/2026/03/Statutory-Index-2026.pdf",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Statutory Index of Positions (appointive board); apply any time"
     },
     {
@@ -616,7 +616,7 @@
       "constituent": null,
       "applyUrl": "https://govca.avature.net/GOVCACareers/Home",
       "sourceUrl": "https://www.gov.ca.gov/wp-content/uploads/2026/03/Statutory-Index-2026.pdf",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Statutory Index of Positions (appointive board); apply any time"
     },
     {
@@ -630,7 +630,7 @@
       "constituent": null,
       "applyUrl": "https://govca.avature.net/GOVCACareers/Home",
       "sourceUrl": "https://www.gov.ca.gov/wp-content/uploads/2026/03/Statutory-Index-2026.pdf",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Statutory Index of Positions (appointive board); apply any time"
     },
     {
@@ -644,7 +644,7 @@
       "constituent": null,
       "applyUrl": "https://govca.avature.net/GOVCACareers/Home",
       "sourceUrl": "https://www.gov.ca.gov/wp-content/uploads/2026/03/Statutory-Index-2026.pdf",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Statutory Index of Positions (appointive board); apply any time"
     },
     {
@@ -658,7 +658,7 @@
       "constituent": "California chiropractic patients & licensees",
       "applyUrl": "https://govca.avature.net/GOVCACareers/Home",
       "sourceUrl": "https://www.gov.ca.gov/wp-content/uploads/2026/03/Statutory-Index-2026.pdf",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Statutory Index of Positions (appointive board); apply any time",
       "mandate": "Licenses and disciplines California's doctors of chiropractic. Seven members appointed by the Governor — five chiropractors and two public (Chiropractic Initiative Act; Bus. & Prof. Code § 1000).",
       "seatSource": "https://www.chiro.ca.gov/about_us/"
@@ -674,7 +674,7 @@
       "constituent": null,
       "applyUrl": "https://govca.avature.net/GOVCACareers/Home",
       "sourceUrl": "https://www.gov.ca.gov/wp-content/uploads/2026/03/Statutory-Index-2026.pdf",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Statutory Index of Positions (appointive board); apply any time"
     },
     {
@@ -688,7 +688,7 @@
       "constituent": null,
       "applyUrl": "https://govca.avature.net/GOVCACareers/Home",
       "sourceUrl": "https://www.gov.ca.gov/wp-content/uploads/2026/03/Statutory-Index-2026.pdf",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Statutory Index of Positions (appointive board); apply any time"
     },
     {
@@ -702,7 +702,7 @@
       "constituent": "California workers & employers in the workers'-comp system",
       "applyUrl": "https://govca.avature.net/GOVCACareers/Home",
       "sourceUrl": "https://www.gov.ca.gov/wp-content/uploads/2026/03/Statutory-Index-2026.pdf",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "9 of 11 seats are governor-appointed",
       "mandate": "Governs State Fund, California's provider of last-resort workers' compensation insurance. Eleven members — nine governor-appointed plus two legislative appointees (Ins. Code § 11770).",
       "seatSource": "https://codes.findlaw.com/ca/insurance-code/ins-sect-11770/"
@@ -718,7 +718,7 @@
       "constituent": null,
       "applyUrl": "https://govca.avature.net/GOVCACareers/Home",
       "sourceUrl": "https://www.gov.ca.gov/wp-content/uploads/2026/03/Statutory-Index-2026.pdf",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Statutory Index of Positions (appointive board); apply any time"
     },
     {
@@ -732,7 +732,7 @@
       "constituent": null,
       "applyUrl": "https://govca.avature.net/GOVCACareers/Home",
       "sourceUrl": "https://www.gov.ca.gov/wp-content/uploads/2026/03/Statutory-Index-2026.pdf",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Statutory Index of Positions (appointive board); apply any time"
     },
     {
@@ -746,7 +746,7 @@
       "constituent": null,
       "applyUrl": "https://govca.avature.net/GOVCACareers/Home",
       "sourceUrl": "https://www.gov.ca.gov/wp-content/uploads/2026/03/Statutory-Index-2026.pdf",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Statutory Index of Positions (appointive board); apply any time"
     },
     {
@@ -760,7 +760,7 @@
       "constituent": null,
       "applyUrl": "https://govca.avature.net/GOVCACareers/Home",
       "sourceUrl": "https://www.gov.ca.gov/wp-content/uploads/2026/03/Statutory-Index-2026.pdf",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Statutory Index of Positions (appointive board); apply any time"
     },
     {
@@ -774,7 +774,7 @@
       "constituent": null,
       "applyUrl": "https://govca.avature.net/GOVCACareers/Home",
       "sourceUrl": "https://www.gov.ca.gov/wp-content/uploads/2026/03/Statutory-Index-2026.pdf",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Statutory Index of Positions (appointive board); apply any time"
     },
     {
@@ -788,7 +788,7 @@
       "constituent": null,
       "applyUrl": "https://govca.avature.net/GOVCACareers/Home",
       "sourceUrl": "https://www.gov.ca.gov/wp-content/uploads/2026/03/Statutory-Index-2026.pdf",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Statutory Index of Positions (appointive board); apply any time"
     },
     {
@@ -802,7 +802,7 @@
       "constituent": null,
       "applyUrl": "https://govca.avature.net/GOVCACareers/Home",
       "sourceUrl": "https://www.gov.ca.gov/wp-content/uploads/2026/03/Statutory-Index-2026.pdf",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Statutory Index of Positions (appointive board); apply any time"
     },
     {
@@ -816,7 +816,7 @@
       "constituent": null,
       "applyUrl": "https://govca.avature.net/GOVCACareers/Home",
       "sourceUrl": "https://www.gov.ca.gov/wp-content/uploads/2026/03/Statutory-Index-2026.pdf",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Statutory Index of Positions (appointive board); apply any time"
     },
     {
@@ -830,7 +830,7 @@
       "constituent": null,
       "applyUrl": "https://govca.avature.net/GOVCACareers/Home",
       "sourceUrl": "https://www.gov.ca.gov/wp-content/uploads/2026/03/Statutory-Index-2026.pdf",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Statutory Index of Positions (appointive board); apply any time"
     },
     {
@@ -844,7 +844,7 @@
       "constituent": null,
       "applyUrl": "https://govca.avature.net/GOVCACareers/Home",
       "sourceUrl": "https://www.gov.ca.gov/wp-content/uploads/2026/03/Statutory-Index-2026.pdf",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Statutory Index of Positions (appointive board); apply any time"
     },
     {
@@ -858,7 +858,7 @@
       "constituent": null,
       "applyUrl": "https://govca.avature.net/GOVCACareers/Home",
       "sourceUrl": "https://www.gov.ca.gov/wp-content/uploads/2026/03/Statutory-Index-2026.pdf",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Statutory Index of Positions (appointive board); apply any time"
     },
     {
@@ -872,7 +872,7 @@
       "constituent": null,
       "applyUrl": "https://govca.avature.net/GOVCACareers/Home",
       "sourceUrl": "https://www.gov.ca.gov/wp-content/uploads/2026/03/Statutory-Index-2026.pdf",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Statutory Index of Positions (appointive board); apply any time"
     },
     {
@@ -886,7 +886,7 @@
       "constituent": null,
       "applyUrl": "https://govca.avature.net/GOVCACareers/Home",
       "sourceUrl": "https://www.gov.ca.gov/wp-content/uploads/2026/03/Statutory-Index-2026.pdf",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Statutory Index of Positions (appointive board); apply any time"
     },
     {
@@ -900,7 +900,7 @@
       "constituent": null,
       "applyUrl": "https://govca.avature.net/GOVCACareers/Home",
       "sourceUrl": "https://www.gov.ca.gov/wp-content/uploads/2026/03/Statutory-Index-2026.pdf",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Statutory Index of Positions (appointive board); apply any time"
     },
     {
@@ -914,7 +914,7 @@
       "constituent": null,
       "applyUrl": "https://govca.avature.net/GOVCACareers/Home",
       "sourceUrl": "https://www.gov.ca.gov/wp-content/uploads/2026/03/Statutory-Index-2026.pdf",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Statutory Index of Positions (appointive board); apply any time"
     },
     {
@@ -928,7 +928,7 @@
       "constituent": null,
       "applyUrl": "https://govca.avature.net/GOVCACareers/Home",
       "sourceUrl": "https://www.gov.ca.gov/wp-content/uploads/2026/03/Statutory-Index-2026.pdf",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Statutory Index of Positions (appointive board); apply any time"
     },
     {
@@ -942,7 +942,7 @@
       "constituent": null,
       "applyUrl": "https://govca.avature.net/GOVCACareers/Home",
       "sourceUrl": "https://www.gov.ca.gov/wp-content/uploads/2026/03/Statutory-Index-2026.pdf",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Statutory Index of Positions (appointive board); apply any time"
     },
     {
@@ -956,7 +956,7 @@
       "constituent": null,
       "applyUrl": "https://govca.avature.net/GOVCACareers/Home",
       "sourceUrl": "https://www.gov.ca.gov/wp-content/uploads/2026/03/Statutory-Index-2026.pdf",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Statutory Index of Positions (appointive board); apply any time"
     },
     {
@@ -970,7 +970,7 @@
       "constituent": null,
       "applyUrl": "https://govca.avature.net/GOVCACareers/Home",
       "sourceUrl": "https://www.gov.ca.gov/wp-content/uploads/2026/03/Statutory-Index-2026.pdf",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Statutory Index of Positions (appointive board); apply any time"
     },
     {
@@ -984,7 +984,7 @@
       "constituent": null,
       "applyUrl": "https://govca.avature.net/GOVCACareers/Home",
       "sourceUrl": "https://www.gov.ca.gov/wp-content/uploads/2026/03/Statutory-Index-2026.pdf",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Statutory Index of Positions (appointive board); apply any time"
     },
     {
@@ -998,7 +998,7 @@
       "constituent": null,
       "applyUrl": "https://govca.avature.net/GOVCACareers/Home",
       "sourceUrl": "https://www.gov.ca.gov/wp-content/uploads/2026/03/Statutory-Index-2026.pdf",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Statutory Index of Positions (appointive board); apply any time"
     },
     {
@@ -1012,7 +1012,7 @@
       "constituent": null,
       "applyUrl": "https://govca.avature.net/GOVCACareers/Home",
       "sourceUrl": "https://www.gov.ca.gov/wp-content/uploads/2026/03/Statutory-Index-2026.pdf",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Statutory Index of Positions (appointive board); apply any time"
     },
     {
@@ -1026,7 +1026,7 @@
       "constituent": null,
       "applyUrl": "https://govca.avature.net/GOVCACareers/Home",
       "sourceUrl": "https://www.gov.ca.gov/wp-content/uploads/2026/03/Statutory-Index-2026.pdf",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Statutory Index of Positions (appointive board); apply any time"
     },
     {
@@ -1040,7 +1040,7 @@
       "constituent": "California dental patients & licensed dentists",
       "applyUrl": "https://govca.avature.net/GOVCACareers/Home",
       "sourceUrl": "https://www.gov.ca.gov/wp-content/uploads/2026/03/Statutory-Index-2026.pdf",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Statutory Index of Positions (appointive board); apply any time",
       "mandate": "Licenses and disciplines California's dentists and dental assistants. Fifteen members — eight practicing dentists, two registered dental assistants, and five public members (Bus. & Prof. Code § 1601.1).",
       "seatSource": "https://california.public.law/codes/ca_bus_and_prof_code_section_1601.1"
@@ -1056,7 +1056,7 @@
       "constituent": null,
       "applyUrl": "https://govca.avature.net/GOVCACareers/Home",
       "sourceUrl": "https://www.gov.ca.gov/wp-content/uploads/2026/03/Statutory-Index-2026.pdf",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Statutory Index of Positions (appointive board); apply any time"
     },
     {
@@ -1070,7 +1070,7 @@
       "constituent": null,
       "applyUrl": "https://govca.avature.net/GOVCACareers/Home",
       "sourceUrl": "https://www.gov.ca.gov/wp-content/uploads/2026/03/Statutory-Index-2026.pdf",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Statutory Index of Positions (appointive board); apply any time"
     },
     {
@@ -1084,7 +1084,7 @@
       "constituent": null,
       "applyUrl": "https://govca.avature.net/GOVCACareers/Home",
       "sourceUrl": "https://www.gov.ca.gov/wp-content/uploads/2026/03/Statutory-Index-2026.pdf",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Statutory Index of Positions (appointive board); apply any time"
     },
     {
@@ -1098,7 +1098,7 @@
       "constituent": null,
       "applyUrl": "https://govca.avature.net/GOVCACareers/Home",
       "sourceUrl": "https://www.gov.ca.gov/wp-content/uploads/2026/03/Statutory-Index-2026.pdf",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Statutory Index of Positions (appointive board); apply any time"
     },
     {
@@ -1112,7 +1112,7 @@
       "constituent": null,
       "applyUrl": "https://govca.avature.net/GOVCACareers/Home",
       "sourceUrl": "https://www.gov.ca.gov/wp-content/uploads/2026/03/Statutory-Index-2026.pdf",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Statutory Index of Positions (appointive board); apply any time"
     },
     {
@@ -1126,7 +1126,7 @@
       "constituent": null,
       "applyUrl": "https://govca.avature.net/GOVCACareers/Home",
       "sourceUrl": "https://www.gov.ca.gov/wp-content/uploads/2026/03/Statutory-Index-2026.pdf",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Statutory Index of Positions (appointive board); apply any time"
     },
     {
@@ -1140,7 +1140,7 @@
       "constituent": null,
       "applyUrl": "https://govca.avature.net/GOVCACareers/Home",
       "sourceUrl": "https://www.gov.ca.gov/wp-content/uploads/2026/03/Statutory-Index-2026.pdf",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Statutory Index of Positions (appointive board); apply any time"
     },
     {
@@ -1154,7 +1154,7 @@
       "constituent": null,
       "applyUrl": "https://govca.avature.net/GOVCACareers/Home",
       "sourceUrl": "https://www.gov.ca.gov/wp-content/uploads/2026/03/Statutory-Index-2026.pdf",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Statutory Index of Positions (appointive board); apply any time"
     },
     {
@@ -1168,7 +1168,7 @@
       "constituent": null,
       "applyUrl": "https://govca.avature.net/GOVCACareers/Home",
       "sourceUrl": "https://www.gov.ca.gov/wp-content/uploads/2026/03/Statutory-Index-2026.pdf",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Statutory Index of Positions (appointive board); apply any time"
     },
     {
@@ -1182,7 +1182,7 @@
       "constituent": null,
       "applyUrl": "https://govca.avature.net/GOVCACareers/Home",
       "sourceUrl": "https://www.gov.ca.gov/wp-content/uploads/2026/03/Statutory-Index-2026.pdf",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Statutory Index of Positions (appointive board); apply any time"
     },
     {
@@ -1196,7 +1196,7 @@
       "constituent": null,
       "applyUrl": "https://govca.avature.net/GOVCACareers/Home",
       "sourceUrl": "https://www.gov.ca.gov/wp-content/uploads/2026/03/Statutory-Index-2026.pdf",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Statutory Index of Positions (appointive board); apply any time"
     },
     {
@@ -1210,7 +1210,7 @@
       "constituent": null,
       "applyUrl": "https://govca.avature.net/GOVCACareers/Home",
       "sourceUrl": "https://www.gov.ca.gov/wp-content/uploads/2026/03/Statutory-Index-2026.pdf",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Statutory Index of Positions (appointive board); apply any time"
     },
     {
@@ -1224,7 +1224,7 @@
       "constituent": null,
       "applyUrl": "https://govca.avature.net/GOVCACareers/Home",
       "sourceUrl": "https://www.gov.ca.gov/wp-content/uploads/2026/03/Statutory-Index-2026.pdf",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Statutory Index of Positions (appointive board); apply any time"
     },
     {
@@ -1238,7 +1238,7 @@
       "constituent": null,
       "applyUrl": "https://govca.avature.net/GOVCACareers/Home",
       "sourceUrl": "https://www.gov.ca.gov/wp-content/uploads/2026/03/Statutory-Index-2026.pdf",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Statutory Index of Positions (appointive board); apply any time"
     },
     {
@@ -1252,7 +1252,7 @@
       "constituent": null,
       "applyUrl": "https://govca.avature.net/GOVCACareers/Home",
       "sourceUrl": "https://www.gov.ca.gov/wp-content/uploads/2026/03/Statutory-Index-2026.pdf",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Statutory Index of Positions (appointive board); apply any time"
     },
     {
@@ -1266,7 +1266,7 @@
       "constituent": null,
       "applyUrl": "https://govca.avature.net/GOVCACareers/Home",
       "sourceUrl": "https://www.gov.ca.gov/wp-content/uploads/2026/03/Statutory-Index-2026.pdf",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Statutory Index of Positions (appointive board); apply any time"
     },
     {
@@ -1280,7 +1280,7 @@
       "constituent": null,
       "applyUrl": "https://govca.avature.net/GOVCACareers/Home",
       "sourceUrl": "https://www.gov.ca.gov/wp-content/uploads/2026/03/Statutory-Index-2026.pdf",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Statutory Index of Positions (appointive board); apply any time"
     },
     {
@@ -1294,7 +1294,7 @@
       "constituent": null,
       "applyUrl": "https://govca.avature.net/GOVCACareers/Home",
       "sourceUrl": "https://www.gov.ca.gov/wp-content/uploads/2026/03/Statutory-Index-2026.pdf",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Statutory Index of Positions (appointive board); apply any time"
     },
     {
@@ -1308,7 +1308,7 @@
       "constituent": null,
       "applyUrl": "https://govca.avature.net/GOVCACareers/Home",
       "sourceUrl": "https://www.gov.ca.gov/wp-content/uploads/2026/03/Statutory-Index-2026.pdf",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Statutory Index of Positions (appointive board); apply any time"
     },
     {
@@ -1322,7 +1322,7 @@
       "constituent": null,
       "applyUrl": "https://govca.avature.net/GOVCACareers/Home",
       "sourceUrl": "https://www.gov.ca.gov/wp-content/uploads/2026/03/Statutory-Index-2026.pdf",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Statutory Index of Positions (appointive board); apply any time"
     },
     {
@@ -1336,7 +1336,7 @@
       "constituent": null,
       "applyUrl": "https://govca.avature.net/GOVCACareers/Home",
       "sourceUrl": "https://www.gov.ca.gov/wp-content/uploads/2026/03/Statutory-Index-2026.pdf",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Statutory Index of Positions (appointive board); apply any time"
     },
     {
@@ -1350,7 +1350,7 @@
       "constituent": null,
       "applyUrl": "https://govca.avature.net/GOVCACareers/Home",
       "sourceUrl": "https://www.gov.ca.gov/wp-content/uploads/2026/03/Statutory-Index-2026.pdf",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Statutory Index of Positions (appointive board); apply any time"
     },
     {
@@ -1364,7 +1364,7 @@
       "constituent": null,
       "applyUrl": "https://govca.avature.net/GOVCACareers/Home",
       "sourceUrl": "https://www.gov.ca.gov/wp-content/uploads/2026/03/Statutory-Index-2026.pdf",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Statutory Index of Positions (appointive board); apply any time"
     },
     {
@@ -1378,7 +1378,7 @@
       "constituent": null,
       "applyUrl": "https://govca.avature.net/GOVCACareers/Home",
       "sourceUrl": "https://www.gov.ca.gov/wp-content/uploads/2026/03/Statutory-Index-2026.pdf",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Statutory Index of Positions (appointive board); apply any time"
     },
     {
@@ -1392,7 +1392,7 @@
       "constituent": null,
       "applyUrl": "https://govca.avature.net/GOVCACareers/Home",
       "sourceUrl": "https://www.gov.ca.gov/wp-content/uploads/2026/03/Statutory-Index-2026.pdf",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Statutory Index of Positions (appointive board); apply any time"
     },
     {
@@ -1406,7 +1406,7 @@
       "constituent": null,
       "applyUrl": "https://govca.avature.net/GOVCACareers/Home",
       "sourceUrl": "https://www.gov.ca.gov/wp-content/uploads/2026/03/Statutory-Index-2026.pdf",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Statutory Index of Positions (appointive board); apply any time"
     },
     {
@@ -1420,7 +1420,7 @@
       "constituent": null,
       "applyUrl": "https://govca.avature.net/GOVCACareers/Home",
       "sourceUrl": "https://www.gov.ca.gov/wp-content/uploads/2026/03/Statutory-Index-2026.pdf",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Statutory Index of Positions (appointive board); apply any time"
     },
     {
@@ -1434,7 +1434,7 @@
       "constituent": null,
       "applyUrl": "https://govca.avature.net/GOVCACareers/Home",
       "sourceUrl": "https://www.gov.ca.gov/wp-content/uploads/2026/03/Statutory-Index-2026.pdf",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Statutory Index of Positions (appointive board); apply any time"
     },
     {
@@ -1448,7 +1448,7 @@
       "constituent": null,
       "applyUrl": "https://govca.avature.net/GOVCACareers/Home",
       "sourceUrl": "https://www.gov.ca.gov/wp-content/uploads/2026/03/Statutory-Index-2026.pdf",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Statutory Index of Positions (appointive board); apply any time"
     },
     {
@@ -1462,7 +1462,7 @@
       "constituent": null,
       "applyUrl": "https://govca.avature.net/GOVCACareers/Home",
       "sourceUrl": "https://www.gov.ca.gov/wp-content/uploads/2026/03/Statutory-Index-2026.pdf",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Statutory Index of Positions (appointive board); apply any time"
     },
     {
@@ -1476,7 +1476,7 @@
       "constituent": null,
       "applyUrl": "https://govca.avature.net/GOVCACareers/Home",
       "sourceUrl": "https://www.gov.ca.gov/wp-content/uploads/2026/03/Statutory-Index-2026.pdf",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Statutory Index of Positions (appointive board); apply any time"
     },
     {
@@ -1490,7 +1490,7 @@
       "constituent": null,
       "applyUrl": "https://govca.avature.net/GOVCACareers/Home",
       "sourceUrl": "https://www.gov.ca.gov/wp-content/uploads/2026/03/Statutory-Index-2026.pdf",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Statutory Index of Positions (appointive board); apply any time"
     },
     {
@@ -1504,7 +1504,7 @@
       "constituent": null,
       "applyUrl": "https://govca.avature.net/GOVCACareers/Home",
       "sourceUrl": "https://www.gov.ca.gov/wp-content/uploads/2026/03/Statutory-Index-2026.pdf",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Statutory Index of Positions (appointive board); apply any time"
     },
     {
@@ -1518,7 +1518,7 @@
       "constituent": null,
       "applyUrl": "https://govca.avature.net/GOVCACareers/Home",
       "sourceUrl": "https://www.gov.ca.gov/wp-content/uploads/2026/03/Statutory-Index-2026.pdf",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Statutory Index of Positions (appointive board); apply any time"
     },
     {
@@ -1532,7 +1532,7 @@
       "constituent": null,
       "applyUrl": "https://govca.avature.net/GOVCACareers/Home",
       "sourceUrl": "https://www.gov.ca.gov/wp-content/uploads/2026/03/Statutory-Index-2026.pdf",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Statutory Index of Positions (appointive board); apply any time"
     },
     {
@@ -1546,7 +1546,7 @@
       "constituent": "Californians affected by regulated gambling",
       "applyUrl": "https://govca.avature.net/GOVCACareers/Home",
       "sourceUrl": "https://www.gov.ca.gov/wp-content/uploads/2026/03/Statutory-Index-2026.pdf",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Statutory Index of Positions (appointive board); apply any time",
       "mandate": "Regulates California's gambling industry and acts as trustee of Indian Gaming funds. Five members appointed by the Governor, Senate-confirmed (Bus. & Prof. Code § 19811).",
       "seatSource": "https://www.cgcc.ca.gov/"
@@ -1562,7 +1562,7 @@
       "constituent": null,
       "applyUrl": "https://govca.avature.net/GOVCACareers/Home",
       "sourceUrl": "https://www.gov.ca.gov/wp-content/uploads/2026/03/Statutory-Index-2026.pdf",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Statutory Index of Positions (appointive board); apply any time"
     },
     {
@@ -1576,7 +1576,7 @@
       "constituent": null,
       "applyUrl": "https://govca.avature.net/GOVCACareers/Home",
       "sourceUrl": "https://www.gov.ca.gov/wp-content/uploads/2026/03/Statutory-Index-2026.pdf",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Statutory Index of Positions (appointive board); apply any time"
     },
     {
@@ -1590,7 +1590,7 @@
       "constituent": null,
       "applyUrl": "https://govca.avature.net/GOVCACareers/Home",
       "sourceUrl": "https://www.gov.ca.gov/wp-content/uploads/2026/03/Statutory-Index-2026.pdf",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Statutory Index of Positions (appointive board); apply any time"
     },
     {
@@ -1604,7 +1604,7 @@
       "constituent": null,
       "applyUrl": "https://govca.avature.net/GOVCACareers/Home",
       "sourceUrl": "https://www.gov.ca.gov/wp-content/uploads/2026/03/Statutory-Index-2026.pdf",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Statutory Index of Positions (appointive board); apply any time"
     },
     {
@@ -1618,7 +1618,7 @@
       "constituent": null,
       "applyUrl": "https://govca.avature.net/GOVCACareers/Home",
       "sourceUrl": "https://www.gov.ca.gov/wp-content/uploads/2026/03/Statutory-Index-2026.pdf",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Statutory Index of Positions (appointive board); apply any time"
     },
     {
@@ -1632,7 +1632,7 @@
       "constituent": null,
       "applyUrl": "https://govca.avature.net/GOVCACareers/Home",
       "sourceUrl": "https://www.gov.ca.gov/wp-content/uploads/2026/03/Statutory-Index-2026.pdf",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Statutory Index of Positions (appointive board); apply any time"
     },
     {
@@ -1646,7 +1646,7 @@
       "constituent": null,
       "applyUrl": "https://govca.avature.net/GOVCACareers/Home",
       "sourceUrl": "https://www.gov.ca.gov/wp-content/uploads/2026/03/Statutory-Index-2026.pdf",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Statutory Index of Positions (appointive board); apply any time"
     },
     {
@@ -1660,7 +1660,7 @@
       "constituent": null,
       "applyUrl": "https://govca.avature.net/GOVCACareers/Home",
       "sourceUrl": "https://www.gov.ca.gov/wp-content/uploads/2026/03/Statutory-Index-2026.pdf",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Statutory Index of Positions (appointive board); apply any time"
     },
     {
@@ -1674,7 +1674,7 @@
       "constituent": null,
       "applyUrl": "https://govca.avature.net/GOVCACareers/Home",
       "sourceUrl": "https://www.gov.ca.gov/wp-content/uploads/2026/03/Statutory-Index-2026.pdf",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Statutory Index of Positions (appointive board); apply any time"
     },
     {
@@ -1688,7 +1688,7 @@
       "constituent": null,
       "applyUrl": "https://govca.avature.net/GOVCACareers/Home",
       "sourceUrl": "https://www.gov.ca.gov/wp-content/uploads/2026/03/Statutory-Index-2026.pdf",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Statutory Index of Positions (appointive board); apply any time"
     },
     {
@@ -1702,7 +1702,7 @@
       "constituent": null,
       "applyUrl": "https://govca.avature.net/GOVCACareers/Home",
       "sourceUrl": "https://www.gov.ca.gov/wp-content/uploads/2026/03/Statutory-Index-2026.pdf",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Statutory Index of Positions (appointive board); apply any time"
     },
     {
@@ -1716,7 +1716,7 @@
       "constituent": null,
       "applyUrl": "https://govca.avature.net/GOVCACareers/Home",
       "sourceUrl": "https://www.gov.ca.gov/wp-content/uploads/2026/03/Statutory-Index-2026.pdf",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Statutory Index of Positions (appointive board); apply any time"
     },
     {
@@ -1730,7 +1730,7 @@
       "constituent": null,
       "applyUrl": "https://govca.avature.net/GOVCACareers/Home",
       "sourceUrl": "https://www.gov.ca.gov/wp-content/uploads/2026/03/Statutory-Index-2026.pdf",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Statutory Index of Positions (appointive board); apply any time"
     },
     {
@@ -1744,7 +1744,7 @@
       "constituent": null,
       "applyUrl": "https://govca.avature.net/GOVCACareers/Home",
       "sourceUrl": "https://www.gov.ca.gov/wp-content/uploads/2026/03/Statutory-Index-2026.pdf",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Statutory Index of Positions (appointive board); apply any time"
     },
     {
@@ -1758,7 +1758,7 @@
       "constituent": "California patients & registered nurses",
       "applyUrl": "https://govca.avature.net/GOVCACareers/Home",
       "sourceUrl": "https://www.gov.ca.gov/wp-content/uploads/2026/03/Statutory-Index-2026.pdf",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Statutory Index of Positions (appointive board); apply any time",
       "mandate": "Licenses and regulates California's registered nurses. Nine members — five registered nurses and four public members; the Governor appoints seven, with the Senate and Assembly each appointing one public member (Bus. & Prof. Code § 2701).",
       "seatSource": "https://california.public.law/codes/ca_bus_and_prof_code_section_2701"
@@ -1774,7 +1774,7 @@
       "constituent": null,
       "applyUrl": "https://govca.avature.net/GOVCACareers/Home",
       "sourceUrl": "https://www.gov.ca.gov/wp-content/uploads/2026/03/Statutory-Index-2026.pdf",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Statutory Index of Positions (appointive board); apply any time"
     },
     {
@@ -1788,7 +1788,7 @@
       "constituent": null,
       "applyUrl": "https://govca.avature.net/GOVCACareers/Home",
       "sourceUrl": "https://www.gov.ca.gov/wp-content/uploads/2026/03/Statutory-Index-2026.pdf",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Statutory Index of Positions (appointive board); apply any time"
     },
     {
@@ -1802,7 +1802,7 @@
       "constituent": "California patients & licensed D.O. physicians",
       "applyUrl": "https://govca.avature.net/GOVCACareers/Home",
       "sourceUrl": "https://www.gov.ca.gov/wp-content/uploads/2026/03/Statutory-Index-2026.pdf",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "7 of 9 seats are governor-appointed",
       "mandate": "Licenses and disciplines California's osteopathic physicians. Nine members — five D.O.s and four public; the Governor appoints seven (Bus. & Prof. Code § 2450 et seq.).",
       "seatSource": "https://ombc.ca.gov/"
@@ -1818,7 +1818,7 @@
       "constituent": null,
       "applyUrl": "https://govca.avature.net/GOVCACareers/Home",
       "sourceUrl": "https://www.gov.ca.gov/wp-content/uploads/2026/03/Statutory-Index-2026.pdf",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Statutory Index of Positions (appointive board); apply any time"
     },
     {
@@ -1832,7 +1832,7 @@
       "constituent": null,
       "applyUrl": "https://govca.avature.net/GOVCACareers/Home",
       "sourceUrl": "https://www.gov.ca.gov/wp-content/uploads/2026/03/Statutory-Index-2026.pdf",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Statutory Index of Positions (appointive board); apply any time"
     },
     {
@@ -1846,7 +1846,7 @@
       "constituent": null,
       "applyUrl": "https://govca.avature.net/GOVCACareers/Home",
       "sourceUrl": "https://www.gov.ca.gov/wp-content/uploads/2026/03/Statutory-Index-2026.pdf",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Statutory Index of Positions (appointive board); apply any time"
     },
     {
@@ -1860,7 +1860,7 @@
       "constituent": null,
       "applyUrl": "https://govca.avature.net/GOVCACareers/Home",
       "sourceUrl": "https://www.gov.ca.gov/wp-content/uploads/2026/03/Statutory-Index-2026.pdf",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Statutory Index of Positions (appointive board); apply any time"
     },
     {
@@ -1874,7 +1874,7 @@
       "constituent": null,
       "applyUrl": "https://govca.avature.net/GOVCACareers/Home",
       "sourceUrl": "https://www.gov.ca.gov/wp-content/uploads/2026/03/Statutory-Index-2026.pdf",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Statutory Index of Positions (appointive board); apply any time"
     },
     {
@@ -1888,7 +1888,7 @@
       "constituent": null,
       "applyUrl": "https://govca.avature.net/GOVCACareers/Home",
       "sourceUrl": "https://www.gov.ca.gov/wp-content/uploads/2026/03/Statutory-Index-2026.pdf",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Statutory Index of Positions (appointive board); apply any time"
     },
     {
@@ -1902,7 +1902,7 @@
       "constituent": "California patients & licensed physicians",
       "applyUrl": "https://govca.avature.net/GOVCACareers/Home",
       "sourceUrl": "https://www.gov.ca.gov/wp-content/uploads/2026/03/Statutory-Index-2026.pdf",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "13 of 15 seats are governor-appointed",
       "mandate": "Licenses and disciplines California's physicians. Fifteen members — seven licensed physicians and eight public members; the Governor appoints thirteen, with the Senate and Assembly each appointing one public member (Bus. & Prof. Code § 2001).",
       "seatSource": "https://california.public.law/codes/ca_bus_and_prof_code_section_2001"
@@ -1918,7 +1918,7 @@
       "constituent": null,
       "applyUrl": "https://govca.avature.net/GOVCACareers/Home",
       "sourceUrl": "https://www.gov.ca.gov/wp-content/uploads/2026/03/Statutory-Index-2026.pdf",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Statutory Index of Positions (appointive board); apply any time"
     },
     {
@@ -1932,7 +1932,7 @@
       "constituent": null,
       "applyUrl": "https://govca.avature.net/GOVCACareers/Home",
       "sourceUrl": "https://www.gov.ca.gov/wp-content/uploads/2026/03/Statutory-Index-2026.pdf",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Statutory Index of Positions (appointive board); apply any time"
     },
     {
@@ -1946,7 +1946,7 @@
       "constituent": null,
       "applyUrl": "https://govca.avature.net/GOVCACareers/Home",
       "sourceUrl": "https://www.gov.ca.gov/wp-content/uploads/2026/03/Statutory-Index-2026.pdf",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Statutory Index of Positions (appointive board); apply any time"
     },
     {
@@ -1960,7 +1960,7 @@
       "constituent": null,
       "applyUrl": "https://govca.avature.net/GOVCACareers/Home",
       "sourceUrl": "https://www.gov.ca.gov/wp-content/uploads/2026/03/Statutory-Index-2026.pdf",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Statutory Index of Positions (appointive board); apply any time"
     },
     {
@@ -1974,7 +1974,7 @@
       "constituent": null,
       "applyUrl": "https://govca.avature.net/GOVCACareers/Home",
       "sourceUrl": "https://www.gov.ca.gov/wp-content/uploads/2026/03/Statutory-Index-2026.pdf",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Statutory Index of Positions (appointive board); apply any time"
     },
     {
@@ -1988,7 +1988,7 @@
       "constituent": null,
       "applyUrl": "https://govca.avature.net/GOVCACareers/Home",
       "sourceUrl": "https://www.gov.ca.gov/wp-content/uploads/2026/03/Statutory-Index-2026.pdf",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Statutory Index of Positions (appointive board); apply any time"
     },
     {
@@ -2002,7 +2002,7 @@
       "constituent": null,
       "applyUrl": "https://govca.avature.net/GOVCACareers/Home",
       "sourceUrl": "https://www.gov.ca.gov/wp-content/uploads/2026/03/Statutory-Index-2026.pdf",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Statutory Index of Positions (appointive board); apply any time"
     },
     {
@@ -2016,7 +2016,7 @@
       "constituent": "California patients & licensed physical therapists",
       "applyUrl": "https://govca.avature.net/GOVCACareers/Home",
       "sourceUrl": "https://www.gov.ca.gov/wp-content/uploads/2026/03/Statutory-Index-2026.pdf",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "5 of 7 seats are governor-appointed",
       "mandate": "Licenses and regulates California's physical therapists and PT assistants. Seven members — four PTs and three public; the Governor appoints five (Bus. & Prof. Code § 2602).",
       "seatSource": "https://www.ptbc.ca.gov/about_us/"
@@ -2032,7 +2032,7 @@
       "constituent": null,
       "applyUrl": "https://govca.avature.net/GOVCACareers/Home",
       "sourceUrl": "https://www.gov.ca.gov/wp-content/uploads/2026/03/Statutory-Index-2026.pdf",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Statutory Index of Positions (appointive board); apply any time"
     },
     {
@@ -2046,7 +2046,7 @@
       "constituent": null,
       "applyUrl": "https://govca.avature.net/GOVCACareers/Home",
       "sourceUrl": "https://www.gov.ca.gov/wp-content/uploads/2026/03/Statutory-Index-2026.pdf",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Statutory Index of Positions (appointive board); apply any time"
     },
     {
@@ -2060,7 +2060,7 @@
       "constituent": null,
       "applyUrl": "https://govca.avature.net/GOVCACareers/Home",
       "sourceUrl": "https://www.gov.ca.gov/wp-content/uploads/2026/03/Statutory-Index-2026.pdf",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Statutory Index of Positions (appointive board); apply any time"
     },
     {
@@ -2074,7 +2074,7 @@
       "constituent": null,
       "applyUrl": "https://govca.avature.net/GOVCACareers/Home",
       "sourceUrl": "https://www.gov.ca.gov/wp-content/uploads/2026/03/Statutory-Index-2026.pdf",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Statutory Index of Positions (appointive board); apply any time"
     },
     {
@@ -2088,7 +2088,7 @@
       "constituent": null,
       "applyUrl": "https://govca.avature.net/GOVCACareers/Home",
       "sourceUrl": "https://www.gov.ca.gov/wp-content/uploads/2026/03/Statutory-Index-2026.pdf",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Statutory Index of Positions (appointive board); apply any time"
     },
     {
@@ -2102,7 +2102,7 @@
       "constituent": null,
       "applyUrl": "https://govca.avature.net/GOVCACareers/Home",
       "sourceUrl": "https://www.gov.ca.gov/wp-content/uploads/2026/03/Statutory-Index-2026.pdf",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Statutory Index of Positions (appointive board); apply any time"
     },
     {
@@ -2116,7 +2116,7 @@
       "constituent": null,
       "applyUrl": "https://govca.avature.net/GOVCACareers/Home",
       "sourceUrl": "https://www.gov.ca.gov/wp-content/uploads/2026/03/Statutory-Index-2026.pdf",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Statutory Index of Positions (appointive board); apply any time"
     },
     {
@@ -2130,7 +2130,7 @@
       "constituent": null,
       "applyUrl": "https://govca.avature.net/GOVCACareers/Home",
       "sourceUrl": "https://www.gov.ca.gov/wp-content/uploads/2026/03/Statutory-Index-2026.pdf",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Statutory Index of Positions (appointive board); apply any time"
     },
     {
@@ -2144,7 +2144,7 @@
       "constituent": null,
       "applyUrl": "https://govca.avature.net/GOVCACareers/Home",
       "sourceUrl": "https://www.gov.ca.gov/wp-content/uploads/2026/03/Statutory-Index-2026.pdf",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Statutory Index of Positions (appointive board); apply any time"
     },
     {
@@ -2158,7 +2158,7 @@
       "constituent": null,
       "applyUrl": "https://govca.avature.net/GOVCACareers/Home",
       "sourceUrl": "https://www.gov.ca.gov/wp-content/uploads/2026/03/Statutory-Index-2026.pdf",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Statutory Index of Positions (appointive board); apply any time"
     },
     {
@@ -2172,7 +2172,7 @@
       "constituent": null,
       "applyUrl": "https://govca.avature.net/GOVCACareers/Home",
       "sourceUrl": "https://www.gov.ca.gov/wp-content/uploads/2026/03/Statutory-Index-2026.pdf",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Statutory Index of Positions (appointive board); apply any time"
     },
     {
@@ -2186,7 +2186,7 @@
       "constituent": "California Native American tribes & sacred sites",
       "applyUrl": "https://govca.avature.net/GOVCACareers/Home",
       "sourceUrl": "https://www.gov.ca.gov/wp-content/uploads/2026/03/Statutory-Index-2026.pdf",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Statutory Index of Positions (appointive board); apply any time",
       "mandate": "Protects California Native American sacred sites, burial grounds, and cultural resources. Nine members appointed by the Governor, a majority Native American (Public Resources Code § 5097.91).",
       "seatSource": "https://nahc.ca.gov/"
@@ -2202,7 +2202,7 @@
       "constituent": null,
       "applyUrl": "https://govca.avature.net/GOVCACareers/Home",
       "sourceUrl": "https://www.gov.ca.gov/wp-content/uploads/2026/03/Statutory-Index-2026.pdf",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Statutory Index of Positions (appointive board); apply any time"
     },
     {
@@ -2216,7 +2216,7 @@
       "constituent": null,
       "applyUrl": "https://govca.avature.net/GOVCACareers/Home",
       "sourceUrl": "https://www.gov.ca.gov/wp-content/uploads/2026/03/Statutory-Index-2026.pdf",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Statutory Index of Positions (appointive board); apply any time"
     },
     {
@@ -2230,7 +2230,7 @@
       "constituent": null,
       "applyUrl": "https://govca.avature.net/GOVCACareers/Home",
       "sourceUrl": "https://www.gov.ca.gov/wp-content/uploads/2026/03/Statutory-Index-2026.pdf",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Statutory Index of Positions (appointive board); apply any time"
     },
     {
@@ -2244,7 +2244,7 @@
       "constituent": "California eye-care patients & licensed optometrists",
       "applyUrl": "https://govca.avature.net/GOVCACareers/Home",
       "sourceUrl": "https://www.gov.ca.gov/wp-content/uploads/2026/03/Statutory-Index-2026.pdf",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "9 of 11 seats are governor-appointed",
       "mandate": "Licenses and regulates California's optometrists. Eleven members — six professionals and five public; the Governor appoints nine (Bus. & Prof. Code § 3010).",
       "seatSource": "https://www.optometry.ca.gov/about_us/"
@@ -2260,7 +2260,7 @@
       "constituent": null,
       "applyUrl": "https://govca.avature.net/GOVCACareers/Home",
       "sourceUrl": "https://www.gov.ca.gov/wp-content/uploads/2026/03/Statutory-Index-2026.pdf",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Statutory Index of Positions (appointive board); apply any time"
     },
     {
@@ -2274,7 +2274,7 @@
       "constituent": null,
       "applyUrl": "https://govca.avature.net/GOVCACareers/Home",
       "sourceUrl": "https://www.gov.ca.gov/wp-content/uploads/2026/03/Statutory-Index-2026.pdf",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Statutory Index of Positions (appointive board); apply any time"
     },
     {
@@ -2288,7 +2288,7 @@
       "constituent": null,
       "applyUrl": "https://govca.avature.net/GOVCACareers/Home",
       "sourceUrl": "https://www.gov.ca.gov/wp-content/uploads/2026/03/Statutory-Index-2026.pdf",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Statutory Index of Positions (appointive board); apply any time"
     },
     {
@@ -2302,7 +2302,7 @@
       "constituent": "California patients & licensed pharmacists · drug safety",
       "applyUrl": "https://govca.avature.net/GOVCACareers/Home",
       "sourceUrl": "https://www.gov.ca.gov/wp-content/uploads/2026/03/Statutory-Index-2026.pdf",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "11 of 13 seats are governor-appointed",
       "mandate": "Licenses pharmacists and regulates the distribution of drugs in California. Thirteen members — seven pharmacists and four public appointed by the Governor, with the Senate and Assembly each appointing one public member (Bus. & Prof. Code § 4001).",
       "seatSource": "https://california.public.law/codes/ca_bus_and_prof_code_section_4001"
@@ -2318,7 +2318,7 @@
       "constituent": "California patients & licensed physician assistants",
       "applyUrl": "https://govca.avature.net/GOVCACareers/Home",
       "sourceUrl": "https://www.gov.ca.gov/wp-content/uploads/2026/03/Statutory-Index-2026.pdf",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "7 of 9 voting seats are governor-appointed",
       "mandate": "Licenses and regulates California's physician assistants. Nine voting members — five PAs and four public; the Governor appoints seven voting members (Bus. & Prof. Code § 3504).",
       "seatSource": "https://www.pab.ca.gov/about_us/about.shtml"
@@ -2334,7 +2334,7 @@
       "constituent": "California patients & licensed podiatrists",
       "applyUrl": "https://govca.avature.net/GOVCACareers/Home",
       "sourceUrl": "https://www.gov.ca.gov/wp-content/uploads/2026/03/Statutory-Index-2026.pdf",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "5 of 7 seats are governor-appointed",
       "mandate": "Licenses and disciplines California's doctors of podiatric medicine. Seven members — four DPMs and three public; the Governor appoints five (Bus. & Prof. Code § 2461).",
       "seatSource": "https://www.pmbc.ca.gov/about_us/"
@@ -2350,7 +2350,7 @@
       "constituent": null,
       "applyUrl": "https://govca.avature.net/GOVCACareers/Home",
       "sourceUrl": "https://www.gov.ca.gov/wp-content/uploads/2026/03/Statutory-Index-2026.pdf",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Statutory Index of Positions (appointive board); apply any time"
     },
     {
@@ -2364,7 +2364,7 @@
       "constituent": null,
       "applyUrl": "https://govca.avature.net/GOVCACareers/Home",
       "sourceUrl": "https://www.gov.ca.gov/wp-content/uploads/2026/03/Statutory-Index-2026.pdf",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Statutory Index of Positions (appointive board); apply any time"
     },
     {
@@ -2378,7 +2378,7 @@
       "constituent": null,
       "applyUrl": "https://govca.avature.net/GOVCACareers/Home",
       "sourceUrl": "https://www.gov.ca.gov/wp-content/uploads/2026/03/Statutory-Index-2026.pdf",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Statutory Index of Positions (appointive board); apply any time"
     },
     {
@@ -2392,7 +2392,7 @@
       "constituent": null,
       "applyUrl": "https://govca.avature.net/GOVCACareers/Home",
       "sourceUrl": "https://www.gov.ca.gov/wp-content/uploads/2026/03/Statutory-Index-2026.pdf",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Statutory Index of Positions (appointive board); apply any time"
     },
     {
@@ -2406,7 +2406,7 @@
       "constituent": null,
       "applyUrl": "https://govca.avature.net/GOVCACareers/Home",
       "sourceUrl": "https://www.gov.ca.gov/wp-content/uploads/2026/03/Statutory-Index-2026.pdf",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Statutory Index of Positions (appointive board); apply any time"
     },
     {
@@ -2420,7 +2420,7 @@
       "constituent": "Californians seeking psychological care & licensed psychologists",
       "applyUrl": "https://govca.avature.net/GOVCACareers/Home",
       "sourceUrl": "https://www.gov.ca.gov/wp-content/uploads/2026/03/Statutory-Index-2026.pdf",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Statutory Index of Positions (appointive board); apply any time",
       "mandate": "Licenses and regulates California's psychologists. Nine members — five licensed psychologists and four public members (Bus. & Prof. Code § 2920).",
       "seatSource": "https://california.public.law/codes/ca_bus_and_prof_code_section_2920"
@@ -2436,7 +2436,7 @@
       "constituent": null,
       "applyUrl": "https://govca.avature.net/GOVCACareers/Home",
       "sourceUrl": "https://www.gov.ca.gov/wp-content/uploads/2026/03/Statutory-Index-2026.pdf",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Statutory Index of Positions (appointive board); apply any time"
     },
     {
@@ -2450,7 +2450,7 @@
       "constituent": null,
       "applyUrl": "https://govca.avature.net/GOVCACareers/Home",
       "sourceUrl": "https://www.gov.ca.gov/wp-content/uploads/2026/03/Statutory-Index-2026.pdf",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Statutory Index of Positions (appointive board); apply any time"
     },
     {
@@ -2464,7 +2464,7 @@
       "constituent": null,
       "applyUrl": "https://govca.avature.net/GOVCACareers/Home",
       "sourceUrl": "https://www.gov.ca.gov/wp-content/uploads/2026/03/Statutory-Index-2026.pdf",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Statutory Index of Positions (appointive board); apply any time"
     },
     {
@@ -2478,7 +2478,7 @@
       "constituent": "California patients & licensed respiratory therapists",
       "applyUrl": "https://govca.avature.net/GOVCACareers/Home",
       "sourceUrl": "https://www.gov.ca.gov/wp-content/uploads/2026/03/Statutory-Index-2026.pdf",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "3 of 9 seats are governor-appointed",
       "mandate": "Licenses and regulates California's respiratory care practitioners. Nine members; the Governor, Senate Rules, and Assembly Speaker each appoint three (Bus. & Prof. Code § 3710).",
       "seatSource": "https://www.rcb.ca.gov/"
@@ -2494,7 +2494,7 @@
       "constituent": null,
       "applyUrl": "https://govca.avature.net/GOVCACareers/Home",
       "sourceUrl": "https://www.gov.ca.gov/wp-content/uploads/2026/03/Statutory-Index-2026.pdf",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Statutory Index of Positions (appointive board); apply any time"
     },
     {
@@ -2508,7 +2508,7 @@
       "constituent": null,
       "applyUrl": "https://govca.avature.net/GOVCACareers/Home",
       "sourceUrl": "https://www.gov.ca.gov/wp-content/uploads/2026/03/Statutory-Index-2026.pdf",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Statutory Index of Positions (appointive board); apply any time"
     },
     {
@@ -2522,7 +2522,7 @@
       "constituent": null,
       "applyUrl": "https://govca.avature.net/GOVCACareers/Home",
       "sourceUrl": "https://www.gov.ca.gov/wp-content/uploads/2026/03/Statutory-Index-2026.pdf",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Statutory Index of Positions (appointive board); apply any time"
     },
     {
@@ -2536,7 +2536,7 @@
       "constituent": null,
       "applyUrl": "https://govca.avature.net/GOVCACareers/Home",
       "sourceUrl": "https://www.gov.ca.gov/wp-content/uploads/2026/03/Statutory-Index-2026.pdf",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Statutory Index of Positions (appointive board); apply any time"
     },
     {
@@ -2550,7 +2550,7 @@
       "constituent": null,
       "applyUrl": "https://govca.avature.net/GOVCACareers/Home",
       "sourceUrl": "https://www.gov.ca.gov/wp-content/uploads/2026/03/Statutory-Index-2026.pdf",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Statutory Index of Positions (appointive board); apply any time"
     },
     {
@@ -2564,7 +2564,7 @@
       "constituent": null,
       "applyUrl": "https://govca.avature.net/GOVCACareers/Home",
       "sourceUrl": "https://www.gov.ca.gov/wp-content/uploads/2026/03/Statutory-Index-2026.pdf",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Statutory Index of Positions (appointive board); apply any time"
     },
     {
@@ -2578,7 +2578,7 @@
       "constituent": null,
       "applyUrl": "https://govca.avature.net/GOVCACareers/Home",
       "sourceUrl": "https://www.gov.ca.gov/wp-content/uploads/2026/03/Statutory-Index-2026.pdf",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Statutory Index of Positions (appointive board); apply any time"
     },
     {
@@ -2592,7 +2592,7 @@
       "constituent": null,
       "applyUrl": "https://govca.avature.net/GOVCACareers/Home",
       "sourceUrl": "https://www.gov.ca.gov/wp-content/uploads/2026/03/Statutory-Index-2026.pdf",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Statutory Index of Positions (appointive board); apply any time"
     },
     {
@@ -2606,7 +2606,7 @@
       "constituent": null,
       "applyUrl": "https://govca.avature.net/GOVCACareers/Home",
       "sourceUrl": "https://www.gov.ca.gov/wp-content/uploads/2026/03/Statutory-Index-2026.pdf",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Statutory Index of Positions (appointive board); apply any time"
     },
     {
@@ -2620,7 +2620,7 @@
       "constituent": null,
       "applyUrl": "https://govca.avature.net/GOVCACareers/Home",
       "sourceUrl": "https://www.gov.ca.gov/wp-content/uploads/2026/03/Statutory-Index-2026.pdf",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Statutory Index of Positions (appointive board); apply any time"
     },
     {
@@ -2634,7 +2634,7 @@
       "constituent": null,
       "applyUrl": "https://govca.avature.net/GOVCACareers/Home",
       "sourceUrl": "https://www.gov.ca.gov/wp-content/uploads/2026/03/Statutory-Index-2026.pdf",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Statutory Index of Positions (appointive board); apply any time"
     },
     {
@@ -2648,7 +2648,7 @@
       "constituent": null,
       "applyUrl": "https://govca.avature.net/GOVCACareers/Home",
       "sourceUrl": "https://www.gov.ca.gov/wp-content/uploads/2026/03/Statutory-Index-2026.pdf",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Statutory Index of Positions (appointive board); apply any time"
     },
     {
@@ -2662,7 +2662,7 @@
       "constituent": null,
       "applyUrl": "https://govca.avature.net/GOVCACareers/Home",
       "sourceUrl": "https://www.gov.ca.gov/wp-content/uploads/2026/03/Statutory-Index-2026.pdf",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Statutory Index of Positions (appointive board); apply any time"
     },
     {
@@ -2676,7 +2676,7 @@
       "constituent": null,
       "applyUrl": "https://govca.avature.net/GOVCACareers/Home",
       "sourceUrl": "https://www.gov.ca.gov/wp-content/uploads/2026/03/Statutory-Index-2026.pdf",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Statutory Index of Positions (appointive board); apply any time"
     },
     {
@@ -2690,7 +2690,7 @@
       "constituent": null,
       "applyUrl": "https://govca.avature.net/GOVCACareers/Home",
       "sourceUrl": "https://www.gov.ca.gov/wp-content/uploads/2026/03/Statutory-Index-2026.pdf",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Statutory Index of Positions (appointive board); apply any time"
     },
     {
@@ -2704,7 +2704,7 @@
       "constituent": null,
       "applyUrl": "https://govca.avature.net/GOVCACareers/Home",
       "sourceUrl": "https://www.gov.ca.gov/wp-content/uploads/2026/03/Statutory-Index-2026.pdf",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Statutory Index of Positions (appointive board); apply any time"
     },
     {
@@ -2718,7 +2718,7 @@
       "constituent": null,
       "applyUrl": "https://govca.avature.net/GOVCACareers/Home",
       "sourceUrl": "https://www.gov.ca.gov/wp-content/uploads/2026/03/Statutory-Index-2026.pdf",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Statutory Index of Positions (appointive board); apply any time"
     },
     {
@@ -2732,7 +2732,7 @@
       "constituent": null,
       "applyUrl": "https://govca.avature.net/GOVCACareers/Home",
       "sourceUrl": "https://www.gov.ca.gov/wp-content/uploads/2026/03/Statutory-Index-2026.pdf",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Statutory Index of Positions (appointive board); apply any time"
     },
     {
@@ -2746,7 +2746,7 @@
       "constituent": null,
       "applyUrl": "https://govca.avature.net/GOVCACareers/Home",
       "sourceUrl": "https://www.gov.ca.gov/wp-content/uploads/2026/03/Statutory-Index-2026.pdf",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Statutory Index of Positions (appointive board); apply any time"
     },
     {
@@ -2760,7 +2760,7 @@
       "constituent": null,
       "applyUrl": "https://govca.avature.net/GOVCACareers/Home",
       "sourceUrl": "https://www.gov.ca.gov/wp-content/uploads/2026/03/Statutory-Index-2026.pdf",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Statutory Index of Positions (appointive board); apply any time"
     },
     {
@@ -2774,7 +2774,7 @@
       "constituent": null,
       "applyUrl": "https://govca.avature.net/GOVCACareers/Home",
       "sourceUrl": "https://www.gov.ca.gov/wp-content/uploads/2026/03/Statutory-Index-2026.pdf",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Statutory Index of Positions (appointive board); apply any time"
     },
     {
@@ -2788,7 +2788,7 @@
       "constituent": null,
       "applyUrl": "https://govca.avature.net/GOVCACareers/Home",
       "sourceUrl": "https://www.gov.ca.gov/wp-content/uploads/2026/03/Statutory-Index-2026.pdf",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Statutory Index of Positions (appointive board); apply any time"
     },
     {
@@ -2802,7 +2802,7 @@
       "constituent": null,
       "applyUrl": "https://govca.avature.net/GOVCACareers/Home",
       "sourceUrl": "https://www.gov.ca.gov/wp-content/uploads/2026/03/Statutory-Index-2026.pdf",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Statutory Index of Positions (appointive board); apply any time"
     },
     {
@@ -2816,7 +2816,7 @@
       "constituent": null,
       "applyUrl": "https://govca.avature.net/GOVCACareers/Home",
       "sourceUrl": "https://www.gov.ca.gov/wp-content/uploads/2026/03/Statutory-Index-2026.pdf",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Statutory Index of Positions (appointive board); apply any time"
     },
     {
@@ -2830,7 +2830,7 @@
       "constituent": null,
       "applyUrl": "https://govca.avature.net/GOVCACareers/Home",
       "sourceUrl": "https://www.gov.ca.gov/wp-content/uploads/2026/03/Statutory-Index-2026.pdf",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Statutory Index of Positions (appointive board); apply any time"
     },
     {
@@ -2844,7 +2844,7 @@
       "constituent": null,
       "applyUrl": "https://govca.avature.net/GOVCACareers/Home",
       "sourceUrl": "https://www.gov.ca.gov/wp-content/uploads/2026/03/Statutory-Index-2026.pdf",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Statutory Index of Positions (appointive board); apply any time"
     },
     {
@@ -2858,7 +2858,7 @@
       "constituent": null,
       "applyUrl": "https://govca.avature.net/GOVCACareers/Home",
       "sourceUrl": "https://www.gov.ca.gov/wp-content/uploads/2026/03/Statutory-Index-2026.pdf",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Statutory Index of Positions (appointive board); apply any time"
     },
     {
@@ -2872,7 +2872,7 @@
       "constituent": null,
       "applyUrl": "https://govca.avature.net/GOVCACareers/Home",
       "sourceUrl": "https://www.gov.ca.gov/wp-content/uploads/2026/03/Statutory-Index-2026.pdf",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Statutory Index of Positions (appointive board); apply any time"
     },
     {
@@ -2886,7 +2886,7 @@
       "constituent": null,
       "applyUrl": "https://govca.avature.net/GOVCACareers/Home",
       "sourceUrl": "https://www.gov.ca.gov/wp-content/uploads/2026/03/Statutory-Index-2026.pdf",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Statutory Index of Positions (appointive board); apply any time"
     },
     {
@@ -2900,7 +2900,7 @@
       "constituent": null,
       "applyUrl": "https://govca.avature.net/GOVCACareers/Home",
       "sourceUrl": "https://www.gov.ca.gov/wp-content/uploads/2026/03/Statutory-Index-2026.pdf",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Statutory Index of Positions (appointive board); apply any time"
     },
     {
@@ -2914,7 +2914,7 @@
       "constituent": null,
       "applyUrl": "https://govca.avature.net/GOVCACareers/Home",
       "sourceUrl": "https://www.gov.ca.gov/wp-content/uploads/2026/03/Statutory-Index-2026.pdf",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Statutory Index of Positions (appointive board); apply any time"
     },
     {
@@ -2928,7 +2928,7 @@
       "constituent": null,
       "applyUrl": "https://govca.avature.net/GOVCACareers/Home",
       "sourceUrl": "https://www.gov.ca.gov/wp-content/uploads/2026/03/Statutory-Index-2026.pdf",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Statutory Index of Positions (appointive board); apply any time"
     },
     {
@@ -2942,7 +2942,7 @@
       "constituent": null,
       "applyUrl": "https://govca.avature.net/GOVCACareers/Home",
       "sourceUrl": "https://www.gov.ca.gov/wp-content/uploads/2026/03/Statutory-Index-2026.pdf",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Statutory Index of Positions (appointive board); apply any time"
     },
     {
@@ -2956,7 +2956,7 @@
       "constituent": null,
       "applyUrl": "https://govca.avature.net/GOVCACareers/Home",
       "sourceUrl": "https://www.gov.ca.gov/wp-content/uploads/2026/03/Statutory-Index-2026.pdf",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Statutory Index of Positions (appointive board); apply any time"
     },
     {
@@ -2970,7 +2970,7 @@
       "constituent": null,
       "applyUrl": "https://govca.avature.net/GOVCACareers/Home",
       "sourceUrl": "https://www.gov.ca.gov/wp-content/uploads/2026/03/Statutory-Index-2026.pdf",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Statutory Index of Positions (appointive board); apply any time"
     },
     {
@@ -2984,7 +2984,7 @@
       "constituent": null,
       "applyUrl": "https://govca.avature.net/GOVCACareers/Home",
       "sourceUrl": "https://www.gov.ca.gov/wp-content/uploads/2026/03/Statutory-Index-2026.pdf",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Statutory Index of Positions (appointive board); apply any time"
     },
     {
@@ -2998,7 +2998,7 @@
       "constituent": null,
       "applyUrl": "https://govca.avature.net/GOVCACareers/Home",
       "sourceUrl": "https://www.gov.ca.gov/wp-content/uploads/2026/03/Statutory-Index-2026.pdf",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Statutory Index of Positions (appointive board); apply any time"
     },
     {
@@ -3012,7 +3012,7 @@
       "constituent": null,
       "applyUrl": "https://govca.avature.net/GOVCACareers/Home",
       "sourceUrl": "https://www.gov.ca.gov/wp-content/uploads/2026/03/Statutory-Index-2026.pdf",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Statutory Index of Positions (appointive board); apply any time"
     },
     {
@@ -3026,7 +3026,7 @@
       "constituent": null,
       "applyUrl": "https://govca.avature.net/GOVCACareers/Home",
       "sourceUrl": "https://www.gov.ca.gov/wp-content/uploads/2026/03/Statutory-Index-2026.pdf",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Statutory Index of Positions (appointive board); apply any time"
     },
     {
@@ -3040,7 +3040,7 @@
       "constituent": null,
       "applyUrl": "https://govca.avature.net/GOVCACareers/Home",
       "sourceUrl": "https://www.gov.ca.gov/wp-content/uploads/2026/03/Statutory-Index-2026.pdf",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Statutory Index of Positions (appointive board); apply any time"
     },
     {
@@ -3054,7 +3054,7 @@
       "constituent": null,
       "applyUrl": "https://govca.avature.net/GOVCACareers/Home",
       "sourceUrl": "https://www.gov.ca.gov/wp-content/uploads/2026/03/Statutory-Index-2026.pdf",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Statutory Index of Positions (appointive board); apply any time"
     },
     {
@@ -3068,7 +3068,7 @@
       "constituent": null,
       "applyUrl": "https://govca.avature.net/GOVCACareers/Home",
       "sourceUrl": "https://www.gov.ca.gov/wp-content/uploads/2026/03/Statutory-Index-2026.pdf",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Statutory Index of Positions (appointive board); apply any time"
     },
     {
@@ -3082,7 +3082,7 @@
       "constituent": null,
       "applyUrl": "https://govca.avature.net/GOVCACareers/Home",
       "sourceUrl": "https://www.gov.ca.gov/wp-content/uploads/2026/03/Statutory-Index-2026.pdf",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Statutory Index of Positions (appointive board); apply any time"
     },
     {
@@ -3096,7 +3096,7 @@
       "constituent": null,
       "applyUrl": "https://govca.avature.net/GOVCACareers/Home",
       "sourceUrl": "https://www.gov.ca.gov/wp-content/uploads/2026/03/Statutory-Index-2026.pdf",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Statutory Index of Positions (appointive board); apply any time"
     },
     {
@@ -3110,7 +3110,7 @@
       "constituent": null,
       "applyUrl": "https://govca.avature.net/GOVCACareers/Home",
       "sourceUrl": "https://www.gov.ca.gov/wp-content/uploads/2026/03/Statutory-Index-2026.pdf",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Statutory Index of Positions (appointive board); apply any time"
     },
     {
@@ -3124,7 +3124,7 @@
       "constituent": null,
       "applyUrl": "https://govca.avature.net/GOVCACareers/Home",
       "sourceUrl": "https://www.gov.ca.gov/wp-content/uploads/2026/03/Statutory-Index-2026.pdf",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Statutory Index of Positions (appointive board); apply any time"
     },
     {
@@ -3138,7 +3138,7 @@
       "constituent": null,
       "applyUrl": "https://govca.avature.net/GOVCACareers/Home",
       "sourceUrl": "https://www.gov.ca.gov/wp-content/uploads/2026/03/Statutory-Index-2026.pdf",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Statutory Index of Positions (appointive board); apply any time"
     },
     {
@@ -3152,7 +3152,7 @@
       "constituent": null,
       "applyUrl": "https://govca.avature.net/GOVCACareers/Home",
       "sourceUrl": "https://www.gov.ca.gov/wp-content/uploads/2026/03/Statutory-Index-2026.pdf",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Statutory Index of Positions (appointive board); apply any time"
     },
     {
@@ -3166,7 +3166,7 @@
       "constituent": null,
       "applyUrl": "https://govca.avature.net/GOVCACareers/Home",
       "sourceUrl": "https://www.gov.ca.gov/wp-content/uploads/2026/03/Statutory-Index-2026.pdf",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Statutory Index of Positions (appointive board); apply any time"
     },
     {
@@ -3180,7 +3180,7 @@
       "constituent": null,
       "applyUrl": "https://govca.avature.net/GOVCACareers/Home",
       "sourceUrl": "https://www.gov.ca.gov/wp-content/uploads/2026/03/Statutory-Index-2026.pdf",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Statutory Index of Positions (appointive board); apply any time"
     },
     {
@@ -3194,7 +3194,7 @@
       "constituent": null,
       "applyUrl": "https://govca.avature.net/GOVCACareers/Home",
       "sourceUrl": "https://www.gov.ca.gov/wp-content/uploads/2026/03/Statutory-Index-2026.pdf",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Statutory Index of Positions (appointive board); apply any time"
     },
     {
@@ -3208,7 +3208,7 @@
       "constituent": null,
       "applyUrl": "https://govca.avature.net/GOVCACareers/Home",
       "sourceUrl": "https://www.gov.ca.gov/wp-content/uploads/2026/03/Statutory-Index-2026.pdf",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Statutory Index of Positions (appointive board); apply any time"
     },
     {
@@ -3222,7 +3222,7 @@
       "constituent": null,
       "applyUrl": "https://govca.avature.net/GOVCACareers/Home",
       "sourceUrl": "https://www.gov.ca.gov/wp-content/uploads/2026/03/Statutory-Index-2026.pdf",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Statutory Index of Positions (appointive board); apply any time"
     },
     {
@@ -3236,7 +3236,7 @@
       "constituent": null,
       "applyUrl": "https://govca.avature.net/GOVCACareers/Home",
       "sourceUrl": "https://www.gov.ca.gov/wp-content/uploads/2026/03/Statutory-Index-2026.pdf",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Statutory Index of Positions (appointive board); apply any time"
     },
     {
@@ -3250,7 +3250,7 @@
       "constituent": null,
       "applyUrl": "https://govca.avature.net/GOVCACareers/Home",
       "sourceUrl": "https://www.gov.ca.gov/wp-content/uploads/2026/03/Statutory-Index-2026.pdf",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Statutory Index of Positions (appointive board); apply any time"
     },
     {
@@ -3264,7 +3264,7 @@
       "constituent": null,
       "applyUrl": "https://govca.avature.net/GOVCACareers/Home",
       "sourceUrl": "https://www.gov.ca.gov/wp-content/uploads/2026/03/Statutory-Index-2026.pdf",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Statutory Index of Positions (appointive board); apply any time"
     },
     {
@@ -3278,7 +3278,7 @@
       "constituent": "California travelers & statewide transportation infrastructure",
       "applyUrl": "https://govca.avature.net/GOVCACareers/Home",
       "sourceUrl": "https://www.gov.ca.gov/wp-content/uploads/2026/03/Statutory-Index-2026.pdf",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "9 of 11 voting seats are governor-appointed",
       "mandate": "Programs and allocates state transportation funding — highways, transit, and active transportation. Eleven voting members; the Governor appoints nine (Gov. Code § 14500).",
       "seatSource": "https://catc.ca.gov/about/mission-responsibilities"
@@ -3294,7 +3294,7 @@
       "constituent": null,
       "applyUrl": "https://govca.avature.net/GOVCACareers/Home",
       "sourceUrl": "https://www.gov.ca.gov/wp-content/uploads/2026/03/Statutory-Index-2026.pdf",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Statutory Index of Positions (appointive board); apply any time"
     },
     {
@@ -3308,7 +3308,7 @@
       "constituent": null,
       "applyUrl": "https://govca.avature.net/GOVCACareers/Home",
       "sourceUrl": "https://www.gov.ca.gov/wp-content/uploads/2026/03/Statutory-Index-2026.pdf",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Statutory Index of Positions (appointive board); apply any time"
     },
     {
@@ -3322,7 +3322,7 @@
       "constituent": null,
       "applyUrl": "https://govca.avature.net/GOVCACareers/Home",
       "sourceUrl": "https://www.gov.ca.gov/wp-content/uploads/2026/03/Statutory-Index-2026.pdf",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Statutory Index of Positions (appointive board); apply any time"
     },
     {
@@ -3336,7 +3336,7 @@
       "constituent": null,
       "applyUrl": "https://govca.avature.net/GOVCACareers/Home",
       "sourceUrl": "https://www.gov.ca.gov/wp-content/uploads/2026/03/Statutory-Index-2026.pdf",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Statutory Index of Positions (appointive board); apply any time"
     },
     {
@@ -3350,7 +3350,7 @@
       "constituent": null,
       "applyUrl": "https://govca.avature.net/GOVCACareers/Home",
       "sourceUrl": "https://www.gov.ca.gov/wp-content/uploads/2026/03/Statutory-Index-2026.pdf",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Statutory Index of Positions (appointive board); apply any time"
     },
     {
@@ -3364,7 +3364,7 @@
       "constituent": "California patients & licensed LVNs and psychiatric technicians",
       "applyUrl": "https://govca.avature.net/GOVCACareers/Home",
       "sourceUrl": "https://www.gov.ca.gov/wp-content/uploads/2026/03/Statutory-Index-2026.pdf",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "9 of 11 seats are governor-appointed",
       "mandate": "Licenses and regulates California's vocational nurses and psychiatric technicians. Eleven members; the Governor appoints nine (Bus. & Prof. Code § 2841).",
       "seatSource": "https://www.bvnpt.ca.gov/about_us/"
@@ -3380,7 +3380,7 @@
       "constituent": null,
       "applyUrl": "https://govca.avature.net/GOVCACareers/Home",
       "sourceUrl": "https://www.gov.ca.gov/wp-content/uploads/2026/03/Statutory-Index-2026.pdf",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Statutory Index of Positions (appointive board); apply any time"
     },
     {
@@ -3394,7 +3394,7 @@
       "constituent": null,
       "applyUrl": "https://govca.avature.net/GOVCACareers/Home",
       "sourceUrl": "https://www.gov.ca.gov/wp-content/uploads/2026/03/Statutory-Index-2026.pdf",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Statutory Index of Positions (appointive board); apply any time"
     },
     {
@@ -3408,7 +3408,7 @@
       "constituent": null,
       "applyUrl": "https://govca.avature.net/GOVCACareers/Home",
       "sourceUrl": "https://www.gov.ca.gov/wp-content/uploads/2026/03/Statutory-Index-2026.pdf",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Statutory Index of Positions (appointive board); apply any time"
     },
     {
@@ -3422,7 +3422,7 @@
       "constituent": null,
       "applyUrl": "https://govca.avature.net/GOVCACareers/Home",
       "sourceUrl": "https://www.gov.ca.gov/wp-content/uploads/2026/03/Statutory-Index-2026.pdf",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Statutory Index of Positions (appointive board); apply any time"
     },
     {
@@ -3436,7 +3436,7 @@
       "constituent": null,
       "applyUrl": "https://govca.avature.net/GOVCACareers/Home",
       "sourceUrl": "https://www.gov.ca.gov/wp-content/uploads/2026/03/Statutory-Index-2026.pdf",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Statutory Index of Positions (appointive board); apply any time"
     },
     {
@@ -3450,7 +3450,7 @@
       "constituent": null,
       "applyUrl": "https://govca.avature.net/GOVCACareers/Home",
       "sourceUrl": "https://www.gov.ca.gov/wp-content/uploads/2026/03/Statutory-Index-2026.pdf",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Statutory Index of Positions (appointive board); apply any time"
     },
     {
@@ -3464,7 +3464,7 @@
       "constituent": null,
       "applyUrl": "https://govca.avature.net/GOVCACareers/Home",
       "sourceUrl": "https://www.gov.ca.gov/wp-content/uploads/2026/03/Statutory-Index-2026.pdf",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Statutory Index of Positions (appointive board); apply any time"
     },
     {
@@ -3478,7 +3478,7 @@
       "constituent": null,
       "applyUrl": "https://govca.avature.net/GOVCACareers/Home",
       "sourceUrl": "https://www.gov.ca.gov/wp-content/uploads/2026/03/Statutory-Index-2026.pdf",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Statutory Index of Positions (appointive board); apply any time"
     },
     {
@@ -3492,7 +3492,7 @@
       "constituent": null,
       "applyUrl": "https://govca.avature.net/GOVCACareers/Home",
       "sourceUrl": "https://www.gov.ca.gov/wp-content/uploads/2026/03/Statutory-Index-2026.pdf",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Statutory Index of Positions (appointive board); apply any time"
     },
     {
@@ -3506,7 +3506,7 @@
       "constituent": null,
       "applyUrl": "https://govca.avature.net/GOVCACareers/Home",
       "sourceUrl": "https://www.gov.ca.gov/wp-content/uploads/2026/03/Statutory-Index-2026.pdf",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Statutory Index of Positions (appointive board); apply any time"
     },
     {
@@ -3520,7 +3520,7 @@
       "constituent": null,
       "applyUrl": "https://govca.avature.net/GOVCACareers/Home",
       "sourceUrl": "https://www.gov.ca.gov/wp-content/uploads/2026/03/Statutory-Index-2026.pdf",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Statutory Index of Positions (appointive board); apply any time"
     },
     {
@@ -3534,7 +3534,7 @@
       "constituent": null,
       "applyUrl": "https://govca.avature.net/GOVCACareers/Home",
       "sourceUrl": "https://www.gov.ca.gov/wp-content/uploads/2026/03/Statutory-Index-2026.pdf",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Statutory Index of Positions (appointive board); apply any time"
     },
     {
@@ -3548,7 +3548,7 @@
       "constituent": null,
       "applyUrl": "https://govca.avature.net/GOVCACareers/Home",
       "sourceUrl": "https://www.gov.ca.gov/wp-content/uploads/2026/03/Statutory-Index-2026.pdf",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Statutory Index of Positions (appointive board); apply any time"
     },
     {
@@ -3562,7 +3562,7 @@
       "constituent": null,
       "applyUrl": "https://govca.avature.net/GOVCACareers/Home",
       "sourceUrl": "https://www.gov.ca.gov/wp-content/uploads/2026/03/Statutory-Index-2026.pdf",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Statutory Index of Positions (appointive board); apply any time"
     },
     {
@@ -3576,7 +3576,7 @@
       "constituent": null,
       "applyUrl": "https://govca.avature.net/GOVCACareers/Home",
       "sourceUrl": "https://www.gov.ca.gov/wp-content/uploads/2026/03/Statutory-Index-2026.pdf",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Statutory Index of Positions (appointive board); apply any time"
     },
     {
@@ -3590,7 +3590,7 @@
       "constituent": null,
       "applyUrl": "https://govca.avature.net/GOVCACareers/Home",
       "sourceUrl": "https://www.gov.ca.gov/wp-content/uploads/2026/03/Statutory-Index-2026.pdf",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Statutory Index of Positions (appointive board); apply any time"
     },
     {
@@ -3604,8 +3604,78 @@
       "constituent": null,
       "applyUrl": "https://govca.avature.net/GOVCACareers/Home",
       "sourceUrl": "https://www.gov.ca.gov/wp-content/uploads/2026/03/Statutory-Index-2026.pdf",
-      "lastVerified": "2026-09-28",
+      "lastVerified": "2026-09-30",
       "criticalNote": "Listed in the Governor's Statutory Index of Positions (appointive board); apply any time"
+    },
+    {
+      "name": "Accountancy, California Board of",
+      "domain": "justice",
+      "totalSeats": 15,
+      "vacantSeats": 0,
+      "vacantSince": null,
+      "authority": "Governor's Appointments Office",
+      "constituent": "Californians & licensed CPAs · audit integrity",
+      "applyUrl": "https://govca.avature.net/GOVCACareers/Home",
+      "sourceUrl": "https://www.cba.ca.gov/about/",
+      "lastVerified": "2026-09-30",
+      "mandate": "Licenses and disciplines California's CPAs and public accounting firms. Fifteen members — seven licensees and eight public; the Governor appoints eleven (Bus. & Prof. Code § 5000/5015).",
+      "criticalNote": "11 of 15 seats are governor-appointed"
+    },
+    {
+      "name": "Chiropractic Examiners, State Bd of",
+      "domain": "health",
+      "totalSeats": 7,
+      "vacantSeats": 0,
+      "vacantSince": null,
+      "authority": "Governor's Appointments Office",
+      "constituent": "California chiropractic patients & licensees",
+      "applyUrl": "https://govca.avature.net/GOVCACareers/Home",
+      "sourceUrl": "https://www.chiro.ca.gov/about_us/",
+      "lastVerified": "2026-09-30",
+      "mandate": "Licenses and disciplines California's doctors of chiropractic. Seven members appointed by the Governor — five chiropractors and two public (Chiropractic Initiative Act; Bus. & Prof. Code § 1000).",
+      "criticalNote": "Statutory board — no current vacancy reported this cycle"
+    },
+    {
+      "name": "Pharmacy, California State Board of",
+      "domain": "health",
+      "totalSeats": 13,
+      "vacantSeats": 0,
+      "vacantSince": null,
+      "authority": "Governor's Appointments Office",
+      "constituent": "California patients & licensed pharmacists · drug safety",
+      "applyUrl": "https://govca.avature.net/GOVCACareers/Home",
+      "sourceUrl": "https://california.public.law/codes/ca_bus_and_prof_code_section_4001",
+      "lastVerified": "2026-09-30",
+      "mandate": "Licenses pharmacists and regulates the distribution of drugs in California. Thirteen members — seven pharmacists and four public appointed by the Governor, with the Senate and Assembly each appointing one public member (Bus. & Prof. Code § 4001).",
+      "criticalNote": "11 of 13 seats are governor-appointed"
+    },
+    {
+      "name": "Podiatric Medicine, Board of",
+      "domain": "health",
+      "totalSeats": 7,
+      "vacantSeats": 0,
+      "vacantSince": null,
+      "authority": "Governor's Appointments Office",
+      "constituent": "California patients & licensed podiatrists",
+      "applyUrl": "https://govca.avature.net/GOVCACareers/Home",
+      "sourceUrl": "https://www.pmbc.ca.gov/about_us/",
+      "lastVerified": "2026-09-30",
+      "mandate": "Licenses and disciplines California's doctors of podiatric medicine. Seven members — four DPMs and three public; the Governor appoints five (Bus. & Prof. Code § 2461).",
+      "criticalNote": "5 of 7 seats are governor-appointed"
+    },
+    {
+      "name": "Psychology, Board of",
+      "domain": "health",
+      "totalSeats": 9,
+      "vacantSeats": 0,
+      "vacantSince": null,
+      "authority": "Governor's Appointments Office",
+      "constituent": "Californians seeking psychological care & licensed psychologists",
+      "applyUrl": "https://govca.avature.net/GOVCACareers/Home",
+      "sourceUrl": "https://california.public.law/codes/ca_bus_and_prof_code_section_2920",
+      "lastVerified": "2026-09-30",
+      "mandate": "Licenses and regulates California's psychologists. Nine members — five licensed psychologists and four public members (Bus. & Prof. Code § 2920).",
+      "criticalNote": "Statutory board — no current vacancy reported this cycle"
     }
   ]
 }
