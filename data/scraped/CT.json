@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-09-30T18:53:11.299Z",
+  "scrapedAt": "2026-10-01T16:19:48.874Z",
   "registry": {
     "profile": "ct",
     "mode": "inventory",
@@ -15,11 +15,11 @@
   "summary": {
     "state": "CT",
     "total": 39,
-    "full": 6,
-    "provisional": 33,
+    "full": 23,
+    "provisional": 16,
     "missingFields": {
-      "totalSeats": 33,
-      "constituent": 33
+      "totalSeats": 16,
+      "constituent": 16
     }
   },
   "rows": [
@@ -34,7 +34,7 @@
       "constituent": null,
       "applyUrl": "https://www.jobapscloud.com/CT/sup/bulpreview.asp?R1=190219&R2=1234BC&R3=BCM",
       "sourceUrl": "https://portal.ct.gov/government/departments-and-agencies/boards-councils-and-commissions",
-      "lastVerified": "2026-09-30",
+      "lastVerified": "2026-10-01",
       "criticalNote": "Listed in CT's official Boards, Councils & Commissions directory; CT publishes no central vacancy list (inventory mode)"
     },
     {
@@ -48,7 +48,7 @@
       "constituent": null,
       "applyUrl": "https://www.jobapscloud.com/CT/sup/bulpreview.asp?R1=190219&R2=1234BC&R3=BCM",
       "sourceUrl": "https://portal.ct.gov/government/departments-and-agencies/boards-councils-and-commissions",
-      "lastVerified": "2026-09-30",
+      "lastVerified": "2026-10-01",
       "criticalNote": "Listed in CT's official Boards, Councils & Commissions directory; CT publishes no central vacancy list (inventory mode)"
     },
     {
@@ -62,7 +62,7 @@
       "constituent": null,
       "applyUrl": "https://www.jobapscloud.com/CT/sup/bulpreview.asp?R1=190219&R2=1234BC&R3=BCM",
       "sourceUrl": "https://portal.ct.gov/government/departments-and-agencies/boards-councils-and-commissions",
-      "lastVerified": "2026-09-30",
+      "lastVerified": "2026-10-01",
       "criticalNote": "Listed in CT's official Boards, Councils & Commissions directory; CT publishes no central vacancy list (inventory mode)"
     },
     {
@@ -76,7 +76,7 @@
       "constituent": null,
       "applyUrl": "https://www.jobapscloud.com/CT/sup/bulpreview.asp?R1=190219&R2=1234BC&R3=BCM",
       "sourceUrl": "https://portal.ct.gov/government/departments-and-agencies/boards-councils-and-commissions",
-      "lastVerified": "2026-09-30",
+      "lastVerified": "2026-10-01",
       "criticalNote": "Listed in CT's official Boards, Councils & Commissions directory; CT publishes no central vacancy list (inventory mode)"
     },
     {
@@ -90,22 +90,24 @@
       "constituent": null,
       "applyUrl": "https://www.jobapscloud.com/CT/sup/bulpreview.asp?R1=190219&R2=1234BC&R3=BCM",
       "sourceUrl": "https://portal.ct.gov/government/departments-and-agencies/boards-councils-and-commissions",
-      "lastVerified": "2026-09-30",
+      "lastVerified": "2026-10-01",
       "criticalNote": "Listed in CT's official Boards, Councils & Commissions directory; CT publishes no central vacancy list (inventory mode)"
     },
     {
       "id": 6,
       "name": "Connecticut State Marshal Commission",
       "domain": "justice",
-      "totalSeats": null,
+      "totalSeats": 1,
       "vacantSeats": 0,
       "vacantSince": null,
       "authority": "Governor's Office via DAS Statewide HR",
-      "constituent": null,
+      "constituent": "Connecticut state marshals & recipients of legal service",
       "applyUrl": "https://www.jobapscloud.com/CT/sup/bulpreview.asp?R1=190219&R2=1234BC&R3=BCM",
       "sourceUrl": "https://portal.ct.gov/government/departments-and-agencies/boards-councils-and-commissions",
-      "lastVerified": "2026-09-30",
-      "criticalNote": "Listed in CT's official Boards, Councils & Commissions directory; CT publishes no central vacancy list (inventory mode)"
+      "lastVerified": "2026-10-01",
+      "criticalNote": "1 of 8 seats is governor-appointed (1 judge by the Chief Justice, 6 by legislative leaders)",
+      "mandate": "Oversees and appoints Connecticut state marshals. Eight-member commission; the Governor appoints one member as chairperson, the Chief Justice one Superior Court judge, and legislative leaders the remaining six (CGS § 6-38b).",
+      "seatSource": "https://law.justia.com/codes/connecticut/title-6/chapter-78/section-6-38b/"
     },
     {
       "id": 7,
@@ -118,7 +120,7 @@
       "constituent": null,
       "applyUrl": "https://www.jobapscloud.com/CT/sup/bulpreview.asp?R1=190219&R2=1234BC&R3=BCM",
       "sourceUrl": "https://portal.ct.gov/government/departments-and-agencies/boards-councils-and-commissions",
-      "lastVerified": "2026-09-30",
+      "lastVerified": "2026-10-01",
       "criticalNote": "Listed in CT's official Boards, Councils & Commissions directory; CT publishes no central vacancy list (inventory mode)"
     },
     {
@@ -132,7 +134,7 @@
       "constituent": null,
       "applyUrl": "https://www.jobapscloud.com/CT/sup/bulpreview.asp?R1=190219&R2=1234BC&R3=BCM",
       "sourceUrl": "https://portal.ct.gov/government/departments-and-agencies/boards-councils-and-commissions",
-      "lastVerified": "2026-09-30",
+      "lastVerified": "2026-10-01",
       "criticalNote": "Listed in CT's official Boards, Councils & Commissions directory; CT publishes no central vacancy list (inventory mode)"
     },
     {
@@ -146,7 +148,7 @@
       "constituent": "Connecticut residents with developmental disabilities",
       "applyUrl": "https://www.jobapscloud.com/CT/sup/bulpreview.asp?R1=190219&R2=1234BC&R3=BCM",
       "sourceUrl": "https://portal.ct.gov/government/departments-and-agencies/boards-councils-and-commissions",
-      "lastVerified": "2026-09-30",
+      "lastVerified": "2026-10-01",
       "criticalNote": "Listed in CT's official Boards, Councils & Commissions directory; CT publishes no central vacancy list (inventory mode)",
       "mandate": "Federally mandated DD Council advocating for Connecticut residents with developmental disabilities. Twenty-four governor-appointed members.",
       "seatSource": "https://portal.ct.gov/CTCDD/About/About-Us/Who-We-Are-and-What-We-Do"
@@ -155,71 +157,81 @@
       "id": 10,
       "name": "Educational Technology, Commission for",
       "domain": "education",
-      "totalSeats": null,
+      "totalSeats": 2,
       "vacantSeats": 0,
       "vacantSince": null,
       "authority": "Governor's Office via DAS Statewide HR",
-      "constituent": null,
+      "constituent": "Connecticut students, libraries & educational-technology users",
       "applyUrl": "https://www.jobapscloud.com/CT/sup/bulpreview.asp?R1=190219&R2=1234BC&R3=BCM",
       "sourceUrl": "https://portal.ct.gov/government/departments-and-agencies/boards-councils-and-commissions",
-      "lastVerified": "2026-09-30",
-      "criticalNote": "Listed in CT's official Boards, Councils & Commissions directory; CT publishes no central vacancy list (inventory mode)"
+      "lastVerified": "2026-10-01",
+      "criticalNote": "2 governor-appointed members; remainder ex-officio officials and association representatives",
+      "mandate": "Coordinates Connecticut's educational-technology strategy across schools, libraries and higher education. Two business/IT-expert members appointed by the Governor, alongside ex-officio state officials and named association representatives (CGS § 4d-80).",
+      "seatSource": "https://law.justia.com/codes/connecticut/title-4d/chapter-61a/section-4d-80/"
     },
     {
       "id": 11,
       "name": "Elections Enforcement Commission, State",
       "domain": "justice",
-      "totalSeats": null,
+      "totalSeats": 1,
       "vacantSeats": 0,
       "vacantSince": null,
       "authority": "Governor's Office via DAS Statewide HR",
-      "constituent": null,
+      "constituent": "Connecticut voters & the integrity of state elections",
       "applyUrl": "https://www.jobapscloud.com/CT/sup/bulpreview.asp?R1=190219&R2=1234BC&R3=BCM",
       "sourceUrl": "https://portal.ct.gov/government/departments-and-agencies/boards-councils-and-commissions",
-      "lastVerified": "2026-09-30",
-      "criticalNote": "Listed in CT's official Boards, Councils & Commissions directory; CT publishes no central vacancy list (inventory mode)"
+      "lastVerified": "2026-10-01",
+      "criticalNote": "1 of 5 seats is governor-appointed (4 appointed by legislative leaders)",
+      "mandate": "Enforces Connecticut's election and campaign-finance laws. Five-member commission; one member appointed by the Governor and one each by the four legislative leaders, all with General Assembly consent (CGS § 9-7a).",
+      "seatSource": "https://law.justia.com/codes/connecticut/title-9/chapter-141/section-9-7a/"
     },
     {
       "id": 12,
       "name": "Employees' Review Board",
       "domain": "justice",
-      "totalSeats": null,
+      "totalSeats": 7,
       "vacantSeats": 0,
       "vacantSince": null,
       "authority": "Governor's Office via DAS Statewide HR",
-      "constituent": null,
+      "constituent": "Connecticut non-union state employees with grievances",
       "applyUrl": "https://www.jobapscloud.com/CT/sup/bulpreview.asp?R1=190219&R2=1234BC&R3=BCM",
       "sourceUrl": "https://portal.ct.gov/government/departments-and-agencies/boards-councils-and-commissions",
-      "lastVerified": "2026-09-30",
-      "criticalNote": "Listed in CT's official Boards, Councils & Commissions directory; CT publishes no central vacancy list (inventory mode)"
+      "lastVerified": "2026-10-01",
+      "criticalNote": "Listed in CT's official Boards, Councils & Commissions directory; CT publishes no central vacancy list (inventory mode)",
+      "mandate": "Hears and decides grievances of non-union Connecticut state employees. Seven members appointed by the Governor, at least one an attorney experienced in administrative or labor law (CGS § 5-201).",
+      "seatSource": "https://law.justia.com/codes/connecticut/title-5/chapter-67/section-5-201/"
     },
     {
       "id": 13,
       "name": "Environmental Quality, Council on",
       "domain": "environment",
-      "totalSeats": null,
+      "totalSeats": 5,
       "vacantSeats": 0,
       "vacantSince": null,
       "authority": "Governor's Office via DAS Statewide HR",
-      "constituent": null,
+      "constituent": "Connecticut's environment & the public's right to monitor it",
       "applyUrl": "https://www.jobapscloud.com/CT/sup/bulpreview.asp?R1=190219&R2=1234BC&R3=BCM",
       "sourceUrl": "https://portal.ct.gov/government/departments-and-agencies/boards-councils-and-commissions",
-      "lastVerified": "2026-09-30",
-      "criticalNote": "Listed in CT's official Boards, Councils & Commissions directory; CT publishes no central vacancy list (inventory mode)"
+      "lastVerified": "2026-10-01",
+      "criticalNote": "5 of 9 seats are governor-appointed (4 appointed by legislative leaders)",
+      "mandate": "Independent monitor of Connecticut's environmental quality and compliance. Nine-member council; five members appointed by the Governor (including the chair), two by the Speaker of the House, two by the Senate President Pro Tempore (CGS § 22a-11).",
+      "seatSource": "https://law.justia.com/codes/connecticut/title-22a/chapter-439/section-22a-11/"
     },
     {
       "id": 14,
       "name": "Examining Board for Crane Operators",
       "domain": "justice",
-      "totalSeats": null,
+      "totalSeats": 5,
       "vacantSeats": 0,
       "vacantSince": null,
       "authority": "Governor's Office via DAS Statewide HR",
-      "constituent": null,
+      "constituent": "Connecticut crane operators, owners & worksite public safety",
       "applyUrl": "https://www.jobapscloud.com/CT/sup/bulpreview.asp?R1=190219&R2=1234BC&R3=BCM",
       "sourceUrl": "https://portal.ct.gov/government/departments-and-agencies/boards-councils-and-commissions",
-      "lastVerified": "2026-09-30",
-      "criticalNote": "Listed in CT's official Boards, Councils & Commissions directory; CT publishes no central vacancy list (inventory mode)"
+      "lastVerified": "2026-10-01",
+      "criticalNote": "Listed in CT's official Boards, Councils & Commissions directory; CT publishes no central vacancy list (inventory mode)",
+      "mandate": "Licenses crane operators and sets crane-safety standards in Connecticut. Five members appointed by the Governor — a department employee, an experienced crane operator, a crane-owner representative, and two public members (CGS § 29-221).",
+      "seatSource": "https://www.cga.ct.gov/current/pub/chap_539.htm"
     },
     {
       "id": 15,
@@ -232,22 +244,24 @@
       "constituent": null,
       "applyUrl": "https://www.jobapscloud.com/CT/sup/bulpreview.asp?R1=190219&R2=1234BC&R3=BCM",
       "sourceUrl": "https://portal.ct.gov/government/departments-and-agencies/boards-councils-and-commissions",
-      "lastVerified": "2026-09-30",
+      "lastVerified": "2026-10-01",
       "criticalNote": "Listed in CT's official Boards, Councils & Commissions directory; CT publishes no central vacancy list (inventory mode)"
     },
     {
       "id": 16,
       "name": "Fire Prevention and Control, Commission on",
       "domain": "justice",
-      "totalSeats": null,
+      "totalSeats": 12,
       "vacantSeats": 0,
       "vacantSince": null,
       "authority": "Governor's Office via DAS Statewide HR",
-      "constituent": null,
+      "constituent": "Connecticut firefighters & the public they protect",
       "applyUrl": "https://www.jobapscloud.com/CT/sup/bulpreview.asp?R1=190219&R2=1234BC&R3=BCM",
       "sourceUrl": "https://portal.ct.gov/government/departments-and-agencies/boards-councils-and-commissions",
-      "lastVerified": "2026-09-30",
-      "criticalNote": "Listed in CT's official Boards, Councils & Commissions directory; CT publishes no central vacancy list (inventory mode)"
+      "lastVerified": "2026-10-01",
+      "criticalNote": "12 governor-appointed members plus 2 ex-officio voting members",
+      "mandate": "Sets Connecticut's firefighter training and certification standards. Twelve members appointed by the Governor representing named fire-service organizations, plus the State Fire Marshal and community-college chancellor ex officio (CGS § 7-323k).",
+      "seatSource": "https://law.justia.com/codes/connecticut/title-7/chapter-104/section-7-323k/"
     },
     {
       "id": 17,
@@ -260,36 +274,40 @@
       "constituent": null,
       "applyUrl": "https://www.jobapscloud.com/CT/sup/bulpreview.asp?R1=190219&R2=1234BC&R3=BCM",
       "sourceUrl": "https://portal.ct.gov/government/departments-and-agencies/boards-councils-and-commissions",
-      "lastVerified": "2026-09-30",
+      "lastVerified": "2026-10-01",
       "criticalNote": "Listed in CT's official Boards, Councils & Commissions directory; CT publishes no central vacancy list (inventory mode)"
     },
     {
       "id": 18,
       "name": "Firearms Permit Examiners, Board of",
       "domain": "justice",
-      "totalSeats": null,
+      "totalSeats": 8,
       "vacantSeats": 0,
       "vacantSince": null,
       "authority": "Governor's Office via DAS Statewide HR",
-      "constituent": null,
+      "constituent": "Connecticut pistol-permit applicants & the public",
       "applyUrl": "https://www.jobapscloud.com/CT/sup/bulpreview.asp?R1=190219&R2=1234BC&R3=BCM",
       "sourceUrl": "https://portal.ct.gov/government/departments-and-agencies/boards-councils-and-commissions",
-      "lastVerified": "2026-09-30",
-      "criticalNote": "Listed in CT's official Boards, Councils & Commissions directory; CT publishes no central vacancy list (inventory mode)"
+      "lastVerified": "2026-10-01",
+      "criticalNote": "8 of 9 seats are governor-appointed (1 retired judge named by the Chief Court Administrator)",
+      "mandate": "Hears appeals from denials and revocations of firearm permits and certificates. Nine-member board; eight members appointed by the Governor from named organizations' nominees (at least one a licensed attorney), plus one retired Superior Court judge named by the Chief Court Administrator (CGS § 29-32b).",
+      "seatSource": "https://www.cga.ct.gov/2015/rpt/2015-R-0041.htm"
     },
     {
       "id": 19,
       "name": "Freedom of Information Commission",
       "domain": "justice",
-      "totalSeats": null,
+      "totalSeats": 5,
       "vacantSeats": 0,
       "vacantSince": null,
       "authority": "Governor's Office via DAS Statewide HR",
-      "constituent": null,
+      "constituent": "Connecticut residents seeking access to public records & meetings",
       "applyUrl": "https://www.jobapscloud.com/CT/sup/bulpreview.asp?R1=190219&R2=1234BC&R3=BCM",
       "sourceUrl": "https://portal.ct.gov/government/departments-and-agencies/boards-councils-and-commissions",
-      "lastVerified": "2026-09-30",
-      "criticalNote": "Listed in CT's official Boards, Councils & Commissions directory; CT publishes no central vacancy list (inventory mode)"
+      "lastVerified": "2026-10-01",
+      "criticalNote": "5 of 9 seats are governor-appointed (4 appointed by legislative leaders)",
+      "mandate": "Enforces Connecticut's Freedom of Information Act and adjudicates access complaints. Nine-member commission; five members appointed by the Governor, four by legislative leaders, all with General Assembly consent (CGS § 1-205).",
+      "seatSource": "https://www.cga.ct.gov/current/pub/chap_014.htm"
     },
     {
       "id": 20,
@@ -302,23 +320,23 @@
       "constituent": null,
       "applyUrl": "https://www.jobapscloud.com/CT/sup/bulpreview.asp?R1=190219&R2=1234BC&R3=BCM",
       "sourceUrl": "https://portal.ct.gov/government/departments-and-agencies/boards-councils-and-commissions",
-      "lastVerified": "2026-09-30",
+      "lastVerified": "2026-10-01",
       "criticalNote": "Listed in CT's official Boards, Councils & Commissions directory; CT publishes no central vacancy list (inventory mode)"
     },
     {
       "id": 21,
       "name": "Human Rights and Opportunities, Commission on",
       "domain": "equity",
-      "totalSeats": 9,
+      "totalSeats": 5,
       "vacantSeats": 0,
       "vacantSince": null,
       "authority": "Governor's Office via DAS Statewide HR",
       "constituent": "Connecticut residents protected under state anti-discrimination law",
       "applyUrl": "https://www.jobapscloud.com/CT/sup/bulpreview.asp?R1=190219&R2=1234BC&R3=BCM",
       "sourceUrl": "https://portal.ct.gov/government/departments-and-agencies/boards-councils-and-commissions",
-      "lastVerified": "2026-09-30",
+      "lastVerified": "2026-10-01",
       "criticalNote": "5 of 9 seats are governor-appointed (4 appointed by legislative leaders)",
-      "mandate": "Enforces Connecticut's anti-discrimination laws and adjudicates civil-rights complaints. Nine members — five appointed by the Governor, four by legislative leaders, all with General Assembly consent (CGS 46a-52).",
+      "mandate": "Enforces Connecticut's anti-discrimination laws and adjudicates civil-rights complaints. Nine-member commission; five members appointed by the Governor, four by legislative leaders, all with General Assembly consent (CGS § 46a-52).",
       "seatSource": "https://law.justia.com/codes/connecticut/title-46a/chapter-814c/"
     },
     {
@@ -332,36 +350,40 @@
       "constituent": null,
       "applyUrl": "https://www.jobapscloud.com/CT/sup/bulpreview.asp?R1=190219&R2=1234BC&R3=BCM",
       "sourceUrl": "https://portal.ct.gov/government/departments-and-agencies/boards-councils-and-commissions",
-      "lastVerified": "2026-09-30",
+      "lastVerified": "2026-10-01",
       "criticalNote": "Listed in CT's official Boards, Councils & Commissions directory; CT publishes no central vacancy list (inventory mode)"
     },
     {
       "id": 23,
       "name": "Judicial Review Council",
       "domain": "justice",
-      "totalSeats": null,
+      "totalSeats": 12,
       "vacantSeats": 0,
       "vacantSince": null,
       "authority": "Governor's Office via DAS Statewide HR",
-      "constituent": null,
+      "constituent": "Connecticut residents & accountability of the state judiciary",
       "applyUrl": "https://www.jobapscloud.com/CT/sup/bulpreview.asp?R1=190219&R2=1234BC&R3=BCM",
       "sourceUrl": "https://portal.ct.gov/government/departments-and-agencies/boards-councils-and-commissions",
-      "lastVerified": "2026-09-30",
-      "criticalNote": "Listed in CT's official Boards, Councils & Commissions directory; CT publishes no central vacancy list (inventory mode)"
+      "lastVerified": "2026-10-01",
+      "criticalNote": "12 governor-appointed members (with General Assembly approval); 13 alternate members excluded",
+      "mandate": "Investigates complaints of judicial misconduct or disability in Connecticut. Twelve members — three Superior Court judges, three attorneys, and six public members — all appointed by the Governor with the approval of the General Assembly (CGS § 51-51k).",
+      "seatSource": "https://law.justia.com/codes/connecticut/title-51/chapter-872a/section-51-51k/"
     },
     {
       "id": 24,
       "name": "Judicial Selection Commission",
       "domain": "justice",
-      "totalSeats": null,
+      "totalSeats": 6,
       "vacantSeats": 0,
       "vacantSince": null,
       "authority": "Governor's Office via DAS Statewide HR",
-      "constituent": null,
+      "constituent": "Connecticut residents & the integrity of the state judiciary",
       "applyUrl": "https://www.jobapscloud.com/CT/sup/bulpreview.asp?R1=190219&R2=1234BC&R3=BCM",
       "sourceUrl": "https://portal.ct.gov/government/departments-and-agencies/boards-councils-and-commissions",
-      "lastVerified": "2026-09-30",
-      "criticalNote": "Listed in CT's official Boards, Councils & Commissions directory; CT publishes no central vacancy list (inventory mode)"
+      "lastVerified": "2026-10-01",
+      "criticalNote": "6 of 12 seats are governor-appointed (6 appointed by legislative leaders)",
+      "mandate": "Vets and recommends candidates for Connecticut judgeships. Twelve-member commission; six members appointed by the Governor (all attorneys, one from each congressional district), six by legislative leaders (CGS § 51-44a).",
+      "seatSource": "https://codes.findlaw.com/ct/title-51-courts/ct-gen-st-sect-51-44a/"
     },
     {
       "id": 25,
@@ -374,7 +396,7 @@
       "constituent": null,
       "applyUrl": "https://www.jobapscloud.com/CT/sup/bulpreview.asp?R1=190219&R2=1234BC&R3=BCM",
       "sourceUrl": "https://portal.ct.gov/government/departments-and-agencies/boards-councils-and-commissions",
-      "lastVerified": "2026-09-30",
+      "lastVerified": "2026-10-01",
       "criticalNote": "Listed in CT's official Boards, Councils & Commissions directory; CT publishes no central vacancy list (inventory mode)"
     },
     {
@@ -388,9 +410,9 @@
       "constituent": "Connecticut's incarcerated people, parolees & pardon applicants",
       "applyUrl": "https://www.jobapscloud.com/CT/sup/bulpreview.asp?R1=190219&R2=1234BC&R3=BCM",
       "sourceUrl": "https://portal.ct.gov/government/departments-and-agencies/boards-councils-and-commissions",
-      "lastVerified": "2026-09-30",
+      "lastVerified": "2026-10-01",
       "criticalNote": "Ten full-time governor-appointed members; the Governor may also appoint up to five part-time members",
-      "mandate": "Grants paroles and pardons and sets release policy in Connecticut. Ten full-time members appointed by the Governor with the consent of the General Assembly (CGS 54-124a).",
+      "mandate": "Grants paroles and pardons and sets release policy in Connecticut. Ten full-time members appointed by the Governor with the consent of the General Assembly (CGS § 54-124a).",
       "seatSource": "https://law.justia.com/codes/connecticut/title-54/chapter-961/section-54-124a/"
     },
     {
@@ -404,9 +426,9 @@
       "constituent": "Connecticut insanity acquittees, victims & the public",
       "applyUrl": "https://www.jobapscloud.com/CT/sup/bulpreview.asp?R1=190219&R2=1234BC&R3=BCM",
       "sourceUrl": "https://portal.ct.gov/government/departments-and-agencies/boards-councils-and-commissions",
-      "lastVerified": "2026-09-30",
+      "lastVerified": "2026-10-01",
       "criticalNote": "Listed in CT's official Boards, Councils & Commissions directory; CT publishes no central vacancy list (inventory mode)",
-      "mandate": "Supervises persons acquitted by reason of mental disease and committed to its jurisdiction. Six governor-appointed members — a psychiatrist, a psychologist, a probation expert, an attorney, and two public members (CGS 17a-581).",
+      "mandate": "Supervises persons acquitted by reason of mental disease and committed to its jurisdiction. Six governor-appointed members — a psychiatrist, a psychologist, a probation expert, an attorney, and two public members (CGS § 17a-581).",
       "seatSource": "https://law.justia.com/codes/connecticut/title-17a/chapter-319i/section-17a-581-formerly-sec-17-257b/"
     },
     {
@@ -420,7 +442,7 @@
       "constituent": null,
       "applyUrl": "https://www.jobapscloud.com/CT/sup/bulpreview.asp?R1=190219&R2=1234BC&R3=BCM",
       "sourceUrl": "https://portal.ct.gov/government/departments-and-agencies/boards-councils-and-commissions",
-      "lastVerified": "2026-09-30",
+      "lastVerified": "2026-10-01",
       "criticalNote": "Listed in CT's official Boards, Councils & Commissions directory; CT publishes no central vacancy list (inventory mode)"
     },
     {
@@ -434,78 +456,88 @@
       "constituent": null,
       "applyUrl": "https://www.jobapscloud.com/CT/sup/bulpreview.asp?R1=190219&R2=1234BC&R3=BCM",
       "sourceUrl": "https://portal.ct.gov/government/departments-and-agencies/boards-councils-and-commissions",
-      "lastVerified": "2026-09-30",
+      "lastVerified": "2026-10-01",
       "criticalNote": "Listed in CT's official Boards, Councils & Commissions directory; CT publishes no central vacancy list (inventory mode)"
     },
     {
       "id": 30,
       "name": "Sentencing Commission",
       "domain": "justice",
-      "totalSeats": null,
+      "totalSeats": 1,
       "vacantSeats": 0,
       "vacantSince": null,
       "authority": "Governor's Office via DAS Statewide HR",
-      "constituent": null,
+      "constituent": "Connecticut's criminal-justice system & the public",
       "applyUrl": "https://www.jobapscloud.com/CT/sup/bulpreview.asp?R1=190219&R2=1234BC&R3=BCM",
       "sourceUrl": "https://portal.ct.gov/government/departments-and-agencies/boards-councils-and-commissions",
-      "lastVerified": "2026-09-30",
-      "criticalNote": "Listed in CT's official Boards, Councils & Commissions directory; CT publishes no central vacancy list (inventory mode)"
+      "lastVerified": "2026-10-01",
+      "criticalNote": "1 of 23 voting members is governor-appointed (remainder ex-officio and legislative)",
+      "mandate": "Reviews Connecticut's criminal sentencing policies and recommends reforms. Twenty-three-member commission; one public member appointed by the Governor, the remainder ex-officio justice officials and legislative appointees (CGS § 54-300).",
+      "seatSource": "https://law.justia.com/codes/connecticut/title-54/chapter-970/section-54-300/"
     },
     {
       "id": 31,
       "name": "Siting Council",
-      "domain": "justice",
-      "totalSeats": null,
+      "domain": "environment",
+      "totalSeats": 5,
       "vacantSeats": 0,
       "vacantSince": null,
       "authority": "Governor's Office via DAS Statewide HR",
-      "constituent": null,
+      "constituent": "Connecticut communities affected by energy & telecom facilities",
       "applyUrl": "https://www.jobapscloud.com/CT/sup/bulpreview.asp?R1=190219&R2=1234BC&R3=BCM",
       "sourceUrl": "https://portal.ct.gov/government/departments-and-agencies/boards-councils-and-commissions",
-      "lastVerified": "2026-09-30",
-      "criticalNote": "Listed in CT's official Boards, Councils & Commissions directory; CT publishes no central vacancy list (inventory mode)"
+      "lastVerified": "2026-10-01",
+      "criticalNote": "5 of 9 seats are governor-appointed (2 legislative, 2 ex officio)",
+      "mandate": "Decides the siting of power plants, transmission lines and telecommunication towers. Nine-member council; five members appointed by the Governor (including the chair), two by legislative leaders, plus the DEEP Commissioner and PURA chair ex officio (CGS § 16-50j).",
+      "seatSource": "https://law.justia.com/codes/connecticut/title-16/chapter-277a/section-16-50j/"
     },
     {
       "id": 32,
       "name": "State Contracting Standards Board",
       "domain": "justice",
-      "totalSeats": null,
+      "totalSeats": 8,
       "vacantSeats": 0,
       "vacantSince": null,
       "authority": "Governor's Office via DAS Statewide HR",
-      "constituent": null,
+      "constituent": "Connecticut taxpayers & the integrity of state procurement",
       "applyUrl": "https://www.jobapscloud.com/CT/sup/bulpreview.asp?R1=190219&R2=1234BC&R3=BCM",
       "sourceUrl": "https://portal.ct.gov/government/departments-and-agencies/boards-councils-and-commissions",
-      "lastVerified": "2026-09-30",
-      "criticalNote": "Listed in CT's official Boards, Councils & Commissions directory; CT publishes no central vacancy list (inventory mode)"
+      "lastVerified": "2026-10-01",
+      "criticalNote": "8 of 14 seats are governor-appointed (6 appointed by legislative leaders)",
+      "mandate": "Oversees and reforms Connecticut's state contracting and procurement. Fourteen-member board; eight members appointed by the Governor (including the chair), six by legislative leaders (CGS § 4e-2).",
+      "seatSource": "https://law.justia.com/codes/connecticut/title-4e/chapter-62/section-4e-2/"
     },
     {
       "id": 33,
       "name": "State Emergency Response Commission",
-      "domain": "justice",
-      "totalSeats": null,
+      "domain": "environment",
+      "totalSeats": 9,
       "vacantSeats": 0,
       "vacantSince": null,
       "authority": "Governor's Office via DAS Statewide HR",
-      "constituent": null,
+      "constituent": "Connecticut communities exposed to hazardous-materials risk",
       "applyUrl": "https://www.jobapscloud.com/CT/sup/bulpreview.asp?R1=190219&R2=1234BC&R3=BCM",
       "sourceUrl": "https://portal.ct.gov/government/departments-and-agencies/boards-councils-and-commissions",
-      "lastVerified": "2026-09-30",
-      "criticalNote": "Listed in CT's official Boards, Councils & Commissions directory; CT publishes no central vacancy list (inventory mode)"
+      "lastVerified": "2026-10-01",
+      "criticalNote": "9 of 18 seats are governor-appointed",
+      "mandate": "Coordinates Connecticut's hazardous-materials emergency planning and right-to-know program. Eighteen-member commission; nine members appointed by the Governor (four public, three facility operators, one municipal fire chief, plus the chair) (CGS § 22a-601).",
+      "seatSource": "https://www.cga.ct.gov/current/pub/chap_446l.htm"
     },
     {
       "id": 34,
       "name": "State Insurance and Risk Management Board",
       "domain": "justice",
-      "totalSeats": null,
+      "totalSeats": 9,
       "vacantSeats": 0,
       "vacantSince": null,
       "authority": "Governor's Office via DAS Statewide HR",
-      "constituent": null,
+      "constituent": "Connecticut taxpayers & the state's insured assets",
       "applyUrl": "https://www.jobapscloud.com/CT/sup/bulpreview.asp?R1=190219&R2=1234BC&R3=BCM",
       "sourceUrl": "https://portal.ct.gov/government/departments-and-agencies/boards-councils-and-commissions",
-      "lastVerified": "2026-09-30",
-      "criticalNote": "Listed in CT's official Boards, Councils & Commissions directory; CT publishes no central vacancy list (inventory mode)"
+      "lastVerified": "2026-10-01",
+      "criticalNote": "9 governor-appointed members plus the Comptroller ex officio",
+      "mandate": "Directs Connecticut's state insurance and risk-management program. Nine members appointed by the Governor (three public members, six qualified by training/experience), plus the Comptroller ex officio (CGS § 4a-19).",
+      "seatSource": "https://www.cga.ct.gov/current/pub/chap_057a.htm#sec_4a-19"
     },
     {
       "id": 35,
@@ -518,22 +550,24 @@
       "constituent": null,
       "applyUrl": "https://www.jobapscloud.com/CT/sup/bulpreview.asp?R1=190219&R2=1234BC&R3=BCM",
       "sourceUrl": "https://portal.ct.gov/government/departments-and-agencies/boards-councils-and-commissions",
-      "lastVerified": "2026-09-30",
+      "lastVerified": "2026-10-01",
       "criticalNote": "Listed in CT's official Boards, Councils & Commissions directory; CT publishes no central vacancy list (inventory mode)"
     },
     {
       "id": 36,
       "name": "Teachers' Retirement Board",
-      "domain": "education",
-      "totalSeats": null,
+      "domain": "equity",
+      "totalSeats": 5,
       "vacantSeats": 0,
       "vacantSince": null,
       "authority": "Governor's Office via DAS Statewide HR",
-      "constituent": null,
+      "constituent": "Connecticut public-school teachers & retirees",
       "applyUrl": "https://www.jobapscloud.com/CT/sup/bulpreview.asp?R1=190219&R2=1234BC&R3=BCM",
       "sourceUrl": "https://portal.ct.gov/government/departments-and-agencies/boards-councils-and-commissions",
-      "lastVerified": "2026-09-30",
-      "criticalNote": "Listed in CT's official Boards, Councils & Commissions directory; CT publishes no central vacancy list (inventory mode)"
+      "lastVerified": "2026-10-01",
+      "criticalNote": "5 governor-appointed public members; the remaining seats are elected teacher/retiree members and ex-officio officials",
+      "mandate": "Administers the Connecticut Teachers' Retirement System. Board includes five public members appointed by the Governor, alongside elected teacher/retiree members and ex-officio state officials (CGS ch. 167a).",
+      "seatSource": "https://www.cga.ct.gov/current/pub/chap_167a.htm"
     },
     {
       "id": 37,
@@ -546,7 +580,7 @@
       "constituent": null,
       "applyUrl": "https://www.jobapscloud.com/CT/sup/bulpreview.asp?R1=190219&R2=1234BC&R3=BCM",
       "sourceUrl": "https://portal.ct.gov/government/departments-and-agencies/boards-councils-and-commissions",
-      "lastVerified": "2026-09-30",
+      "lastVerified": "2026-10-01",
       "criticalNote": "Listed in CT's official Boards, Councils & Commissions directory; CT publishes no central vacancy list (inventory mode)"
     },
     {
@@ -560,7 +594,7 @@
       "constituent": "Connecticut patients & licensed physicians",
       "applyUrl": "https://www.jobapscloud.com/CT/sup/bulpreview.asp?R1=190219&R2=1234BC&R3=BCM",
       "sourceUrl": "https://portal.ct.gov/government/departments-and-agencies/boards-councils-and-commissions",
-      "lastVerified": "2026-09-30",
+      "lastVerified": "2026-10-01",
       "criticalNote": "Listed in CT's official Boards, Councils & Commissions directory; CT publishes no central vacancy list (inventory mode)",
       "mandate": "Licenses and disciplines Connecticut physicians. Twenty-one governor-appointed members — thirteen physicians, one physician assistant, seven public members (CGS § 20-8a).",
       "seatSource": "https://law.justia.com/codes/connecticut/title-20/chapter-370/section-20-8a/"
@@ -569,16 +603,16 @@
       "id": 39,
       "name": "Connecticut State Board of Education",
       "domain": "education",
-      "totalSeats": 14,
+      "totalSeats": 9,
       "vacantSeats": 0,
       "vacantSince": null,
       "authority": "Governor's Office via DAS Statewide HR",
       "constituent": "Connecticut K-12 students & families",
       "applyUrl": "https://www.jobapscloud.com/CT/sup/bulpreview.asp?R1=190219&R2=1234BC&R3=BCM",
       "sourceUrl": "https://portal.ct.gov/government/departments-and-agencies/boards-councils-and-commissions",
-      "lastVerified": "2026-09-30",
-      "criticalNote": "9 of 14 seats are governor-appointed",
-      "mandate": "Oversees Connecticut's public elementary and secondary education. Fourteen members — nine governor-appointed voting members, three ex officio, two student members (CGS § 10-1).",
+      "lastVerified": "2026-10-01",
+      "criticalNote": "9 governor-appointed voting members; board also seats 3 ex-officio and 2 nonvoting student members",
+      "mandate": "Oversees Connecticut's public elementary and secondary education. Nine governor-appointed voting members, alongside three ex-officio members and two (nonvoting) student members (CGS § 10-1).",
       "seatSource": "https://law.justia.com/codes/connecticut/title-10/chapter-163/section-10-1/"
     }
   ]

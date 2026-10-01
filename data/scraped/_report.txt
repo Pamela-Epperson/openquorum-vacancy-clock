@@ -7,7 +7,7 @@ OH: 102 rows (25 full / 77 provisional) — missing: totalSeats×77, constituent
 TX: 263 rows (26 full / 237 provisional) — missing: totalSeats×237, constituent×237
 AZ: 51 rows (13 full / 38 provisional) — missing: totalSeats×38, constituent×38
 MO: 170 rows (5 full / 165 provisional) — missing: totalSeats×165, constituent×165
-CT: 39 rows (6 full / 33 provisional) — missing: totalSeats×33, constituent×33
+CT: 39 rows (23 full / 16 provisional) — missing: totalSeats×16, constituent×16
 WI: manual state — staged data maintained by hand in data/scraped/WI.json
 MS: manual state — staged data maintained by hand in data/scraped/MS.json
 AL: manual state — staged data maintained by hand in data/scraped/AL.json
