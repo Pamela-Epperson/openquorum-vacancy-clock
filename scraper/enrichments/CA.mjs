@@ -183,4 +183,70 @@ export const ENRICHMENTS = {
     mandate: "Licenses and regulates California's psychologists. Nine members — five licensed psychologists and four public members (Bus. & Prof. Code § 2920).",
     seatSource: "https://california.public.law/codes/ca_bus_and_prof_code_section_2920",
   },
+
+  // ── Depth expansion 2026-10-01 (governor-appointed voting seats only) ──
+  "University of California, Regents of": {
+    totalSeats: 18, domain: "education",
+    constituent: "the University of California's students, faculty & campuses",
+    mandate: "Governs the University of California system. Twenty-six-member board; eighteen members appointed by the Governor with Senate confirmation, plus seven ex-officio members and one student regent (Cal. Const. Art. IX, Sec. 9).",
+    seatSource: "https://leginfo.legislature.ca.gov/faces/codes_displayText.xhtml?lawCode=CONS&article=IX",
+    criticalNote: "18 of 26 seats are governor-appointed (7 ex officio, 1 student regent)",
+  },
+  "University, Trustees of the CA State": {
+    totalSeats: 16, domain: "education",
+    constituent: "California State University's students, faculty & campuses",
+    mandate: "Governs the 23-campus California State University system. Governor appoints sixteen public trustees with Senate confirmation; the board also seats governor-appointed faculty and student trustees, five ex-officio members and an alumni-appointed trustee (Cal. Educ. Code 66600).",
+    seatSource: "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=66600.&lawCode=EDC",
+    criticalNote: "16 governor-appointed public trustees (plus gov-appointed faculty/student trustees, 5 ex officio, 1 alumni-appointed)",
+  },
+  "Education, State Board of": {
+    totalSeats: 11, domain: "education",
+    constituent: "California's K-12 students & families",
+    mandate: "The governing and policy-determining body for California's public K-12 education. Eleven members appointed by the Governor with Senate confirmation, including one student member (Cal. Educ. Code 33000).",
+    seatSource: "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=33000.&lawCode=EDC",
+  },
+  "Community Colleges, Board of Governors of California": {
+    totalSeats: 17, domain: "education",
+    constituent: "California's 2.1 million community-college students",
+    mandate: "Governs California's 116-campus community-college system. Seventeen members appointed by the Governor (twelve with Senate confirmation plus five two-year members including students, faculty and staff); the Lieutenant Governor serves ex officio (Cal. Educ. Code 71000).",
+    seatSource: "https://law.justia.com/codes/california/code-edc/title-3/division-7/part-44/chapter-1/article-1/section-71000/",
+    criticalNote: "17 governor-appointed members (the Lieutenant Governor serves ex officio)",
+  },
+  "Energy Commission, State": {
+    totalSeats: 5, domain: "environment",
+    constituent: "every California energy ratepayer & the state's climate goals",
+    mandate: "California's primary energy-policy and planning agency. Five members appointed by the Governor with Senate confirmation, from named expertise areas (Cal. Pub. Res. Code 25200).",
+    seatSource: "https://law.justia.com/codes/california/code-prc/division-15/chapter-3/section-25200/",
+  },
+  "Food and Agriculture, State Board of": {
+    totalSeats: 15, domain: "environment",
+    constituent: "California's farmers, ranchers & food system",
+    mandate: "Advises the Governor and Secretary on California agriculture and food policy. Fifteen members appointed by the Governor, representing commodities, regions, academia and the public (Cal. Food & Agric. Code 902).",
+    seatSource: "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=902.&lawCode=FAC",
+  },
+  "Horse Racing Board, California": {
+    totalSeats: 7, domain: "justice",
+    constituent: "California's horse-racing industry, bettors & animal welfare",
+    mandate: "Regulates California's horse racing and pari-mutuel wagering. Seven members appointed by the Governor with Senate confirmation (Cal. Bus. & Prof. Code 19420).",
+    seatSource: "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=19420.&lawCode=BPC",
+  },
+  "Air Resources Board": {
+    totalSeats: 12, domain: "environment",
+    constituent: "every Californian breathing the state's air · climate policy",
+    mandate: "California's air-quality and climate-regulation authority. Fourteen-member board; twelve members appointed by the Governor with Senate confirmation, one by the Senate Committee on Rules and one by the Assembly Speaker (Cal. Health & Safety Code 39510).",
+    seatSource: "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=39510.&lawCode=HSC",
+    criticalNote: "12 of 14 seats are governor-appointed (1 Senate Rules, 1 Assembly Speaker)",
+  },
+  "Forestry & Fire Protection, State Bd of": {
+    totalSeats: 9, domain: "environment",
+    constituent: "Californians in the wildland-urban interface · forests & fire",
+    mandate: "Sets California's forest-practice and wildfire policy for CAL FIRE. Nine members appointed by the Governor with Senate confirmation — five public, three forest-products industry, one range-livestock (Cal. Pub. Res. Code 730).",
+    seatSource: "https://law.justia.com/codes/california/code-prc/division-1/chapter-2-5/article-2/section-730/",
+  },
+  "Fish and Game, Commission": {
+    totalSeats: 5, domain: "environment",
+    constituent: "California's fish, wildlife & the hunting/fishing public",
+    mandate: "Sets California's hunting, fishing and wildlife-conservation policy. Five members appointed by the Governor with Senate confirmation to six-year terms (Cal. Fish & Game Code 101; Cal. Const. Art. IV, Sec. 20).",
+    seatSource: "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=101.&lawCode=FGC",
+  },
 };

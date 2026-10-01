@@ -100,4 +100,91 @@ export const ENRICHMENTS = {
     mandate: "Citizen oversight board for the Florida Department of Transportation — policy, accountability, and major-project review. Nine members appointed by the Governor with Senate confirmation (F.S. 20.23).",
     seatSource: "https://law.justia.com/codes/florida/title-iv/chapter-20/section-20-23/",
   },
+
+  // ── Depth expansion 2026-10-01 (governor-appointed voting seats only) ──
+  "Board of Governors of the State University System": {
+    totalSeats: 14, domain: "education",
+    constituent: "Florida's 12 state universities, students & faculty",
+    mandate: "Constitutional governing body of Florida's State University System. Seventeen members; fourteen appointed by the Governor and Senate-confirmed, plus three ex-officio members (Commissioner of Education, faculty-senates council chair, student association chair) (Fla. Const. Art. IX, Sec. 7).",
+    seatSource: "https://codes.findlaw.com/fl/florida-constitution1968-revision/fl-const-art-9-sect-7/",
+    criticalNote: "14 of 17 seats are governor-appointed (3 ex officio)",
+  },
+  "Board of Dentistry": {
+    totalSeats: 11, domain: "health",
+    constituent: "Florida dental patients & licensed dentists/hygienists",
+    mandate: "Licenses and disciplines Florida's dentists and dental hygienists. Eleven members appointed by the Governor with Senate confirmation — seven dentists, two dental hygienists, two laypersons (F.S. 466.004).",
+    seatSource: "https://www.flsenate.gov/laws/statutes/2024/466.004",
+  },
+  "Board of Clinical Social Work, Marriage and Family Therapy, and Mental Health Counseling": {
+    totalSeats: 9, domain: "health",
+    constituent: "Floridians seeking mental-health care & licensed therapists",
+    mandate: "Licenses Florida's clinical social workers, marriage & family therapists, and mental health counselors. Nine members appointed by the Governor with Senate confirmation — two of each profession plus three lay members (F.S. 491.004).",
+    seatSource: "https://law.justia.com/codes/florida/title-xxxii/chapter-491/section-491-004/",
+  },
+  "Construction Industry Licensing Board": {
+    totalSeats: 18, domain: "housing",
+    constituent: "Florida building owners & licensed contractors · construction safety",
+    mandate: "Licenses and disciplines Florida's construction contractors. Eighteen members appointed by the Governor with Senate confirmation — sixteen contractor/building-official members and two consumer members (F.S. 489.107).",
+    seatSource: "https://www.flsenate.gov/laws/statutes/2025/489.107",
+  },
+  "Board of Veterinary Medicine": {
+    totalSeats: 7, domain: "health",
+    constituent: "Florida pet owners, livestock & licensed veterinarians",
+    mandate: "Licenses and disciplines Florida's veterinarians. Seven members appointed by the Governor with Senate confirmation — five veterinarians and two laypersons (F.S. 474.204).",
+    seatSource: "https://www.flsenate.gov/laws/statutes/2025/474.204",
+  },
+  "Board of Cosmetology": {
+    totalSeats: 7, domain: "justice",
+    constituent: "Florida salon clients & licensed cosmetologists",
+    mandate: "Licenses and regulates Florida's cosmetology practice and salons. Seven members appointed by the Governor with Senate confirmation — five cosmetologists and two laypersons (F.S. 477.019).",
+    seatSource: "https://www.flsenate.gov/laws/statutes/2024/477.019",
+  },
+  "Board of Architecture and Interior Design": {
+    totalSeats: 11, domain: "housing",
+    constituent: "Floridians & licensed architects/interior designers · building safety",
+    mandate: "Licenses and regulates Florida's architects and interior designers. Eleven members appointed by the Governor with Senate confirmation — five architects, three interior designers, three laypersons (F.S. 481.205).",
+    seatSource: "https://www.flsenate.gov/laws/statutes/2024/481.205",
+  },
+  "Florida Building Commission": {
+    totalSeats: 19, domain: "housing",
+    constituent: "Every Floridian in a built structure · statewide building code",
+    mandate: "Develops and maintains the Florida Building Code. Nineteen members appointed by the Governor with Senate confirmation, representing design, construction, building-official, fire-safety and related sectors (F.S. 553.74).",
+    seatSource: "https://www.flsenate.gov/laws/statutes/2025/553.74",
+  },
+  "Florida Citrus Commission": {
+    totalSeats: 11, domain: "environment",
+    constituent: "Florida's citrus growers, processors & the industry",
+    mandate: "Governs the Florida Department of Citrus and the state's citrus marketing and research. Eleven members appointed by the Governor, each an experienced Florida citrus grower, shipper or processor (F.S. 601.04).",
+    seatSource: "https://www.flsenate.gov/laws/statutes/2024/601.04",
+  },
+  "Board of Massage Therapy": {
+    totalSeats: 7, domain: "health",
+    constituent: "Florida massage clients & licensed massage therapists",
+    mandate: "Licenses and regulates Florida's massage therapists and establishments. Seven members appointed by the Governor with Senate confirmation — five massage therapists and two laypersons (F.S. 480.035).",
+    seatSource: "https://flsenate.gov/laws/statutes/2023/480.035",
+  },
+  "Board of Nursing Home Administrators": {
+    totalSeats: 7, domain: "health",
+    constituent: "Florida nursing-home residents & licensed administrators",
+    mandate: "Licenses and disciplines Florida's nursing home administrators. Seven members appointed by the Governor with Senate confirmation — three administrators, two health-care practitioners, two laypersons (F.S. 468.1665).",
+    seatSource: "https://law.justia.com/codes/florida/2018/title-xxxii/chapter-468/part-ii/section-468.1665/",
+  },
+  "Environmental Regulation Commission": {
+    totalSeats: 7, domain: "environment",
+    constituent: "Floridians affected by state environmental standards",
+    mandate: "Sets Florida's environmental standards and rules for the Department of Environmental Protection. Seven members appointed by the Governor with Senate confirmation, representing agriculture, development, local government, the environmental community, the public and science (F.S. 403.804).",
+    seatSource: "https://www.flsenate.gov/laws/statutes/2025/403.804",
+  },
+  "Board of Opticianry": {
+    totalSeats: 7, domain: "health",
+    constituent: "Florida eyewear consumers & licensed opticians",
+    mandate: "Licenses and regulates Florida's opticians. Seven members appointed by the Governor with Senate confirmation — five opticians and two laypersons (F.S. 484.003).",
+    seatSource: "https://flsenate.gov/Laws/Statutes/2023/0484.003",
+  },
+  "Board of Landscape Architecture": {
+    totalSeats: 7, domain: "housing",
+    constituent: "Floridians & licensed landscape architects · public spaces",
+    mandate: "Licenses and regulates Florida's landscape architects. Seven members appointed by the Governor with Senate confirmation — five landscape architects and two laypersons (F.S. 481.305).",
+    seatSource: "https://www.flsenate.gov/laws/statutes/2024/481.305",
+  },
 };
