@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-10-01T16:19:32.296Z",
+  "scrapedAt": "2026-10-01T16:51:14.353Z",
   "registry": {
     "profile": "fl",
     "mode": "inventory",
@@ -15,11 +15,11 @@
   "summary": {
     "state": "FL",
     "total": 289,
-    "full": 16,
-    "provisional": 273,
+    "full": 30,
+    "provisional": 259,
     "missingFields": {
-      "totalSeats": 273,
-      "constituent": 273
+      "totalSeats": 259,
+      "constituent": 259
     }
   },
   "rows": [
@@ -448,16 +448,18 @@
     {
       "id": 31,
       "name": "Board of Architecture and Interior Design",
-      "domain": "justice",
-      "totalSeats": null,
+      "domain": "housing",
+      "totalSeats": 11,
       "vacantSeats": 0,
       "vacantSince": null,
       "authority": "Governor's Appointments Office",
-      "constituent": null,
+      "constituent": "Floridians & licensed architects/interior designers · building safety",
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "lastVerified": "2026-10-01",
-      "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
+      "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list",
+      "mandate": "Licenses and regulates Florida's architects and interior designers. Eleven members appointed by the Governor with Senate confirmation — five architects, three interior designers, three laypersons (F.S. 481.205).",
+      "seatSource": "https://www.flsenate.gov/laws/statutes/2024/481.205"
     },
     {
       "id": 32,
@@ -521,43 +523,49 @@
       "id": 36,
       "name": "Board of Clinical Social Work, Marriage and Family Therapy, and Mental Health Counseling",
       "domain": "health",
-      "totalSeats": null,
+      "totalSeats": 9,
       "vacantSeats": 0,
       "vacantSince": null,
       "authority": "Governor's Appointments Office",
-      "constituent": null,
+      "constituent": "Floridians seeking mental-health care & licensed therapists",
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "lastVerified": "2026-10-01",
-      "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
+      "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list",
+      "mandate": "Licenses Florida's clinical social workers, marriage & family therapists, and mental health counselors. Nine members appointed by the Governor with Senate confirmation — two of each profession plus three lay members (F.S. 491.004).",
+      "seatSource": "https://law.justia.com/codes/florida/title-xxxii/chapter-491/section-491-004/"
     },
     {
       "id": 37,
       "name": "Board of Cosmetology",
       "domain": "justice",
-      "totalSeats": null,
+      "totalSeats": 7,
       "vacantSeats": 0,
       "vacantSince": null,
       "authority": "Governor's Appointments Office",
-      "constituent": null,
+      "constituent": "Florida salon clients & licensed cosmetologists",
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "lastVerified": "2026-10-01",
-      "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
+      "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list",
+      "mandate": "Licenses and regulates Florida's cosmetology practice and salons. Seven members appointed by the Governor with Senate confirmation — five cosmetologists and two laypersons (F.S. 477.019).",
+      "seatSource": "https://www.flsenate.gov/laws/statutes/2024/477.019"
     },
     {
       "id": 38,
       "name": "Board of Dentistry",
-      "domain": "justice",
-      "totalSeats": null,
+      "domain": "health",
+      "totalSeats": 11,
       "vacantSeats": 0,
       "vacantSince": null,
       "authority": "Governor's Appointments Office",
-      "constituent": null,
+      "constituent": "Florida dental patients & licensed dentists/hygienists",
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "lastVerified": "2026-10-01",
-      "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
+      "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list",
+      "mandate": "Licenses and disciplines Florida's dentists and dental hygienists. Eleven members appointed by the Governor with Senate confirmation — seven dentists, two dental hygienists, two laypersons (F.S. 466.004).",
+      "seatSource": "https://www.flsenate.gov/laws/statutes/2024/466.004"
     },
     {
       "id": 39,
@@ -605,15 +613,17 @@
       "id": 42,
       "name": "Board of Governors of the State University System",
       "domain": "education",
-      "totalSeats": null,
+      "totalSeats": 14,
       "vacantSeats": 0,
       "vacantSince": null,
       "authority": "Governor's Appointments Office",
-      "constituent": null,
+      "constituent": "Florida's 12 state universities, students & faculty",
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "lastVerified": "2026-10-01",
-      "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
+      "criticalNote": "14 of 17 seats are governor-appointed (3 ex officio)",
+      "mandate": "Constitutional governing body of Florida's State University System. Seventeen members; fourteen appointed by the Governor and Senate-confirmed, plus three ex-officio members (Commissioner of Education, faculty-senates council chair, student association chair) (Fla. Const. Art. IX, Sec. 7).",
+      "seatSource": "https://codes.findlaw.com/fl/florida-constitution1968-revision/fl-const-art-9-sect-7/"
     },
     {
       "id": 43,
@@ -632,30 +642,34 @@
     {
       "id": 44,
       "name": "Board of Landscape Architecture",
-      "domain": "environment",
-      "totalSeats": null,
+      "domain": "housing",
+      "totalSeats": 7,
       "vacantSeats": 0,
       "vacantSince": null,
       "authority": "Governor's Appointments Office",
-      "constituent": null,
+      "constituent": "Floridians & licensed landscape architects · public spaces",
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "lastVerified": "2026-10-01",
-      "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
+      "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list",
+      "mandate": "Licenses and regulates Florida's landscape architects. Seven members appointed by the Governor with Senate confirmation — five landscape architects and two laypersons (F.S. 481.305).",
+      "seatSource": "https://www.flsenate.gov/laws/statutes/2024/481.305"
     },
     {
       "id": 45,
       "name": "Board of Massage Therapy",
-      "domain": "justice",
-      "totalSeats": null,
+      "domain": "health",
+      "totalSeats": 7,
       "vacantSeats": 0,
       "vacantSince": null,
       "authority": "Governor's Appointments Office",
-      "constituent": null,
+      "constituent": "Florida massage clients & licensed massage therapists",
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "lastVerified": "2026-10-01",
-      "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
+      "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list",
+      "mandate": "Licenses and regulates Florida's massage therapists and establishments. Seven members appointed by the Governor with Senate confirmation — five massage therapists and two laypersons (F.S. 480.035).",
+      "seatSource": "https://flsenate.gov/laws/statutes/2023/480.035"
     },
     {
       "id": 46,
@@ -693,15 +707,17 @@
       "id": 48,
       "name": "Board of Nursing Home Administrators",
       "domain": "health",
-      "totalSeats": null,
+      "totalSeats": 7,
       "vacantSeats": 0,
       "vacantSince": null,
       "authority": "Governor's Appointments Office",
-      "constituent": null,
+      "constituent": "Florida nursing-home residents & licensed administrators",
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "lastVerified": "2026-10-01",
-      "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
+      "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list",
+      "mandate": "Licenses and disciplines Florida's nursing home administrators. Seven members appointed by the Governor with Senate confirmation — three administrators, two health-care practitioners, two laypersons (F.S. 468.1665).",
+      "seatSource": "https://law.justia.com/codes/florida/2018/title-xxxii/chapter-468/part-ii/section-468.1665/"
     },
     {
       "id": 49,
@@ -720,16 +736,18 @@
     {
       "id": 50,
       "name": "Board of Opticianry",
-      "domain": "justice",
-      "totalSeats": null,
+      "domain": "health",
+      "totalSeats": 7,
       "vacantSeats": 0,
       "vacantSince": null,
       "authority": "Governor's Appointments Office",
-      "constituent": null,
+      "constituent": "Florida eyewear consumers & licensed opticians",
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "lastVerified": "2026-10-01",
-      "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
+      "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list",
+      "mandate": "Licenses and regulates Florida's opticians. Seven members appointed by the Governor with Senate confirmation — five opticians and two laypersons (F.S. 484.003).",
+      "seatSource": "https://flsenate.gov/Laws/Statutes/2023/0484.003"
     },
     {
       "id": 51,
@@ -916,16 +934,18 @@
     {
       "id": 63,
       "name": "Board of Veterinary Medicine",
-      "domain": "justice",
-      "totalSeats": null,
+      "domain": "health",
+      "totalSeats": 7,
       "vacantSeats": 0,
       "vacantSince": null,
       "authority": "Governor's Appointments Office",
-      "constituent": null,
+      "constituent": "Florida pet owners, livestock & licensed veterinarians",
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "lastVerified": "2026-10-01",
-      "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
+      "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list",
+      "mandate": "Licenses and disciplines Florida's veterinarians. Seven members appointed by the Governor with Senate confirmation — five veterinarians and two laypersons (F.S. 474.204).",
+      "seatSource": "https://www.flsenate.gov/laws/statutes/2025/474.204"
     },
     {
       "id": 64,
@@ -1336,16 +1356,18 @@
     {
       "id": 93,
       "name": "Construction Industry Licensing Board",
-      "domain": "justice",
-      "totalSeats": null,
+      "domain": "housing",
+      "totalSeats": 18,
       "vacantSeats": 0,
       "vacantSince": null,
       "authority": "Governor's Appointments Office",
-      "constituent": null,
+      "constituent": "Florida building owners & licensed contractors · construction safety",
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "lastVerified": "2026-10-01",
-      "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
+      "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list",
+      "mandate": "Licenses and disciplines Florida's construction contractors. Eighteen members appointed by the Governor with Senate confirmation — sixteen contractor/building-official members and two consumer members (F.S. 489.107).",
+      "seatSource": "https://www.flsenate.gov/laws/statutes/2025/489.107"
     },
     {
       "id": 94,
@@ -1911,15 +1933,17 @@
       "id": 134,
       "name": "Environmental Regulation Commission",
       "domain": "environment",
-      "totalSeats": null,
+      "totalSeats": 7,
       "vacantSeats": 0,
       "vacantSince": null,
       "authority": "Governor's Appointments Office",
-      "constituent": null,
+      "constituent": "Floridians affected by state environmental standards",
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "lastVerified": "2026-10-01",
-      "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
+      "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list",
+      "mandate": "Sets Florida's environmental standards and rules for the Department of Environmental Protection. Seven members appointed by the Governor with Senate confirmation, representing agriculture, development, local government, the environmental community, the public and science (F.S. 403.804).",
+      "seatSource": "https://www.flsenate.gov/laws/statutes/2025/403.804"
     },
     {
       "id": 135,
@@ -1981,15 +2005,17 @@
       "id": 139,
       "name": "Florida Building Commission",
       "domain": "housing",
-      "totalSeats": null,
+      "totalSeats": 19,
       "vacantSeats": 0,
       "vacantSince": null,
       "authority": "Governor's Appointments Office",
-      "constituent": null,
+      "constituent": "Every Floridian in a built structure · statewide building code",
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "lastVerified": "2026-10-01",
-      "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
+      "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list",
+      "mandate": "Develops and maintains the Florida Building Code. Nineteen members appointed by the Governor with Senate confirmation, representing design, construction, building-official, fire-safety and related sectors (F.S. 553.74).",
+      "seatSource": "https://www.flsenate.gov/laws/statutes/2025/553.74"
     },
     {
       "id": 140,
@@ -2050,16 +2076,18 @@
     {
       "id": 144,
       "name": "Florida Citrus Commission",
-      "domain": "justice",
-      "totalSeats": null,
+      "domain": "environment",
+      "totalSeats": 11,
       "vacantSeats": 0,
       "vacantSince": null,
       "authority": "Governor's Appointments Office",
-      "constituent": null,
+      "constituent": "Florida's citrus growers, processors & the industry",
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "lastVerified": "2026-10-01",
-      "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
+      "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list",
+      "mandate": "Governs the Florida Department of Citrus and the state's citrus marketing and research. Eleven members appointed by the Governor, each an experienced Florida citrus grower, shipper or processor (F.S. 601.04).",
+      "seatSource": "https://www.flsenate.gov/laws/statutes/2024/601.04"
     },
     {
       "id": 145,
