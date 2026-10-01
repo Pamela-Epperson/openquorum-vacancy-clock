@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-10-01T16:18:40.282Z",
+  "scrapedAt": "2026-10-01T16:50:34.711Z",
   "registry": {
     "profile": "co",
     "endpoint": "https://governorsoffice.colorado.gov/governor/appointments-and-openings",
@@ -12,11 +12,11 @@
   "summary": {
     "state": "CO",
     "total": 60,
-    "full": 11,
-    "provisional": 49,
+    "full": 25,
+    "provisional": 35,
     "missingFields": {
-      "totalSeats": 49,
-      "constituent": 49
+      "totalSeats": 35,
+      "constituent": 35
     }
   },
   "rows": [
@@ -66,15 +66,17 @@
       "id": 4,
       "name": "Prescription Drug Affordability Review Board",
       "domain": "health",
-      "totalSeats": null,
+      "totalSeats": 5,
       "vacantSeats": 1,
       "vacantSince": null,
       "authority": "Governor's Boards & Commissions Office",
-      "constituent": null,
+      "constituent": "Coloradans facing high prescription-drug costs",
       "applyUrl": "https://governorsoffice.colorado.gov/governor/boards-commissions-application",
       "sourceUrl": "https://governorsoffice.colorado.gov/governor/appointments-and-openings",
       "lastVerified": "2026-10-01",
-      "criticalNote": "Opening: September"
+      "criticalNote": "Opening: September",
+      "mandate": "Reviews and may cap the cost of high-priced prescription drugs for Coloradans. Five members appointed by the Governor with Senate consent, each with expertise in clinical medicine or health-care economics (C.R.S. 10-16-1403).",
+      "seatSource": "https://doi.colorado.gov/insurance-products/health-insurance/prescription-drug-affordability-review-board"
     },
     {
       "id": 5,
@@ -164,15 +166,17 @@
       "id": 11,
       "name": "Juvenile Parole Board",
       "domain": "justice",
-      "totalSeats": null,
+      "totalSeats": 9,
       "vacantSeats": 2,
       "vacantSince": null,
       "authority": "Governor's Boards & Commissions Office",
-      "constituent": null,
+      "constituent": "Colorado's paroled youth & public safety",
       "applyUrl": "https://governorsoffice.colorado.gov/governor/boards-commissions-application",
       "sourceUrl": "https://governorsoffice.colorado.gov/governor/appointments-and-openings",
       "lastVerified": "2026-10-01",
-      "criticalNote": "Immediate opening — resignation"
+      "criticalNote": "Immediate opening — resignation",
+      "mandate": "Sets parole and release decisions for Colorado's committed youth. Nine members appointed by the Governor with Senate consent — four drawn from named state departments and five from the public at large (C.R.S. 19-2.5-1201).",
+      "seatSource": "https://law.justia.com/codes/colorado/title-19/article-2-5/part-12/section-19-2-5-1201/"
     },
     {
       "id": 12,
@@ -191,16 +195,18 @@
     {
       "id": 13,
       "name": "State Fair Authority, Board of Directors",
-      "domain": "justice",
-      "totalSeats": null,
+      "domain": "environment",
+      "totalSeats": 12,
       "vacantSeats": 1,
       "vacantSince": null,
       "authority": "Governor's Boards & Commissions Office",
-      "constituent": null,
+      "constituent": "Colorado's agricultural community & state fair participants",
       "applyUrl": "https://governorsoffice.colorado.gov/governor/boards-commissions-application",
       "sourceUrl": "https://governorsoffice.colorado.gov/governor/appointments-and-openings",
       "lastVerified": "2026-10-01",
-      "criticalNote": "Opening: November"
+      "criticalNote": "12 governor-appointed members (plus the Commissioner of Agriculture ex officio)",
+      "mandate": "Governs the Colorado State Fair and Industrial Exposition. Thirteen-member board; twelve members appointed by the Governor with Senate consent, plus the Commissioner of Agriculture ex officio (C.R.S. 35-65-401).",
+      "seatSource": "https://codes.findlaw.com/co/title-35-agriculture/co-rev-st-sect-35-65-401/"
     },
     {
       "id": 14,
@@ -219,100 +225,114 @@
     {
       "id": 15,
       "name": "Aeronautical Board, Colorado",
-      "domain": "justice",
-      "totalSeats": null,
+      "domain": "environment",
+      "totalSeats": 9,
       "vacantSeats": 1,
       "vacantSince": null,
       "authority": "Governor's Boards & Commissions Office",
-      "constituent": null,
+      "constituent": "Colorado airports, pilots & the state aviation system",
       "applyUrl": "https://governorsoffice.colorado.gov/governor/boards-commissions-application",
       "sourceUrl": "https://governorsoffice.colorado.gov/governor/appointments-and-openings",
       "lastVerified": "2026-10-01",
-      "criticalNote": "Opening: December"
+      "criticalNote": "9 governor-appointed voting members (1 ex-officio nonvoting member excluded)",
+      "mandate": "Directs Colorado's aviation grants and the Division of Aeronautics. Nine voting members appointed by the Governor, plus the executive director of the Department of Public Health and Environment (or designee) ex officio, nonvoting (C.R.S. 43-10-105).",
+      "seatSource": "https://www.codot.gov/programs/aeronautics/colorado-aeronautical-board"
     },
     {
       "id": 16,
       "name": "Adams State University, Board of Trustees",
       "domain": "education",
-      "totalSeats": null,
+      "totalSeats": 9,
       "vacantSeats": 1,
       "vacantSince": null,
       "authority": "Governor's Boards & Commissions Office",
-      "constituent": null,
+      "constituent": "Adams State University students, faculty & San Luis Valley communities",
       "applyUrl": "https://governorsoffice.colorado.gov/governor/boards-commissions-application",
       "sourceUrl": "https://governorsoffice.colorado.gov/governor/appointments-and-openings",
       "lastVerified": "2026-10-01",
-      "criticalNote": "Opening: December"
+      "criticalNote": "9 governor-appointed voting members (2 nonvoting faculty/student reps excluded)",
+      "mandate": "Governs Adams State University. Nine voting members appointed by the Governor with Senate consent, plus two nonvoting faculty and student representatives (C.R.S. 23-51-102).",
+      "seatSource": "https://olls.info/crs/crs2025-title-23.htm"
     },
     {
       "id": 17,
       "name": "Community Colleges and Occupational Education, State Board for",
       "domain": "education",
-      "totalSeats": null,
+      "totalSeats": 10,
       "vacantSeats": 1,
       "vacantSince": null,
       "authority": "Governor's Boards & Commissions Office",
-      "constituent": null,
+      "constituent": "Colorado community-college students & the state workforce",
       "applyUrl": "https://governorsoffice.colorado.gov/governor/boards-commissions-application",
       "sourceUrl": "https://governorsoffice.colorado.gov/governor/appointments-and-openings",
       "lastVerified": "2026-10-01",
-      "criticalNote": "Opening: December"
+      "criticalNote": "10 governor-appointed members (nonvoting faculty/student reps excluded)",
+      "mandate": "Governs Colorado's community-college and occupational-education system. Twelve-member board; ten members appointed by the Governor with Senate consent (one per congressional district plus two at-large), plus elected nonvoting faculty and student representatives (C.R.S. 23-60-103).",
+      "seatSource": "https://olls.info/crs/crs2025-title-23.htm"
     },
     {
       "id": 18,
       "name": "Colorado Mesa University, Board of Trustees",
       "domain": "education",
-      "totalSeats": null,
+      "totalSeats": 11,
       "vacantSeats": 1,
       "vacantSince": null,
       "authority": "Governor's Boards & Commissions Office",
-      "constituent": null,
+      "constituent": "Colorado Mesa University students, faculty & Western Slope communities",
       "applyUrl": "https://governorsoffice.colorado.gov/governor/boards-commissions-application",
       "sourceUrl": "https://governorsoffice.colorado.gov/governor/appointments-and-openings",
       "lastVerified": "2026-10-01",
-      "criticalNote": "Opening: December"
+      "criticalNote": "11 governor-appointed voting members (2 nonvoting faculty/student reps excluded)",
+      "mandate": "Governs Colorado Mesa University. Eleven voting members appointed by the Governor with Senate consent, plus two nonvoting faculty and student representatives (C.R.S. 23-53-102).",
+      "seatSource": "https://law.justia.com/codes/colorado/title-23/article-53/section-23-53-102/"
     },
     {
       "id": 19,
       "name": "Colorado School of Mines, Board of Trustees",
       "domain": "education",
-      "totalSeats": null,
+      "totalSeats": 7,
       "vacantSeats": 1,
       "vacantSince": null,
       "authority": "Governor's Boards & Commissions Office",
-      "constituent": null,
+      "constituent": "Colorado School of Mines students, faculty & Colorado's STEM workforce",
       "applyUrl": "https://governorsoffice.colorado.gov/governor/boards-commissions-application",
       "sourceUrl": "https://governorsoffice.colorado.gov/governor/appointments-and-openings",
       "lastVerified": "2026-10-01",
-      "criticalNote": "Opening: December"
+      "criticalNote": "7 governor-appointed voting members (2 nonvoting faculty/student reps excluded)",
+      "mandate": "Governs the Colorado School of Mines. Seven voting members appointed by the Governor with Senate consent, plus two nonvoting faculty and student representatives (C.R.S. 23-41-104).",
+      "seatSource": "https://colorado.public.law/statutes/crs_title_23_article_41"
     },
     {
       "id": 20,
       "name": "Colorado State University System, Board of Governor's",
       "domain": "education",
-      "totalSeats": null,
+      "totalSeats": 9,
       "vacantSeats": 1,
       "vacantSince": null,
       "authority": "Governor's Boards & Commissions Office",
-      "constituent": null,
+      "constituent": "Colorado State University System students, faculty & communities",
       "applyUrl": "https://governorsoffice.colorado.gov/governor/boards-commissions-application",
       "sourceUrl": "https://governorsoffice.colorado.gov/governor/appointments-and-openings",
       "lastVerified": "2026-10-01",
-      "criticalNote": "Opening: December"
+      "criticalNote": "9 voting members appointed by the Governor; remaining members are nonvoting student/faculty reps",
+      "mandate": "Governs the Colorado State University System (Fort Collins, Pueblo, Global). Fifteen-member board; nine voting members appointed by the Governor with Senate consent, plus nonvoting student and faculty representatives (C.R.S. 23-30-101).",
+      "seatSource": "https://law.justia.com/codes/colorado/2022/title-23/article-30/section-23-30-101/"
     },
     {
       "id": 21,
       "name": "Fort Lewis College, Board of Trustees",
       "domain": "education",
-      "totalSeats": null,
+      "totalSeats": 9,
       "vacantSeats": 1,
       "vacantSince": null,
       "authority": "Governor's Boards & Commissions Office",
-      "constituent": null,
+      "constituent": "Fort Lewis College students, faculty & Native American scholars",
       "applyUrl": "https://governorsoffice.colorado.gov/governor/boards-commissions-application",
       "sourceUrl": "https://governorsoffice.colorado.gov/governor/appointments-and-openings",
       "lastVerified": "2026-10-01",
-      "criticalNote": "Opening: December"
+      "criticalNote": "9 governor-appointed voting members (2 nonvoting faculty/student reps excluded)",
+      "mandate": "Governs Fort Lewis College. Nine voting members appointed by the Governor with Senate consent (one an enrolled member of a federally recognized tribe), plus two nonvoting faculty and student representatives (C.R.S. 23-52-101).",
+      "seatSource": "https://olls.info/crs/crs2025-title-23.htm"
     },
     {
       "id": 22,
@@ -332,15 +352,17 @@
       "id": 23,
       "name": "Metropolitan State University, Board of Trustees",
       "domain": "education",
-      "totalSeats": null,
+      "totalSeats": 9,
       "vacantSeats": 1,
       "vacantSince": null,
       "authority": "Governor's Boards & Commissions Office",
-      "constituent": null,
+      "constituent": "Metropolitan State University of Denver students, faculty & community",
       "applyUrl": "https://governorsoffice.colorado.gov/governor/boards-commissions-application",
       "sourceUrl": "https://governorsoffice.colorado.gov/governor/appointments-and-openings",
       "lastVerified": "2026-10-01",
-      "criticalNote": "Opening: December"
+      "criticalNote": "9 governor-appointed voting members (nonvoting faculty/student reps excluded)",
+      "mandate": "Governs Metropolitan State University of Denver. Nine voting members appointed by the Governor with Senate consent, plus nonvoting faculty and student representatives (C.R.S. 23-54-102).",
+      "seatSource": "https://law.justia.com/codes/colorado/2022/title-23/article-54/section-23-54-102/"
     },
     {
       "id": 24,
@@ -374,15 +396,17 @@
       "id": 26,
       "name": "University of Northern Colorado, Board of Trustees",
       "domain": "education",
-      "totalSeats": null,
+      "totalSeats": 7,
       "vacantSeats": 1,
       "vacantSince": null,
       "authority": "Governor's Boards & Commissions Office",
-      "constituent": null,
+      "constituent": "University of Northern Colorado students, faculty & communities",
       "applyUrl": "https://governorsoffice.colorado.gov/governor/boards-commissions-application",
       "sourceUrl": "https://governorsoffice.colorado.gov/governor/appointments-and-openings",
       "lastVerified": "2026-10-01",
-      "criticalNote": "Opening: December"
+      "criticalNote": "7 governor-appointed voting members (nonvoting faculty/student reps excluded)",
+      "mandate": "Governs the University of Northern Colorado. Seven voting members appointed by the Governor with Senate consent, plus nonvoting faculty and student representatives (C.R.S. 23-40-104).",
+      "seatSource": "https://olls.info/crs/crs2025-title-23.htm"
     },
     {
       "id": 27,
@@ -701,16 +725,18 @@
     {
       "id": 49,
       "name": "State Board of Stock Inspection Commissioners",
-      "domain": "justice",
-      "totalSeats": null,
+      "domain": "environment",
+      "totalSeats": 5,
       "vacantSeats": 1,
       "vacantSince": null,
       "authority": "Governor's Boards & Commissions Office",
-      "constituent": null,
+      "constituent": "Colorado's livestock producers & the brand-inspection system",
       "applyUrl": "https://governorsoffice.colorado.gov/governor/boards-commissions-application",
       "sourceUrl": "https://governorsoffice.colorado.gov/governor/appointments-and-openings",
       "lastVerified": "2026-10-01",
-      "criticalNote": "Immediate opening — resignation"
+      "criticalNote": "Immediate opening — resignation",
+      "mandate": "Oversees Colorado's livestock brand inspection and theft prevention. Five commissioners appointed by the Governor with Senate consent, all actively engaged in cattle, horse or sheep production (C.R.S. 35-41-101).",
+      "seatSource": "https://law.justia.com/codes/colorado/title-35/livestock/article-41/section-35-41-101/"
     },
     {
       "id": 50,
@@ -745,16 +771,18 @@
     {
       "id": 52,
       "name": "Unlicensed Psychotherapists, State Board of",
-      "domain": "justice",
-      "totalSeats": null,
+      "domain": "health",
+      "totalSeats": 7,
       "vacantSeats": 1,
       "vacantSince": null,
       "authority": "Governor's Boards & Commissions Office",
-      "constituent": null,
+      "constituent": "Colorado psychotherapy clients & registered unlicensed psychotherapists",
       "applyUrl": "https://governorsoffice.colorado.gov/governor/boards-commissions-application",
       "sourceUrl": "https://governorsoffice.colorado.gov/governor/appointments-and-openings",
       "lastVerified": "2026-10-01",
-      "criticalNote": "Immediate opening — resignation"
+      "criticalNote": "Immediate opening — resignation",
+      "mandate": "Regulates Colorado's registered unlicensed psychotherapists. Seven members appointed by the Governor — four unlicensed psychotherapists, one regulated psychotherapist, and two public members (C.R.S. 12-245-702).",
+      "seatSource": "https://law.justia.com/codes/colorado/2023/title-12/health-care-professions-and-occupations/article-245/part-7/section-12-245-702/"
     },
     {
       "id": 53,
@@ -789,7 +817,7 @@
     {
       "name": "Colorado Health Benefits Exchange Board",
       "domain": "health",
-      "totalSeats": 12,
+      "totalSeats": 5,
       "vacantSeats": 0,
       "vacantSince": null,
       "authority": "Governor's Boards & Commissions Office",
@@ -797,13 +825,13 @@
       "applyUrl": "https://governorsoffice.colorado.gov/governor/boards-commissions-application",
       "sourceUrl": "https://leg.colorado.gov/bills/sb17-003",
       "lastVerified": "2026-10-01",
-      "mandate": "Governs Connect for Health Colorado, the state health insurance marketplace. Twelve members — nine voting (five governor-appointed, four legislative) plus three ex officio (C.R.S. 10-22-104).",
-      "criticalNote": "9 voting + 3 ex officio members"
+      "mandate": "Governs Connect for Health Colorado, the state health insurance marketplace. Twelve-member board; five voting members appointed by the Governor, four by legislative leaders, plus three ex-officio members (C.R.S. 10-22-104).",
+      "criticalNote": "5 of 9 voting seats are governor-appointed (4 legislative, plus 3 ex officio)"
     },
     {
       "name": "Personnel Board, State",
       "domain": "justice",
-      "totalSeats": 5,
+      "totalSeats": 3,
       "vacantSeats": 0,
       "vacantSince": null,
       "authority": "Governor's Boards & Commissions Office",
@@ -811,13 +839,13 @@
       "applyUrl": "https://governorsoffice.colorado.gov/governor/boards-commissions-application",
       "sourceUrl": "https://law.justia.com/constitution/colorado/cnart12.html",
       "lastVerified": "2026-10-01",
-      "mandate": "Constitutional board hearing state employee appeals and adopting personnel rules. Five members — three governor-appointed with Senate consent, two elected by certified state employees (Colo. Const. art. XII, § 14).",
-      "criticalNote": "Only 3 of 5 seats are governor-appointed"
+      "mandate": "Constitutional board hearing state employee appeals and adopting personnel rules. Five-member board; three members appointed by the Governor with Senate consent, two elected by certified state employees (Colo. Const. art. XII, § 14).",
+      "criticalNote": "3 of 5 seats are governor-appointed (2 elected by state employees)"
     },
     {
       "name": "Brain Injury Trust Fund Board",
       "domain": "disability",
-      "totalSeats": 13,
+      "totalSeats": 10,
       "vacantSeats": 0,
       "vacantSince": null,
       "authority": "Governor's Boards & Commissions Office",
@@ -825,8 +853,8 @@
       "applyUrl": "https://governorsoffice.colorado.gov/governor/boards-commissions-application",
       "sourceUrl": "https://law.justia.com/codes/colorado/2016/title-26/article-1/part-3/section-26-1-302/",
       "lastVerified": "2026-10-01",
-      "mandate": "Oversees the Colorado Brain Injury Trust Fund supporting services and research. Three ex officio members plus up to ten governor-appointed members with Senate consent (C.R.S. 26-1-302).",
-      "criticalNote": "Statute caps appointed membership at 10 (+3 ex officio)"
+      "mandate": "Oversees the Colorado Brain Injury Trust Fund supporting services and research. Up to ten members appointed by the Governor with Senate consent, plus three ex-officio members (C.R.S. 26-1-302).",
+      "criticalNote": "Up to 10 governor-appointed members (plus 3 ex officio)"
     },
     {
       "name": "Plumbers, State Board",
