@@ -1,7 +1,7 @@
 CO: 60 rows (25 full / 35 provisional) — missing: totalSeats×35, constituent×35
 WA: 124 rows (24 full / 100 provisional) — missing: totalSeats×100, constituent×100
 OR: 40 rows (22 full / 18 provisional) — missing: totalSeats×18
-CA: 258 rows (36 full / 222 provisional) — missing: totalSeats×222, constituent×222
+CA: 253 rows (31 full / 222 provisional) — missing: totalSeats×222, constituent×222
 FL: 289 rows (30 full / 259 provisional) — missing: totalSeats×259, constituent×259
 OH: 102 rows (25 full / 77 provisional) — missing: totalSeats×77, constituent×77
 TX: 263 rows (40 full / 223 provisional) — missing: totalSeats×223, constituent×223
@@ -12,7 +12,7 @@ WI: manual state — staged data maintained by hand in data/scraped/WI.json
 MS: manual state — staged data maintained by hand in data/scraped/MS.json
 AL: manual state — staged data maintained by hand in data/scraped/AL.json
 LA: manual state — staged data maintained by hand in data/scraped/LA.json
-SC: 133 rows (25 full / 108 provisional) — missing: totalSeats×108, constituent×108
+SC: 128 rows (18 full / 110 provisional) — missing: totalSeats×110, constituent×110
 MI: manual state — staged data maintained by hand in data/scraped/MI.json
 IN: manual state — staged data maintained by hand in data/scraped/IN.json
 TN: manual state — staged data maintained by hand in data/scraped/TN.json
