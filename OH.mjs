@@ -1,0 +1,87 @@
+// ─── Ohio enrichment overlay — HUMAN-VERIFIED facts ─────────────────────────────
+// Verified July 15, 2026 against the Ohio Revised Code / official agency pages.
+// Keys match exact board names scraped from the Governor's 2026 term-expirations list.
+// Depth expansion July 25, 2026: +8 statute-cited boards (utilities, workers,
+// pharmacy, dental, psychology, behavioral health, environment, lottery/education).
+export const ENRICHMENTS = {
+  "State Medical Board": {
+    totalSeats: 12, domain: "health",
+    constituent: "Ohio patients & licensed physicians",
+    mandate: "Licenses and disciplines Ohio's physicians. Twelve members appointed by the Governor with Senate consent — eight licensed physicians and surgeons (ORC 4731.01).",
+    seatSource: "https://codes.ohio.gov/ohio-revised-code/section-4731.01",
+  },
+  "Board of Nursing": {
+    totalSeats: 13, domain: "health",
+    constituent: "Ohio patients & licensed nurses",
+    mandate: "Regulates Ohio's nursing profession. Thirteen members — eight registered nurses, four licensed practical nurses, one consumer representative (ORC 4723.02).",
+    seatSource: "https://codes.ohio.gov/ohio-revised-code/section-4723.02",
+  },
+  "Commission on Minority Health": {
+    totalSeats: 9, domain: "equity",
+    constituent: "Ohio's minority communities · health equity",
+    mandate: "Addresses health disparities affecting minority Ohioans through grants, policy, and community programs. Twenty-one members; nine appointed by the Governor from health professions (ORC 3701.78).",
+    seatSource: "https://codes.ohio.gov/orc/3701.78",
+    criticalNote: "9 of 21 seats are governor-appointed",
+  },
+  "State Board of Education": {
+    totalSeats: 8, domain: "education",
+    constituent: "Ohio K-12 students & families",
+    mandate: "Oversees educator licensure and school district territory; 19 members — 11 elected by district, 8 appointed by the Governor with Senate consent.",
+    seatSource: "https://sboe.ohio.gov/about-the-state-board/board-members/02-board-members",
+    criticalNote: "Only 8 of 19 seats are governor-appointed",
+  },
+  "Opportunities for Ohioans with Disabilities Council": {
+    totalSeats: 15, domain: "disability",
+    constituent: "Ohioans with disabilities seeking employment",
+    mandate: "State rehabilitation council advising OOD on vocational rehabilitation policy and services. Fifteen governor-appointed members, majority individuals with disabilities (ORC 3304.12).",
+    seatSource: "https://codes.ohio.gov/orc/3304.12",
+  },
+  "Public Utilities Commission of Ohio": {
+    totalSeats: 5, domain: "justice",
+    constituent: "Every Ohio utility ratepayer · electric, gas, water, telecom",
+    mandate: "Regulates rates and service for Ohio's investor-owned electric, natural gas, water, and telephone utilities. Five commissioners appointed by the Governor with Senate consent; no more than three from one party (ORC 4901.02).",
+    seatSource: "https://codes.ohio.gov/ohio-revised-code/section-4901.02",
+  },
+  "Bureau of Workers’ Compensation Board of Directors": {
+    totalSeats: 11, domain: "equity",
+    constituent: "Ohio's injured workers & employers · statewide comp system",
+    mandate: "Governs the investment policy and administration of Ohio's workers' compensation system. Eleven members appointed by the Governor with Senate consent, representing employees, employers, and investment expertise (ORC 4121.12).",
+    seatSource: "https://codes.ohio.gov/ohio-revised-code/section-4121.12",
+  },
+  "State Board of Pharmacy": {
+    totalSeats: 9, domain: "health",
+    constituent: "Ohio patients & licensed pharmacists · drug safety",
+    mandate: "Licenses pharmacists and regulates the distribution of drugs across Ohio. Nine members appointed by the Governor — eight licensed pharmacists and one public member (ORC 4729.02).",
+    seatSource: "https://codes.ohio.gov/ohio-revised-code/section-4729.02",
+  },
+  "State Dental Board": {
+    totalSeats: 13, domain: "health",
+    constituent: "Ohio dental patients & licensed dentists/hygienists",
+    mandate: "Licenses and disciplines Ohio's dentists and dental hygienists. Thirteen members appointed by the Governor — nine dentists, three hygienists, and one public member (ORC 4715.02).",
+    seatSource: "https://codes.ohio.gov/ohio-revised-code/section-4715.02",
+  },
+  "State Board of Psychology": {
+    totalSeats: 9, domain: "health",
+    constituent: "Ohioans seeking psychological care & licensed psychologists",
+    mandate: "Licenses and regulates Ohio's psychologists and school psychologists. Nine members appointed by the Governor with Senate consent — six psychologists and three consumer members (ORC 4732.02).",
+    seatSource: "https://codes.ohio.gov/ohio-revised-code/section-4732.02",
+  },
+  "Counselor, Social Worker, and Marriage and Family Therapist Board": {
+    totalSeats: 21, domain: "health",
+    constituent: "Ohioans in behavioral health care & licensed clinicians",
+    mandate: "Licenses Ohio's counselors, social workers, marriage & family therapists, and art/music therapists. Twenty-one members appointed by the Governor across the regulated professions plus public members (ORC 4757.03).",
+    seatSource: "https://codes.ohio.gov/ohio-revised-code/section-4757.03",
+  },
+  "Environmental Review Appeals Commission": {
+    totalSeats: 3, domain: "environment",
+    constituent: "Ohioans & businesses contesting environmental permits/orders",
+    mandate: "Hears appeals of Ohio EPA permit and enforcement actions — the state's environmental court of first review. Three members appointed by the Governor with Senate consent for six-year terms (ORC 3745.02).",
+    seatSource: "https://codes.ohio.gov/ohio-revised-code/section-3745.02",
+  },
+  "State Lottery Commission": {
+    totalSeats: 9, domain: "education",
+    constituent: "Ohio public education · lottery profits fund K-12 schools",
+    mandate: "Governs the Ohio Lottery, whose profits are constitutionally dedicated to public education. Nine members appointed by the Governor with Senate consent; no more than five from one party (ORC 3770.01).",
+    seatSource: "https://codes.ohio.gov/ohio-revised-code/section-3770.01",
+  },
+};
