@@ -60,18 +60,18 @@ export const ENRICHMENTS = {
     seatSource: "https://app.leg.wa.gov/rcw/default.aspx?cite=18.71.015",
   },
   "Workforce Training and Education Coordinating Board": {
-    totalSeats: 9, domain: "education",
+    totalSeats: 6, domain: "education",
     constituent: "Washington job seekers, workers & employers",
     mandate: "Coordinates Washington's workforce development system. Nine voting members — three business, three labor, three agency ex officio (RCW 28C.18.020).",
     seatSource: "https://app.leg.wa.gov/rcw/default.aspx?cite=28C.18.020",
     criticalNote: "6 of 9 voting seats are governor-appointed",
   },
   "Affordable Housing Advisory Board": {
-    totalSeats: 25, domain: "housing",
+    totalSeats: 22, domain: "housing",
     constituent: "Washingtonians needing affordable housing",
     mandate: "Advises the Department of Commerce on housing and housing finance policy. Twenty-five members including three ex officio nonvoting (RCW 43.185B.020).",
     seatSource: "https://app.leg.wa.gov/rcw/default.aspx?cite=43.185B.020",
-    criticalNote: "3 of 25 seats are ex officio nonvoting",
+    criticalNote: "22 of 25 seats are governor-appointed; 3 ex officio nonvoting (RCW 43.185B.020)",
   },
   "Dental Quality Assurance Commission": {
     totalSeats: 21, domain: "health",
