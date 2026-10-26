@@ -12,7 +12,7 @@ WI: manual state — staged data maintained by hand in data/scraped/WI.json
 MS: manual state — staged data maintained by hand in data/scraped/MS.json
 AL: manual state — staged data maintained by hand in data/scraped/AL.json
 LA: manual state — staged data maintained by hand in data/scraped/LA.json
-SC: 133 rows (25 full / 108 provisional) — missing: totalSeats×108, constituent×108
+SC: 135 rows (25 full / 110 provisional) — missing: totalSeats×110, constituent×110
 MI: manual state — staged data maintained by hand in data/scraped/MI.json
 IN: manual state — staged data maintained by hand in data/scraped/IN.json
 TN: manual state — staged data maintained by hand in data/scraped/TN.json

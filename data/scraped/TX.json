@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-10-19T17:13:54.005Z",
+  "scrapedAt": "2026-10-26T17:03:31.491Z",
   "registry": {
     "profile": "tx",
     "endpoint": "https://gov.texas.gov/organization/appointments/positions",
@@ -33,7 +33,7 @@
       "applyUrl": "https://gov.texas.gov/organization/appointments/application",
       "sourceUrl": "https://gov.texas.gov/organization/appointments/positions",
       "statuteUrl": "http://www.statutes.legis.state.tx.us/Docs/GV/htm/GV.481.htm#481.0066",
-      "lastVerified": "2026-10-19",
+      "lastVerified": "2026-10-26",
       "criticalNote": "Texas accepts applications year-round; staggered 6-year terms"
     },
     {
@@ -48,7 +48,7 @@
       "applyUrl": "https://gov.texas.gov/organization/appointments/application",
       "sourceUrl": "https://gov.texas.gov/organization/appointments/positions",
       "statuteUrl": "https://capitol.texas.gov/tlodocs/88R/billtext/html/HB03447F.htm",
-      "lastVerified": "2026-10-19",
+      "lastVerified": "2026-10-26",
       "criticalNote": "Texas accepts applications year-round; staggered 6-year terms"
     },
     {
@@ -63,7 +63,7 @@
       "applyUrl": "https://gov.texas.gov/organization/appointments/application",
       "sourceUrl": "https://gov.texas.gov/organization/appointments/positions",
       "statuteUrl": "http://www.statutes.legis.state.tx.us/Docs/HS/htm/HS.102.htm",
-      "lastVerified": "2026-10-19",
+      "lastVerified": "2026-10-26",
       "criticalNote": "3 of 9 seats are governor-appointed",
       "mandate": "Governs the Cancer Prevention and Research Institute of Texas, awarding grants for cancer research and prevention statewide. Nine members — three each appointed by the Governor, Lt. Governor, and Speaker (Health & Safety Code ch. 102).",
       "seatSource": "https://statutes.capitol.texas.gov/Docs/HS/htm/HS.102.htm"
@@ -80,7 +80,7 @@
       "applyUrl": "https://gov.texas.gov/organization/appointments/application",
       "sourceUrl": "https://gov.texas.gov/organization/appointments/positions",
       "statuteUrl": "http://www.statutes.legis.state.tx.us/Docs/GV/htm/GV.481.htm",
-      "lastVerified": "2026-10-19",
+      "lastVerified": "2026-10-26",
       "criticalNote": "Texas accepts applications year-round; staggered 6-year terms"
     },
     {
@@ -95,7 +95,7 @@
       "applyUrl": "https://gov.texas.gov/organization/appointments/application",
       "sourceUrl": "https://gov.texas.gov/organization/appointments/positions",
       "statuteUrl": "https://statutes.capitol.texas.gov/Docs/GV/htm/GV.490G.htm",
-      "lastVerified": "2026-10-19",
+      "lastVerified": "2026-10-26",
       "criticalNote": "Texas accepts applications year-round; staggered 6-year terms"
     },
     {
@@ -110,7 +110,7 @@
       "applyUrl": "https://gov.texas.gov/organization/appointments/application",
       "sourceUrl": "https://gov.texas.gov/organization/appointments/positions",
       "statuteUrl": "https://statutes.capitol.texas.gov/Docs/GV/htm/GV.418.htm#418.054",
-      "lastVerified": "2026-10-19",
+      "lastVerified": "2026-10-26",
       "criticalNote": "Texas accepts applications year-round; staggered 6-year terms"
     },
     {
@@ -125,7 +125,7 @@
       "applyUrl": "https://gov.texas.gov/organization/appointments/application",
       "sourceUrl": "https://gov.texas.gov/organization/appointments/positions",
       "statuteUrl": "https://statutes.capitol.texas.gov/Docs/LA/htm/LA.312.htm#312.002",
-      "lastVerified": "2026-10-19",
+      "lastVerified": "2026-10-26",
       "criticalNote": "Texas accepts applications year-round; staggered 6-year terms"
     },
     {
@@ -140,7 +140,7 @@
       "applyUrl": "https://gov.texas.gov/organization/appointments/application",
       "sourceUrl": "https://gov.texas.gov/organization/appointments/positions",
       "statuteUrl": "http://www.statutes.legis.state.tx.us/Docs/ED/htm/ED.134.htm#00",
-      "lastVerified": "2026-10-19",
+      "lastVerified": "2026-10-26",
       "criticalNote": "Texas accepts applications year-round; staggered 6-year terms"
     },
     {
@@ -155,7 +155,7 @@
       "applyUrl": "https://gov.texas.gov/organization/appointments/application",
       "sourceUrl": "https://gov.texas.gov/organization/appointments/positions",
       "statuteUrl": "https://statutes.capitol.texas.gov/Docs/GV/htm/GV.481.htm#481.702",
-      "lastVerified": "2026-10-19",
+      "lastVerified": "2026-10-26",
       "criticalNote": "Texas accepts applications year-round; staggered 6-year terms"
     },
     {
@@ -170,7 +170,7 @@
       "applyUrl": "https://gov.texas.gov/organization/appointments/application",
       "sourceUrl": "https://gov.texas.gov/organization/appointments/positions",
       "statuteUrl": "http://www.statutes.legis.state.tx.us/Docs/ED/htm/ED.86.htm#86.52",
-      "lastVerified": "2026-10-19",
+      "lastVerified": "2026-10-26",
       "criticalNote": "Texas accepts applications year-round; staggered 6-year terms"
     },
     {
@@ -185,7 +185,7 @@
       "applyUrl": "https://gov.texas.gov/organization/appointments/application",
       "sourceUrl": "https://gov.texas.gov/organization/appointments/positions",
       "statuteUrl": "https://capitol.texas.gov/tlodocs/88R/billtext/html/HB05174F.htm",
-      "lastVerified": "2026-10-19",
+      "lastVerified": "2026-10-26",
       "criticalNote": "Texas accepts applications year-round; staggered 6-year terms"
     },
     {
@@ -200,7 +200,7 @@
       "applyUrl": "https://gov.texas.gov/organization/appointments/application",
       "sourceUrl": "https://gov.texas.gov/organization/appointments/positions",
       "statuteUrl": "http://www.legis.state.tx.us/tlodocs/83R/billtext/html/HB03714F.HTM#481.00681",
-      "lastVerified": "2026-10-19",
+      "lastVerified": "2026-10-26",
       "criticalNote": "Texas accepts applications year-round; staggered 6-year terms"
     },
     {
@@ -215,7 +215,7 @@
       "applyUrl": "https://gov.texas.gov/organization/appointments/application",
       "sourceUrl": "https://gov.texas.gov/organization/appointments/positions",
       "statuteUrl": "https://capitol.texas.gov/tlodocs/88R/billtext/html/HB03447F.htm",
-      "lastVerified": "2026-10-19",
+      "lastVerified": "2026-10-26",
       "criticalNote": "Texas accepts applications year-round; staggered 6-year terms"
     },
     {
@@ -230,7 +230,7 @@
       "applyUrl": "https://gov.texas.gov/organization/appointments/application",
       "sourceUrl": "https://gov.texas.gov/organization/appointments/positions",
       "statuteUrl": "http://www.capitol.state.tx.us/tlodocs/84R/billtext/html/HB00007F.htm",
-      "lastVerified": "2026-10-19",
+      "lastVerified": "2026-10-26",
       "criticalNote": "Texas accepts applications year-round; staggered 6-year terms"
     },
     {
@@ -245,7 +245,7 @@
       "applyUrl": "https://gov.texas.gov/organization/appointments/application",
       "sourceUrl": "https://gov.texas.gov/organization/appointments/positions",
       "statuteUrl": "http://www.statutes.legis.state.tx.us/Docs/GV/htm/GV.2308.htm#2308.051",
-      "lastVerified": "2026-10-19",
+      "lastVerified": "2026-10-26",
       "criticalNote": "Texas accepts applications year-round; staggered 6-year terms"
     },
     {
@@ -260,7 +260,7 @@
       "applyUrl": "https://gov.texas.gov/organization/appointments/application",
       "sourceUrl": "https://gov.texas.gov/organization/appointments/positions",
       "statuteUrl": "https://capitol.texas.gov/tlodocs/88R/billtext/html/HB01755F.htm",
-      "lastVerified": "2026-10-19",
+      "lastVerified": "2026-10-26",
       "criticalNote": "Texas accepts applications year-round; staggered 6-year terms"
     },
     {
@@ -275,7 +275,7 @@
       "applyUrl": "https://gov.texas.gov/organization/appointments/application",
       "sourceUrl": "https://gov.texas.gov/organization/appointments/positions",
       "statuteUrl": "http://www.capitol.state.tx.us/tlodocs/77R/billtext/html/HB03451F.htm",
-      "lastVerified": "2026-10-19",
+      "lastVerified": "2026-10-26",
       "criticalNote": "Texas accepts applications year-round; staggered 6-year terms",
       "mandate": "Sets policy for the Texas State Affordable Housing Corporation's homeownership, lending, and development programs. Five members appointed by the Governor with the advice and consent of the Senate (Gov. Code 2306.554).",
       "seatSource": "https://statutes.capitol.texas.gov/Docs/GV/htm/GV.2306.htm"
@@ -292,7 +292,7 @@
       "applyUrl": "https://gov.texas.gov/organization/appointments/application",
       "sourceUrl": "https://gov.texas.gov/organization/appointments/positions",
       "statuteUrl": "https://statutes.capitol.texas.gov/Docs/AG/htm/AG.58.htm#58.012",
-      "lastVerified": "2026-10-19",
+      "lastVerified": "2026-10-26",
       "criticalNote": "Texas accepts applications year-round; staggered 6-year terms"
     },
     {
@@ -307,7 +307,7 @@
       "applyUrl": "https://gov.texas.gov/organization/appointments/application",
       "sourceUrl": "https://gov.texas.gov/organization/appointments/positions",
       "statuteUrl": "https://statutes.capitol.texas.gov/Docs/GV/htm/GV.845.htm",
-      "lastVerified": "2026-10-19",
+      "lastVerified": "2026-10-26",
       "criticalNote": "Texas accepts applications year-round; staggered 6-year terms"
     },
     {
@@ -322,7 +322,7 @@
       "applyUrl": "https://gov.texas.gov/organization/appointments/application",
       "sourceUrl": "https://gov.texas.gov/organization/appointments/positions",
       "statuteUrl": "https://statutes.capitol.texas.gov/Docs/GV/htm/GV.865.htm",
-      "lastVerified": "2026-10-19",
+      "lastVerified": "2026-10-26",
       "criticalNote": "Texas accepts applications year-round; staggered 6-year terms"
     },
     {
@@ -337,7 +337,7 @@
       "applyUrl": "https://gov.texas.gov/organization/appointments/application",
       "sourceUrl": "https://gov.texas.gov/organization/appointments/positions",
       "statuteUrl": "http://texreg.sos.state.tx.us/public/readtac$ext.ViewTAC?tac_view=4&ti=34&pt=4&ch=63&rl=Y",
-      "lastVerified": "2026-10-19",
+      "lastVerified": "2026-10-26",
       "criticalNote": "1 of 6 seats is governor-appointed",
       "mandate": "Administers retirement, insurance, and benefit programs for Texas state employees and retirees. Six trustees — three appointed (by the Governor, Speaker, and Chief Justice) and three elected by members (Gov. Code 815.002).",
       "seatSource": "https://statutes.capitol.texas.gov/Docs/GV/htm/GV.815.htm"
@@ -354,7 +354,7 @@
       "applyUrl": "https://gov.texas.gov/organization/appointments/application",
       "sourceUrl": "https://gov.texas.gov/organization/appointments/positions",
       "statuteUrl": "http://www.statutes.legis.state.tx.us/Docs/GV/htm/GV.2306.htm",
-      "lastVerified": "2026-10-19",
+      "lastVerified": "2026-10-26",
       "criticalNote": "Texas accepts applications year-round; staggered 6-year terms",
       "mandate": "Governs Texas's housing finance and community affairs programs, including the low-income housing tax credit. Seven members appointed by the Governor with the advice and consent of the Senate (Gov. Code 2306.024).",
       "seatSource": "https://statutes.capitol.texas.gov/Docs/GV/htm/GV.2306.htm"
@@ -371,7 +371,7 @@
       "applyUrl": "https://gov.texas.gov/organization/appointments/application",
       "sourceUrl": "https://gov.texas.gov/organization/appointments/positions",
       "statuteUrl": "http://www.statutes.legis.state.tx.us/Docs/NR/htm/NR.34.htm#34.011",
-      "lastVerified": "2026-10-19",
+      "lastVerified": "2026-10-26",
       "criticalNote": "Texas accepts applications year-round; staggered 6-year terms"
     },
     {
@@ -386,7 +386,7 @@
       "applyUrl": "https://gov.texas.gov/organization/appointments/application",
       "sourceUrl": "https://gov.texas.gov/organization/appointments/positions",
       "statuteUrl": "http://www.statutes.legis.state.tx.us/Docs/NR/htm/NR.34.htm#34.011",
-      "lastVerified": "2026-10-19",
+      "lastVerified": "2026-10-26",
       "criticalNote": "Texas accepts applications year-round; staggered 6-year terms"
     },
     {
@@ -401,7 +401,7 @@
       "applyUrl": "https://gov.texas.gov/organization/appointments/application",
       "sourceUrl": "https://gov.texas.gov/organization/appointments/positions",
       "statuteUrl": "http://www.statutes.legis.state.tx.us/Docs/GV/htm/GV.851.htm",
-      "lastVerified": "2026-10-19",
+      "lastVerified": "2026-10-26",
       "criticalNote": "Texas accepts applications year-round; staggered 6-year terms"
     },
     {
@@ -416,7 +416,7 @@
       "applyUrl": "https://gov.texas.gov/organization/appointments/application",
       "sourceUrl": "https://gov.texas.gov/organization/appointments/positions",
       "statuteUrl": "https://statutes.capitol.texas.gov/Docs/GV/htm/GV.403.htm#403.503",
-      "lastVerified": "2026-10-19",
+      "lastVerified": "2026-10-26",
       "criticalNote": "Comptroller serves as nonvoting presiding officer",
       "mandate": "Directs the allocation of Texas's opioid settlement funds toward abatement across the state. Thirteen appointed members representing affected regions and professions, with the Comptroller as nonvoting presiding officer (Gov. Code 403.503).",
       "seatSource": "https://statutes.capitol.texas.gov/Docs/GV/htm/GV.403.htm"
@@ -433,7 +433,7 @@
       "applyUrl": "https://gov.texas.gov/organization/appointments/application",
       "sourceUrl": "https://gov.texas.gov/organization/appointments/positions",
       "statuteUrl": "http://www.statutes.legis.state.tx.us/Docs/GV/htm/GV.801.htm",
-      "lastVerified": "2026-10-19",
+      "lastVerified": "2026-10-26",
       "criticalNote": "Texas accepts applications year-round; staggered 6-year terms",
       "mandate": "Oversees the actuarial soundness and transparency of all Texas public retirement systems. Nine members appointed by the Governor with the advice and consent of the Senate (Gov. Code 801.102).",
       "seatSource": "https://statutes.capitol.texas.gov/Docs/GV/htm/GV.801.htm"
@@ -450,7 +450,7 @@
       "applyUrl": "https://gov.texas.gov/organization/appointments/application",
       "sourceUrl": "https://gov.texas.gov/organization/appointments/positions",
       "statuteUrl": "https://statutes.capitol.texas.gov/Docs/ED/htm/ED.43.htm#43.053",
-      "lastVerified": "2026-10-19",
+      "lastVerified": "2026-10-26",
       "criticalNote": "2 of 9 seats are governor-appointed",
       "mandate": "Manages the Permanent School Fund endowment that supports Texas public schools. Nine members — five appointed by the State Board of Education, the Land Commissioner, one General Land Office appointee, and two governor-appointed investment experts (Educ. Code 43.053).",
       "seatSource": "https://statutes.capitol.texas.gov/Docs/ED/htm/ED.43.htm"
@@ -467,7 +467,7 @@
       "applyUrl": "https://gov.texas.gov/organization/appointments/application",
       "sourceUrl": "https://gov.texas.gov/organization/appointments/positions",
       "statuteUrl": "http://www.statutes.legis.state.tx.us/Docs/GV/htm/GV.1232.htm#1232.052",
-      "lastVerified": "2026-10-19",
+      "lastVerified": "2026-10-26",
       "criticalNote": "Texas accepts applications year-round; staggered 6-year terms"
     },
     {
@@ -482,7 +482,7 @@
       "applyUrl": "https://gov.texas.gov/organization/appointments/application",
       "sourceUrl": "https://gov.texas.gov/organization/appointments/positions",
       "statuteUrl": "http://www.statutes.legis.state.tx.us/Docs/NR/htm/NR.32.htm",
-      "lastVerified": "2026-10-19",
+      "lastVerified": "2026-10-26",
       "criticalNote": "4 of 5 seats are governor-appointed",
       "mandate": "Manages the real-asset investments and state lands that help fund the Permanent School Fund for Texas public education. Five members — the Land Commissioner as chair plus four citizens appointed by the Governor (Nat. Resources Code 32.012).",
       "seatSource": "https://statutes.capitol.texas.gov/Docs/NR/htm/NR.32.htm"
@@ -499,7 +499,7 @@
       "applyUrl": "https://gov.texas.gov/organization/appointments/application",
       "sourceUrl": "https://gov.texas.gov/organization/appointments/positions",
       "statuteUrl": "https://statutes.capitol.texas.gov/Docs/GV/htm/GV.825.htm",
-      "lastVerified": "2026-10-19",
+      "lastVerified": "2026-10-26",
       "criticalNote": "Texas accepts applications year-round; staggered 6-year terms"
     },
     {
@@ -514,7 +514,7 @@
       "applyUrl": "https://gov.texas.gov/organization/appointments/application",
       "sourceUrl": "https://gov.texas.gov/organization/appointments/positions",
       "statuteUrl": "http://www.statutes.legis.state.tx.us/Docs/HS/htm/HS.101.htm",
-      "lastVerified": "2026-10-19",
+      "lastVerified": "2026-10-26",
       "criticalNote": "4 of 15 seats are governor-appointed",
       "mandate": "Guides the state plan on Alzheimer's disease. Fifteen members — four each appointed by the Governor, Lt. Governor, and Speaker, plus three agency representatives (Health & Safety Code ch. 101).",
       "seatSource": "https://statutes.capitol.texas.gov/Docs/HS/htm/HS.101.htm"
@@ -531,7 +531,7 @@
       "applyUrl": "https://gov.texas.gov/organization/appointments/application",
       "sourceUrl": "https://gov.texas.gov/organization/appointments/positions",
       "statuteUrl": "https://statutes.capitol.texas.gov/Docs/OC/htm/OC.507.htm#507.051",
-      "lastVerified": "2026-10-19",
+      "lastVerified": "2026-10-26",
       "criticalNote": "1 of 9 seats is governor-appointed",
       "mandate": "Oversees licensing and enforcement for psychologists, counselors, social workers, and marriage & family therapists. Nine members — eight appointed by member boards, one governor-appointed public member (Occ. Code 507.051).",
       "seatSource": "https://texas.public.law/statutes/tex._occ._code_section_507.051"
@@ -548,7 +548,7 @@
       "applyUrl": "https://gov.texas.gov/organization/appointments/application",
       "sourceUrl": "https://gov.texas.gov/organization/appointments/positions",
       "statuteUrl": "http://www.statutes.legis.state.tx.us/Docs/HS/htm/HS.93.htm#93.002",
-      "lastVerified": "2026-10-19",
+      "lastVerified": "2026-10-26",
       "criticalNote": "Texas accepts applications year-round; staggered 6-year terms"
     },
     {
@@ -563,7 +563,7 @@
       "applyUrl": "https://gov.texas.gov/organization/appointments/application",
       "sourceUrl": "https://gov.texas.gov/organization/appointments/positions",
       "statuteUrl": "https://statutes.capitol.texas.gov/Docs/HS/htm/HS.83.htm#83.002",
-      "lastVerified": "2026-10-19",
+      "lastVerified": "2026-10-26",
       "criticalNote": "Texas accepts applications year-round; staggered 6-year terms"
     },
     {
@@ -578,7 +578,7 @@
       "applyUrl": "https://gov.texas.gov/organization/appointments/application",
       "sourceUrl": "https://gov.texas.gov/organization/appointments/positions",
       "statuteUrl": "http://www.legis.state.tx.us/tlodocs/83R/billtext/html/HB02289I.htm",
-      "lastVerified": "2026-10-19",
+      "lastVerified": "2026-10-26",
       "criticalNote": "Texas accepts applications year-round; staggered 6-year terms"
     },
     {
@@ -593,7 +593,7 @@
       "applyUrl": "https://gov.texas.gov/organization/appointments/application",
       "sourceUrl": "https://gov.texas.gov/organization/appointments/positions",
       "statuteUrl": "http://www.statutes.legis.state.tx.us/Docs/HS/htm/HS.103.htm",
-      "lastVerified": "2026-10-19",
+      "lastVerified": "2026-10-26",
       "criticalNote": "11 of 16 seats are governor-appointed",
       "mandate": "Advises the legislature on diabetes policy and administers the state diabetes plan. Sixteen members — eleven governor-appointed citizens plus five agency representatives (Health & Safety Code 103.002).",
       "seatSource": "https://statutes.capitol.texas.gov/Docs/HS/htm/HS.103.htm"
@@ -610,7 +610,7 @@
       "applyUrl": "https://gov.texas.gov/organization/appointments/application",
       "sourceUrl": "https://gov.texas.gov/organization/appointments/positions",
       "statuteUrl": "http://www.statutes.legis.state.tx.us/Docs/HS/htm/HS.773.htm#773.012",
-      "lastVerified": "2026-10-19",
+      "lastVerified": "2026-10-26",
       "criticalNote": "Texas accepts applications year-round; staggered 6-year terms"
     },
     {
@@ -625,7 +625,7 @@
       "applyUrl": "https://gov.texas.gov/organization/appointments/application",
       "sourceUrl": "https://gov.texas.gov/organization/appointments/positions",
       "statuteUrl": "https://statutes.capitol.texas.gov/Docs/HS/htm/HS.104A.htm#104A.003",
-      "lastVerified": "2026-10-19",
+      "lastVerified": "2026-10-26",
       "criticalNote": "Texas accepts applications year-round; staggered 6-year terms"
     },
     {
@@ -640,7 +640,7 @@
       "applyUrl": "https://gov.texas.gov/organization/appointments/application",
       "sourceUrl": "https://gov.texas.gov/organization/appointments/positions",
       "statuteUrl": "http://www.statutes.legis.state.tx.us/Docs/HS/htm/HS.182.htm",
-      "lastVerified": "2026-10-19",
+      "lastVerified": "2026-10-26",
       "criticalNote": "Texas accepts applications year-round; staggered 6-year terms"
     },
     {
@@ -655,7 +655,7 @@
       "applyUrl": "https://gov.texas.gov/organization/appointments/application",
       "sourceUrl": "https://gov.texas.gov/organization/appointments/positions",
       "statuteUrl": "http://www.legis.state.tx.us/tlodocs/84R/billtext/html/HB02950I.htm",
-      "lastVerified": "2026-10-19",
+      "lastVerified": "2026-10-26",
       "criticalNote": "Texas accepts applications year-round; staggered 6-year terms"
     },
     {
@@ -670,7 +670,7 @@
       "applyUrl": "https://gov.texas.gov/organization/appointments/application",
       "sourceUrl": "https://gov.texas.gov/organization/appointments/positions",
       "statuteUrl": "http://www.statutes.legis.state.tx.us/Docs/HS/htm/HS.614.htm",
-      "lastVerified": "2026-10-19",
+      "lastVerified": "2026-10-26",
       "criticalNote": "Texas accepts applications year-round; staggered 6-year terms"
     },
     {
@@ -685,7 +685,7 @@
       "applyUrl": "https://gov.texas.gov/organization/appointments/application",
       "sourceUrl": "https://gov.texas.gov/organization/appointments/positions",
       "statuteUrl": "https://statutes.capitol.texas.gov/Docs/HS/htm/HS.119A.htm",
-      "lastVerified": "2026-10-19",
+      "lastVerified": "2026-10-26",
       "criticalNote": "Texas accepts applications year-round; staggered 6-year terms"
     },
     {
@@ -700,7 +700,7 @@
       "applyUrl": "https://gov.texas.gov/organization/appointments/application",
       "sourceUrl": "https://gov.texas.gov/organization/appointments/positions",
       "statuteUrl": "https://capitol.texas.gov/tlodocs/88R/billtext/html/HB04990F.htm",
-      "lastVerified": "2026-10-19",
+      "lastVerified": "2026-10-26",
       "criticalNote": "Texas accepts applications year-round; staggered 6-year terms"
     },
     {
@@ -715,7 +715,7 @@
       "applyUrl": "https://gov.texas.gov/organization/appointments/application",
       "sourceUrl": "https://gov.texas.gov/organization/appointments/positions",
       "statuteUrl": "http://www.statutes.legis.state.tx.us/Docs/ED/htm/ED.85.htm",
-      "lastVerified": "2026-10-19",
+      "lastVerified": "2026-10-26",
       "criticalNote": "9 governor-appointed voting members (1 nonvoting student regent)",
       "mandate": "Governs the Texas A&M University System. Nine voting members appointed by the Governor with Senate consent, plus one nonvoting student regent (Tex. Educ. Code 85.11).",
       "seatSource": "https://statutes.capitol.texas.gov/Docs/ED/htm/ED.85.htm"
@@ -732,7 +732,7 @@
       "applyUrl": "https://gov.texas.gov/organization/appointments/application",
       "sourceUrl": "https://gov.texas.gov/organization/appointments/positions",
       "statuteUrl": "http://www.statutes.legis.state.tx.us/Docs/ED/htm/ED.58.htm#58.007",
-      "lastVerified": "2026-10-19",
+      "lastVerified": "2026-10-26",
       "criticalNote": "Texas accepts applications year-round; staggered 6-year terms"
     },
     {
@@ -747,7 +747,7 @@
       "applyUrl": "https://gov.texas.gov/organization/appointments/application",
       "sourceUrl": "https://gov.texas.gov/organization/appointments/positions",
       "statuteUrl": "https://statutes.capitol.texas.gov/Docs/ED/htm/ED.61.htm#61.022",
-      "lastVerified": "2026-10-19",
+      "lastVerified": "2026-10-26",
       "criticalNote": "Texas accepts applications year-round; staggered 6-year terms",
       "mandate": "Coordinates Texas public higher education strategy, funding formulas, and program approval. Nine members appointed by the Governor with Senate consent for six-year terms (Educ. Code 61.022).",
       "seatSource": "https://statutes.capitol.texas.gov/Docs/ED/htm/ED.61.htm"
@@ -764,7 +764,7 @@
       "applyUrl": "https://gov.texas.gov/organization/appointments/application",
       "sourceUrl": "https://gov.texas.gov/organization/appointments/positions",
       "statuteUrl": "https://statutes.capitol.texas.gov/Docs/ED/htm/ED.61.htm#61.06641",
-      "lastVerified": "2026-10-19",
+      "lastVerified": "2026-10-26",
       "criticalNote": "Texas accepts applications year-round; staggered 6-year terms"
     },
     {
@@ -779,7 +779,7 @@
       "applyUrl": "https://gov.texas.gov/organization/appointments/application",
       "sourceUrl": "https://gov.texas.gov/organization/appointments/positions",
       "statuteUrl": "http://www.statutes.legis.state.tx.us/Docs/ED/htm/ED.54.htm#54.602",
-      "lastVerified": "2026-10-19",
+      "lastVerified": "2026-10-26",
       "criticalNote": "Texas accepts applications year-round; staggered 6-year terms"
     },
     {
@@ -794,7 +794,7 @@
       "applyUrl": "https://gov.texas.gov/organization/appointments/application",
       "sourceUrl": "https://gov.texas.gov/organization/appointments/positions",
       "statuteUrl": "http://www.statutes.legis.state.tx.us/Docs/ED/htm/ED.106.htm",
-      "lastVerified": "2026-10-19",
+      "lastVerified": "2026-10-26",
       "criticalNote": "9 governor-appointed voting members (1 nonvoting student regent)",
       "mandate": "Governs Texas Southern University. Nine voting members appointed by the Governor with Senate consent, plus one nonvoting student regent (Tex. Educ. Code 106.11).",
       "seatSource": "https://codes.findlaw.com/tx/education-code/educ-sect-106-11"
@@ -811,7 +811,7 @@
       "applyUrl": "https://gov.texas.gov/organization/appointments/application",
       "sourceUrl": "https://gov.texas.gov/organization/appointments/positions",
       "statuteUrl": "http://www.statutes.legis.state.tx.us/Docs/ED/htm/ED.135.htm",
-      "lastVerified": "2026-10-19",
+      "lastVerified": "2026-10-26",
       "criticalNote": "9 governor-appointed voting members (1 nonvoting student regent)",
       "mandate": "Governs the Texas State Technical College System. Nine voting members appointed by the Governor with Senate consent, plus one nonvoting student regent (Tex. Educ. Code 135.21).",
       "seatSource": "https://statutes.capitol.texas.gov/Docs/ED/htm/ED.135.htm"
@@ -828,7 +828,7 @@
       "applyUrl": "https://gov.texas.gov/organization/appointments/application",
       "sourceUrl": "https://gov.texas.gov/organization/appointments/positions",
       "statuteUrl": "http://www.statutes.legis.state.tx.us/Docs/ED/htm/ED.95.htm",
-      "lastVerified": "2026-10-19",
+      "lastVerified": "2026-10-26",
       "criticalNote": "9 governor-appointed voting members (1 nonvoting student regent)",
       "mandate": "Governs the Texas State University System. Nine voting members appointed by the Governor with Senate consent, plus one nonvoting student regent (Tex. Educ. Code 95.21).",
       "seatSource": "https://statutes.capitol.texas.gov/Docs/ED/htm/ED.95.htm"
@@ -845,7 +845,7 @@
       "applyUrl": "https://gov.texas.gov/organization/appointments/application",
       "sourceUrl": "https://gov.texas.gov/organization/appointments/positions",
       "statuteUrl": "http://www.statutes.legis.state.tx.us/Docs/ED/htm/ED.109.htm",
-      "lastVerified": "2026-10-19",
+      "lastVerified": "2026-10-26",
       "criticalNote": "9 governor-appointed voting members (1 nonvoting student regent)",
       "mandate": "Governs the Texas Tech University System. Nine voting members appointed by the Governor with Senate consent, plus one nonvoting student regent (Tex. Educ. Code 109.21).",
       "seatSource": "https://statutes.capitol.texas.gov/Docs/ED/htm/ED.109.htm"
@@ -862,7 +862,7 @@
       "applyUrl": "https://gov.texas.gov/organization/appointments/application",
       "sourceUrl": "https://gov.texas.gov/organization/appointments/positions",
       "statuteUrl": "http://www.statutes.legis.state.tx.us/SOTWDocs/ED/htm/ED.107.htm",
-      "lastVerified": "2026-10-19",
+      "lastVerified": "2026-10-26",
       "criticalNote": "9 governor-appointed voting members (1 nonvoting student regent)",
       "mandate": "Governs Texas Woman's University. Nine voting members appointed by the Governor with Senate consent, plus one nonvoting student regent (Tex. Educ. Code 107.21).",
       "seatSource": "https://statutes.capitol.texas.gov/Docs/ED/htm/ED.107.htm"
@@ -879,7 +879,7 @@
       "applyUrl": "https://gov.texas.gov/organization/appointments/application",
       "sourceUrl": "https://gov.texas.gov/organization/appointments/positions",
       "statuteUrl": "http://www.statutes.legis.state.tx.us/Docs/ED/htm/ED.111.htm",
-      "lastVerified": "2026-10-19",
+      "lastVerified": "2026-10-26",
       "criticalNote": "9 governor-appointed voting members (1 nonvoting student regent)",
       "mandate": "Governs the University of Houston System. Nine voting members appointed by the Governor with Senate consent, plus one nonvoting student regent (Tex. Educ. Code 111.12).",
       "seatSource": "https://statutes.capitol.texas.gov/Docs/ED/htm/ED.111.htm"
@@ -896,7 +896,7 @@
       "applyUrl": "https://gov.texas.gov/organization/appointments/application",
       "sourceUrl": "https://gov.texas.gov/organization/appointments/positions",
       "statuteUrl": "http://www.statutes.legis.state.tx.us/SOTWDocs/ED/htm/ED.105.htm",
-      "lastVerified": "2026-10-19",
+      "lastVerified": "2026-10-26",
       "criticalNote": "9 governor-appointed voting members (1 nonvoting student regent)",
       "mandate": "Governs the University of North Texas System. Nine voting members appointed by the Governor with Senate consent, plus one nonvoting student regent (Tex. Educ. Code 105.21).",
       "seatSource": "https://statutes.capitol.texas.gov/Docs/ED/htm/ED.105.htm"
@@ -913,7 +913,7 @@
       "applyUrl": "https://gov.texas.gov/organization/appointments/application",
       "sourceUrl": "https://gov.texas.gov/organization/appointments/positions",
       "statuteUrl": "http://www.statutes.legis.state.tx.us/Docs/ED/htm/ED.65.htm",
-      "lastVerified": "2026-10-19",
+      "lastVerified": "2026-10-26",
       "criticalNote": "9 governor-appointed voting members (1 nonvoting student regent)",
       "mandate": "Governs the University of Texas System. Nine voting members appointed by the Governor with Senate consent, plus one nonvoting student regent (Tex. Educ. Code 65.11).",
       "seatSource": "https://law.justia.com/codes/texas/education-code/title-3/subtitle-c/chapter-65/subchapter-b/section-65-11/"
@@ -930,7 +930,7 @@
       "applyUrl": "https://gov.texas.gov/organization/appointments/application",
       "sourceUrl": "https://gov.texas.gov/organization/appointments/positions",
       "statuteUrl": "http://www.statutes.legis.state.tx.us/Docs/HR/htm/HR.161.htm#161.251",
-      "lastVerified": "2026-10-19",
+      "lastVerified": "2026-10-26",
       "criticalNote": "Texas accepts applications year-round; staggered 6-year terms"
     },
     {
@@ -945,7 +945,7 @@
       "applyUrl": "https://gov.texas.gov/organization/appointments/application",
       "sourceUrl": "https://gov.texas.gov/organization/appointments/positions",
       "statuteUrl": "https://capitol.texas.gov/tlodocs/88R/billtext/html/HB00728F.htm",
-      "lastVerified": "2026-10-19",
+      "lastVerified": "2026-10-26",
       "criticalNote": "Texas accepts applications year-round; staggered 6-year terms"
     },
     {
@@ -960,7 +960,7 @@
       "applyUrl": "https://gov.texas.gov/organization/appointments/application",
       "sourceUrl": "https://gov.texas.gov/organization/appointments/positions",
       "statuteUrl": "https://statutes.capitol.texas.gov/Docs/FA/htm/FA.264.htm#264.172",
-      "lastVerified": "2026-10-19",
+      "lastVerified": "2026-10-26",
       "criticalNote": "Texas accepts applications year-round; staggered 6-year terms"
     },
     {
@@ -975,7 +975,7 @@
       "applyUrl": "https://gov.texas.gov/organization/appointments/application",
       "sourceUrl": "https://gov.texas.gov/organization/appointments/positions",
       "statuteUrl": "http://www.statutes.legis.state.tx.us/Docs/HR/htm/HR.112.htm#112.011",
-      "lastVerified": "2026-10-19",
+      "lastVerified": "2026-10-26",
       "criticalNote": "Texas accepts applications year-round; staggered 6-year terms"
     },
     {
@@ -990,7 +990,7 @@
       "applyUrl": "https://gov.texas.gov/organization/appointments/application",
       "sourceUrl": "https://gov.texas.gov/organization/appointments/positions",
       "statuteUrl": "http://www.statutes.legis.state.tx.us/Docs/HR/htm/HR.115.htm",
-      "lastVerified": "2026-10-19",
+      "lastVerified": "2026-10-26",
       "criticalNote": "Texas accepts applications year-round; staggered 6-year terms"
     },
     {
@@ -1005,7 +1005,7 @@
       "applyUrl": "https://gov.texas.gov/organization/appointments/application",
       "sourceUrl": "https://gov.texas.gov/organization/appointments/positions",
       "statuteUrl": "https://statutes.capitol.texas.gov/Docs/GV/htm/GV.418.htm#418.133",
-      "lastVerified": "2026-10-19",
+      "lastVerified": "2026-10-26",
       "criticalNote": "Texas accepts applications year-round; staggered 6-year terms"
     },
     {
@@ -1020,7 +1020,7 @@
       "applyUrl": "https://gov.texas.gov/organization/appointments/application",
       "sourceUrl": "https://gov.texas.gov/organization/appointments/positions",
       "statuteUrl": "https://statutes.capitol.texas.gov/Docs/HR/htm/HR.73.htm#73.004",
-      "lastVerified": "2026-10-19",
+      "lastVerified": "2026-10-26",
       "criticalNote": "Texas accepts applications year-round; staggered 6-year terms"
     },
     {
@@ -1035,7 +1035,7 @@
       "applyUrl": "https://gov.texas.gov/organization/appointments/application",
       "sourceUrl": "https://gov.texas.gov/organization/appointments/positions",
       "statuteUrl": "https://statutes.capitol.texas.gov/Docs/HR/htm/HR.40.htm#40.021",
-      "lastVerified": "2026-10-19",
+      "lastVerified": "2026-10-26",
       "criticalNote": "Texas accepts applications year-round; staggered 6-year terms"
     },
     {
@@ -1050,7 +1050,7 @@
       "applyUrl": "https://gov.texas.gov/organization/appointments/application",
       "sourceUrl": "https://gov.texas.gov/organization/appointments/positions",
       "statuteUrl": "https://statutes.capitol.texas.gov/Docs/HR/htm/HR.40.htm#40.027",
-      "lastVerified": "2026-10-19",
+      "lastVerified": "2026-10-26",
       "criticalNote": "Texas accepts applications year-round; staggered 6-year terms"
     },
     {
@@ -1065,7 +1065,7 @@
       "applyUrl": "https://gov.texas.gov/organization/appointments/application",
       "sourceUrl": "https://gov.texas.gov/organization/appointments/positions",
       "statuteUrl": "https://statutes.capitol.texas.gov/Docs/GV/htm/GV.772.htm#772.0065",
-      "lastVerified": "2026-10-19",
+      "lastVerified": "2026-10-26",
       "criticalNote": "Texas accepts applications year-round; staggered 6-year terms"
     },
     {
@@ -1080,7 +1080,7 @@
       "applyUrl": "https://gov.texas.gov/organization/appointments/application",
       "sourceUrl": "https://gov.texas.gov/organization/appointments/positions",
       "statuteUrl": "https://statutes.capitol.texas.gov/Docs/GV/htm/GV.531.htm#531.005",
-      "lastVerified": "2026-10-19",
+      "lastVerified": "2026-10-26",
       "criticalNote": "Texas accepts applications year-round; staggered 6-year terms"
     },
     {
@@ -1095,7 +1095,7 @@
       "applyUrl": "https://gov.texas.gov/organization/appointments/application",
       "sourceUrl": "https://gov.texas.gov/organization/appointments/positions",
       "statuteUrl": "https://statutes.capitol.texas.gov/Docs/GV/htm/GV.531.htm#531.102",
-      "lastVerified": "2026-10-19",
+      "lastVerified": "2026-10-26",
       "criticalNote": "Texas accepts applications year-round; staggered 6-year terms"
     },
     {
@@ -1110,7 +1110,7 @@
       "applyUrl": "https://gov.texas.gov/organization/appointments/application",
       "sourceUrl": "https://gov.texas.gov/organization/appointments/positions",
       "statuteUrl": "http://www.legis.state.tx.us/tlodocs/84R/billtext/html/SB00607I.htm",
-      "lastVerified": "2026-10-19",
+      "lastVerified": "2026-10-26",
       "criticalNote": "Texas accepts applications year-round; staggered 6-year terms"
     },
     {
@@ -1125,7 +1125,7 @@
       "applyUrl": "https://gov.texas.gov/organization/appointments/application",
       "sourceUrl": "https://gov.texas.gov/organization/appointments/positions",
       "statuteUrl": "http://www.legis.state.tx.us/tlodocs/81R/billtext/html/SB01878F.HTM",
-      "lastVerified": "2026-10-19",
+      "lastVerified": "2026-10-26",
       "criticalNote": "Texas accepts applications year-round; staggered 6-year terms"
     },
     {
@@ -1140,7 +1140,7 @@
       "applyUrl": "https://gov.texas.gov/organization/appointments/application",
       "sourceUrl": "https://gov.texas.gov/organization/appointments/positions",
       "statuteUrl": "http://texreg.sos.state.tx.us/public/readtac$ext.ViewTAC?tac_view=5&ti=40&pt=2&ch=101&sch=C&div=2&rl=Y",
-      "lastVerified": "2026-10-19",
+      "lastVerified": "2026-10-26",
       "criticalNote": "Texas accepts applications year-round; staggered 6-year terms"
     },
     {
@@ -1155,7 +1155,7 @@
       "applyUrl": "https://gov.texas.gov/organization/appointments/application",
       "sourceUrl": "https://gov.texas.gov/organization/appointments/positions",
       "statuteUrl": "https://www.capitol.state.tx.us/tlodocs/89R/billtext/html/HB03284F.htm\n",
-      "lastVerified": "2026-10-19",
+      "lastVerified": "2026-10-26",
       "criticalNote": "Texas accepts applications year-round; staggered 6-year terms"
     },
     {
@@ -1170,7 +1170,7 @@
       "applyUrl": "https://gov.texas.gov/organization/appointments/application",
       "sourceUrl": "https://gov.texas.gov/organization/appointments/positions",
       "statuteUrl": "https://statutes.capitol.texas.gov/Docs/HS/htm/HS.119B.htm#119B.003\n",
-      "lastVerified": "2026-10-19",
+      "lastVerified": "2026-10-26",
       "criticalNote": "Texas accepts applications year-round; staggered 6-year terms"
     },
     {
@@ -1185,7 +1185,7 @@
       "applyUrl": "https://gov.texas.gov/organization/appointments/application",
       "sourceUrl": "https://gov.texas.gov/organization/appointments/positions",
       "statuteUrl": null,
-      "lastVerified": "2026-10-19",
+      "lastVerified": "2026-10-26",
       "criticalNote": "Texas accepts applications year-round; staggered 6-year terms"
     },
     {
@@ -1200,7 +1200,7 @@
       "applyUrl": "https://gov.texas.gov/organization/appointments/application",
       "sourceUrl": "https://gov.texas.gov/organization/appointments/positions",
       "statuteUrl": null,
-      "lastVerified": "2026-10-19",
+      "lastVerified": "2026-10-26",
       "criticalNote": "Texas accepts applications year-round; staggered 6-year terms"
     },
     {
@@ -1215,7 +1215,7 @@
       "applyUrl": "https://gov.texas.gov/organization/appointments/application",
       "sourceUrl": "https://gov.texas.gov/organization/appointments/positions",
       "statuteUrl": "http://www.statutes.legis.state.tx.us/Docs/HR/htm/HR.111.htm",
-      "lastVerified": "2026-10-19",
+      "lastVerified": "2026-10-26",
       "criticalNote": "Texas accepts applications year-round; staggered 6-year terms"
     },
     {
@@ -1230,7 +1230,7 @@
       "applyUrl": "https://gov.texas.gov/organization/appointments/application",
       "sourceUrl": "https://gov.texas.gov/organization/appointments/positions",
       "statuteUrl": "https://statutes.capitol.texas.gov/Docs/GV/htm/GV.659.htm#659.142",
-      "lastVerified": "2026-10-19",
+      "lastVerified": "2026-10-26",
       "criticalNote": "Texas accepts applications year-round; staggered 6-year terms"
     },
     {
@@ -1245,7 +1245,7 @@
       "applyUrl": "https://gov.texas.gov/organization/appointments/application",
       "sourceUrl": "https://gov.texas.gov/organization/appointments/positions",
       "statuteUrl": "https://statutes.capitol.texas.gov/Docs/HS/htm/HS.555.htm#555.053",
-      "lastVerified": "2026-10-19",
+      "lastVerified": "2026-10-26",
       "criticalNote": "Texas accepts applications year-round; staggered 6-year terms"
     },
     {
@@ -1260,7 +1260,7 @@
       "applyUrl": "https://gov.texas.gov/organization/appointments/application",
       "sourceUrl": "https://gov.texas.gov/organization/appointments/positions",
       "statuteUrl": "http://www.statutes.legis.state.tx.us/SOTWDocs/GV/htm/GV.444.htm",
-      "lastVerified": "2026-10-19",
+      "lastVerified": "2026-10-26",
       "criticalNote": "Texas accepts applications year-round; staggered 6-year terms"
     },
     {
@@ -1275,7 +1275,7 @@
       "applyUrl": "https://gov.texas.gov/organization/appointments/application",
       "sourceUrl": "https://gov.texas.gov/organization/appointments/positions",
       "statuteUrl": "https://statutes.capitol.texas.gov/Docs/GV/htm/GV.452.htm#452.002",
-      "lastVerified": "2026-10-19",
+      "lastVerified": "2026-10-26",
       "criticalNote": "Texas accepts applications year-round; staggered 6-year terms"
     },
     {
@@ -1290,7 +1290,7 @@
       "applyUrl": "https://gov.texas.gov/organization/appointments/application",
       "sourceUrl": "https://gov.texas.gov/organization/appointments/positions",
       "statuteUrl": "http://www.legis.state.tx.us/tlodocs/84R/billtext/html/SB00459E.htm",
-      "lastVerified": "2026-10-19",
+      "lastVerified": "2026-10-26",
       "criticalNote": "Texas accepts applications year-round; staggered 6-year terms"
     },
     {
@@ -1305,7 +1305,7 @@
       "applyUrl": "https://gov.texas.gov/organization/appointments/application",
       "sourceUrl": "https://gov.texas.gov/organization/appointments/positions",
       "statuteUrl": "http://www.statutes.legis.state.tx.us/Docs/GV/htm/GV.3106.htm",
-      "lastVerified": "2026-10-19",
+      "lastVerified": "2026-10-26",
       "criticalNote": "Texas accepts applications year-round; staggered 6-year terms"
     },
     {
@@ -1320,7 +1320,7 @@
       "applyUrl": "https://gov.texas.gov/organization/appointments/application",
       "sourceUrl": "https://gov.texas.gov/organization/appointments/positions",
       "statuteUrl": "http://www.statutes.legis.state.tx.us/Docs/GV/htm/GV.3106.htm",
-      "lastVerified": "2026-10-19",
+      "lastVerified": "2026-10-26",
       "criticalNote": "Texas accepts applications year-round; staggered 6-year terms"
     },
     {
@@ -1335,7 +1335,7 @@
       "applyUrl": "https://gov.texas.gov/organization/appointments/application",
       "sourceUrl": "https://gov.texas.gov/organization/appointments/positions",
       "statuteUrl": "http://www.statutes.legis.state.tx.us/Docs/GV/htm/GV.3104.htm#3104.051",
-      "lastVerified": "2026-10-19",
+      "lastVerified": "2026-10-26",
       "criticalNote": "Texas accepts applications year-round; staggered 6-year terms"
     },
     {
@@ -1350,7 +1350,7 @@
       "applyUrl": "https://gov.texas.gov/organization/appointments/application",
       "sourceUrl": "https://gov.texas.gov/organization/appointments/positions",
       "statuteUrl": "http://www.statutes.legis.state.tx.us/Docs/GV/htm/GV.442.htm",
-      "lastVerified": "2026-10-19",
+      "lastVerified": "2026-10-26",
       "criticalNote": "Texas accepts applications year-round; staggered 6-year terms"
     },
     {
@@ -1365,7 +1365,7 @@
       "applyUrl": "https://gov.texas.gov/organization/appointments/application",
       "sourceUrl": "https://gov.texas.gov/organization/appointments/positions",
       "statuteUrl": "https://statutes.capitol.texas.gov/Docs/GV/htm/GV.441.htm#441.243",
-      "lastVerified": "2026-10-19",
+      "lastVerified": "2026-10-26",
       "criticalNote": "Texas accepts applications year-round; staggered 6-year terms"
     },
     {
@@ -1380,7 +1380,7 @@
       "applyUrl": "https://gov.texas.gov/organization/appointments/application",
       "sourceUrl": "https://gov.texas.gov/organization/appointments/positions",
       "statuteUrl": "https://statutes.capitol.texas.gov/Docs/GV/htm/GV.448.htm#448.051",
-      "lastVerified": "2026-10-19",
+      "lastVerified": "2026-10-26",
       "criticalNote": "Texas accepts applications year-round; staggered 6-year terms"
     },
     {
@@ -1395,7 +1395,7 @@
       "applyUrl": "https://gov.texas.gov/organization/appointments/application",
       "sourceUrl": "https://gov.texas.gov/organization/appointments/positions",
       "statuteUrl": "http://www.gpo.gov/fdsys/pkg/USCODE-2011-title20/html/USCODE-2011-title20-chap26-subchapI-sec956.htm",
-      "lastVerified": "2026-10-19",
+      "lastVerified": "2026-10-26",
       "criticalNote": "Texas accepts applications year-round; staggered 6-year terms"
     },
     {
@@ -1410,7 +1410,7 @@
       "applyUrl": "https://gov.texas.gov/organization/appointments/application",
       "sourceUrl": "https://gov.texas.gov/organization/appointments/positions",
       "statuteUrl": "http://www.statutes.legis.state.tx.us/Docs/GV/htm/GV.3106.htm",
-      "lastVerified": "2026-10-19",
+      "lastVerified": "2026-10-26",
       "criticalNote": "Texas accepts applications year-round; staggered 6-year terms"
     },
     {
@@ -1425,7 +1425,7 @@
       "applyUrl": "https://gov.texas.gov/organization/appointments/application",
       "sourceUrl": "https://gov.texas.gov/organization/appointments/positions",
       "statuteUrl": "http://www.statutes.legis.state.tx.us/Docs/GV/htm/GV.3104.htm",
-      "lastVerified": "2026-10-19",
+      "lastVerified": "2026-10-26",
       "criticalNote": "Texas accepts applications year-round; staggered 6-year terms"
     },
     {
@@ -1440,7 +1440,7 @@
       "applyUrl": "https://gov.texas.gov/organization/appointments/application",
       "sourceUrl": "https://gov.texas.gov/organization/appointments/positions",
       "statuteUrl": "https://gov.texas.gov/organization/women",
-      "lastVerified": "2026-10-19",
+      "lastVerified": "2026-10-26",
       "criticalNote": "Texas accepts applications year-round; staggered 6-year terms"
     },
     {
@@ -1455,7 +1455,7 @@
       "applyUrl": "https://gov.texas.gov/organization/appointments/application",
       "sourceUrl": "https://gov.texas.gov/organization/appointments/positions",
       "statuteUrl": "http://www.statutes.legis.state.tx.us/Docs/GV/htm/GV.2003.htm#2003.022",
-      "lastVerified": "2026-10-19",
+      "lastVerified": "2026-10-26",
       "criticalNote": "Texas accepts applications year-round; staggered 6-year terms"
     },
     {
@@ -1470,7 +1470,7 @@
       "applyUrl": "https://gov.texas.gov/organization/appointments/application",
       "sourceUrl": "https://gov.texas.gov/organization/appointments/positions",
       "statuteUrl": "http://www.statutes.legis.state.tx.us/docs/GV/htm/GV.79.htm",
-      "lastVerified": "2026-10-19",
+      "lastVerified": "2026-10-26",
       "criticalNote": "Texas accepts applications year-round; staggered 6-year terms"
     },
     {
@@ -1485,7 +1485,7 @@
       "applyUrl": "https://gov.texas.gov/organization/appointments/application",
       "sourceUrl": "https://gov.texas.gov/organization/appointments/positions",
       "statuteUrl": "https://capitol.texas.gov/tlodocs/88R/billtext/html/HB00019F.htm",
-      "lastVerified": "2026-10-19",
+      "lastVerified": "2026-10-26",
       "criticalNote": "Texas accepts applications year-round; staggered 6-year terms"
     },
     {
@@ -1500,7 +1500,7 @@
       "applyUrl": "https://gov.texas.gov/organization/appointments/application",
       "sourceUrl": "https://gov.texas.gov/organization/appointments/positions",
       "statuteUrl": "http://www.statutes.legis.state.tx.us/Docs/GV/htm/GV.35.htm",
-      "lastVerified": "2026-10-19",
+      "lastVerified": "2026-10-26",
       "criticalNote": "Texas accepts applications year-round; staggered 6-year terms"
     },
     {
@@ -1515,7 +1515,7 @@
       "applyUrl": "https://gov.texas.gov/organization/appointments/application",
       "sourceUrl": "https://gov.texas.gov/organization/appointments/positions",
       "statuteUrl": "http://www.statutes.legis.state.tx.us/Docs/GV/htm/GV.71.htm",
-      "lastVerified": "2026-10-19",
+      "lastVerified": "2026-10-26",
       "criticalNote": "Texas accepts applications year-round; staggered 6-year terms"
     },
     {
@@ -1530,7 +1530,7 @@
       "applyUrl": "https://gov.texas.gov/organization/appointments/application",
       "sourceUrl": "https://gov.texas.gov/organization/appointments/positions",
       "statuteUrl": "http://www.statutes.legis.state.tx.us/Docs/CN/htm/CN.5.htm#5.7a",
-      "lastVerified": "2026-10-19",
+      "lastVerified": "2026-10-26",
       "criticalNote": "Texas accepts applications year-round; staggered 6-year terms"
     },
     {
@@ -1545,7 +1545,7 @@
       "applyUrl": "https://gov.texas.gov/organization/appointments/application",
       "sourceUrl": "https://gov.texas.gov/organization/appointments/positions",
       "statuteUrl": "https://statutes.capitol.texas.gov/Docs/GV/htm/GV.74.htm#74.005",
-      "lastVerified": "2026-10-19",
+      "lastVerified": "2026-10-26",
       "criticalNote": "Texas accepts applications year-round; staggered 6-year terms"
     },
     {
@@ -1560,7 +1560,7 @@
       "applyUrl": "https://gov.texas.gov/organization/appointments/application",
       "sourceUrl": "https://gov.texas.gov/organization/appointments/positions",
       "statuteUrl": "http://www.statutes.legis.state.tx.us/Docs/OC/htm/OC.1101.htm#1101.155",
-      "lastVerified": "2026-10-19",
+      "lastVerified": "2026-10-26",
       "criticalNote": "Texas accepts applications year-round; staggered 6-year terms"
     },
     {
@@ -1575,7 +1575,7 @@
       "applyUrl": "https://gov.texas.gov/organization/appointments/application",
       "sourceUrl": "https://gov.texas.gov/organization/appointments/positions",
       "statuteUrl": "https://statutes.capitol.texas.gov/Docs/GV/htm/GV.772.htm#772.0061",
-      "lastVerified": "2026-10-19",
+      "lastVerified": "2026-10-26",
       "criticalNote": "Texas accepts applications year-round; staggered 6-year terms"
     },
     {
@@ -1590,7 +1590,7 @@
       "applyUrl": "https://gov.texas.gov/organization/appointments/application",
       "sourceUrl": "https://gov.texas.gov/organization/appointments/positions",
       "statuteUrl": null,
-      "lastVerified": "2026-10-19",
+      "lastVerified": "2026-10-26",
       "criticalNote": "Texas accepts applications year-round; staggered 6-year terms"
     },
     {
@@ -1605,7 +1605,7 @@
       "applyUrl": "https://gov.texas.gov/organization/appointments/application",
       "sourceUrl": "https://gov.texas.gov/organization/appointments/positions",
       "statuteUrl": "http://www.statutes.legis.state.tx.us/Docs/SD/htm/SD.8501.htm",
-      "lastVerified": "2026-10-19",
+      "lastVerified": "2026-10-26",
       "criticalNote": "Texas accepts applications year-round; staggered 6-year terms"
     },
     {
@@ -1620,7 +1620,7 @@
       "applyUrl": "https://gov.texas.gov/organization/appointments/application",
       "sourceUrl": "https://gov.texas.gov/organization/appointments/positions",
       "statuteUrl": "http://www.statutes.legis.state.tx.us/Docs/SD/htm/SD.8502.htm",
-      "lastVerified": "2026-10-19",
+      "lastVerified": "2026-10-26",
       "criticalNote": "Texas accepts applications year-round; staggered 6-year terms"
     },
     {
@@ -1635,7 +1635,7 @@
       "applyUrl": "https://gov.texas.gov/organization/appointments/application",
       "sourceUrl": "https://gov.texas.gov/organization/appointments/positions",
       "statuteUrl": "https://statutes.capitol.texas.gov/Docs/WA/htm/WA.43.htm",
-      "lastVerified": "2026-10-19",
+      "lastVerified": "2026-10-26",
       "criticalNote": "Texas accepts applications year-round; staggered 6-year terms"
     },
     {
@@ -1650,7 +1650,7 @@
       "applyUrl": "https://gov.texas.gov/organization/appointments/application",
       "sourceUrl": "https://gov.texas.gov/organization/appointments/positions",
       "statuteUrl": "http://www.legis.state.tx.us/tlodocs/84R/billtext/html/HB04168I.htm",
-      "lastVerified": "2026-10-19",
+      "lastVerified": "2026-10-26",
       "criticalNote": "Texas accepts applications year-round; staggered 6-year terms"
     },
     {
@@ -1665,7 +1665,7 @@
       "applyUrl": "https://gov.texas.gov/organization/appointments/application",
       "sourceUrl": "https://gov.texas.gov/organization/appointments/positions",
       "statuteUrl": "http://www.statutes.legis.state.tx.us/Docs/SD/htm/SD.8503.htm",
-      "lastVerified": "2026-10-19",
+      "lastVerified": "2026-10-26",
       "criticalNote": "Texas accepts applications year-round; staggered 6-year terms"
     },
     {
@@ -1680,7 +1680,7 @@
       "applyUrl": "https://gov.texas.gov/organization/appointments/application",
       "sourceUrl": "https://gov.texas.gov/organization/appointments/positions",
       "statuteUrl": "http://www.statutes.legis.state.tx.us/Docs/SD/htm/SD.8506.htm#8505.051",
-      "lastVerified": "2026-10-19",
+      "lastVerified": "2026-10-26",
       "criticalNote": "Texas accepts applications year-round; staggered 6-year terms"
     },
     {
@@ -1695,7 +1695,7 @@
       "applyUrl": "https://gov.texas.gov/organization/appointments/application",
       "sourceUrl": "https://gov.texas.gov/organization/appointments/positions",
       "statuteUrl": "http://www.lrl.state.tx.us/legis/billSearch/text.cfm?legSession=69-0&billtypeDetail=SB&billNumberDetail=1253&billSuffixDetail=&startRow=1&IDlist=&unClicklist=&number=100",
-      "lastVerified": "2026-10-19",
+      "lastVerified": "2026-10-26",
       "criticalNote": "Texas accepts applications year-round; staggered 6-year terms"
     },
     {
@@ -1710,7 +1710,7 @@
       "applyUrl": "https://gov.texas.gov/organization/appointments/application",
       "sourceUrl": "https://gov.texas.gov/organization/appointments/positions",
       "statuteUrl": "http://www.statutes.legis.state.tx.us/Docs/NR/htm/NR.183.htm#183.061",
-      "lastVerified": "2026-10-19",
+      "lastVerified": "2026-10-26",
       "criticalNote": "Texas accepts applications year-round; staggered 6-year terms"
     },
     {
@@ -1725,7 +1725,7 @@
       "applyUrl": "https://gov.texas.gov/organization/appointments/application",
       "sourceUrl": "https://gov.texas.gov/organization/appointments/positions",
       "statuteUrl": "http://www.lrl.state.tx.us/legis/billSearch/text.cfm?legSession=76-0&billtypeDetail=SB&billNumberDetail=1171&billSuffixDetail=&startRow=1&IDlist=&unClicklist=&number=100",
-      "lastVerified": "2026-10-19",
+      "lastVerified": "2026-10-26",
       "criticalNote": "Texas accepts applications year-round; staggered 6-year terms"
     },
     {
@@ -1740,7 +1740,7 @@
       "applyUrl": "https://gov.texas.gov/organization/appointments/application",
       "sourceUrl": "https://gov.texas.gov/organization/appointments/positions",
       "statuteUrl": "http://www.lrl.state.tx.us/legis/billSearch/BillDetails.cfm?legsession=43-1&billTypeDetail=SB&billNumberDetail=97&billsuffixDetail=",
-      "lastVerified": "2026-10-19",
+      "lastVerified": "2026-10-26",
       "criticalNote": "Texas accepts applications year-round; staggered 6-year terms"
     },
     {
@@ -1755,7 +1755,7 @@
       "applyUrl": "https://gov.texas.gov/organization/appointments/application",
       "sourceUrl": "https://gov.texas.gov/organization/appointments/positions",
       "statuteUrl": "http://www.lrl.state.tx.us/legis/billSearch/text.cfm?legSession=71-6&billtypeDetail=SB&billNumberDetail=34&billSuffixDetail=&startRow=1&IDlist=&unClicklist=&number=100",
-      "lastVerified": "2026-10-19",
+      "lastVerified": "2026-10-26",
       "criticalNote": "Texas accepts applications year-round; staggered 6-year terms"
     },
     {
@@ -1770,7 +1770,7 @@
       "applyUrl": "https://gov.texas.gov/organization/appointments/application",
       "sourceUrl": "https://gov.texas.gov/organization/appointments/positions",
       "statuteUrl": "https://statutes.capitol.texas.gov/Docs/SD/htm/SD.9502.htm#9502.0201",
-      "lastVerified": "2026-10-19",
+      "lastVerified": "2026-10-26",
       "criticalNote": "Texas accepts applications year-round; staggered 6-year terms"
     },
     {
@@ -1785,7 +1785,7 @@
       "applyUrl": "https://gov.texas.gov/organization/appointments/application",
       "sourceUrl": "https://gov.texas.gov/organization/appointments/positions",
       "statuteUrl": "https://statutes.capitol.texas.gov/Docs/PW/htm/PW.91.htm",
-      "lastVerified": "2026-10-19",
+      "lastVerified": "2026-10-26",
       "criticalNote": "Texas accepts applications year-round; staggered 6-year terms"
     },
     {
@@ -1800,7 +1800,7 @@
       "applyUrl": "https://gov.texas.gov/organization/appointments/application",
       "sourceUrl": "https://gov.texas.gov/organization/appointments/positions",
       "statuteUrl": "http://www.lrl.state.tx.us/legis/billSearch/text.cfm?legSession=78-0&billtypeDetail=SB&billNumberDetail=1276&billSuffixDetail=&startRow=1&IDlist=&unClicklist=&number=100",
-      "lastVerified": "2026-10-19",
+      "lastVerified": "2026-10-26",
       "criticalNote": "Texas accepts applications year-round; staggered 6-year terms"
     },
     {
@@ -1815,7 +1815,7 @@
       "applyUrl": "https://gov.texas.gov/organization/appointments/application",
       "sourceUrl": "https://gov.texas.gov/organization/appointments/positions",
       "statuteUrl": "http://www.statutes.legis.state.tx.us/Docs/HS/htm/HS.403.htm",
-      "lastVerified": "2026-10-19",
+      "lastVerified": "2026-10-26",
       "criticalNote": "Texas accepts applications year-round; staggered 6-year terms"
     },
     {
@@ -1830,7 +1830,7 @@
       "applyUrl": "https://gov.texas.gov/organization/appointments/application",
       "sourceUrl": "https://gov.texas.gov/organization/appointments/positions",
       "statuteUrl": "https://capitol.texas.gov/tlodocs/88R/billtext/html/HB01809F.htm",
-      "lastVerified": "2026-10-19",
+      "lastVerified": "2026-10-26",
       "criticalNote": "Texas accepts applications year-round; staggered 6-year terms"
     },
     {
@@ -1845,7 +1845,7 @@
       "applyUrl": "https://gov.texas.gov/organization/appointments/application",
       "sourceUrl": "https://gov.texas.gov/organization/appointments/positions",
       "statuteUrl": "http://www.lrl.state.tx.us/legis/BillSearch/text.cfm?legSession=54-0&billtypeDetail=HB&billNumberDetail=405&billSuffixDetail=&startRow=1&IDlist=&unClicklist=&number=50",
-      "lastVerified": "2026-10-19",
+      "lastVerified": "2026-10-26",
       "criticalNote": "Texas accepts applications year-round; staggered 6-year terms"
     },
     {
@@ -1860,7 +1860,7 @@
       "applyUrl": "https://gov.texas.gov/organization/appointments/application",
       "sourceUrl": "https://gov.texas.gov/organization/appointments/positions",
       "statuteUrl": "http://www.statutes.legis.state.tx.us/Docs/SD/htm/SD.8504.htm",
-      "lastVerified": "2026-10-19",
+      "lastVerified": "2026-10-26",
       "criticalNote": "Texas accepts applications year-round; staggered 6-year terms"
     },
     {
@@ -1875,7 +1875,7 @@
       "applyUrl": "https://gov.texas.gov/organization/appointments/application",
       "sourceUrl": "https://gov.texas.gov/organization/appointments/positions",
       "statuteUrl": "http://www.lrl.state.tx.us/legis/BillSearch/BillDetails.cfm?legsession=44-1&billTypeDetail=HB&billNumberDetail=141&billsuffixDetail=",
-      "lastVerified": "2026-10-19",
+      "lastVerified": "2026-10-26",
       "criticalNote": "Texas accepts applications year-round; staggered 6-year terms"
     },
     {
@@ -1890,7 +1890,7 @@
       "applyUrl": "https://gov.texas.gov/organization/appointments/application",
       "sourceUrl": "https://gov.texas.gov/organization/appointments/positions",
       "statuteUrl": "https://statutes.capitol.texas.gov/Docs/WA/htm/WA.42.htm",
-      "lastVerified": "2026-10-19",
+      "lastVerified": "2026-10-26",
       "criticalNote": "Texas accepts applications year-round; staggered 6-year terms"
     },
     {
@@ -1905,7 +1905,7 @@
       "applyUrl": "https://gov.texas.gov/organization/appointments/application",
       "sourceUrl": "https://gov.texas.gov/organization/appointments/positions",
       "statuteUrl": "http://www.legis.state.tx.us/tlodocs/83R/billtext/html/SB00281I.htm",
-      "lastVerified": "2026-10-19",
+      "lastVerified": "2026-10-26",
       "criticalNote": "Texas accepts applications year-round; staggered 6-year terms"
     },
     {
@@ -1920,7 +1920,7 @@
       "applyUrl": "https://gov.texas.gov/organization/appointments/application",
       "sourceUrl": "https://gov.texas.gov/organization/appointments/positions",
       "statuteUrl": "http://www.statutes.legis.state.tx.us/Docs/NR/htm/NR.12.htm#12.052",
-      "lastVerified": "2026-10-19",
+      "lastVerified": "2026-10-26",
       "criticalNote": "Texas accepts applications year-round; staggered 6-year terms"
     },
     {
@@ -1935,7 +1935,7 @@
       "applyUrl": "https://gov.texas.gov/organization/appointments/application",
       "sourceUrl": "https://gov.texas.gov/organization/appointments/positions",
       "statuteUrl": "http://www.statutes.legis.state.tx.us/Docs/WA/htm/WA.46.htm#46.013",
-      "lastVerified": "2026-10-19",
+      "lastVerified": "2026-10-26",
       "criticalNote": "Texas accepts applications year-round; staggered 6-year terms"
     },
     {
@@ -1950,7 +1950,7 @@
       "applyUrl": "https://gov.texas.gov/organization/appointments/application",
       "sourceUrl": "https://gov.texas.gov/organization/appointments/positions",
       "statuteUrl": "http://www.statutes.legis.state.tx.us/Docs/WA/htm/WA.41.htm",
-      "lastVerified": "2026-10-19",
+      "lastVerified": "2026-10-26",
       "criticalNote": "Texas accepts applications year-round; staggered 6-year terms"
     },
     {
@@ -1965,7 +1965,7 @@
       "applyUrl": "https://gov.texas.gov/organization/appointments/application",
       "sourceUrl": "https://gov.texas.gov/organization/appointments/positions",
       "statuteUrl": "http://www.lrl.state.tx.us/legis/BillSearch/text.cfm?legSession=78-0&billtypeDetail=SB&billNumberDetail=1902&billSuffixDetail=&startRow=1&IDlist=&unClicklist=&number=100",
-      "lastVerified": "2026-10-19",
+      "lastVerified": "2026-10-26",
       "criticalNote": "Texas accepts applications year-round; staggered 6-year terms"
     },
     {
@@ -1980,7 +1980,7 @@
       "applyUrl": "https://gov.texas.gov/organization/appointments/application",
       "sourceUrl": "https://gov.texas.gov/organization/appointments/positions",
       "statuteUrl": "http://www.lrl.state.tx.us/legis/BillSearch/text.cfm?legSession=51-0&billtypeDetail=HB&billNumberDetail=467&billSuffixDetail=&startRow=1&IDlist=&unClicklist=&number=100",
-      "lastVerified": "2026-10-19",
+      "lastVerified": "2026-10-26",
       "criticalNote": "Texas accepts applications year-round; staggered 6-year terms"
     },
     {
@@ -1995,7 +1995,7 @@
       "applyUrl": "https://gov.texas.gov/organization/appointments/application",
       "sourceUrl": "https://gov.texas.gov/organization/appointments/positions",
       "statuteUrl": "http://www.statutes.legis.state.tx.us/Docs/WA/htm/WA.44.htm",
-      "lastVerified": "2026-10-19",
+      "lastVerified": "2026-10-26",
       "criticalNote": "Texas accepts applications year-round; staggered 6-year terms"
     },
     {
@@ -2010,7 +2010,7 @@
       "applyUrl": "https://gov.texas.gov/organization/appointments/application",
       "sourceUrl": "https://gov.texas.gov/organization/appointments/positions",
       "statuteUrl": "http://www.lrl.state.tx.us/legis/BillSearch/text.cfm?legSession=78-0&billtypeDetail=SB&billNumberDetail=526&billSuffixDetail=&startRow=1&IDlist=&unClicklist=&number=100",
-      "lastVerified": "2026-10-19",
+      "lastVerified": "2026-10-26",
       "criticalNote": "Texas accepts applications year-round; staggered 6-year terms"
     },
     {
@@ -2025,7 +2025,7 @@
       "applyUrl": "https://gov.texas.gov/organization/appointments/application",
       "sourceUrl": "https://gov.texas.gov/organization/appointments/positions",
       "statuteUrl": "http://www.statutes.legis.state.tx.us/Docs/AG/htm/AG.201.htm",
-      "lastVerified": "2026-10-19",
+      "lastVerified": "2026-10-26",
       "criticalNote": "Texas accepts applications year-round; staggered 6-year terms"
     },
     {
@@ -2040,7 +2040,7 @@
       "applyUrl": "https://gov.texas.gov/organization/appointments/application",
       "sourceUrl": "https://gov.texas.gov/organization/appointments/positions",
       "statuteUrl": "http://texreg.sos.state.tx.us/public/readtac$ext.TacPage?sl=R&app=9&p_dir=&p_rloc=&p_tloc=&p_ploc=&pg=1&p_tac=&ti=30&pt=1&ch=292&rl=1",
-      "lastVerified": "2026-10-19",
+      "lastVerified": "2026-10-26",
       "criticalNote": "Texas accepts applications year-round; staggered 6-year terms"
     },
     {
@@ -2055,7 +2055,7 @@
       "applyUrl": "https://gov.texas.gov/organization/appointments/application",
       "sourceUrl": "https://gov.texas.gov/organization/appointments/positions",
       "statuteUrl": "https://statutes.capitol.texas.gov/Docs/ED/htm/ED.67.htm#67.72",
-      "lastVerified": "2026-10-19",
+      "lastVerified": "2026-10-26",
       "criticalNote": "Texas accepts applications year-round; staggered 6-year terms"
     },
     {
@@ -2070,7 +2070,7 @@
       "applyUrl": "https://gov.texas.gov/organization/appointments/application",
       "sourceUrl": "https://gov.texas.gov/organization/appointments/positions",
       "statuteUrl": "http://www.lrl.state.tx.us/legis/billSearch/BillDetails.cfm?legsession=54-0&billTypeDetail=HB&billNumberDetail=20&billsuffixDetail=",
-      "lastVerified": "2026-10-19",
+      "lastVerified": "2026-10-26",
       "criticalNote": "Texas accepts applications year-round; staggered 6-year terms"
     },
     {
@@ -2085,7 +2085,7 @@
       "applyUrl": "https://gov.texas.gov/organization/appointments/application",
       "sourceUrl": "https://gov.texas.gov/organization/appointments/positions",
       "statuteUrl": "https://statutes.capitol.texas.gov/Docs/GV/htm/GV.451.htm#451.002",
-      "lastVerified": "2026-10-19",
+      "lastVerified": "2026-10-26",
       "criticalNote": "Texas accepts applications year-round; staggered 6-year terms"
     },
     {
@@ -2100,7 +2100,7 @@
       "applyUrl": "https://gov.texas.gov/organization/appointments/application",
       "sourceUrl": "https://gov.texas.gov/organization/appointments/positions",
       "statuteUrl": "https://statutes.capitol.texas.gov/Docs/ED/htm/ED.12.htm#12.254",
-      "lastVerified": "2026-10-19",
+      "lastVerified": "2026-10-26",
       "criticalNote": "Texas accepts applications year-round; staggered 6-year terms"
     },
     {
@@ -2115,7 +2115,7 @@
       "applyUrl": "https://gov.texas.gov/organization/appointments/application",
       "sourceUrl": "https://gov.texas.gov/organization/appointments/positions",
       "statuteUrl": "http://www.statutes.legis.state.tx.us/SOTWDocs/ED/htm/ED.30.htm#30.022",
-      "lastVerified": "2026-10-19",
+      "lastVerified": "2026-10-26",
       "criticalNote": "Texas accepts applications year-round; staggered 6-year terms"
     },
     {
@@ -2130,7 +2130,7 @@
       "applyUrl": "https://gov.texas.gov/organization/appointments/application",
       "sourceUrl": "https://gov.texas.gov/organization/appointments/positions",
       "statuteUrl": "https://statutes.capitol.texas.gov/Docs/ED/htm/ED.30.htm#30.052",
-      "lastVerified": "2026-10-19",
+      "lastVerified": "2026-10-26",
       "criticalNote": "Texas accepts applications year-round; staggered 6-year terms"
     },
     {
@@ -2145,7 +2145,7 @@
       "applyUrl": "https://gov.texas.gov/organization/appointments/application",
       "sourceUrl": "https://gov.texas.gov/organization/appointments/positions",
       "statuteUrl": "https://statutes.capitol.texas.gov/Docs/GV/htm/GV.455.htm#455.003",
-      "lastVerified": "2026-10-19",
+      "lastVerified": "2026-10-26",
       "criticalNote": "Texas accepts applications year-round; staggered 6-year terms"
     },
     {
@@ -2160,7 +2160,7 @@
       "applyUrl": "https://gov.texas.gov/organization/appointments/application",
       "sourceUrl": "https://gov.texas.gov/organization/appointments/positions",
       "statuteUrl": null,
-      "lastVerified": "2026-10-19",
+      "lastVerified": "2026-10-26",
       "criticalNote": "Texas accepts applications year-round; staggered 6-year terms"
     },
     {
@@ -2175,7 +2175,7 @@
       "applyUrl": "https://gov.texas.gov/organization/appointments/application",
       "sourceUrl": "https://gov.texas.gov/organization/appointments/positions",
       "statuteUrl": "https://statutes.capitol.texas.gov/Docs/ED/htm/ED.161.htm",
-      "lastVerified": "2026-10-19",
+      "lastVerified": "2026-10-26",
       "criticalNote": "Texas accepts applications year-round; staggered 6-year terms"
     },
     {
@@ -2190,7 +2190,7 @@
       "applyUrl": "https://gov.texas.gov/organization/appointments/application",
       "sourceUrl": "https://gov.texas.gov/organization/appointments/positions",
       "statuteUrl": "https://statutes.capitol.texas.gov/Docs/ED/htm/ED.21.htm#21.033",
-      "lastVerified": "2026-10-19",
+      "lastVerified": "2026-10-26",
       "criticalNote": "Texas accepts applications year-round; staggered 6-year terms"
     },
     {
@@ -2205,7 +2205,7 @@
       "applyUrl": "https://gov.texas.gov/organization/appointments/application",
       "sourceUrl": "https://gov.texas.gov/organization/appointments/positions",
       "statuteUrl": "http://www.statutes.legis.state.tx.us/SOTWDocs/ED/htm/ED.105.htm#105.301",
-      "lastVerified": "2026-10-19",
+      "lastVerified": "2026-10-26",
       "criticalNote": "Texas accepts applications year-round; staggered 6-year terms"
     },
     {
@@ -2220,7 +2220,7 @@
       "applyUrl": "https://gov.texas.gov/organization/appointments/application",
       "sourceUrl": "https://gov.texas.gov/organization/appointments/positions",
       "statuteUrl": "https://statutes.capitol.texas.gov/Docs/ED/htm/ED.29.htm#29.552",
-      "lastVerified": "2026-10-19",
+      "lastVerified": "2026-10-26",
       "criticalNote": "Texas accepts applications year-round; staggered 6-year terms"
     },
     {
@@ -2235,7 +2235,7 @@
       "applyUrl": "https://gov.texas.gov/organization/appointments/application",
       "sourceUrl": "https://gov.texas.gov/organization/appointments/positions",
       "statuteUrl": "http://www.statutes.legis.state.tx.us/SOTWDocs/ED/htm/ED.29.htm#29.006",
-      "lastVerified": "2026-10-19",
+      "lastVerified": "2026-10-26",
       "criticalNote": "Texas accepts applications year-round; staggered 6-year terms"
     },
     {
@@ -2250,7 +2250,7 @@
       "applyUrl": "https://gov.texas.gov/organization/appointments/application",
       "sourceUrl": "https://gov.texas.gov/organization/appointments/positions",
       "statuteUrl": "http://www.statutes.legis.state.tx.us/Docs/GV/htm/GV.414.htm",
-      "lastVerified": "2026-10-19",
+      "lastVerified": "2026-10-26",
       "criticalNote": "Texas accepts applications year-round; staggered 6-year terms"
     },
     {
@@ -2265,7 +2265,7 @@
       "applyUrl": "https://gov.texas.gov/organization/appointments/application",
       "sourceUrl": "https://gov.texas.gov/organization/appointments/positions",
       "statuteUrl": "http://www.statutes.legis.state.tx.us/Docs/ED/htm/ED.96.htm#96.651",
-      "lastVerified": "2026-10-19",
+      "lastVerified": "2026-10-26",
       "criticalNote": "Texas accepts applications year-round; staggered 6-year terms"
     },
     {
@@ -2280,7 +2280,7 @@
       "applyUrl": "https://gov.texas.gov/organization/appointments/application",
       "sourceUrl": "https://gov.texas.gov/organization/appointments/positions",
       "statuteUrl": "http://www.statutes.legis.state.tx.us/Docs/HS/htm/HS.771.htm#771.031",
-      "lastVerified": "2026-10-19",
+      "lastVerified": "2026-10-26",
       "criticalNote": "Texas accepts applications year-round; staggered 6-year terms"
     },
     {
@@ -2295,7 +2295,7 @@
       "applyUrl": "https://gov.texas.gov/organization/appointments/application",
       "sourceUrl": "https://gov.texas.gov/organization/appointments/positions",
       "statuteUrl": "https://statutes.capitol.texas.gov/Docs/GV/htm/GV.418.htm#418.041",
-      "lastVerified": "2026-10-19",
+      "lastVerified": "2026-10-26",
       "criticalNote": "Texas accepts applications year-round; staggered 6-year terms"
     },
     {
@@ -2310,7 +2310,7 @@
       "applyUrl": "https://gov.texas.gov/organization/appointments/application",
       "sourceUrl": "https://gov.texas.gov/organization/appointments/positions",
       "statuteUrl": "https://statutes.capitol.texas.gov/Docs/GV/htm/GV.438.htm#438.102",
-      "lastVerified": "2026-10-19",
+      "lastVerified": "2026-10-26",
       "criticalNote": "Texas accepts applications year-round; staggered 6-year terms"
     },
     {
@@ -2325,7 +2325,7 @@
       "applyUrl": "https://gov.texas.gov/organization/appointments/application",
       "sourceUrl": "https://gov.texas.gov/organization/appointments/positions",
       "statuteUrl": "https://statutes.capitol.texas.gov/Docs/TN/htm/TN.1006.htm",
-      "lastVerified": "2026-10-19",
+      "lastVerified": "2026-10-26",
       "criticalNote": "Texas accepts applications year-round; staggered 6-year terms"
     },
     {
@@ -2340,7 +2340,7 @@
       "applyUrl": "https://gov.texas.gov/organization/appointments/application",
       "sourceUrl": "https://gov.texas.gov/organization/appointments/positions",
       "statuteUrl": "http://www.statutes.legis.state.tx.us/Docs/UT/htm/UT.251.htm",
-      "lastVerified": "2026-10-19",
+      "lastVerified": "2026-10-26",
       "criticalNote": "Texas accepts applications year-round; staggered 6-year terms"
     },
     {
@@ -2355,7 +2355,7 @@
       "applyUrl": "https://gov.texas.gov/organization/appointments/application",
       "sourceUrl": "https://gov.texas.gov/organization/appointments/positions",
       "statuteUrl": "http://www.statutes.legis.state.tx.us/Docs/GV/htm/GV.508.htm#508.031",
-      "lastVerified": "2026-10-19",
+      "lastVerified": "2026-10-26",
       "criticalNote": "Texas accepts applications year-round; staggered 6-year terms",
       "mandate": "Decides parole, mandatory supervision and clemency recommendations in Texas. Seven full-time members appointed by the Governor with Senate consent (Tex. Gov't Code 508.031).",
       "seatSource": "https://statutes.capitol.texas.gov/Docs/GV/htm/GV.508.htm"
@@ -2372,7 +2372,7 @@
       "applyUrl": "https://gov.texas.gov/organization/appointments/application",
       "sourceUrl": "https://gov.texas.gov/organization/appointments/positions",
       "statuteUrl": "http://www.statutes.legis.state.tx.us/Docs/ED/htm/ED.37.htm",
-      "lastVerified": "2026-10-19",
+      "lastVerified": "2026-10-26",
       "criticalNote": "Texas accepts applications year-round; staggered 6-year terms"
     },
     {
@@ -2387,7 +2387,7 @@
       "applyUrl": "https://gov.texas.gov/organization/appointments/application",
       "sourceUrl": "https://gov.texas.gov/organization/appointments/positions",
       "statuteUrl": "https://statutes.capitol.texas.gov/Docs/CR/htm/CR.67.htm#67.303",
-      "lastVerified": "2026-10-19",
+      "lastVerified": "2026-10-26",
       "criticalNote": "Texas accepts applications year-round; staggered 6-year terms"
     },
     {
@@ -2402,7 +2402,7 @@
       "applyUrl": "https://gov.texas.gov/organization/appointments/application",
       "sourceUrl": "https://gov.texas.gov/organization/appointments/positions",
       "statuteUrl": "http://www.statutes.legis.state.tx.us/Docs/AL/htm/AL.5.htm",
-      "lastVerified": "2026-10-19",
+      "lastVerified": "2026-10-26",
       "criticalNote": "Texas accepts applications year-round; staggered 6-year terms"
     },
     {
@@ -2417,7 +2417,7 @@
       "applyUrl": "https://gov.texas.gov/organization/appointments/application",
       "sourceUrl": "https://gov.texas.gov/organization/appointments/positions",
       "statuteUrl": "http://texreg.sos.state.tx.us/public/readtac$ext.ViewTAC?tac_view=3&ti=4&pt=2",
-      "lastVerified": "2026-10-19",
+      "lastVerified": "2026-10-26",
       "criticalNote": "Texas accepts applications year-round; staggered 6-year terms",
       "mandate": "Protects Texas livestock and poultry from disease. Thirteen members appointed by the Governor with Senate consent, representing named livestock sectors and the public (Tex. Agric. Code 161.052).",
       "seatSource": "https://statutes.capitol.texas.gov/Docs/AG/htm/AG.161.htm"
@@ -2434,7 +2434,7 @@
       "applyUrl": "https://gov.texas.gov/organization/appointments/application",
       "sourceUrl": "https://gov.texas.gov/organization/appointments/positions",
       "statuteUrl": "http://www.statutes.legis.state.tx.us/Docs/FI/htm/FI.15.htm",
-      "lastVerified": "2026-10-19",
+      "lastVerified": "2026-10-26",
       "criticalNote": "Texas accepts applications year-round; staggered 6-year terms"
     },
     {
@@ -2449,7 +2449,7 @@
       "applyUrl": "https://gov.texas.gov/organization/appointments/application",
       "sourceUrl": "https://gov.texas.gov/organization/appointments/positions",
       "statuteUrl": "http://www.statutes.legis.state.tx.us/Docs/FI/htm/FI.11.htm",
-      "lastVerified": "2026-10-19",
+      "lastVerified": "2026-10-26",
       "criticalNote": "Texas accepts applications year-round; staggered 6-year terms"
     },
     {
@@ -2464,7 +2464,7 @@
       "applyUrl": "https://gov.texas.gov/organization/appointments/application",
       "sourceUrl": "https://gov.texas.gov/organization/appointments/positions",
       "statuteUrl": "http://www.statutes.legis.state.tx.us/Docs/GV/htm/GV.419.htm",
-      "lastVerified": "2026-10-19",
+      "lastVerified": "2026-10-26",
       "criticalNote": "Texas accepts applications year-round; staggered 6-year terms"
     },
     {
@@ -2479,7 +2479,7 @@
       "applyUrl": "https://gov.texas.gov/organization/appointments/application",
       "sourceUrl": "https://gov.texas.gov/organization/appointments/positions",
       "statuteUrl": "http://www.statutes.legis.state.tx.us/Docs/CR/htm/CR.38.htm#38.01",
-      "lastVerified": "2026-10-19",
+      "lastVerified": "2026-10-26",
       "criticalNote": "Texas accepts applications year-round; staggered 6-year terms"
     },
     {
@@ -2494,7 +2494,7 @@
       "applyUrl": "https://gov.texas.gov/organization/appointments/application",
       "sourceUrl": "https://gov.texas.gov/organization/appointments/positions",
       "statuteUrl": "https://texreg.sos.state.tx.us/public/readtac$ext.ViewTAC?tac_view=3&ti=22&pt=10",
-      "lastVerified": "2026-10-19",
+      "lastVerified": "2026-10-26",
       "criticalNote": "Texas accepts applications year-round; staggered 6-year terms"
     },
     {
@@ -2509,7 +2509,7 @@
       "applyUrl": "https://gov.texas.gov/organization/appointments/application",
       "sourceUrl": "https://gov.texas.gov/organization/appointments/positions",
       "statuteUrl": "http://www.statutes.legis.state.tx.us/Docs/TN/htm/TN.67.htm#67.011",
-      "lastVerified": "2026-10-19",
+      "lastVerified": "2026-10-26",
       "criticalNote": "Texas accepts applications year-round; staggered 6-year terms"
     },
     {
@@ -2524,7 +2524,7 @@
       "applyUrl": "https://gov.texas.gov/organization/appointments/application",
       "sourceUrl": "https://gov.texas.gov/organization/appointments/positions",
       "statuteUrl": "https://statutes.capitol.texas.gov/Docs/TN/htm/TN.66.htm#66.011",
-      "lastVerified": "2026-10-19",
+      "lastVerified": "2026-10-26",
       "criticalNote": "Texas accepts applications year-round; staggered 6-year terms"
     },
     {
@@ -2539,7 +2539,7 @@
       "applyUrl": "https://gov.texas.gov/organization/appointments/application",
       "sourceUrl": "https://gov.texas.gov/organization/appointments/positions",
       "statuteUrl": "https://statutes.capitol.texas.gov/Docs/OC/htm/OC.1202.htm#1202.051",
-      "lastVerified": "2026-10-19",
+      "lastVerified": "2026-10-26",
       "criticalNote": "Texas accepts applications year-round; staggered 6-year terms"
     },
     {
@@ -2554,7 +2554,7 @@
       "applyUrl": "https://gov.texas.gov/organization/appointments/application",
       "sourceUrl": "https://gov.texas.gov/organization/appointments/positions",
       "statuteUrl": "http://www.statutes.legis.state.tx.us/Docs/TN/htm/TN.69.htm#69.011",
-      "lastVerified": "2026-10-19",
+      "lastVerified": "2026-10-26",
       "criticalNote": "Texas accepts applications year-round; staggered 6-year terms"
     },
     {
@@ -2569,7 +2569,7 @@
       "applyUrl": "https://gov.texas.gov/organization/appointments/application",
       "sourceUrl": "https://gov.texas.gov/organization/appointments/positions",
       "statuteUrl": "http://www.statutes.legis.state.tx.us/Docs/OC/htm/OC.1701.htm#1701.051",
-      "lastVerified": "2026-10-19",
+      "lastVerified": "2026-10-26",
       "criticalNote": "Texas accepts applications year-round; staggered 6-year terms"
     },
     {
@@ -2584,7 +2584,7 @@
       "applyUrl": "https://gov.texas.gov/organization/appointments/application",
       "sourceUrl": "https://gov.texas.gov/organization/appointments/positions",
       "statuteUrl": "http://www.statutes.legis.state.tx.us/Docs/OC/htm/OC.1201.htm",
-      "lastVerified": "2026-10-19",
+      "lastVerified": "2026-10-26",
       "criticalNote": "Texas accepts applications year-round; staggered 6-year terms"
     },
     {
@@ -2599,7 +2599,7 @@
       "applyUrl": "https://gov.texas.gov/organization/appointments/application",
       "sourceUrl": "https://gov.texas.gov/organization/appointments/positions",
       "statuteUrl": "http://www.statutes.legis.state.tx.us/Docs/UT/htm/UT.12.htm#12.051",
-      "lastVerified": "2026-10-19",
+      "lastVerified": "2026-10-26",
       "criticalNote": "Texas accepts applications year-round; staggered 6-year terms",
       "mandate": "Regulates Texas's electric, water, and telecommunications utilities and oversees the state's power grid. Five commissioners appointed by the Governor with Senate consent, six-year staggered terms (Tex. Util. Code 12.051).",
       "seatSource": "https://statutes.capitol.texas.gov/Docs/UT/htm/UT.12.htm"
@@ -2616,7 +2616,7 @@
       "applyUrl": "https://gov.texas.gov/organization/appointments/application",
       "sourceUrl": "https://gov.texas.gov/organization/appointments/positions",
       "statuteUrl": "http://www.statutes.legis.state.tx.us/Docs/CV/htm/CV.6.0.htm#179e",
-      "lastVerified": "2026-10-19",
+      "lastVerified": "2026-10-26",
       "criticalNote": "Texas accepts applications year-round; staggered 6-year terms"
     },
     {
@@ -2631,7 +2631,7 @@
       "applyUrl": "https://gov.texas.gov/organization/appointments/application",
       "sourceUrl": "https://gov.texas.gov/organization/appointments/positions",
       "statuteUrl": "http://www.statutes.legis.state.tx.us/Docs/HS/htm/HS.401.htm#401.015",
-      "lastVerified": "2026-10-19",
+      "lastVerified": "2026-10-26",
       "criticalNote": "Texas accepts applications year-round; staggered 6-year terms"
     },
     {
@@ -2646,7 +2646,7 @@
       "applyUrl": "https://gov.texas.gov/organization/appointments/application",
       "sourceUrl": "https://gov.texas.gov/organization/appointments/positions",
       "statuteUrl": null,
-      "lastVerified": "2026-10-19",
+      "lastVerified": "2026-10-26",
       "criticalNote": "Texas accepts applications year-round; staggered 6-year terms"
     },
     {
@@ -2661,7 +2661,7 @@
       "applyUrl": "https://gov.texas.gov/organization/appointments/application",
       "sourceUrl": "https://gov.texas.gov/organization/appointments/positions",
       "statuteUrl": "http://www.statutes.legis.state.tx.us/Docs/OC/htm/OC.110.htm",
-      "lastVerified": "2026-10-19",
+      "lastVerified": "2026-10-26",
       "criticalNote": "Texas accepts applications year-round; staggered 6-year terms"
     },
     {
@@ -2676,7 +2676,7 @@
       "applyUrl": "https://gov.texas.gov/organization/appointments/application",
       "sourceUrl": "https://gov.texas.gov/organization/appointments/positions",
       "statuteUrl": "http://www.statutes.legis.state.tx.us/Docs/WA/htm/WA.5.htm#5.135",
-      "lastVerified": "2026-10-19",
+      "lastVerified": "2026-10-26",
       "criticalNote": "Texas accepts applications year-round; staggered 6-year terms"
     },
     {
@@ -2691,7 +2691,7 @@
       "applyUrl": "https://gov.texas.gov/organization/appointments/application",
       "sourceUrl": "https://gov.texas.gov/organization/appointments/positions",
       "statuteUrl": "http://www.statutes.legis.state.tx.us/Docs/LA/htm/LA.402.htm#402.00117",
-      "lastVerified": "2026-10-19",
+      "lastVerified": "2026-10-26",
       "criticalNote": "Texas accepts applications year-round; staggered 6-year terms"
     },
     {
@@ -2706,7 +2706,7 @@
       "applyUrl": "https://gov.texas.gov/organization/appointments/application",
       "sourceUrl": "https://gov.texas.gov/organization/appointments/positions",
       "statuteUrl": "http://www.statutes.legis.state.tx.us/Docs/OC/htm/OC.901.htm#901.051",
-      "lastVerified": "2026-10-19",
+      "lastVerified": "2026-10-26",
       "criticalNote": "Texas accepts applications year-round; staggered 6-year terms",
       "mandate": "Licenses and disciplines Texas's certified public accountants. Fifteen members appointed by the Governor with Senate consent — ten CPAs and five public members (Tex. Occ. Code 901.051).",
       "seatSource": "https://statutes.capitol.texas.gov/Docs/OC/htm/OC.901.htm"
@@ -2723,7 +2723,7 @@
       "applyUrl": "https://gov.texas.gov/organization/appointments/application",
       "sourceUrl": "https://gov.texas.gov/organization/appointments/positions",
       "statuteUrl": "http://www.statutes.legis.state.tx.us/Docs/OC/htm/OC.205.htm#205.051",
-      "lastVerified": "2026-10-19",
+      "lastVerified": "2026-10-26",
       "criticalNote": "Texas accepts applications year-round; staggered 6-year terms"
     },
     {
@@ -2738,7 +2738,7 @@
       "applyUrl": "https://gov.texas.gov/organization/appointments/application",
       "sourceUrl": "https://gov.texas.gov/organization/appointments/positions",
       "statuteUrl": "https://statutes.capitol.texas.gov/Docs/OC/htm/OC.1103.htm#1103.159",
-      "lastVerified": "2026-10-19",
+      "lastVerified": "2026-10-26",
       "criticalNote": "Texas accepts applications year-round; staggered 6-year terms"
     },
     {
@@ -2753,7 +2753,7 @@
       "applyUrl": "https://gov.texas.gov/organization/appointments/application",
       "sourceUrl": "https://gov.texas.gov/organization/appointments/positions",
       "statuteUrl": "http://www.statutes.legis.state.tx.us/Docs/OC/htm/OC.1103.htm#1103.051",
-      "lastVerified": "2026-10-19",
+      "lastVerified": "2026-10-26",
       "criticalNote": "Texas accepts applications year-round; staggered 6-year terms"
     },
     {
@@ -2768,7 +2768,7 @@
       "applyUrl": "https://gov.texas.gov/organization/appointments/application",
       "sourceUrl": "https://gov.texas.gov/organization/appointments/positions",
       "statuteUrl": "http://www.statutes.legis.state.tx.us/Docs/OC/htm/OC.1051.htm",
-      "lastVerified": "2026-10-19",
+      "lastVerified": "2026-10-26",
       "criticalNote": "Texas accepts applications year-round; staggered 6-year terms"
     },
     {
@@ -2783,7 +2783,7 @@
       "applyUrl": "https://gov.texas.gov/organization/appointments/application",
       "sourceUrl": "https://gov.texas.gov/organization/appointments/positions",
       "statuteUrl": "http://www.statutes.legis.state.tx.us/Docs/OC/htm/OC.201.htm#201.051",
-      "lastVerified": "2026-10-19",
+      "lastVerified": "2026-10-26",
       "criticalNote": "Texas accepts applications year-round; staggered 6-year terms",
       "mandate": "Licenses and disciplines Texas's chiropractors. Nine members appointed by the Governor with Senate consent — six chiropractors and three public members (Tex. Occ. Code 201.051).",
       "seatSource": "https://statutes.capitol.texas.gov/Docs/OC/htm/OC.201.htm"
@@ -2800,7 +2800,7 @@
       "applyUrl": "https://gov.texas.gov/organization/appointments/application",
       "sourceUrl": "https://gov.texas.gov/organization/appointments/positions",
       "statuteUrl": "http://www.statutes.legis.state.tx.us/Docs/OC/htm/OC.503.htm#503.101",
-      "lastVerified": "2026-10-19",
+      "lastVerified": "2026-10-26",
       "criticalNote": "Texas accepts applications year-round; staggered 6-year terms"
     },
     {
@@ -2815,7 +2815,7 @@
       "applyUrl": "https://gov.texas.gov/organization/appointments/application",
       "sourceUrl": "https://gov.texas.gov/organization/appointments/positions",
       "statuteUrl": "http://www.statutes.legis.state.tx.us/Docs/OC/htm/OC.251.htm",
-      "lastVerified": "2026-10-19",
+      "lastVerified": "2026-10-26",
       "criticalNote": "Texas accepts applications year-round; staggered 6-year terms",
       "mandate": "Licenses and disciplines Texas's dentists and dental hygienists. Eleven members appointed by the Governor with Senate consent — six dentists, three hygienists, and two public members (Tex. Occ. Code 254.001).",
       "seatSource": "https://statutes.capitol.texas.gov/Docs/OC/htm/OC.254.htm"
@@ -2832,7 +2832,7 @@
       "applyUrl": "https://gov.texas.gov/organization/appointments/application",
       "sourceUrl": "https://gov.texas.gov/organization/appointments/positions",
       "statuteUrl": "https://statutes.capitol.texas.gov/Docs/OC/htm/OC.263.htm#263.0071",
-      "lastVerified": "2026-10-19",
+      "lastVerified": "2026-10-26",
       "criticalNote": "Texas accepts applications year-round; staggered 6-year terms"
     },
     {
@@ -2847,7 +2847,7 @@
       "applyUrl": "https://gov.texas.gov/organization/appointments/application",
       "sourceUrl": "https://gov.texas.gov/organization/appointments/positions",
       "statuteUrl": "http://www.statutes.legis.state.tx.us/Docs/OC/htm/OC.1001.htm#1001.101",
-      "lastVerified": "2026-10-19",
+      "lastVerified": "2026-10-26",
       "criticalNote": "Texas accepts applications year-round; staggered 6-year terms"
     },
     {
@@ -2862,7 +2862,7 @@
       "applyUrl": "https://gov.texas.gov/organization/appointments/application",
       "sourceUrl": "https://gov.texas.gov/organization/appointments/positions",
       "statuteUrl": "http://www.statutes.legis.state.tx.us/docs/OC/htm/OC.1002.htm#1002.051",
-      "lastVerified": "2026-10-19",
+      "lastVerified": "2026-10-26",
       "criticalNote": "Texas accepts applications year-round; staggered 6-year terms"
     },
     {
@@ -2877,7 +2877,7 @@
       "applyUrl": "https://gov.texas.gov/organization/appointments/application",
       "sourceUrl": "https://gov.texas.gov/organization/appointments/positions",
       "statuteUrl": "http://www.statutes.legis.state.tx.us/Docs/GV/htm/GV.33.htm",
-      "lastVerified": "2026-10-19",
+      "lastVerified": "2026-10-26",
       "criticalNote": "Texas accepts applications year-round; staggered 6-year terms"
     },
     {
@@ -2892,7 +2892,7 @@
       "applyUrl": "https://gov.texas.gov/organization/appointments/application",
       "sourceUrl": "https://gov.texas.gov/organization/appointments/positions",
       "statuteUrl": "http://www.statutes.legis.state.tx.us/Docs/OC/htm/OC.1071.htm#1071.051",
-      "lastVerified": "2026-10-19",
+      "lastVerified": "2026-10-26",
       "criticalNote": "Texas accepts applications year-round; staggered 6-year terms"
     },
     {
@@ -2907,7 +2907,7 @@
       "applyUrl": "https://gov.texas.gov/organization/appointments/application",
       "sourceUrl": "https://gov.texas.gov/organization/appointments/positions",
       "statuteUrl": "https://texreg.sos.state.tx.us/public/readtac$ext.TacPage?sl=R&app=9&p_dir=&p_rloc=&p_tloc=&p_ploc=&pg=1&p_tac=&ti=22&pt=9&ch=191&rl=2",
-      "lastVerified": "2026-10-19",
+      "lastVerified": "2026-10-26",
       "criticalNote": "Texas accepts applications year-round; staggered 6-year terms"
     },
     {
@@ -2922,7 +2922,7 @@
       "applyUrl": "https://gov.texas.gov/organization/appointments/application",
       "sourceUrl": "https://gov.texas.gov/organization/appointments/positions",
       "statuteUrl": "https://texreg.sos.state.tx.us/public/readtac$ext.TacPage?sl=R&app=9&p_dir=&p_rloc=&p_tloc=&p_ploc=&pg=1&p_tac=&ti=22&pt=9&ch=191&rl=2",
-      "lastVerified": "2026-10-19",
+      "lastVerified": "2026-10-26",
       "criticalNote": "Texas accepts applications year-round; staggered 6-year terms"
     },
     {
@@ -2937,7 +2937,7 @@
       "applyUrl": "https://gov.texas.gov/organization/appointments/application",
       "sourceUrl": "https://gov.texas.gov/organization/appointments/positions",
       "statuteUrl": "https://texreg.sos.state.tx.us/public/readtac$ext.TacPage?sl=R&app=9&p_dir=&p_rloc=&p_tloc=&p_ploc=&pg=1&p_tac=&ti=22&pt=9&ch=191&rl=2",
-      "lastVerified": "2026-10-19",
+      "lastVerified": "2026-10-26",
       "criticalNote": "Texas accepts applications year-round; staggered 6-year terms"
     },
     {
@@ -2952,7 +2952,7 @@
       "applyUrl": "https://gov.texas.gov/organization/appointments/application",
       "sourceUrl": "https://gov.texas.gov/organization/appointments/positions",
       "statuteUrl": "https://texreg.sos.state.tx.us/public/readtac$ext.TacPage?sl=R&app=9&p_dir=&p_rloc=&p_tloc=&p_ploc=&pg=1&p_tac=&ti=22&pt=9&ch=191&rl=2",
-      "lastVerified": "2026-10-19",
+      "lastVerified": "2026-10-26",
       "criticalNote": "Texas accepts applications year-round; staggered 6-year terms"
     },
     {
@@ -2967,7 +2967,7 @@
       "applyUrl": "https://gov.texas.gov/organization/appointments/application",
       "sourceUrl": "https://gov.texas.gov/organization/appointments/positions",
       "statuteUrl": "http://www.statutes.legis.state.tx.us/Docs/OC/htm/OC.151.htm",
-      "lastVerified": "2026-10-19",
+      "lastVerified": "2026-10-26",
       "criticalNote": "Texas accepts applications year-round; staggered 6-year terms",
       "mandate": "Licenses and disciplines Texas's physicians. Nineteen members appointed by the Governor with Senate consent — twelve physicians (nine M.D., three D.O.) and seven public members (Tex. Occ. Code 152.002).",
       "seatSource": "https://statutes.capitol.texas.gov/Docs/OC/htm/OC.152.htm"
@@ -2984,7 +2984,7 @@
       "applyUrl": "https://gov.texas.gov/organization/appointments/application",
       "sourceUrl": "https://gov.texas.gov/organization/appointments/positions",
       "statuteUrl": "http://www.statutes.legis.state.tx.us/Docs/OC/htm/OC.601.htm",
-      "lastVerified": "2026-10-19",
+      "lastVerified": "2026-10-26",
       "criticalNote": "Texas accepts applications year-round; staggered 6-year terms"
     },
     {
@@ -2999,7 +2999,7 @@
       "applyUrl": "https://gov.texas.gov/organization/appointments/application",
       "sourceUrl": "https://gov.texas.gov/organization/appointments/positions",
       "statuteUrl": "http://www.statutes.legis.state.tx.us/Docs/HS/htm/HS.242.htm#242.303",
-      "lastVerified": "2026-10-19",
+      "lastVerified": "2026-10-26",
       "criticalNote": "Texas accepts applications year-round; staggered 6-year terms"
     },
     {
@@ -3014,7 +3014,7 @@
       "applyUrl": "https://gov.texas.gov/organization/appointments/application",
       "sourceUrl": "https://gov.texas.gov/organization/appointments/positions",
       "statuteUrl": "http://www.statutes.legis.state.tx.us/Docs/OC/htm/OC.301.htm#301.051",
-      "lastVerified": "2026-10-19",
+      "lastVerified": "2026-10-26",
       "criticalNote": "Texas accepts applications year-round; staggered 6-year terms",
       "mandate": "Licenses and regulates Texas's nurses. Fifteen members appointed by the Governor with Senate consent — nurse members (RN, APRN, LVN), nurse-faculty, and public members (Tex. Occ. Code 301.051; expanded from 13 in 2023).",
       "seatSource": "https://statutes.capitol.texas.gov/Docs/OC/htm/OC.301.htm"
@@ -3031,7 +3031,7 @@
       "applyUrl": "https://gov.texas.gov/organization/appointments/application",
       "sourceUrl": "https://gov.texas.gov/organization/appointments/positions",
       "statuteUrl": "http://www.statutes.legis.state.tx.us/Docs/OC/htm/OC.454.htm#454.051",
-      "lastVerified": "2026-10-19",
+      "lastVerified": "2026-10-26",
       "criticalNote": "Texas accepts applications year-round; staggered 6-year terms"
     },
     {
@@ -3046,7 +3046,7 @@
       "applyUrl": "https://gov.texas.gov/organization/appointments/application",
       "sourceUrl": "https://gov.texas.gov/organization/appointments/positions",
       "statuteUrl": "http://www.statutes.legis.state.tx.us/SOTWDocs/OC/htm/OC.351.htm#351.051",
-      "lastVerified": "2026-10-19",
+      "lastVerified": "2026-10-26",
       "criticalNote": "Texas accepts applications year-round; staggered 6-year terms",
       "mandate": "Licenses and regulates Texas's optometrists. Nine members appointed by the Governor with Senate consent — six optometrists and three public members (Tex. Occ. Code 351.051).",
       "seatSource": "https://statutes.capitol.texas.gov/Docs/OC/htm/OC.351.htm"
@@ -3063,7 +3063,7 @@
       "applyUrl": "https://gov.texas.gov/organization/appointments/application",
       "sourceUrl": "https://gov.texas.gov/organization/appointments/positions",
       "statuteUrl": "http://www.statutes.legis.state.tx.us/Docs/OC/htm/OC.552.htm",
-      "lastVerified": "2026-10-19",
+      "lastVerified": "2026-10-26",
       "criticalNote": "Texas accepts applications year-round; staggered 6-year terms",
       "mandate": "Licenses pharmacists and regulates pharmacy practice in Texas. Eleven members appointed by the Governor with Senate consent — seven pharmacists, one pharmacy technician, and three public members (Tex. Occ. Code 555).",
       "seatSource": "https://statutes.capitol.texas.gov/Docs/OC/htm/OC.555.htm"
@@ -3080,7 +3080,7 @@
       "applyUrl": "https://gov.texas.gov/organization/appointments/application",
       "sourceUrl": "https://gov.texas.gov/organization/appointments/positions",
       "statuteUrl": "http://www.statutes.legis.state.tx.us/Docs/OC/htm/OC.452.htm#452.051",
-      "lastVerified": "2026-10-19",
+      "lastVerified": "2026-10-26",
       "criticalNote": "Texas accepts applications year-round; staggered 6-year terms"
     },
     {
@@ -3095,7 +3095,7 @@
       "applyUrl": "https://gov.texas.gov/organization/appointments/application",
       "sourceUrl": "https://gov.texas.gov/organization/appointments/positions",
       "statuteUrl": "http://www.statutes.legis.state.tx.us/Docs/OC/htm/OC.453.htm#453.051",
-      "lastVerified": "2026-10-19",
+      "lastVerified": "2026-10-26",
       "criticalNote": "Texas accepts applications year-round; staggered 6-year terms",
       "mandate": "Licenses and regulates Texas's physical therapists and PT assistants. Nine members appointed by the Governor with Senate consent — six physical therapists and three public members (Tex. Occ. Code 453.051).",
       "seatSource": "https://statutes.capitol.texas.gov/Docs/OC/htm/OC.453.htm"
@@ -3112,7 +3112,7 @@
       "applyUrl": "https://gov.texas.gov/organization/appointments/application",
       "sourceUrl": "https://gov.texas.gov/organization/appointments/positions",
       "statuteUrl": "http://www.statutes.legis.state.tx.us/Docs/OC/htm/OC.204.htm#204.051",
-      "lastVerified": "2026-10-19",
+      "lastVerified": "2026-10-26",
       "criticalNote": "Texas accepts applications year-round; staggered 6-year terms"
     },
     {
@@ -3127,7 +3127,7 @@
       "applyUrl": "https://gov.texas.gov/organization/appointments/application",
       "sourceUrl": "https://gov.texas.gov/organization/appointments/positions",
       "statuteUrl": "http://www.statutes.legis.state.tx.us/Docs/OC/htm/OC.1301.htm#1301.151",
-      "lastVerified": "2026-10-19",
+      "lastVerified": "2026-10-26",
       "criticalNote": "Texas accepts applications year-round; staggered 6-year terms"
     },
     {
@@ -3142,7 +3142,7 @@
       "applyUrl": "https://gov.texas.gov/organization/appointments/application",
       "sourceUrl": "https://gov.texas.gov/organization/appointments/positions",
       "statuteUrl": "https://statutes.capitol.texas.gov/Docs/OC/htm/OC.202.htm#202.051",
-      "lastVerified": "2026-10-19",
+      "lastVerified": "2026-10-26",
       "criticalNote": "Texas accepts applications year-round; staggered 6-year terms"
     },
     {
@@ -3157,7 +3157,7 @@
       "applyUrl": "https://gov.texas.gov/organization/appointments/application",
       "sourceUrl": "https://gov.texas.gov/organization/appointments/positions",
       "statuteUrl": "http://www.statutes.legis.state.tx.us/Docs/OC/htm/OC.501.htm#501.051",
-      "lastVerified": "2026-10-19",
+      "lastVerified": "2026-10-26",
       "criticalNote": "Texas accepts applications year-round; staggered 6-year terms"
     },
     {
@@ -3172,7 +3172,7 @@
       "applyUrl": "https://gov.texas.gov/organization/appointments/application",
       "sourceUrl": "https://gov.texas.gov/organization/appointments/positions",
       "statuteUrl": "http://www.statutes.legis.state.tx.us/Docs/OC/htm/OC.1101.htm#1101.051",
-      "lastVerified": "2026-10-19",
+      "lastVerified": "2026-10-26",
       "criticalNote": "Texas accepts applications year-round; staggered 6-year terms",
       "mandate": "Licenses and regulates Texas's real estate brokers and sales agents. Nine members appointed by the Governor with Senate consent — six brokers and three public members (Tex. Occ. Code 1101.051).",
       "seatSource": "https://statutes.capitol.texas.gov/Docs/OC/htm/OC.1101.htm"
@@ -3189,7 +3189,7 @@
       "applyUrl": "https://gov.texas.gov/organization/appointments/application",
       "sourceUrl": "https://gov.texas.gov/organization/appointments/positions",
       "statuteUrl": "http://www.legis.state.tx.us/tlodocs/84R/billtext/html/SB00202F.HTM",
-      "lastVerified": "2026-10-19",
+      "lastVerified": "2026-10-26",
       "criticalNote": "Texas accepts applications year-round; staggered 6-year terms"
     },
     {
@@ -3204,7 +3204,7 @@
       "applyUrl": "https://gov.texas.gov/organization/appointments/application",
       "sourceUrl": "https://gov.texas.gov/organization/appointments/positions",
       "statuteUrl": "http://www.statutes.legis.state.tx.us/Docs/OC/htm/OC.505.htm#505.101",
-      "lastVerified": "2026-10-19",
+      "lastVerified": "2026-10-26",
       "criticalNote": "Texas accepts applications year-round; staggered 6-year terms"
     },
     {
@@ -3219,7 +3219,7 @@
       "applyUrl": "https://gov.texas.gov/organization/appointments/application",
       "sourceUrl": "https://gov.texas.gov/organization/appointments/positions",
       "statuteUrl": "http://www.statutes.legis.state.tx.us/Docs/OC/htm/OC.801.htm#801.051",
-      "lastVerified": "2026-10-19",
+      "lastVerified": "2026-10-26",
       "criticalNote": "Texas accepts applications year-round; staggered 6-year terms",
       "mandate": "Licenses and disciplines Texas's veterinarians and veterinary technicians. Nine members appointed by the Governor with Senate consent — veterinarians, a veterinary technician, and public members (Tex. Occ. Code 801.051).",
       "seatSource": "https://statutes.capitol.texas.gov/Docs/OC/htm/OC.801.htm"
@@ -3236,7 +3236,7 @@
       "applyUrl": "https://gov.texas.gov/organization/appointments/application",
       "sourceUrl": "https://gov.texas.gov/organization/appointments/positions",
       "statuteUrl": "https://statutes.capitol.texas.gov/Docs/BC/htm/BC.554.htm#554.002",
-      "lastVerified": "2026-10-19",
+      "lastVerified": "2026-10-26",
       "criticalNote": "Texas accepts applications year-round; staggered 6-year terms"
     },
     {
@@ -3251,7 +3251,7 @@
       "applyUrl": "https://gov.texas.gov/organization/appointments/application",
       "sourceUrl": "https://gov.texas.gov/organization/appointments/positions",
       "statuteUrl": "https://statutes.capitol.texas.gov/Docs/GV/htm/GV.2054.htm#2054.705",
-      "lastVerified": "2026-10-19",
+      "lastVerified": "2026-10-26",
       "criticalNote": "Texas accepts applications year-round; staggered 6-year terms"
     },
     {
@@ -3266,7 +3266,7 @@
       "applyUrl": "https://gov.texas.gov/organization/appointments/application",
       "sourceUrl": "https://gov.texas.gov/organization/appointments/positions",
       "statuteUrl": "http://www.statutes.legis.state.tx.us/Docs/GV/htm/GV.2165.htm#2165.2561",
-      "lastVerified": "2026-10-19",
+      "lastVerified": "2026-10-26",
       "criticalNote": "Texas accepts applications year-round; staggered 6-year terms"
     },
     {
@@ -3281,7 +3281,7 @@
       "applyUrl": "https://gov.texas.gov/organization/appointments/application",
       "sourceUrl": "https://gov.texas.gov/organization/appointments/positions",
       "statuteUrl": "https://statutes.capitol.texas.gov/docs/GV/htm/GV.420A.htm",
-      "lastVerified": "2026-10-19",
+      "lastVerified": "2026-10-26",
       "criticalNote": "Texas accepts applications year-round; staggered 6-year terms"
     },
     {
@@ -3296,7 +3296,7 @@
       "applyUrl": "https://gov.texas.gov/organization/appointments/application",
       "sourceUrl": "https://gov.texas.gov/organization/appointments/positions",
       "statuteUrl": "https://gov.texas.gov/news/post/governor-abbott-issues-executive-order-establishing-the-governors-committee-to-support-the-military",
-      "lastVerified": "2026-10-19",
+      "lastVerified": "2026-10-26",
       "criticalNote": "Texas accepts applications year-round; staggered 6-year terms"
     },
     {
@@ -3311,7 +3311,7 @@
       "applyUrl": "https://gov.texas.gov/organization/appointments/application",
       "sourceUrl": "https://gov.texas.gov/organization/appointments/positions",
       "statuteUrl": "http://www.statutes.legis.state.tx.us/docs/GV/htm/GV.492.htm",
-      "lastVerified": "2026-10-19",
+      "lastVerified": "2026-10-26",
       "criticalNote": "Texas accepts applications year-round; staggered 6-year terms",
       "mandate": "Governs the Texas Department of Criminal Justice. Nine members appointed by the Governor with Senate consent (Tex. Gov't Code 492.002).",
       "seatSource": "https://statutes.capitol.texas.gov/Docs/GV/htm/GV.492.htm"
@@ -3328,7 +3328,7 @@
       "applyUrl": "https://gov.texas.gov/organization/appointments/application",
       "sourceUrl": "https://gov.texas.gov/organization/appointments/positions",
       "statuteUrl": "https://statutes.capitol.texas.gov/Docs/GV/htm/GV.2063.htm#2063.0025",
-      "lastVerified": "2026-10-19",
+      "lastVerified": "2026-10-26",
       "criticalNote": "Texas accepts applications year-round; staggered 6-year terms"
     },
     {
@@ -3343,7 +3343,7 @@
       "applyUrl": "https://gov.texas.gov/organization/appointments/application",
       "sourceUrl": "https://gov.texas.gov/organization/appointments/positions",
       "statuteUrl": "http://www.statutes.legis.state.tx.us/Docs/ED/htm/ED.7.htm#7.051",
-      "lastVerified": "2026-10-19",
+      "lastVerified": "2026-10-26",
       "criticalNote": "Texas accepts applications year-round; staggered 6-year terms"
     },
     {
@@ -3358,7 +3358,7 @@
       "applyUrl": "https://gov.texas.gov/organization/appointments/application",
       "sourceUrl": "https://gov.texas.gov/organization/appointments/positions",
       "statuteUrl": "https://capitol.texas.gov/tlodocs/87R/billtext/html/SB00003F.htm",
-      "lastVerified": "2026-10-19",
+      "lastVerified": "2026-10-26",
       "criticalNote": "Texas accepts applications year-round; staggered 6-year terms"
     },
     {
@@ -3373,7 +3373,7 @@
       "applyUrl": "https://gov.texas.gov/organization/appointments/application",
       "sourceUrl": "https://gov.texas.gov/organization/appointments/positions",
       "statuteUrl": "https://statutes.capitol.texas.gov/Docs/GV/htm/GV.418.htm#418.303",
-      "lastVerified": "2026-10-19",
+      "lastVerified": "2026-10-26",
       "criticalNote": "Texas accepts applications year-round; staggered 6-year terms"
     },
     {
@@ -3388,7 +3388,7 @@
       "applyUrl": "https://gov.texas.gov/organization/appointments/application",
       "sourceUrl": "https://gov.texas.gov/organization/appointments/positions",
       "statuteUrl": "http://www.statutes.legis.state.tx.us/Docs/WA/htm/WA.5.htm",
-      "lastVerified": "2026-10-19",
+      "lastVerified": "2026-10-26",
       "criticalNote": "Texas accepts applications year-round; staggered 6-year terms",
       "mandate": "Texas's environmental regulator — air, water, and waste permitting and enforcement. Three commissioners appointed by the Governor with Senate consent, six-year staggered terms (Tex. Water Code 5.052).",
       "seatSource": "https://statutes.capitol.texas.gov/Docs/WA/htm/WA.5.htm"
@@ -3405,7 +3405,7 @@
       "applyUrl": "https://gov.texas.gov/organization/appointments/application",
       "sourceUrl": "https://gov.texas.gov/organization/appointments/positions",
       "statuteUrl": "https://statutes.capitol.texas.gov/Docs/UT/htm/UT.39.htm#39.1513",
-      "lastVerified": "2026-10-19",
+      "lastVerified": "2026-10-26",
       "criticalNote": "Texas accepts applications year-round; staggered 6-year terms"
     },
     {
@@ -3420,7 +3420,7 @@
       "applyUrl": "https://gov.texas.gov/organization/appointments/application",
       "sourceUrl": "https://gov.texas.gov/organization/appointments/positions",
       "statuteUrl": "http://www.statutes.legis.state.tx.us/Docs/GV/htm/GV.571.htm",
-      "lastVerified": "2026-10-19",
+      "lastVerified": "2026-10-26",
       "criticalNote": "Texas accepts applications year-round; staggered 6-year terms"
     },
     {
@@ -3435,7 +3435,7 @@
       "applyUrl": "https://gov.texas.gov/organization/appointments/application",
       "sourceUrl": "https://gov.texas.gov/organization/appointments/positions",
       "statuteUrl": "http://www.statutes.legis.state.tx.us/Docs/GV/htm/GV.2152.htm#2152.051",
-      "lastVerified": "2026-10-19",
+      "lastVerified": "2026-10-26",
       "criticalNote": "Texas accepts applications year-round; staggered 6-year terms"
     },
     {
@@ -3450,7 +3450,7 @@
       "applyUrl": "https://gov.texas.gov/organization/appointments/application",
       "sourceUrl": "https://gov.texas.gov/organization/appointments/positions",
       "statuteUrl": "http://www.statutes.legis.state.tx.us/SOTWDocs/GV/htm/GV.2054.htm#2054.021",
-      "lastVerified": "2026-10-19",
+      "lastVerified": "2026-10-26",
       "criticalNote": "Texas accepts applications year-round; staggered 6-year terms"
     },
     {
@@ -3465,7 +3465,7 @@
       "applyUrl": "https://gov.texas.gov/organization/appointments/application",
       "sourceUrl": "https://gov.texas.gov/organization/appointments/positions",
       "statuteUrl": "http://www.statutes.legis.state.tx.us/Docs/LA/htm/LA.404.htm",
-      "lastVerified": "2026-10-19",
+      "lastVerified": "2026-10-26",
       "criticalNote": "Texas accepts applications year-round; staggered 6-year terms"
     },
     {
@@ -3480,7 +3480,7 @@
       "applyUrl": "https://gov.texas.gov/organization/appointments/application",
       "sourceUrl": "https://gov.texas.gov/organization/appointments/positions",
       "statuteUrl": "http://www.statutes.legis.state.tx.us/Docs/GV/htm/GV.531.htm#531.102",
-      "lastVerified": "2026-10-19",
+      "lastVerified": "2026-10-26",
       "criticalNote": "Texas accepts applications year-round; staggered 6-year terms"
     },
     {
@@ -3495,7 +3495,7 @@
       "applyUrl": "https://gov.texas.gov/organization/appointments/application",
       "sourceUrl": "https://gov.texas.gov/organization/appointments/positions",
       "statuteUrl": "http://www.statutes.legis.state.tx.us/Docs/IN/htm/IN.501.htm#501.051",
-      "lastVerified": "2026-10-19",
+      "lastVerified": "2026-10-26",
       "criticalNote": "Texas accepts applications year-round; staggered 6-year terms"
     },
     {
@@ -3510,7 +3510,7 @@
       "applyUrl": "https://gov.texas.gov/organization/appointments/application",
       "sourceUrl": "https://gov.texas.gov/organization/appointments/positions",
       "statuteUrl": "https://statutes.capitol.texas.gov/Docs/IN/htm/IN.31.htm#31.021",
-      "lastVerified": "2026-10-19",
+      "lastVerified": "2026-10-26",
       "criticalNote": "Texas accepts applications year-round; staggered 6-year terms"
     },
     {
@@ -3525,7 +3525,7 @@
       "applyUrl": "https://gov.texas.gov/organization/appointments/application",
       "sourceUrl": "https://gov.texas.gov/organization/appointments/positions",
       "statuteUrl": "http://www.statutes.legis.state.tx.us/Docs/GV/htm/GV.511.htm#511.004",
-      "lastVerified": "2026-10-19",
+      "lastVerified": "2026-10-26",
       "criticalNote": "Texas accepts applications year-round; staggered 6-year terms"
     },
     {
@@ -3540,7 +3540,7 @@
       "applyUrl": "https://gov.texas.gov/organization/appointments/application",
       "sourceUrl": "https://gov.texas.gov/organization/appointments/positions",
       "statuteUrl": null,
-      "lastVerified": "2026-10-19",
+      "lastVerified": "2026-10-26",
       "criticalNote": "Texas accepts applications year-round; staggered 6-year terms"
     },
     {
@@ -3555,7 +3555,7 @@
       "applyUrl": "https://gov.texas.gov/organization/appointments/application",
       "sourceUrl": "https://gov.texas.gov/organization/appointments/positions",
       "statuteUrl": "http://www.statutes.legis.state.tx.us/docs/HR/htm/HR.202.htm",
-      "lastVerified": "2026-10-19",
+      "lastVerified": "2026-10-26",
       "criticalNote": "Texas accepts applications year-round; staggered 6-year terms"
     },
     {
@@ -3570,7 +3570,7 @@
       "applyUrl": "https://gov.texas.gov/organization/appointments/application",
       "sourceUrl": "https://gov.texas.gov/organization/appointments/positions",
       "statuteUrl": "https://statutes.capitol.texas.gov/Docs/HR/htm/HR.261.htm",
-      "lastVerified": "2026-10-19",
+      "lastVerified": "2026-10-26",
       "criticalNote": "Texas accepts applications year-round; staggered 6-year terms"
     },
     {
@@ -3585,7 +3585,7 @@
       "applyUrl": "https://gov.texas.gov/organization/appointments/application",
       "sourceUrl": "https://gov.texas.gov/organization/appointments/positions",
       "statuteUrl": "http://www.statutes.legis.state.tx.us/Docs/GV/htm/GV.441.htm",
-      "lastVerified": "2026-10-19",
+      "lastVerified": "2026-10-26",
       "criticalNote": "Texas accepts applications year-round; staggered 6-year terms"
     },
     {
@@ -3600,7 +3600,7 @@
       "applyUrl": "https://gov.texas.gov/organization/appointments/application",
       "sourceUrl": "https://gov.texas.gov/organization/appointments/positions",
       "statuteUrl": "http://www.statutes.legis.state.tx.us/Docs/OC/htm/OC.51.htm#51.051",
-      "lastVerified": "2026-10-19",
+      "lastVerified": "2026-10-26",
       "criticalNote": "Texas accepts applications year-round; staggered 6-year terms"
     },
     {
@@ -3615,7 +3615,7 @@
       "applyUrl": "https://gov.texas.gov/organization/appointments/application",
       "sourceUrl": "https://gov.texas.gov/organization/appointments/positions",
       "statuteUrl": "http://www.statutes.legis.state.tx.us/Docs/GV/htm/GV.436.htm#436.051",
-      "lastVerified": "2026-10-19",
+      "lastVerified": "2026-10-26",
       "criticalNote": "Texas accepts applications year-round; staggered 6-year terms"
     },
     {
@@ -3630,7 +3630,7 @@
       "applyUrl": "https://gov.texas.gov/organization/appointments/application",
       "sourceUrl": "https://gov.texas.gov/organization/appointments/positions",
       "statuteUrl": "http://www.statutes.legis.state.tx.us/docs/TN/htm/TN.1001.htm#1001.021",
-      "lastVerified": "2026-10-19",
+      "lastVerified": "2026-10-26",
       "criticalNote": "Texas accepts applications year-round; staggered 6-year terms"
     },
     {
@@ -3645,7 +3645,7 @@
       "applyUrl": "https://gov.texas.gov/organization/appointments/application",
       "sourceUrl": "https://gov.texas.gov/organization/appointments/positions",
       "statuteUrl": "http://www.statutes.legis.state.tx.us/Docs/IN/htm/IN.2054.htm#2054.051",
-      "lastVerified": "2026-10-19",
+      "lastVerified": "2026-10-26",
       "criticalNote": "Texas accepts applications year-round; staggered 6-year terms"
     },
     {
@@ -3660,7 +3660,7 @@
       "applyUrl": "https://gov.texas.gov/organization/appointments/application",
       "sourceUrl": "https://gov.texas.gov/organization/appointments/positions",
       "statuteUrl": "http://www.statutes.legis.state.tx.us/Docs/PW/htm/PW.11.htm#11.012",
-      "lastVerified": "2026-10-19",
+      "lastVerified": "2026-10-26",
       "criticalNote": "Texas accepts applications year-round; staggered 6-year terms",
       "mandate": "Governs the Texas Parks and Wildlife Department — hunting, fishing, and state parks. Nine members appointed by the Governor with Senate consent, staggered six-year terms (Tex. Parks & Wild. Code 11.0111).",
       "seatSource": "https://statutes.capitol.texas.gov/Docs/PW/htm/PW.11.htm"
@@ -3677,7 +3677,7 @@
       "applyUrl": "https://gov.texas.gov/organization/appointments/application",
       "sourceUrl": "https://gov.texas.gov/organization/appointments/positions",
       "statuteUrl": "http://www.statutes.legis.state.tx.us/Docs/GV/htm/GV.443.htm#443.003",
-      "lastVerified": "2026-10-19",
+      "lastVerified": "2026-10-26",
       "criticalNote": "Texas accepts applications year-round; staggered 6-year terms"
     },
     {
@@ -3692,7 +3692,7 @@
       "applyUrl": "https://gov.texas.gov/organization/appointments/application",
       "sourceUrl": "https://gov.texas.gov/organization/appointments/positions",
       "statuteUrl": "http://www.statutes.legis.state.tx.us/Docs/GV/htm/GV.411.htm#441.003",
-      "lastVerified": "2026-10-19",
+      "lastVerified": "2026-10-26",
       "criticalNote": "Texas accepts applications year-round; staggered 6-year terms",
       "mandate": "Oversees the Texas Department of Public Safety. Five members appointed by the Governor with Senate consent (Tex. Gov't Code 411.002).",
       "seatSource": "https://statutes.capitol.texas.gov/Docs/GV/htm/GV.411.htm"
@@ -3709,7 +3709,7 @@
       "applyUrl": "https://gov.texas.gov/organization/appointments/application",
       "sourceUrl": "https://gov.texas.gov/organization/appointments/positions",
       "statuteUrl": "http://www.statutes.legis.state.tx.us/docs/UT/htm/UT.13.htm#13.021",
-      "lastVerified": "2026-10-19",
+      "lastVerified": "2026-10-26",
       "criticalNote": "Texas accepts applications year-round; staggered 6-year terms"
     },
     {
@@ -3724,7 +3724,7 @@
       "applyUrl": "https://gov.texas.gov/organization/appointments/application",
       "sourceUrl": "https://gov.texas.gov/organization/appointments/positions",
       "statuteUrl": "https://statutes.capitol.texas.gov/Docs/OC/htm/OC.57.htm#57.103",
-      "lastVerified": "2026-10-19",
+      "lastVerified": "2026-10-26",
       "criticalNote": "Texas accepts applications year-round; staggered 6-year terms"
     },
     {
@@ -3739,7 +3739,7 @@
       "applyUrl": "https://gov.texas.gov/organization/appointments/application",
       "sourceUrl": "https://gov.texas.gov/organization/appointments/positions",
       "statuteUrl": "https://statutes.capitol.texas.gov/Docs/GV/htm/GV.465.htm#465.0103",
-      "lastVerified": "2026-10-19",
+      "lastVerified": "2026-10-26",
       "criticalNote": "Texas accepts applications year-round; staggered 6-year terms"
     },
     {
@@ -3754,7 +3754,7 @@
       "applyUrl": "https://gov.texas.gov/organization/appointments/application",
       "sourceUrl": "https://gov.texas.gov/organization/appointments/positions",
       "statuteUrl": "http://www.statutes.legis.state.tx.us/Docs/LA/htm/LA.412.htm#412.021",
-      "lastVerified": "2026-10-19",
+      "lastVerified": "2026-10-26",
       "criticalNote": "Texas accepts applications year-round; staggered 6-year terms"
     },
     {
@@ -3769,7 +3769,7 @@
       "applyUrl": "https://gov.texas.gov/organization/appointments/application",
       "sourceUrl": "https://gov.texas.gov/organization/appointments/positions",
       "statuteUrl": "https://statutes.capitol.texas.gov/Docs/CN/htm/CN.4.htm#4.21",
-      "lastVerified": "2026-10-19",
+      "lastVerified": "2026-10-26",
       "criticalNote": "Texas accepts applications year-round; staggered 6-year terms"
     },
     {
@@ -3784,7 +3784,7 @@
       "applyUrl": "https://gov.texas.gov/organization/appointments/application",
       "sourceUrl": "https://gov.texas.gov/organization/appointments/positions",
       "statuteUrl": "https://statutes.capitol.texas.gov/Docs/GV/htm/GV.751.htm",
-      "lastVerified": "2026-10-19",
+      "lastVerified": "2026-10-26",
       "criticalNote": "Texas accepts applications year-round; staggered 6-year terms"
     },
     {
@@ -3799,7 +3799,7 @@
       "applyUrl": "https://gov.texas.gov/organization/appointments/application",
       "sourceUrl": "https://gov.texas.gov/organization/appointments/positions",
       "statuteUrl": "http://www.statutes.legis.state.tx.us/Docs/TN/htm/TN.201.htm#201.051",
-      "lastVerified": "2026-10-19",
+      "lastVerified": "2026-10-26",
       "criticalNote": "4 of 5 seats are governor-appointed (1 by the Lieutenant Governor)",
       "mandate": "Governs the Texas Department of Transportation — highways, funding, and major projects. Five members, six-year terms: the Governor appoints four (one from the House Speaker's list) and the Lieutenant Governor appoints one (Tex. Transp. Code 201.051).",
       "seatSource": "https://statutes.capitol.texas.gov/Docs/TN/htm/TN.201.htm"
@@ -3816,7 +3816,7 @@
       "applyUrl": "https://gov.texas.gov/organization/appointments/application",
       "sourceUrl": "https://gov.texas.gov/organization/appointments/positions",
       "statuteUrl": "http://www.statutes.legis.state.tx.us/Docs/GV/htm/GV.434.htm#434.003",
-      "lastVerified": "2026-10-19",
+      "lastVerified": "2026-10-26",
       "criticalNote": "Texas accepts applications year-round; staggered 6-year terms"
     },
     {
@@ -3831,7 +3831,7 @@
       "applyUrl": "https://gov.texas.gov/organization/appointments/application",
       "sourceUrl": "https://gov.texas.gov/organization/appointments/positions",
       "statuteUrl": "http://www.statutes.legis.state.tx.us/Docs/CN/htm/CN.3.htm#3.49-b",
-      "lastVerified": "2026-10-19",
+      "lastVerified": "2026-10-26",
       "criticalNote": "Texas accepts applications year-round; staggered 6-year terms"
     },
     {
@@ -3846,7 +3846,7 @@
       "applyUrl": "https://gov.texas.gov/organization/appointments/application",
       "sourceUrl": "https://gov.texas.gov/organization/appointments/positions",
       "statuteUrl": "http://www.statutes.legis.state.tx.us/Docs/WA/htm/WA.6.htm#6.052",
-      "lastVerified": "2026-10-19",
+      "lastVerified": "2026-10-26",
       "criticalNote": "Texas accepts applications year-round; staggered 6-year terms",
       "mandate": "Finances and plans Texas's water supply and flood infrastructure. Three full-time members appointed by the Governor with Senate consent — one each in engineering, finance, and law/business (Tex. Water Code 6.052).",
       "seatSource": "https://statutes.capitol.texas.gov/Docs/WA/htm/WA.6.htm"
@@ -3863,7 +3863,7 @@
       "applyUrl": "https://gov.texas.gov/organization/appointments/application",
       "sourceUrl": "https://gov.texas.gov/organization/appointments/positions",
       "statuteUrl": "https://statutes.capitol.texas.gov/Docs/LA/htm/LA.301.htm",
-      "lastVerified": "2026-10-19",
+      "lastVerified": "2026-10-26",
       "criticalNote": "Texas accepts applications year-round; staggered 6-year terms"
     },
     {
@@ -3878,7 +3878,7 @@
       "applyUrl": "https://gov.texas.gov/organization/appointments/application",
       "sourceUrl": "https://gov.texas.gov/organization/appointments/positions",
       "statuteUrl": "http://www.statutes.legis.state.tx.us/Docs/TN/htm/TN.366.htm#366.251",
-      "lastVerified": "2026-10-19",
+      "lastVerified": "2026-10-26",
       "criticalNote": "Texas accepts applications year-round; staggered 6-year terms"
     },
     {
@@ -3893,7 +3893,7 @@
       "applyUrl": "https://gov.texas.gov/organization/appointments/application",
       "sourceUrl": "https://gov.texas.gov/organization/appointments/positions",
       "statuteUrl": "http://www.statutes.legis.state.tx.us/Docs/TN/htm/TN.370.htm#370.251",
-      "lastVerified": "2026-10-19",
+      "lastVerified": "2026-10-26",
       "criticalNote": "Texas accepts applications year-round; staggered 6-year terms"
     },
     {
@@ -3908,7 +3908,7 @@
       "applyUrl": "https://gov.texas.gov/organization/appointments/application",
       "sourceUrl": "https://gov.texas.gov/organization/appointments/positions",
       "statuteUrl": "https://statutes.capitol.texas.gov/Docs/TN/htm/TN.370.htm#370.251",
-      "lastVerified": "2026-10-19",
+      "lastVerified": "2026-10-26",
       "criticalNote": "Texas accepts applications year-round; staggered 6-year terms"
     },
     {
@@ -3923,7 +3923,7 @@
       "applyUrl": "https://gov.texas.gov/organization/appointments/application",
       "sourceUrl": "https://gov.texas.gov/organization/appointments/positions",
       "statuteUrl": "http://www.statutes.legis.state.tx.us/Docs/TN/htm/TN.370.htm#370.251",
-      "lastVerified": "2026-10-19",
+      "lastVerified": "2026-10-26",
       "criticalNote": "Texas accepts applications year-round; staggered 6-year terms"
     },
     {
@@ -3938,7 +3938,7 @@
       "applyUrl": "https://gov.texas.gov/organization/appointments/application",
       "sourceUrl": "https://gov.texas.gov/organization/appointments/positions",
       "statuteUrl": "http://www.statutes.legis.state.tx.us/Docs/TN/htm/TN.370.htm#370.251",
-      "lastVerified": "2026-10-19",
+      "lastVerified": "2026-10-26",
       "criticalNote": "Texas accepts applications year-round; staggered 6-year terms"
     },
     {
@@ -3953,7 +3953,7 @@
       "applyUrl": "https://gov.texas.gov/organization/appointments/application",
       "sourceUrl": "https://gov.texas.gov/organization/appointments/positions",
       "statuteUrl": "http://www.statutes.legis.state.tx.us/Docs/TN/htm/TN.370.htm#370.251",
-      "lastVerified": "2026-10-19",
+      "lastVerified": "2026-10-26",
       "criticalNote": "Texas accepts applications year-round; staggered 6-year terms"
     },
     {
@@ -3968,7 +3968,7 @@
       "applyUrl": "https://gov.texas.gov/organization/appointments/application",
       "sourceUrl": "https://gov.texas.gov/organization/appointments/positions",
       "statuteUrl": "http://www.statutes.legis.state.tx.us/Docs/TN/htm/TN.370.htm#370.251",
-      "lastVerified": "2026-10-19",
+      "lastVerified": "2026-10-26",
       "criticalNote": "Texas accepts applications year-round; staggered 6-year terms"
     },
     {
@@ -3983,7 +3983,7 @@
       "applyUrl": "https://gov.texas.gov/organization/appointments/application",
       "sourceUrl": "https://gov.texas.gov/organization/appointments/positions",
       "statuteUrl": "http://www.statutes.legis.state.tx.us/Docs/TN/htm/TN.370.htm#370.251",
-      "lastVerified": "2026-10-19",
+      "lastVerified": "2026-10-26",
       "criticalNote": "Texas accepts applications year-round; staggered 6-year terms"
     },
     {
@@ -3998,7 +3998,7 @@
       "applyUrl": "https://gov.texas.gov/organization/appointments/application",
       "sourceUrl": "https://gov.texas.gov/organization/appointments/positions",
       "statuteUrl": "http://www.statutes.legis.state.tx.us/Docs/TN/htm/TN.370.htm#370.251",
-      "lastVerified": "2026-10-19",
+      "lastVerified": "2026-10-26",
       "criticalNote": "Texas accepts applications year-round; staggered 6-year terms"
     },
     {
@@ -4013,7 +4013,7 @@
       "applyUrl": "https://gov.texas.gov/organization/appointments/application",
       "sourceUrl": "https://gov.texas.gov/organization/appointments/positions",
       "statuteUrl": "http://www.statutes.legis.state.tx.us/Docs/TN/htm/TN.370.htm#370.251",
-      "lastVerified": "2026-10-19",
+      "lastVerified": "2026-10-26",
       "criticalNote": "Texas accepts applications year-round; staggered 6-year terms"
     },
     {
@@ -4028,7 +4028,7 @@
       "applyUrl": "https://gov.texas.gov/organization/appointments/application",
       "sourceUrl": "https://gov.texas.gov/organization/appointments/positions",
       "statuteUrl": "http://www.statutes.legis.state.tx.us/Docs/TN/htm/TN.370.htm#370.251",
-      "lastVerified": "2026-10-19",
+      "lastVerified": "2026-10-26",
       "criticalNote": "Texas accepts applications year-round; staggered 6-year terms"
     },
     {
@@ -4043,7 +4043,7 @@
       "applyUrl": "https://gov.texas.gov/organization/appointments/application",
       "sourceUrl": "https://gov.texas.gov/organization/appointments/positions",
       "statuteUrl": "http://www.statutes.legis.state.tx.us/Docs/TN/htm/TN.455.htm#455.004",
-      "lastVerified": "2026-10-19",
+      "lastVerified": "2026-10-26",
       "criticalNote": "Texas accepts applications year-round; staggered 6-year terms"
     }
   ]
