@@ -34,12 +34,24 @@ for (const st of states) {
       //    drop in and out week to week — the AZ 12-to-6 regression. Emit any
       //    enrichment board not seen this cycle as a full row with vacantSeats:0
       //    (honest: no vacancy currently reported), sourced to its statute.
+      // DEDUP: collapse alias spellings / shared objects to ONE row (by canonical
+      // name e.name and by object identity) so alias keys never emit phantom rows.
+      const canonOf = (key, e) => (e && e.name) ? e.name : key;
+      const seen = new Set();
+      const seenObjs = new Set();
+      for (const r of rows) {
+        seen.add(r.name);
+        const er = ENRICHMENTS[r.name];
+        if (er) { seen.add(canonOf(r.name, er)); seenObjs.add(er); }
+      }
       const today = new Date().toISOString().slice(0, 10);
       let held = 0;
       for (const [name, e] of Object.entries(ENRICHMENTS)) {
         if (scrapedNames.has(name)) continue;
+        const canon = canonOf(name, e);
+        if (seen.has(name) || seen.has(canon) || seenObjs.has(e)) continue;
         rows.push({
-          name,
+          name: canon,
           domain: e.domain,
           totalSeats: e.totalSeats,
           vacantSeats: 0,
@@ -52,6 +64,7 @@ for (const st of states) {
           mandate: e.mandate,
           criticalNote: e.criticalNote || "Statutory board — no current vacancy reported this cycle",
         });
+        seen.add(canon); seenObjs.add(e);
         held++;
       }
       if (overlaid || held) console.log(`${st}: overlay applied to ${overlaid} board(s); ${held} statutory board(s) held stable (no current vacancy)`);

@@ -33,7 +33,7 @@ export const ENRICHMENTS = {
     seatSource: "https://www.azleg.gov/ars/17/00201.htm",
   },
   "ARIZONA STATE PARKS BOARD": {
-    totalSeats: 7, domain: "environment",
+    totalSeats: 6, domain: "environment",
     constituent: "Arizona's state parks, public lands & outdoor recreation",
     mandate: "Governs Arizona's state parks, historic sites, and outdoor recreation programs. Seven members — the State Land Commissioner plus six appointed by the Governor for six-year terms (A.R.S. § 41-511).",
     seatSource: "https://www.azleg.gov/ars/41/00511.htm",

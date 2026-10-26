@@ -5,7 +5,7 @@
 // education, environment, finance oversight).
 export const ENRICHMENTS = {
   "Behavioral Health Executive Council, Texas": {
-    totalSeats: 9, domain: "health",
+    totalSeats: 1, domain: "health",
     constituent: "Texans served by licensed behavioral health professionals",
     mandate: "Oversees licensing and enforcement for psychologists, counselors, social workers, and marriage & family therapists. Nine members — eight appointed by member boards, one governor-appointed public member (Occ. Code 507.051).",
     seatSource: "https://texas.public.law/statutes/tex._occ._code_section_507.051",
@@ -18,32 +18,32 @@ export const ENRICHMENTS = {
     seatSource: "https://statutes.capitol.texas.gov/Docs/ED/htm/ED.61.htm",
   },
   "Diabetes Council, Texas": {
-    totalSeats: 16, domain: "health",
+    totalSeats: 11, domain: "health",
     constituent: "Texans living with or at risk of diabetes",
     mandate: "Advises the legislature on diabetes policy and administers the state diabetes plan. Sixteen members — eleven governor-appointed citizens plus five agency representatives (Health & Safety Code 103.002).",
     seatSource: "https://statutes.capitol.texas.gov/Docs/HS/htm/HS.103.htm",
     criticalNote: "11 of 16 seats are governor-appointed",
   },
   "Alzheimer's Disease and Related Disorders, Texas Council on": {
-    totalSeats: 15, domain: "health",
+    totalSeats: 4, domain: "health",
     constituent: "Texans affected by Alzheimer's & related disorders",
     mandate: "Guides the state plan on Alzheimer's disease. Fifteen members — four each appointed by the Governor, Lt. Governor, and Speaker, plus three agency representatives (Health & Safety Code ch. 101).",
     seatSource: "https://statutes.capitol.texas.gov/Docs/HS/htm/HS.101.htm",
     criticalNote: "4 of 15 seats are governor-appointed",
   },
   "Cancer Prevention and Research Institute of Texas Oversight Committee": {
-    totalSeats: 9, domain: "health",
+    totalSeats: 3, domain: "health",
     constituent: "Texans affected by cancer · multibillion-dollar research & prevention program",
     mandate: "Governs the Cancer Prevention and Research Institute of Texas, awarding grants for cancer research and prevention statewide. Nine members — three each appointed by the Governor, Lt. Governor, and Speaker (Health & Safety Code ch. 102).",
     seatSource: "https://statutes.capitol.texas.gov/Docs/HS/htm/HS.102.htm",
     criticalNote: "3 of 9 seats are governor-appointed",
   },
   "Opioid Abatement Fund Council, Texas": {
-    totalSeats: 13, domain: "health",
+    totalSeats: 3, domain: "health",
     constituent: "Texans affected by the opioid crisis · settlement-fund allocation",
     mandate: "Directs the allocation of Texas's opioid settlement funds toward abatement across the state. Thirteen appointed members representing affected regions and professions, with the Comptroller as nonvoting presiding officer (Gov. Code 403.503).",
     seatSource: "https://statutes.capitol.texas.gov/Docs/GV/htm/GV.403.htm",
-    criticalNote: "Comptroller serves as nonvoting presiding officer",
+    criticalNote: "3 of 14 seats are governor-appointed; 6 by HHSC exec commissioner, 2 attorney general, lieutenant governor and speaker 1 each, 1 nonvoting comptroller (SB 1827; Gov. Code 403.503)",
   },
   "Housing and Community Affairs, Texas Department of": {
     totalSeats: 7, domain: "housing",
@@ -58,7 +58,7 @@ export const ENRICHMENTS = {
     seatSource: "https://statutes.capitol.texas.gov/Docs/GV/htm/GV.2306.htm",
   },
   "School Land Board": {
-    totalSeats: 5, domain: "environment",
+    totalSeats: 4, domain: "environment",
     constituent: "Texas public schools · Permanent School Fund real-asset value",
     mandate: "Manages the real-asset investments and state lands that help fund the Permanent School Fund for Texas public education. Five members — the Land Commissioner as chair plus four citizens appointed by the Governor (Nat. Resources Code 32.012).",
     seatSource: "https://statutes.capitol.texas.gov/Docs/NR/htm/NR.32.htm",
@@ -71,14 +71,14 @@ export const ENRICHMENTS = {
     seatSource: "https://statutes.capitol.texas.gov/Docs/GV/htm/GV.801.htm",
   },
   "Permanent School Fund Corporation Board of Directors, Texas": {
-    totalSeats: 9, domain: "education",
+    totalSeats: 2, domain: "education",
     constituent: "Texas public school students · multibillion-dollar education endowment",
     mandate: "Manages the Permanent School Fund endowment that supports Texas public schools. Nine members — five appointed by the State Board of Education, the Land Commissioner, one General Land Office appointee, and two governor-appointed investment experts (Educ. Code 43.053).",
     seatSource: "https://statutes.capitol.texas.gov/Docs/ED/htm/ED.43.htm",
     criticalNote: "2 of 9 seats are governor-appointed",
   },
   "Employees Retirement System of Texas Board of Trustees": {
-    totalSeats: 6, domain: "equity",
+    totalSeats: 1, domain: "equity",
     constituent: "Texas state employees & retirees · retirement and benefits",
     mandate: "Administers retirement, insurance, and benefit programs for Texas state employees and retirees. Six trustees — three appointed (by the Governor, Speaker, and Chief Justice) and three elected by members (Gov. Code 815.002).",
     seatSource: "https://statutes.capitol.texas.gov/Docs/GV/htm/GV.815.htm",
@@ -157,7 +157,7 @@ export const ENRICHMENTS = {
     seatSource: "https://statutes.capitol.texas.gov/Docs/UT/htm/UT.12.htm",
   },
   "Transportation Commission, Texas": {
-    totalSeats: 5, domain: "environment",
+    totalSeats: 4, domain: "environment",
     constituent: "Texas travelers & the statewide highway system",
     mandate: "Governs the Texas Department of Transportation — highways, funding, and major projects. Five members, six-year terms: the Governor appoints four (one from the House Speaker's list) and the Lieutenant Governor appoints one (Tex. Transp. Code 201.051).",
     seatSource: "https://statutes.capitol.texas.gov/Docs/TN/htm/TN.201.htm",
