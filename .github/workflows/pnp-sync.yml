@@ -1,0 +1,50 @@
+name: Sync pnp-gaps.json to site root
+
+# "Passed, Not Paid" data pipeline. When src/passed-not-paid.config.js changes
+# (someone adds or edits a vetted case) this validates it against the prove-it
+# contract, and ONLY if every case passes, regenerates pnp-gaps.json and pushes
+# it to the gallery's site root (openquorum.us.com/pnp-gaps.json). A bad edit
+# fails the gate and nothing ships. No cron — PNP changes when a case is vetted,
+# not on a schedule.
+#
+# Requires repo secret OQ_SYNC_TOKEN with contents:write on openquorum-suite.
+
+on:
+  push:
+    branches: [main]
+    paths: ["src/passed-not-paid.config.js"]
+  workflow_dispatch:
+
+jobs:
+  pnp:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+
+      - name: Prove-it gate (validate every case)
+        run: node src/passed-not-paid.tools.mjs
+
+      - name: Generate pnp-gaps.json
+        run: node gen-pnp-gaps.mjs src/passed-not-paid.config.js pnp-gaps.json
+
+      - name: Push pnp-gaps.json to the gallery site root
+        env:
+          TOKEN: ${{ secrets.OQ_SYNC_TOKEN }}
+        run: |
+          repo=openquorum-suite
+          git clone --depth 1 "https://x-access-token:${TOKEN}@github.com/Pamela-Epperson/$repo" /tmp/$repo
+          cp pnp-gaps.json /tmp/$repo/pnp-gaps.json
+          cd /tmp/$repo
+          if git diff --quiet; then
+            echo "$repo already in sync"
+          else
+            git config user.name "github-actions[bot]"
+            git config user.email "github-actions[bot]@users.noreply.github.com"
+            git add pnp-gaps.json
+            git commit -m "Auto-refresh pnp-gaps.json from vacancy-clock passed-not-paid.config.js"
+            git push
+          fi
