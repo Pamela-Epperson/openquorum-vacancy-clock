@@ -1,0 +1,47 @@
+name: Sync oq-stats.json to site roots
+
+# Regenerates oq-stats.json from src/states.config.js whenever the config
+# changes (weekly scrape, enrichment, or a Suggest-a-Board promotion) and
+# pushes the fresh file to the site roots that the LOOQ primer fetches
+# same-origin: openquorum.us.com (openquorum-suite) and pamelaepperson.com
+# (pamelaepperson-com). This is what makes the whole property's numbers
+# self-maintaining — no hand edits to oq-stats.json anywhere.
+#
+# Requires repo secret OQ_SYNC_TOKEN (the same PAT used by sync-config.yml)
+# to also have contents:write on openquorum-suite and pamelaepperson-com.
+
+on:
+  push:
+    branches: [main]
+    paths: ["src/states.config.js"]
+  workflow_dispatch:
+
+jobs:
+  oq-stats:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+
+      - name: Regenerate oq-stats.json from states.config.js
+        run: node gen-oq-stats.mjs src/states.config.js oq-stats.json
+
+      - name: Push oq-stats.json to site roots
+        env:
+          TOKEN: ${{ secrets.OQ_SYNC_TOKEN }}
+        run: |
+          for repo in openquorum-suite pamelaepperson-com; do
+            git clone --depth 1 "https://x-access-token:${TOKEN}@github.com/Pamela-Epperson/$repo" /tmp/$repo
+            cp oq-stats.json /tmp/$repo/oq-stats.json
+            cd /tmp/$repo
+            if git diff --quiet; then echo "$repo already in sync"; cd -; continue; fi
+            git config user.name "github-actions[bot]"
+            git config user.email "github-actions[bot]@users.noreply.github.com"
+            git add oq-stats.json
+            git commit -m "Auto-refresh oq-stats.json from vacancy-clock states.config.js"
+            git push
+            cd -
+          done
