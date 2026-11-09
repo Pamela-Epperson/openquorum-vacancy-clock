@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-11-02T20:31:53.908Z",
+  "scrapedAt": "2026-11-09T21:08:29.430Z",
   "registry": {
     "profile": "co",
     "endpoint": "https://governorsoffice.colorado.gov/governor/appointments-and-openings",
@@ -31,7 +31,7 @@
       "constituent": null,
       "applyUrl": "https://governorsoffice.colorado.gov/governor/boards-commissions-application",
       "sourceUrl": "https://governorsoffice.colorado.gov/governor/appointments-and-openings",
-      "lastVerified": "2026-11-02",
+      "lastVerified": "2026-11-09",
       "criticalNote": "Opening: October"
     },
     {
@@ -45,7 +45,7 @@
       "constituent": null,
       "applyUrl": "https://governorsoffice.colorado.gov/governor/boards-commissions-application",
       "sourceUrl": "https://governorsoffice.colorado.gov/governor/appointments-and-openings",
-      "lastVerified": "2026-11-02",
+      "lastVerified": "2026-11-09",
       "criticalNote": "Opening: October"
     },
     {
@@ -59,7 +59,7 @@
       "constituent": null,
       "applyUrl": "https://governorsoffice.colorado.gov/governor/boards-commissions-application",
       "sourceUrl": "https://governorsoffice.colorado.gov/governor/appointments-and-openings",
-      "lastVerified": "2026-11-02",
+      "lastVerified": "2026-11-09",
       "criticalNote": "Opening: October"
     },
     {
@@ -73,7 +73,7 @@
       "constituent": null,
       "applyUrl": "https://governorsoffice.colorado.gov/governor/boards-commissions-application",
       "sourceUrl": "https://governorsoffice.colorado.gov/governor/appointments-and-openings",
-      "lastVerified": "2026-11-02",
+      "lastVerified": "2026-11-09",
       "criticalNote": "Opening: November"
     },
     {
@@ -87,7 +87,7 @@
       "constituent": "Colorado's paroled youth & public safety",
       "applyUrl": "https://governorsoffice.colorado.gov/governor/boards-commissions-application",
       "sourceUrl": "https://governorsoffice.colorado.gov/governor/appointments-and-openings",
-      "lastVerified": "2026-11-02",
+      "lastVerified": "2026-11-09",
       "criticalNote": "Immediate opening — resignation",
       "mandate": "Sets parole and release decisions for Colorado's committed youth. Nine members appointed by the Governor with Senate consent — four drawn from named state departments and five from the public at large (C.R.S. 19-2.5-1201).",
       "seatSource": "https://law.justia.com/codes/colorado/title-19/article-2-5/part-12/section-19-2-5-1201/"
@@ -103,7 +103,7 @@
       "constituent": "Colorado's agricultural community & state fair participants",
       "applyUrl": "https://governorsoffice.colorado.gov/governor/boards-commissions-application",
       "sourceUrl": "https://governorsoffice.colorado.gov/governor/appointments-and-openings",
-      "lastVerified": "2026-11-02",
+      "lastVerified": "2026-11-09",
       "criticalNote": "12 governor-appointed members (plus the Commissioner of Agriculture ex officio)",
       "mandate": "Governs the Colorado State Fair and Industrial Exposition. Thirteen-member board; twelve members appointed by the Governor with Senate consent, plus the Commissioner of Agriculture ex officio (C.R.S. 35-65-401).",
       "seatSource": "https://codes.findlaw.com/co/title-35-agriculture/co-rev-st-sect-35-65-401/"
@@ -119,7 +119,7 @@
       "constituent": null,
       "applyUrl": "https://governorsoffice.colorado.gov/governor/boards-commissions-application",
       "sourceUrl": "https://governorsoffice.colorado.gov/governor/appointments-and-openings",
-      "lastVerified": "2026-11-02",
+      "lastVerified": "2026-11-09",
       "criticalNote": "Opening: December"
     },
     {
@@ -133,7 +133,7 @@
       "constituent": "Colorado airports, pilots & the state aviation system",
       "applyUrl": "https://governorsoffice.colorado.gov/governor/boards-commissions-application",
       "sourceUrl": "https://governorsoffice.colorado.gov/governor/appointments-and-openings",
-      "lastVerified": "2026-11-02",
+      "lastVerified": "2026-11-09",
       "criticalNote": "9 governor-appointed voting members (1 ex-officio nonvoting member excluded)",
       "mandate": "Directs Colorado's aviation grants and the Division of Aeronautics. Nine voting members appointed by the Governor, plus the executive director of the Department of Public Health and Environment (or designee) ex officio, nonvoting (C.R.S. 43-10-105).",
       "seatSource": "https://www.codot.gov/programs/aeronautics/colorado-aeronautical-board"
@@ -149,7 +149,7 @@
       "constituent": null,
       "applyUrl": "https://governorsoffice.colorado.gov/governor/boards-commissions-application",
       "sourceUrl": "https://governorsoffice.colorado.gov/governor/appointments-and-openings",
-      "lastVerified": "2026-11-02",
+      "lastVerified": "2026-11-09",
       "criticalNote": "Opening: December"
     },
     {
@@ -163,7 +163,7 @@
       "constituent": null,
       "applyUrl": "https://governorsoffice.colorado.gov/governor/boards-commissions-application",
       "sourceUrl": "https://governorsoffice.colorado.gov/governor/appointments-and-openings",
-      "lastVerified": "2026-11-02",
+      "lastVerified": "2026-11-09",
       "criticalNote": "Opening: December"
     },
     {
@@ -177,7 +177,7 @@
       "constituent": null,
       "applyUrl": "https://governorsoffice.colorado.gov/governor/boards-commissions-application",
       "sourceUrl": "https://governorsoffice.colorado.gov/governor/appointments-and-openings",
-      "lastVerified": "2026-11-02",
+      "lastVerified": "2026-11-09",
       "criticalNote": "Opening: December"
     },
     {
@@ -191,7 +191,7 @@
       "constituent": null,
       "applyUrl": "https://governorsoffice.colorado.gov/governor/boards-commissions-application",
       "sourceUrl": "https://governorsoffice.colorado.gov/governor/appointments-and-openings",
-      "lastVerified": "2026-11-02",
+      "lastVerified": "2026-11-09",
       "criticalNote": "Opening: December"
     },
     {
@@ -205,7 +205,7 @@
       "constituent": null,
       "applyUrl": "https://governorsoffice.colorado.gov/governor/boards-commissions-application",
       "sourceUrl": "https://governorsoffice.colorado.gov/governor/appointments-and-openings",
-      "lastVerified": "2026-11-02",
+      "lastVerified": "2026-11-09",
       "criticalNote": "Opening: December"
     },
     {
@@ -219,7 +219,7 @@
       "constituent": null,
       "applyUrl": "https://governorsoffice.colorado.gov/governor/boards-commissions-application",
       "sourceUrl": "https://governorsoffice.colorado.gov/governor/appointments-and-openings",
-      "lastVerified": "2026-11-02",
+      "lastVerified": "2026-11-09",
       "criticalNote": "Opening: December"
     },
     {
@@ -233,7 +233,7 @@
       "constituent": null,
       "applyUrl": "https://governorsoffice.colorado.gov/governor/boards-commissions-application",
       "sourceUrl": "https://governorsoffice.colorado.gov/governor/appointments-and-openings",
-      "lastVerified": "2026-11-02",
+      "lastVerified": "2026-11-09",
       "criticalNote": "Opening: December"
     },
     {
@@ -247,7 +247,7 @@
       "constituent": null,
       "applyUrl": "https://governorsoffice.colorado.gov/governor/boards-commissions-application",
       "sourceUrl": "https://governorsoffice.colorado.gov/governor/appointments-and-openings",
-      "lastVerified": "2026-11-02",
+      "lastVerified": "2026-11-09",
       "criticalNote": "Opening: December"
     },
     {
@@ -261,7 +261,7 @@
       "constituent": null,
       "applyUrl": "https://governorsoffice.colorado.gov/governor/boards-commissions-application",
       "sourceUrl": "https://governorsoffice.colorado.gov/governor/appointments-and-openings",
-      "lastVerified": "2026-11-02",
+      "lastVerified": "2026-11-09",
       "criticalNote": "Opening: December"
     },
     {
@@ -275,7 +275,7 @@
       "constituent": null,
       "applyUrl": "https://governorsoffice.colorado.gov/governor/boards-commissions-application",
       "sourceUrl": "https://governorsoffice.colorado.gov/governor/appointments-and-openings",
-      "lastVerified": "2026-11-02",
+      "lastVerified": "2026-11-09",
       "criticalNote": "Opening: December"
     },
     {
@@ -289,7 +289,7 @@
       "constituent": null,
       "applyUrl": "https://governorsoffice.colorado.gov/governor/boards-commissions-application",
       "sourceUrl": "https://governorsoffice.colorado.gov/governor/appointments-and-openings",
-      "lastVerified": "2026-11-02",
+      "lastVerified": "2026-11-09",
       "criticalNote": "Opening: December"
     },
     {
@@ -303,7 +303,7 @@
       "constituent": null,
       "applyUrl": "https://governorsoffice.colorado.gov/governor/boards-commissions-application",
       "sourceUrl": "https://governorsoffice.colorado.gov/governor/appointments-and-openings",
-      "lastVerified": "2026-11-02",
+      "lastVerified": "2026-11-09",
       "criticalNote": "Opening: December"
     },
     {
@@ -317,7 +317,7 @@
       "constituent": null,
       "applyUrl": "https://governorsoffice.colorado.gov/governor/boards-commissions-application",
       "sourceUrl": "https://governorsoffice.colorado.gov/governor/appointments-and-openings",
-      "lastVerified": "2026-11-02",
+      "lastVerified": "2026-11-09",
       "criticalNote": "Opening: December"
     },
     {
@@ -331,7 +331,7 @@
       "constituent": null,
       "applyUrl": "https://governorsoffice.colorado.gov/governor/boards-commissions-application",
       "sourceUrl": "https://governorsoffice.colorado.gov/governor/appointments-and-openings",
-      "lastVerified": "2026-11-02",
+      "lastVerified": "2026-11-09",
       "criticalNote": "Opening: January"
     },
     {
@@ -345,7 +345,7 @@
       "constituent": null,
       "applyUrl": "https://governorsoffice.colorado.gov/governor/boards-commissions-application",
       "sourceUrl": "https://governorsoffice.colorado.gov/governor/appointments-and-openings",
-      "lastVerified": "2026-11-02",
+      "lastVerified": "2026-11-09",
       "criticalNote": "Opening: January"
     },
     {
@@ -359,7 +359,7 @@
       "constituent": null,
       "applyUrl": "https://governorsoffice.colorado.gov/governor/boards-commissions-application",
       "sourceUrl": "https://governorsoffice.colorado.gov/governor/appointments-and-openings",
-      "lastVerified": "2026-11-02",
+      "lastVerified": "2026-11-09",
       "criticalNote": "Opening: January"
     },
     {
@@ -373,7 +373,7 @@
       "constituent": null,
       "applyUrl": "https://governorsoffice.colorado.gov/governor/boards-commissions-application",
       "sourceUrl": "https://governorsoffice.colorado.gov/governor/appointments-and-openings",
-      "lastVerified": "2026-11-02",
+      "lastVerified": "2026-11-09",
       "criticalNote": "Opening: January"
     },
     {
@@ -387,7 +387,7 @@
       "constituent": null,
       "applyUrl": "https://governorsoffice.colorado.gov/governor/boards-commissions-application",
       "sourceUrl": "https://governorsoffice.colorado.gov/governor/appointments-and-openings",
-      "lastVerified": "2026-11-02",
+      "lastVerified": "2026-11-09",
       "criticalNote": "Immediate opening — resignation"
     },
     {
@@ -401,7 +401,7 @@
       "constituent": null,
       "applyUrl": "https://governorsoffice.colorado.gov/governor/boards-commissions-application",
       "sourceUrl": "https://governorsoffice.colorado.gov/governor/appointments-and-openings",
-      "lastVerified": "2026-11-02",
+      "lastVerified": "2026-11-09",
       "criticalNote": "Opening: January"
     },
     {
@@ -415,7 +415,7 @@
       "constituent": null,
       "applyUrl": "https://governorsoffice.colorado.gov/governor/boards-commissions-application",
       "sourceUrl": "https://governorsoffice.colorado.gov/governor/appointments-and-openings",
-      "lastVerified": "2026-11-02",
+      "lastVerified": "2026-11-09",
       "criticalNote": "Opening: January"
     },
     {
@@ -429,7 +429,7 @@
       "constituent": null,
       "applyUrl": "https://governorsoffice.colorado.gov/governor/boards-commissions-application",
       "sourceUrl": "https://governorsoffice.colorado.gov/governor/appointments-and-openings",
-      "lastVerified": "2026-11-02",
+      "lastVerified": "2026-11-09",
       "criticalNote": "Opening: January"
     },
     {
@@ -443,7 +443,7 @@
       "constituent": null,
       "applyUrl": "https://governorsoffice.colorado.gov/governor/boards-commissions-application",
       "sourceUrl": "https://governorsoffice.colorado.gov/governor/appointments-and-openings",
-      "lastVerified": "2026-11-02",
+      "lastVerified": "2026-11-09",
       "criticalNote": "Opening: January"
     },
     {
@@ -457,7 +457,7 @@
       "constituent": null,
       "applyUrl": "https://governorsoffice.colorado.gov/governor/boards-commissions-application",
       "sourceUrl": "https://governorsoffice.colorado.gov/governor/appointments-and-openings",
-      "lastVerified": "2026-11-02",
+      "lastVerified": "2026-11-09",
       "criticalNote": "Opening: January"
     },
     {
@@ -471,7 +471,7 @@
       "constituent": null,
       "applyUrl": "https://governorsoffice.colorado.gov/governor/boards-commissions-application",
       "sourceUrl": "https://governorsoffice.colorado.gov/governor/appointments-and-openings",
-      "lastVerified": "2026-11-02",
+      "lastVerified": "2026-11-09",
       "criticalNote": "Opening: January"
     },
     {
@@ -485,7 +485,7 @@
       "constituent": null,
       "applyUrl": "https://governorsoffice.colorado.gov/governor/boards-commissions-application",
       "sourceUrl": "https://governorsoffice.colorado.gov/governor/appointments-and-openings",
-      "lastVerified": "2026-11-02",
+      "lastVerified": "2026-11-09",
       "criticalNote": "Opening: January"
     },
     {
@@ -499,7 +499,7 @@
       "constituent": null,
       "applyUrl": "https://governorsoffice.colorado.gov/governor/boards-commissions-application",
       "sourceUrl": "https://governorsoffice.colorado.gov/governor/appointments-and-openings",
-      "lastVerified": "2026-11-02",
+      "lastVerified": "2026-11-09",
       "criticalNote": "Opening: January"
     },
     {
@@ -513,7 +513,7 @@
       "constituent": null,
       "applyUrl": "https://governorsoffice.colorado.gov/governor/boards-commissions-application",
       "sourceUrl": "https://governorsoffice.colorado.gov/governor/appointments-and-openings",
-      "lastVerified": "2026-11-02",
+      "lastVerified": "2026-11-09",
       "criticalNote": "Opening: January"
     },
     {
@@ -527,7 +527,7 @@
       "constituent": null,
       "applyUrl": "https://governorsoffice.colorado.gov/governor/boards-commissions-application",
       "sourceUrl": "https://governorsoffice.colorado.gov/governor/appointments-and-openings",
-      "lastVerified": "2026-11-02",
+      "lastVerified": "2026-11-09",
       "criticalNote": "Opening: January"
     },
     {
@@ -541,7 +541,7 @@
       "constituent": null,
       "applyUrl": "https://governorsoffice.colorado.gov/governor/boards-commissions-application",
       "sourceUrl": "https://governorsoffice.colorado.gov/governor/appointments-and-openings",
-      "lastVerified": "2026-11-02",
+      "lastVerified": "2026-11-09",
       "criticalNote": "Opening: January"
     },
     {
@@ -555,7 +555,7 @@
       "constituent": null,
       "applyUrl": "https://governorsoffice.colorado.gov/governor/boards-commissions-application",
       "sourceUrl": "https://governorsoffice.colorado.gov/governor/appointments-and-openings",
-      "lastVerified": "2026-11-02",
+      "lastVerified": "2026-11-09",
       "criticalNote": "Opening: January"
     },
     {
@@ -569,7 +569,7 @@
       "constituent": null,
       "applyUrl": "https://governorsoffice.colorado.gov/governor/boards-commissions-application",
       "sourceUrl": "https://governorsoffice.colorado.gov/governor/appointments-and-openings",
-      "lastVerified": "2026-11-02",
+      "lastVerified": "2026-11-09",
       "criticalNote": "Immediate opening — resignation"
     },
     {
@@ -583,7 +583,7 @@
       "constituent": "Coloradans protected under state anti-discrimination law",
       "applyUrl": "https://governorsoffice.colorado.gov/governor/boards-commissions-application",
       "sourceUrl": "https://governorsoffice.colorado.gov/governor/appointments-and-openings",
-      "lastVerified": "2026-11-02",
+      "lastVerified": "2026-11-09",
       "criticalNote": "Immediate opening — resignation",
       "mandate": "Adjudicates discrimination complaints and sets civil-rights policy in Colorado. Seven members appointed by the Governor with Senate consent (C.R.S. 24-34-303).",
       "seatSource": "https://law.justia.com/codes/colorado/title-24/principal-departments/article-34/part-3/section-24-34-303/"
@@ -599,7 +599,7 @@
       "constituent": null,
       "applyUrl": "https://governorsoffice.colorado.gov/governor/boards-commissions-application",
       "sourceUrl": "https://governorsoffice.colorado.gov/governor/appointments-and-openings",
-      "lastVerified": "2026-11-02",
+      "lastVerified": "2026-11-09",
       "criticalNote": "Immediate opening — resignation"
     },
     {
@@ -613,7 +613,7 @@
       "constituent": null,
       "applyUrl": "https://governorsoffice.colorado.gov/governor/boards-commissions-application",
       "sourceUrl": "https://governorsoffice.colorado.gov/governor/appointments-and-openings",
-      "lastVerified": "2026-11-02",
+      "lastVerified": "2026-11-09",
       "criticalNote": "Immediate opening — resignation"
     },
     {
@@ -627,7 +627,7 @@
       "constituent": null,
       "applyUrl": "https://governorsoffice.colorado.gov/governor/boards-commissions-application",
       "sourceUrl": "https://governorsoffice.colorado.gov/governor/appointments-and-openings",
-      "lastVerified": "2026-11-02",
+      "lastVerified": "2026-11-09",
       "criticalNote": "Immediate opening — resignation"
     },
     {
@@ -641,7 +641,7 @@
       "constituent": null,
       "applyUrl": "https://governorsoffice.colorado.gov/governor/boards-commissions-application",
       "sourceUrl": "https://governorsoffice.colorado.gov/governor/appointments-and-openings",
-      "lastVerified": "2026-11-02",
+      "lastVerified": "2026-11-09",
       "criticalNote": "Immediate opening — resignation"
     },
     {
@@ -655,7 +655,7 @@
       "constituent": null,
       "applyUrl": "https://governorsoffice.colorado.gov/governor/boards-commissions-application",
       "sourceUrl": "https://governorsoffice.colorado.gov/governor/appointments-and-openings",
-      "lastVerified": "2026-11-02",
+      "lastVerified": "2026-11-09",
       "criticalNote": "Immediate opening — resignation"
     },
     {
@@ -669,7 +669,7 @@
       "constituent": null,
       "applyUrl": "https://governorsoffice.colorado.gov/governor/boards-commissions-application",
       "sourceUrl": "https://governorsoffice.colorado.gov/governor/appointments-and-openings",
-      "lastVerified": "2026-11-02",
+      "lastVerified": "2026-11-09",
       "criticalNote": "Immediate opening — resignation"
     },
     {
@@ -683,7 +683,7 @@
       "constituent": "Health First Colorado (Medicaid) members",
       "applyUrl": "https://governorsoffice.colorado.gov/governor/boards-commissions-application",
       "sourceUrl": "https://governorsoffice.colorado.gov/governor/appointments-and-openings",
-      "lastVerified": "2026-11-02",
+      "lastVerified": "2026-11-09",
       "criticalNote": "Immediate opening — resignation",
       "mandate": "Adopts rules governing Colorado's Medicaid and medical assistance programs. Eleven members appointed by the Governor with Senate consent, at least one per congressional district (C.R.S. 25.5-1-301).",
       "seatSource": "https://law.justia.com/codes/colorado/2022/title-25-5/article-1/part-3/section-25-5-1-301/"
@@ -699,7 +699,7 @@
       "constituent": null,
       "applyUrl": "https://governorsoffice.colorado.gov/governor/boards-commissions-application",
       "sourceUrl": "https://governorsoffice.colorado.gov/governor/appointments-and-openings",
-      "lastVerified": "2026-11-02",
+      "lastVerified": "2026-11-09",
       "criticalNote": "Immediate opening — resignation"
     },
     {
@@ -713,7 +713,7 @@
       "constituent": "Colorado's livestock producers & the brand-inspection system",
       "applyUrl": "https://governorsoffice.colorado.gov/governor/boards-commissions-application",
       "sourceUrl": "https://governorsoffice.colorado.gov/governor/appointments-and-openings",
-      "lastVerified": "2026-11-02",
+      "lastVerified": "2026-11-09",
       "criticalNote": "Immediate opening — resignation",
       "mandate": "Oversees Colorado's livestock brand inspection and theft prevention. Five commissioners appointed by the Governor with Senate consent, all actively engaged in cattle, horse or sheep production (C.R.S. 35-41-101).",
       "seatSource": "https://law.justia.com/codes/colorado/title-35/livestock/article-41/section-35-41-101/"
@@ -729,7 +729,7 @@
       "constituent": "Coloradans receiving psychological care & licensed psychologists",
       "applyUrl": "https://governorsoffice.colorado.gov/governor/boards-commissions-application",
       "sourceUrl": "https://governorsoffice.colorado.gov/governor/appointments-and-openings",
-      "lastVerified": "2026-11-02",
+      "lastVerified": "2026-11-09",
       "criticalNote": "Immediate opening — resignation",
       "mandate": "Licenses and disciplines Colorado's psychologists. Seven governor-appointed members — four licensed psychologists and three public members (C.R.S. 12-245-302).",
       "seatSource": "https://law.justia.com/codes/colorado/title-12/health-care-professions-and-occupations/article-245/part-3/section-12-245-302/"
@@ -745,7 +745,7 @@
       "constituent": null,
       "applyUrl": "https://governorsoffice.colorado.gov/governor/boards-commissions-application",
       "sourceUrl": "https://governorsoffice.colorado.gov/governor/appointments-and-openings",
-      "lastVerified": "2026-11-02",
+      "lastVerified": "2026-11-09",
       "criticalNote": "Immediate opening — resignation"
     },
     {
@@ -759,7 +759,7 @@
       "constituent": "Colorado psychotherapy clients & registered unlicensed psychotherapists",
       "applyUrl": "https://governorsoffice.colorado.gov/governor/boards-commissions-application",
       "sourceUrl": "https://governorsoffice.colorado.gov/governor/appointments-and-openings",
-      "lastVerified": "2026-11-02",
+      "lastVerified": "2026-11-09",
       "criticalNote": "Immediate opening — resignation",
       "mandate": "Regulates Colorado's registered unlicensed psychotherapists. Seven members appointed by the Governor — four unlicensed psychotherapists, one regulated psychotherapist, and two public members (C.R.S. 12-245-702).",
       "seatSource": "https://law.justia.com/codes/colorado/2023/title-12/health-care-professions-and-occupations/article-245/part-7/section-12-245-702/"
@@ -775,7 +775,7 @@
       "constituent": "Colorado veterans & their families",
       "applyUrl": "https://governorsoffice.colorado.gov/governor/boards-commissions-application",
       "sourceUrl": "https://governorsoffice.colorado.gov/governor/appointments-and-openings",
-      "lastVerified": "2026-11-02",
+      "lastVerified": "2026-11-09",
       "criticalNote": "Immediate opening — resignation",
       "mandate": "Advises on veterans policy and oversees the Veterans Trust Fund grant program. Seven members appointed by the Governor (C.R.S. 28-5-702).",
       "seatSource": "https://vets.colorado.gov/cbva"
@@ -791,7 +791,7 @@
       "constituent": null,
       "applyUrl": "https://governorsoffice.colorado.gov/governor/boards-commissions-application",
       "sourceUrl": "https://governorsoffice.colorado.gov/governor/appointments-and-openings",
-      "lastVerified": "2026-11-02",
+      "lastVerified": "2026-11-09",
       "criticalNote": "Immediate opening — resignation"
     },
     {
@@ -804,7 +804,7 @@
       "constituent": "Coloradans buying insurance through Connect for Health Colorado",
       "applyUrl": "https://governorsoffice.colorado.gov/governor/boards-commissions-application",
       "sourceUrl": "https://leg.colorado.gov/bills/sb17-003",
-      "lastVerified": "2026-11-02",
+      "lastVerified": "2026-11-09",
       "mandate": "Governs Connect for Health Colorado, the state health insurance marketplace. Twelve-member board; five voting members appointed by the Governor, four by legislative leaders, plus three ex-officio members (C.R.S. 10-22-104).",
       "criticalNote": "5 of 9 voting seats are governor-appointed (4 legislative, plus 3 ex officio)"
     },
@@ -818,7 +818,7 @@
       "constituent": "Colorado state personnel system employees",
       "applyUrl": "https://governorsoffice.colorado.gov/governor/boards-commissions-application",
       "sourceUrl": "https://law.justia.com/constitution/colorado/cnart12.html",
-      "lastVerified": "2026-11-02",
+      "lastVerified": "2026-11-09",
       "mandate": "Constitutional board hearing state employee appeals and adopting personnel rules. Five-member board; three members appointed by the Governor with Senate consent, two elected by certified state employees (Colo. Const. art. XII, § 14).",
       "criticalNote": "3 of 5 seats are governor-appointed (2 elected by state employees)"
     },
@@ -832,7 +832,7 @@
       "constituent": "Coloradans living with brain injuries",
       "applyUrl": "https://governorsoffice.colorado.gov/governor/boards-commissions-application",
       "sourceUrl": "https://law.justia.com/codes/colorado/2016/title-26/article-1/part-3/section-26-1-302/",
-      "lastVerified": "2026-11-02",
+      "lastVerified": "2026-11-09",
       "mandate": "Oversees the Colorado Brain Injury Trust Fund supporting services and research. Up to ten members appointed by the Governor with Senate consent, plus three ex-officio members (C.R.S. 26-1-302).",
       "criticalNote": "Up to 10 governor-appointed members (plus 3 ex officio)"
     },
@@ -846,7 +846,7 @@
       "constituent": "Colorado building occupants & licensed plumbers",
       "applyUrl": "https://governorsoffice.colorado.gov/governor/boards-commissions-application",
       "sourceUrl": "https://law.justia.com/codes/colorado/title-12/business-professions-and-occupations/article-155/section-12-155-104/",
-      "lastVerified": "2026-11-02",
+      "lastVerified": "2026-11-09",
       "mandate": "Licenses Colorado's plumbers and adopts the state plumbing code. Seven governor-appointed voting members with Senate consent — plumbers, contractors, an inspector, and a public member (C.R.S. 12-155-104).",
       "criticalNote": "Seven governor-appointed voting members; a public-health department representative serves ex officio, nonvoting"
     },
@@ -860,7 +860,7 @@
       "constituent": "Colorado therapy clients & licensed marriage and family therapists",
       "applyUrl": "https://governorsoffice.colorado.gov/governor/boards-commissions-application",
       "sourceUrl": "https://law.justia.com/codes/colorado/title-12/health-care-professions-and-occupations/article-245/part-5/section-12-245-502/",
-      "lastVerified": "2026-11-02",
+      "lastVerified": "2026-11-09",
       "mandate": "Licenses and regulates Colorado's marriage and family therapists. Seven governor-appointed members — four therapists and three public members (C.R.S. 12-245-502).",
       "criticalNote": "Statutory board — no current vacancy reported this cycle"
     },
@@ -874,7 +874,7 @@
       "constituent": "Colorado therapy clients & licensed marriage and family therapists",
       "applyUrl": "https://governorsoffice.colorado.gov/governor/boards-commissions-application",
       "sourceUrl": "https://law.justia.com/codes/colorado/title-12/health-care-professions-and-occupations/article-245/part-5/section-12-245-502/",
-      "lastVerified": "2026-11-02",
+      "lastVerified": "2026-11-09",
       "mandate": "Licenses and regulates Colorado's marriage and family therapists. Seven governor-appointed members — four therapists and three public members (C.R.S. 12-245-502).",
       "criticalNote": "Statutory board — no current vacancy reported this cycle"
     },
@@ -888,7 +888,7 @@
       "constituent": "Colorado counseling clients & licensed professional counselors",
       "applyUrl": "https://governorsoffice.colorado.gov/governor/boards-commissions-application",
       "sourceUrl": "https://law.justia.com/codes/colorado/title-12/health-care-professions-and-occupations/article-245/part-6/section-12-245-602/",
-      "lastVerified": "2026-11-02",
+      "lastVerified": "2026-11-09",
       "mandate": "Licenses and regulates Colorado's licensed professional counselors. Seven governor-appointed members — four counselors and three public members (C.R.S. 12-245-602).",
       "criticalNote": "Statutory board — no current vacancy reported this cycle"
     },
@@ -902,7 +902,7 @@
       "constituent": "Colorado State University System students, faculty & communities",
       "applyUrl": "https://governorsoffice.colorado.gov/governor/boards-commissions-application",
       "sourceUrl": "https://law.justia.com/codes/colorado/2022/title-23/article-30/section-23-30-101/",
-      "lastVerified": "2026-11-02",
+      "lastVerified": "2026-11-09",
       "mandate": "Governs the Colorado State University System (Fort Collins, Pueblo, Global). Fifteen-member board; nine voting members appointed by the Governor with Senate consent, plus nonvoting student and faculty representatives (C.R.S. 23-30-101).",
       "criticalNote": "9 voting members appointed by the Governor; remaining members are nonvoting student/faculty reps"
     },
@@ -916,7 +916,7 @@
       "constituent": "Colorado School of Mines students, faculty & Colorado's STEM workforce",
       "applyUrl": "https://governorsoffice.colorado.gov/governor/boards-commissions-application",
       "sourceUrl": "https://colorado.public.law/statutes/crs_title_23_article_41",
-      "lastVerified": "2026-11-02",
+      "lastVerified": "2026-11-09",
       "mandate": "Governs the Colorado School of Mines. Seven voting members appointed by the Governor with Senate consent, plus two nonvoting faculty and student representatives (C.R.S. 23-41-104).",
       "criticalNote": "7 governor-appointed voting members (2 nonvoting faculty/student reps excluded)"
     },
@@ -930,7 +930,7 @@
       "constituent": "University of Northern Colorado students, faculty & communities",
       "applyUrl": "https://governorsoffice.colorado.gov/governor/boards-commissions-application",
       "sourceUrl": "https://olls.info/crs/crs2025-title-23.htm",
-      "lastVerified": "2026-11-02",
+      "lastVerified": "2026-11-09",
       "mandate": "Governs the University of Northern Colorado. Seven voting members appointed by the Governor with Senate consent, plus nonvoting faculty and student representatives (C.R.S. 23-40-104).",
       "criticalNote": "7 governor-appointed voting members (nonvoting faculty/student reps excluded)"
     },
@@ -944,7 +944,7 @@
       "constituent": "Colorado community-college students & the state workforce",
       "applyUrl": "https://governorsoffice.colorado.gov/governor/boards-commissions-application",
       "sourceUrl": "https://olls.info/crs/crs2025-title-23.htm",
-      "lastVerified": "2026-11-02",
+      "lastVerified": "2026-11-09",
       "mandate": "Governs Colorado's community-college and occupational-education system. Twelve-member board; ten members appointed by the Governor with Senate consent (one per congressional district plus two at-large), plus elected nonvoting faculty and student representatives (C.R.S. 23-60-103).",
       "criticalNote": "10 governor-appointed members (nonvoting faculty/student reps excluded)"
     },
@@ -958,7 +958,7 @@
       "constituent": "Adams State University students, faculty & San Luis Valley communities",
       "applyUrl": "https://governorsoffice.colorado.gov/governor/boards-commissions-application",
       "sourceUrl": "https://olls.info/crs/crs2025-title-23.htm",
-      "lastVerified": "2026-11-02",
+      "lastVerified": "2026-11-09",
       "mandate": "Governs Adams State University. Nine voting members appointed by the Governor with Senate consent, plus two nonvoting faculty and student representatives (C.R.S. 23-51-102).",
       "criticalNote": "9 governor-appointed voting members (2 nonvoting faculty/student reps excluded)"
     },
@@ -972,7 +972,7 @@
       "constituent": "Colorado Mesa University students, faculty & Western Slope communities",
       "applyUrl": "https://governorsoffice.colorado.gov/governor/boards-commissions-application",
       "sourceUrl": "https://law.justia.com/codes/colorado/title-23/article-53/section-23-53-102/",
-      "lastVerified": "2026-11-02",
+      "lastVerified": "2026-11-09",
       "mandate": "Governs Colorado Mesa University. Eleven voting members appointed by the Governor with Senate consent, plus two nonvoting faculty and student representatives (C.R.S. 23-53-102).",
       "criticalNote": "11 governor-appointed voting members (2 nonvoting faculty/student reps excluded)"
     },
@@ -986,7 +986,7 @@
       "constituent": "Metropolitan State University of Denver students, faculty & community",
       "applyUrl": "https://governorsoffice.colorado.gov/governor/boards-commissions-application",
       "sourceUrl": "https://law.justia.com/codes/colorado/2022/title-23/article-54/section-23-54-102/",
-      "lastVerified": "2026-11-02",
+      "lastVerified": "2026-11-09",
       "mandate": "Governs Metropolitan State University of Denver. Nine voting members appointed by the Governor with Senate consent, plus nonvoting faculty and student representatives (C.R.S. 23-54-102).",
       "criticalNote": "9 governor-appointed voting members (nonvoting faculty/student reps excluded)"
     },
@@ -1000,7 +1000,7 @@
       "constituent": "Fort Lewis College students, faculty & Native American scholars",
       "applyUrl": "https://governorsoffice.colorado.gov/governor/boards-commissions-application",
       "sourceUrl": "https://olls.info/crs/crs2025-title-23.htm",
-      "lastVerified": "2026-11-02",
+      "lastVerified": "2026-11-09",
       "mandate": "Governs Fort Lewis College. Nine voting members appointed by the Governor with Senate consent (one an enrolled member of a federally recognized tribe), plus two nonvoting faculty and student representatives (C.R.S. 23-52-101).",
       "criticalNote": "9 governor-appointed voting members (2 nonvoting faculty/student reps excluded)"
     },
@@ -1014,7 +1014,7 @@
       "constituent": "Coloradans facing high prescription-drug costs",
       "applyUrl": "https://governorsoffice.colorado.gov/governor/boards-commissions-application",
       "sourceUrl": "https://doi.colorado.gov/insurance-products/health-insurance/prescription-drug-affordability-review-board",
-      "lastVerified": "2026-11-02",
+      "lastVerified": "2026-11-09",
       "mandate": "Reviews and may cap the cost of high-priced prescription drugs for Coloradans. Five members appointed by the Governor with Senate consent, each with expertise in clinical medicine or health-care economics (C.R.S. 10-16-1403).",
       "criticalNote": "Statutory board — no current vacancy reported this cycle"
     }
