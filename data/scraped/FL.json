@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-11-16T20:42:14.785Z",
+  "scrapedAt": "2026-11-23T22:16:46.439Z",
   "registry": {
     "profile": "fl",
     "mode": "inventory",
@@ -14,12 +14,12 @@
   },
   "summary": {
     "state": "FL",
-    "total": 289,
+    "total": 290,
     "full": 30,
-    "provisional": 259,
+    "provisional": 260,
     "missingFields": {
-      "totalSeats": 259,
-      "constituent": 259
+      "totalSeats": 260,
+      "constituent": 260
     }
   },
   "rows": [
@@ -34,7 +34,7 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-11-16",
+      "lastVerified": "2026-11-23",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
@@ -48,7 +48,7 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-11-16",
+      "lastVerified": "2026-11-23",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
@@ -62,7 +62,7 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-11-16",
+      "lastVerified": "2026-11-23",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
@@ -76,7 +76,7 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-11-16",
+      "lastVerified": "2026-11-23",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
@@ -90,7 +90,7 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-11-16",
+      "lastVerified": "2026-11-23",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
@@ -104,7 +104,7 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-11-16",
+      "lastVerified": "2026-11-23",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
@@ -118,7 +118,7 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-11-16",
+      "lastVerified": "2026-11-23",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
@@ -132,7 +132,7 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-11-16",
+      "lastVerified": "2026-11-23",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
@@ -146,7 +146,7 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-11-16",
+      "lastVerified": "2026-11-23",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
@@ -160,7 +160,7 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-11-16",
+      "lastVerified": "2026-11-23",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
@@ -174,7 +174,7 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-11-16",
+      "lastVerified": "2026-11-23",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
@@ -188,7 +188,7 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-11-16",
+      "lastVerified": "2026-11-23",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
@@ -202,7 +202,7 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-11-16",
+      "lastVerified": "2026-11-23",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
@@ -216,7 +216,7 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-11-16",
+      "lastVerified": "2026-11-23",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
@@ -230,7 +230,7 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-11-16",
+      "lastVerified": "2026-11-23",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
@@ -244,7 +244,7 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-11-16",
+      "lastVerified": "2026-11-23",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
@@ -258,7 +258,7 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-11-16",
+      "lastVerified": "2026-11-23",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
@@ -272,7 +272,7 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-11-16",
+      "lastVerified": "2026-11-23",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
@@ -286,7 +286,7 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-11-16",
+      "lastVerified": "2026-11-23",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
@@ -300,7 +300,7 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-11-16",
+      "lastVerified": "2026-11-23",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
@@ -314,7 +314,7 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-11-16",
+      "lastVerified": "2026-11-23",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
@@ -328,7 +328,7 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-11-16",
+      "lastVerified": "2026-11-23",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
@@ -342,7 +342,7 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-11-16",
+      "lastVerified": "2026-11-23",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
@@ -356,7 +356,7 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-11-16",
+      "lastVerified": "2026-11-23",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
@@ -370,7 +370,7 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-11-16",
+      "lastVerified": "2026-11-23",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
@@ -384,7 +384,7 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-11-16",
+      "lastVerified": "2026-11-23",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
@@ -398,7 +398,7 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-11-16",
+      "lastVerified": "2026-11-23",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
@@ -412,7 +412,7 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-11-16",
+      "lastVerified": "2026-11-23",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
@@ -426,7 +426,7 @@
       "constituent": "Florida businesses & licensed CPAs · audit integrity",
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-11-16",
+      "lastVerified": "2026-11-23",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list",
       "mandate": "Licenses and disciplines Florida's certified public accountants. Nine members appointed by the Governor with Senate confirmation — seven CPAs and two lay members (F.S. 473.303).",
       "seatSource": "https://law.justia.com/codes/florida/title-xxxii/chapter-473/section-473-303/"
@@ -442,7 +442,7 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-11-16",
+      "lastVerified": "2026-11-23",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
@@ -456,7 +456,7 @@
       "constituent": "Floridians & licensed architects/interior designers · building safety",
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-11-16",
+      "lastVerified": "2026-11-23",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list",
       "mandate": "Licenses and regulates Florida's architects and interior designers. Eleven members appointed by the Governor with Senate confirmation — five architects, three interior designers, three laypersons (F.S. 481.205).",
       "seatSource": "https://www.flsenate.gov/laws/statutes/2024/481.205"
@@ -472,7 +472,7 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-11-16",
+      "lastVerified": "2026-11-23",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
@@ -486,7 +486,7 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-11-16",
+      "lastVerified": "2026-11-23",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
@@ -500,7 +500,7 @@
       "constituent": "Florida chiropractic patients & licensees",
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-11-16",
+      "lastVerified": "2026-11-23",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list",
       "mandate": "Licenses and disciplines Florida's chiropractic physicians. Seven members appointed by the Governor with Senate confirmation (F.S. 460.404).",
       "seatSource": "https://law.justia.com/codes/florida/title-xxxii/chapter-460/section-460-404/"
@@ -516,7 +516,7 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-11-16",
+      "lastVerified": "2026-11-23",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
@@ -530,7 +530,7 @@
       "constituent": "Floridians seeking mental-health care & licensed therapists",
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-11-16",
+      "lastVerified": "2026-11-23",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list",
       "mandate": "Licenses Florida's clinical social workers, marriage & family therapists, and mental health counselors. Nine members appointed by the Governor with Senate confirmation — two of each profession plus three lay members (F.S. 491.004).",
       "seatSource": "https://law.justia.com/codes/florida/title-xxxii/chapter-491/section-491-004/"
@@ -546,7 +546,7 @@
       "constituent": "Florida salon clients & licensed cosmetologists",
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-11-16",
+      "lastVerified": "2026-11-23",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list",
       "mandate": "Licenses and regulates Florida's cosmetology practice and salons. Seven members appointed by the Governor with Senate confirmation — five cosmetologists and two laypersons (F.S. 477.019).",
       "seatSource": "https://www.flsenate.gov/laws/statutes/2024/477.019"
@@ -562,13 +562,27 @@
       "constituent": "Florida dental patients & licensed dentists/hygienists",
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-11-16",
+      "lastVerified": "2026-11-23",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list",
       "mandate": "Licenses and disciplines Florida's dentists and dental hygienists. Eleven members appointed by the Governor with Senate confirmation — seven dentists, two dental hygienists, two laypersons (F.S. 466.004).",
       "seatSource": "https://www.flsenate.gov/laws/statutes/2024/466.004"
     },
     {
       "id": 39,
+      "name": "Board of Directors of Florida ABLE, Inc. (dba ABLE United)",
+      "domain": "justice",
+      "totalSeats": null,
+      "vacantSeats": 0,
+      "vacantSince": null,
+      "authority": "Governor's Appointments Office",
+      "constituent": null,
+      "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
+      "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
+      "lastVerified": "2026-11-23",
+      "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
+    },
+    {
+      "id": 40,
       "name": "Board of Directors, Florida Education Fund",
       "domain": "education",
       "totalSeats": null,
@@ -578,11 +592,11 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-11-16",
+      "lastVerified": "2026-11-23",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
-      "id": 40,
+      "id": 41,
       "name": "Board of Directors, Florida Fund for Minority Teachers, Inc.",
       "domain": "education",
       "totalSeats": null,
@@ -592,11 +606,11 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-11-16",
+      "lastVerified": "2026-11-23",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
-      "id": 41,
+      "id": 42,
       "name": "Board of Employee Leasing Companies",
       "domain": "justice",
       "totalSeats": null,
@@ -606,11 +620,11 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-11-16",
+      "lastVerified": "2026-11-23",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
-      "id": 42,
+      "id": 43,
       "name": "Board of Governors of the State University System",
       "domain": "education",
       "totalSeats": 14,
@@ -620,13 +634,13 @@
       "constituent": "Florida's 12 state universities, students & faculty",
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-11-16",
+      "lastVerified": "2026-11-23",
       "criticalNote": "14 of 17 seats are governor-appointed (3 ex officio)",
       "mandate": "Constitutional governing body of Florida's State University System. Seventeen members; fourteen appointed by the Governor and Senate-confirmed, plus three ex-officio members (Commissioner of Education, faculty-senates council chair, student association chair) (Fla. Const. Art. IX, Sec. 7).",
       "seatSource": "https://codes.findlaw.com/fl/florida-constitution1968-revision/fl-const-art-9-sect-7/"
     },
     {
-      "id": 43,
+      "id": 44,
       "name": "Board of Hearing Aid Specialists",
       "domain": "justice",
       "totalSeats": null,
@@ -636,11 +650,11 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-11-16",
+      "lastVerified": "2026-11-23",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
-      "id": 44,
+      "id": 45,
       "name": "Board of Landscape Architecture",
       "domain": "housing",
       "totalSeats": 7,
@@ -650,13 +664,13 @@
       "constituent": "Floridians & licensed landscape architects · public spaces",
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-11-16",
+      "lastVerified": "2026-11-23",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list",
       "mandate": "Licenses and regulates Florida's landscape architects. Seven members appointed by the Governor with Senate confirmation — five landscape architects and two laypersons (F.S. 481.305).",
       "seatSource": "https://www.flsenate.gov/laws/statutes/2024/481.305"
     },
     {
-      "id": 45,
+      "id": 46,
       "name": "Board of Massage Therapy",
       "domain": "health",
       "totalSeats": 7,
@@ -666,13 +680,13 @@
       "constituent": "Florida massage clients & licensed massage therapists",
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-11-16",
+      "lastVerified": "2026-11-23",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list",
       "mandate": "Licenses and regulates Florida's massage therapists and establishments. Seven members appointed by the Governor with Senate confirmation — five massage therapists and two laypersons (F.S. 480.035).",
       "seatSource": "https://flsenate.gov/laws/statutes/2023/480.035"
     },
     {
-      "id": 46,
+      "id": 47,
       "name": "Board of Medicine",
       "domain": "health",
       "totalSeats": 15,
@@ -682,13 +696,13 @@
       "constituent": "Florida patients & licensed physicians",
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-11-16",
+      "lastVerified": "2026-11-23",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list",
       "mandate": "Licenses and disciplines Florida physicians. Fifteen members appointed by the Governor with Senate confirmation — twelve physicians, three consumer members (Fla. Stat. § 458.307).",
       "seatSource": "https://www.flsenate.gov/Laws/Statutes/2024/458.307"
     },
     {
-      "id": 47,
+      "id": 48,
       "name": "Board of Nursing",
       "domain": "health",
       "totalSeats": 13,
@@ -698,13 +712,13 @@
       "constituent": "Florida patients & licensed nurses",
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-11-16",
+      "lastVerified": "2026-11-23",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list",
       "mandate": "Licenses and disciplines Florida's nurses. Thirteen members appointed by the Governor and confirmed by the Senate — registered and practical nurses plus consumer members (F.S. 464.004).",
       "seatSource": "https://law.justia.com/codes/florida/title-xxxii/chapter-464/section-464-004/"
     },
     {
-      "id": 48,
+      "id": 49,
       "name": "Board of Nursing Home Administrators",
       "domain": "health",
       "totalSeats": 7,
@@ -714,13 +728,13 @@
       "constituent": "Florida nursing-home residents & licensed administrators",
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-11-16",
+      "lastVerified": "2026-11-23",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list",
       "mandate": "Licenses and disciplines Florida's nursing home administrators. Seven members appointed by the Governor with Senate confirmation — three administrators, two health-care practitioners, two laypersons (F.S. 468.1665).",
       "seatSource": "https://law.justia.com/codes/florida/2018/title-xxxii/chapter-468/part-ii/section-468.1665/"
     },
     {
-      "id": 49,
+      "id": 50,
       "name": "Board of Occupational Therapy Practice",
       "domain": "justice",
       "totalSeats": null,
@@ -730,11 +744,11 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-11-16",
+      "lastVerified": "2026-11-23",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
-      "id": 50,
+      "id": 51,
       "name": "Board of Opticianry",
       "domain": "health",
       "totalSeats": 7,
@@ -744,13 +758,13 @@
       "constituent": "Florida eyewear consumers & licensed opticians",
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-11-16",
+      "lastVerified": "2026-11-23",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list",
       "mandate": "Licenses and regulates Florida's opticians. Seven members appointed by the Governor with Senate confirmation — five opticians and two laypersons (F.S. 484.003).",
       "seatSource": "https://flsenate.gov/Laws/Statutes/2023/0484.003"
     },
     {
-      "id": 51,
+      "id": 52,
       "name": "Board of Optometry",
       "domain": "health",
       "totalSeats": 7,
@@ -760,13 +774,13 @@
       "constituent": "Florida eye-care patients & licensed optometrists",
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-11-16",
+      "lastVerified": "2026-11-23",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list",
       "mandate": "Licenses and regulates Florida's optometrists. Seven members appointed by the Governor with Senate confirmation — five optometrists and two consumer members (F.S. 463.003).",
       "seatSource": "https://law.justia.com/codes/florida/title-xxxii/chapter-463/section-463-003/"
     },
     {
-      "id": 52,
+      "id": 53,
       "name": "Board of Orthotists and Prosthetists",
       "domain": "justice",
       "totalSeats": null,
@@ -776,11 +790,11 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-11-16",
+      "lastVerified": "2026-11-23",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
-      "id": 53,
+      "id": 54,
       "name": "Board of Osteopathic Medicine",
       "domain": "health",
       "totalSeats": 7,
@@ -790,13 +804,13 @@
       "constituent": "Florida patients & licensed D.O. physicians",
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-11-16",
+      "lastVerified": "2026-11-23",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list",
       "mandate": "Licenses and disciplines Florida's osteopathic physicians. Seven members appointed by the Governor with Senate confirmation — five D.O.s and two consumer members (F.S. 459.004).",
       "seatSource": "https://law.justia.com/codes/florida/title-xxxii/chapter-459/section-459-004/"
     },
     {
-      "id": 54,
+      "id": 55,
       "name": "Board of Pharmacy",
       "domain": "health",
       "totalSeats": 9,
@@ -806,13 +820,13 @@
       "constituent": "Florida patients & licensed pharmacists · drug safety",
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-11-16",
+      "lastVerified": "2026-11-23",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list",
       "mandate": "Licenses pharmacists and regulates pharmacy practice in Florida. Nine members appointed by the Governor with Senate confirmation — seven pharmacists and two consumer members (F.S. 465.004).",
       "seatSource": "https://law.justia.com/codes/florida/title-xxxii/chapter-465/section-465-004/"
     },
     {
-      "id": 55,
+      "id": 56,
       "name": "Board of Physical Therapy Practice",
       "domain": "health",
       "totalSeats": 7,
@@ -822,13 +836,13 @@
       "constituent": "Florida patients & licensed physical therapists",
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-11-16",
+      "lastVerified": "2026-11-23",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list",
       "mandate": "Licenses and regulates Florida's physical therapists and PT assistants. Seven members appointed by the Governor with Senate confirmation (F.S. 486.023).",
       "seatSource": "https://law.justia.com/codes/florida/title-xxxii/chapter-486/section-486-023/"
     },
     {
-      "id": 56,
+      "id": 57,
       "name": "Board of Pilot Commissioners",
       "domain": "justice",
       "totalSeats": null,
@@ -838,11 +852,11 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-11-16",
+      "lastVerified": "2026-11-23",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
-      "id": 57,
+      "id": 58,
       "name": "Board of Podiatric Medicine",
       "domain": "health",
       "totalSeats": 7,
@@ -852,13 +866,13 @@
       "constituent": "Florida patients & licensed podiatrists",
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-11-16",
+      "lastVerified": "2026-11-23",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list",
       "mandate": "Licenses and disciplines Florida's podiatric physicians. Seven members appointed by the Governor with Senate confirmation — five podiatrists and two consumer members (F.S. 461.005).",
       "seatSource": "https://law.justia.com/codes/florida/title-xxxii/chapter-461/"
     },
     {
-      "id": 58,
+      "id": 59,
       "name": "Board of Professional Engineers",
       "domain": "justice",
       "totalSeats": 11,
@@ -868,13 +882,13 @@
       "constituent": "Floridians & licensed professional engineers · public safety",
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-11-16",
+      "lastVerified": "2026-11-23",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list",
       "mandate": "Licenses and regulates Florida's professional engineers. Eleven members appointed by the Governor — nine licensed engineers and two lay members (F.S. 471.007).",
       "seatSource": "https://law.justia.com/codes/florida/title-xxxii/chapter-471/section-471-007/"
     },
     {
-      "id": 59,
+      "id": 60,
       "name": "Board of Professional Geologists",
       "domain": "justice",
       "totalSeats": null,
@@ -884,11 +898,11 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-11-16",
+      "lastVerified": "2026-11-23",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
-      "id": 60,
+      "id": 61,
       "name": "Board of Psychology",
       "domain": "health",
       "totalSeats": 7,
@@ -898,13 +912,13 @@
       "constituent": "Floridians seeking psychological care & licensed psychologists",
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-11-16",
+      "lastVerified": "2026-11-23",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list",
       "mandate": "Licenses and regulates Florida's psychologists. Seven members appointed by the Governor with Senate confirmation — five psychologists and two consumer members (F.S. 490.004).",
       "seatSource": "https://law.justia.com/codes/florida/title-xxxii/chapter-490/section-490-004/"
     },
     {
-      "id": 61,
+      "id": 62,
       "name": "Board of Respiratory Care",
       "domain": "justice",
       "totalSeats": null,
@@ -914,11 +928,11 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-11-16",
+      "lastVerified": "2026-11-23",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
-      "id": 62,
+      "id": 63,
       "name": "Board of Speech-Language Pathology and Audiology",
       "domain": "justice",
       "totalSeats": null,
@@ -928,11 +942,11 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-11-16",
+      "lastVerified": "2026-11-23",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
-      "id": 63,
+      "id": 64,
       "name": "Board of Veterinary Medicine",
       "domain": "health",
       "totalSeats": 7,
@@ -942,13 +956,13 @@
       "constituent": "Florida pet owners, livestock & licensed veterinarians",
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-11-16",
+      "lastVerified": "2026-11-23",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list",
       "mandate": "Licenses and disciplines Florida's veterinarians. Seven members appointed by the Governor with Senate confirmation — five veterinarians and two laypersons (F.S. 474.204).",
       "seatSource": "https://www.flsenate.gov/laws/statutes/2025/474.204"
     },
     {
-      "id": 64,
+      "id": 65,
       "name": "Boating Advisory Council",
       "domain": "justice",
       "totalSeats": null,
@@ -958,11 +972,11 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-11-16",
+      "lastVerified": "2026-11-23",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
-      "id": 65,
+      "id": 66,
       "name": "Bradford County Development Authority",
       "domain": "justice",
       "totalSeats": null,
@@ -972,11 +986,11 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-11-16",
+      "lastVerified": "2026-11-23",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
-      "id": 66,
+      "id": 67,
       "name": "Brevard County Housing Authority",
       "domain": "housing",
       "totalSeats": null,
@@ -986,11 +1000,11 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-11-16",
+      "lastVerified": "2026-11-23",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
-      "id": 67,
+      "id": 68,
       "name": "Broward County Housing Authority",
       "domain": "housing",
       "totalSeats": null,
@@ -1000,11 +1014,11 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-11-16",
+      "lastVerified": "2026-11-23",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
-      "id": 68,
+      "id": 69,
       "name": "Canaveral Port Authority",
       "domain": "justice",
       "totalSeats": null,
@@ -1014,11 +1028,11 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-11-16",
+      "lastVerified": "2026-11-23",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
-      "id": 69,
+      "id": 70,
       "name": "Cape Canaveral Hospital District, Brevard County",
       "domain": "health",
       "totalSeats": null,
@@ -1028,11 +1042,11 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-11-16",
+      "lastVerified": "2026-11-23",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
-      "id": 70,
+      "id": 71,
       "name": "CareerSource Florida Board of Directors",
       "domain": "justice",
       "totalSeats": null,
@@ -1042,11 +1056,11 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-11-16",
+      "lastVerified": "2026-11-23",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
-      "id": 71,
+      "id": 72,
       "name": "Central Florida Expressway Authority",
       "domain": "justice",
       "totalSeats": null,
@@ -1056,11 +1070,11 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-11-16",
+      "lastVerified": "2026-11-23",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
-      "id": 72,
+      "id": 73,
       "name": "Central Florida Regional Planning Council, Region Seven",
       "domain": "justice",
       "totalSeats": null,
@@ -1070,11 +1084,11 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-11-16",
+      "lastVerified": "2026-11-23",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
-      "id": 73,
+      "id": 74,
       "name": "Children's Board of Hillsborough County",
       "domain": "justice",
       "totalSeats": null,
@@ -1084,11 +1098,11 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-11-16",
+      "lastVerified": "2026-11-23",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
-      "id": 74,
+      "id": 75,
       "name": "Children's Services Council of Broward County",
       "domain": "justice",
       "totalSeats": null,
@@ -1098,11 +1112,11 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-11-16",
+      "lastVerified": "2026-11-23",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
-      "id": 75,
+      "id": 76,
       "name": "Children's Services Council of Leon County",
       "domain": "justice",
       "totalSeats": null,
@@ -1112,11 +1126,11 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-11-16",
+      "lastVerified": "2026-11-23",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
-      "id": 76,
+      "id": 77,
       "name": "Children's Services Council of Martin County",
       "domain": "justice",
       "totalSeats": null,
@@ -1126,11 +1140,11 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-11-16",
+      "lastVerified": "2026-11-23",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
-      "id": 77,
+      "id": 78,
       "name": "Children's Services Council of Okeechobee County",
       "domain": "justice",
       "totalSeats": null,
@@ -1140,11 +1154,11 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-11-16",
+      "lastVerified": "2026-11-23",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
-      "id": 78,
+      "id": 79,
       "name": "Children's Services Council of Palm Beach County",
       "domain": "justice",
       "totalSeats": null,
@@ -1154,11 +1168,11 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-11-16",
+      "lastVerified": "2026-11-23",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
-      "id": 79,
+      "id": 80,
       "name": "Children's Services Council of St. Lucie County",
       "domain": "justice",
       "totalSeats": null,
@@ -1168,11 +1182,11 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-11-16",
+      "lastVerified": "2026-11-23",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
-      "id": 80,
+      "id": 81,
       "name": "Children's Trust Governing Board of Miami-Dade County",
       "domain": "justice",
       "totalSeats": null,
@@ -1182,11 +1196,11 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-11-16",
+      "lastVerified": "2026-11-23",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
-      "id": 81,
+      "id": 82,
       "name": "Children's Trust of Alachua County",
       "domain": "justice",
       "totalSeats": null,
@@ -1196,11 +1210,11 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-11-16",
+      "lastVerified": "2026-11-23",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
-      "id": 82,
+      "id": 83,
       "name": "Citizens Property Insurance Corporation Board of Governors",
       "domain": "justice",
       "totalSeats": null,
@@ -1210,11 +1224,11 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-11-16",
+      "lastVerified": "2026-11-23",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
-      "id": 83,
+      "id": 84,
       "name": "Citrus County Hospital Board",
       "domain": "health",
       "totalSeats": null,
@@ -1224,11 +1238,11 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-11-16",
+      "lastVerified": "2026-11-23",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
-      "id": 84,
+      "id": 85,
       "name": "Clay County Development Authority",
       "domain": "justice",
       "totalSeats": null,
@@ -1238,11 +1252,11 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-11-16",
+      "lastVerified": "2026-11-23",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
-      "id": 85,
+      "id": 86,
       "name": "Clay County Utility Authority",
       "domain": "justice",
       "totalSeats": null,
@@ -1252,11 +1266,11 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-11-16",
+      "lastVerified": "2026-11-23",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
-      "id": 86,
+      "id": 87,
       "name": "College of the Florida Keys District Board of Trustees",
       "domain": "education",
       "totalSeats": null,
@@ -1266,11 +1280,11 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-11-16",
+      "lastVerified": "2026-11-23",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
-      "id": 87,
+      "id": 88,
       "name": "Collier County Housing Authority",
       "domain": "housing",
       "totalSeats": null,
@@ -1280,11 +1294,11 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-11-16",
+      "lastVerified": "2026-11-23",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
-      "id": 88,
+      "id": 89,
       "name": "Columbia County Housing Authority",
       "domain": "housing",
       "totalSeats": null,
@@ -1294,11 +1308,11 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-11-16",
+      "lastVerified": "2026-11-23",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
-      "id": 89,
+      "id": 90,
       "name": "Commercial Motor Vehicle Review Board",
       "domain": "justice",
       "totalSeats": null,
@@ -1308,11 +1322,11 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-11-16",
+      "lastVerified": "2026-11-23",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
-      "id": 90,
+      "id": 91,
       "name": "Commission for Independent Education",
       "domain": "education",
       "totalSeats": null,
@@ -1322,11 +1336,11 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-11-16",
+      "lastVerified": "2026-11-23",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
-      "id": 91,
+      "id": 92,
       "name": "Commission for the Transportation Disadvantaged",
       "domain": "justice",
       "totalSeats": null,
@@ -1336,11 +1350,11 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-11-16",
+      "lastVerified": "2026-11-23",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
-      "id": 92,
+      "id": 93,
       "name": "Commission on Mental Health and Substance Use Disorder",
       "domain": "health",
       "totalSeats": null,
@@ -1350,11 +1364,11 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-11-16",
+      "lastVerified": "2026-11-23",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
-      "id": 93,
+      "id": 94,
       "name": "Construction Industry Licensing Board",
       "domain": "housing",
       "totalSeats": 18,
@@ -1364,13 +1378,13 @@
       "constituent": "Florida building owners & licensed contractors · construction safety",
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-11-16",
+      "lastVerified": "2026-11-23",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list",
       "mandate": "Licenses and disciplines Florida's construction contractors. Eighteen members appointed by the Governor with Senate confirmation — sixteen contractor/building-official members and two consumer members (F.S. 489.107).",
       "seatSource": "https://www.flsenate.gov/laws/statutes/2025/489.107"
     },
     {
-      "id": 94,
+      "id": 95,
       "name": "Continuing Care Advisory Council",
       "domain": "justice",
       "totalSeats": null,
@@ -1380,11 +1394,11 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-11-16",
+      "lastVerified": "2026-11-23",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
-      "id": 95,
+      "id": 96,
       "name": "Council on Homelessness",
       "domain": "housing",
       "totalSeats": null,
@@ -1394,11 +1408,11 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-11-16",
+      "lastVerified": "2026-11-23",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
-      "id": 96,
+      "id": 97,
       "name": "Criminal and Juvenile Justice Information Systems Council",
       "domain": "justice",
       "totalSeats": null,
@@ -1408,11 +1422,11 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-11-16",
+      "lastVerified": "2026-11-23",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
-      "id": 97,
+      "id": 98,
       "name": "Criminal Justice Standards and Training Commission",
       "domain": "justice",
       "totalSeats": null,
@@ -1422,11 +1436,11 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-11-16",
+      "lastVerified": "2026-11-23",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
-      "id": 98,
+      "id": 99,
       "name": "DeSoto County Hospital Board",
       "domain": "health",
       "totalSeats": null,
@@ -1436,11 +1450,11 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-11-16",
+      "lastVerified": "2026-11-23",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
-      "id": 99,
+      "id": 100,
       "name": "Diabetes Advisory Council",
       "domain": "justice",
       "totalSeats": null,
@@ -1450,11 +1464,11 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-11-16",
+      "lastVerified": "2026-11-23",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
-      "id": 100,
+      "id": 101,
       "name": "District Medical Examiners",
       "domain": "health",
       "totalSeats": null,
@@ -1464,11 +1478,11 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-11-16",
+      "lastVerified": "2026-11-23",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
-      "id": 101,
+      "id": 102,
       "name": "Early Learning Coalition of Alachua County, Inc.",
       "domain": "justice",
       "totalSeats": null,
@@ -1478,11 +1492,11 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-11-16",
+      "lastVerified": "2026-11-23",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
-      "id": 102,
+      "id": 103,
       "name": "Early Learning Coalition of Brevard County",
       "domain": "justice",
       "totalSeats": null,
@@ -1492,11 +1506,11 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-11-16",
+      "lastVerified": "2026-11-23",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
-      "id": 103,
+      "id": 104,
       "name": "Early Learning Coalition of Broward County",
       "domain": "justice",
       "totalSeats": null,
@@ -1506,11 +1520,11 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-11-16",
+      "lastVerified": "2026-11-23",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
-      "id": 104,
+      "id": 105,
       "name": "Early Learning Coalition of Duval, Inc.",
       "domain": "justice",
       "totalSeats": null,
@@ -1520,11 +1534,11 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-11-16",
+      "lastVerified": "2026-11-23",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
-      "id": 105,
+      "id": 106,
       "name": "Early Learning Coalition of Escambia County",
       "domain": "justice",
       "totalSeats": null,
@@ -1534,11 +1548,11 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-11-16",
+      "lastVerified": "2026-11-23",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
-      "id": 106,
+      "id": 107,
       "name": "Early Learning Coalition of Flagler and Volusia Counties",
       "domain": "justice",
       "totalSeats": null,
@@ -1548,11 +1562,11 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-11-16",
+      "lastVerified": "2026-11-23",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
-      "id": 107,
+      "id": 108,
       "name": "Early Learning Coalition of Florida's Gateway, Inc.",
       "domain": "justice",
       "totalSeats": null,
@@ -1562,11 +1576,11 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-11-16",
+      "lastVerified": "2026-11-23",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
-      "id": 108,
+      "id": 109,
       "name": "Early Learning Coalition of Florida's Heartland, Inc.",
       "domain": "environment",
       "totalSeats": null,
@@ -1576,11 +1590,11 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-11-16",
+      "lastVerified": "2026-11-23",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
-      "id": 109,
+      "id": 110,
       "name": "Early Learning Coalition of Hillsborough County, Inc.",
       "domain": "justice",
       "totalSeats": null,
@@ -1590,11 +1604,11 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-11-16",
+      "lastVerified": "2026-11-23",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
-      "id": 110,
+      "id": 111,
       "name": "Early Learning Coalition of Indian River, Martin and Okeechobee Counties, Inc.",
       "domain": "equity",
       "totalSeats": null,
@@ -1604,11 +1618,11 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-11-16",
+      "lastVerified": "2026-11-23",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
-      "id": 111,
+      "id": 112,
       "name": "Early Learning Coalition of Lake County, Inc.",
       "domain": "justice",
       "totalSeats": null,
@@ -1618,11 +1632,11 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-11-16",
+      "lastVerified": "2026-11-23",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
-      "id": 112,
+      "id": 113,
       "name": "Early Learning Coalition of Manatee County",
       "domain": "justice",
       "totalSeats": null,
@@ -1632,11 +1646,11 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-11-16",
+      "lastVerified": "2026-11-23",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
-      "id": 113,
+      "id": 114,
       "name": "Early Learning Coalition of Marion County",
       "domain": "justice",
       "totalSeats": null,
@@ -1646,11 +1660,11 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-11-16",
+      "lastVerified": "2026-11-23",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
-      "id": 114,
+      "id": 115,
       "name": "Early Learning Coalition of Miami-Dade/Monroe, Inc.",
       "domain": "justice",
       "totalSeats": null,
@@ -1660,11 +1674,11 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-11-16",
+      "lastVerified": "2026-11-23",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
-      "id": 115,
+      "id": 116,
       "name": "Early Learning Coalition of North Florida",
       "domain": "justice",
       "totalSeats": null,
@@ -1674,11 +1688,11 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-11-16",
+      "lastVerified": "2026-11-23",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
-      "id": 116,
+      "id": 117,
       "name": "Early Learning Coalition of Northwest Florida",
       "domain": "justice",
       "totalSeats": null,
@@ -1688,11 +1702,11 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-11-16",
+      "lastVerified": "2026-11-23",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
-      "id": 117,
+      "id": 118,
       "name": "Early Learning Coalition of Orange County",
       "domain": "justice",
       "totalSeats": null,
@@ -1702,11 +1716,11 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-11-16",
+      "lastVerified": "2026-11-23",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
-      "id": 118,
+      "id": 119,
       "name": "Early Learning Coalition of Osceola County",
       "domain": "justice",
       "totalSeats": null,
@@ -1716,11 +1730,11 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-11-16",
+      "lastVerified": "2026-11-23",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
-      "id": 119,
+      "id": 120,
       "name": "Early Learning Coalition of Palm Beach County, Inc.",
       "domain": "justice",
       "totalSeats": null,
@@ -1730,11 +1744,11 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-11-16",
+      "lastVerified": "2026-11-23",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
-      "id": 120,
+      "id": 121,
       "name": "Early Learning Coalition of Pasco and Hernando Counties, Inc.",
       "domain": "justice",
       "totalSeats": null,
@@ -1744,11 +1758,11 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-11-16",
+      "lastVerified": "2026-11-23",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
-      "id": 121,
+      "id": 122,
       "name": "Early Learning Coalition of Pinellas County, Inc.",
       "domain": "justice",
       "totalSeats": null,
@@ -1758,11 +1772,11 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-11-16",
+      "lastVerified": "2026-11-23",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
-      "id": 122,
+      "id": 123,
       "name": "Early Learning Coalition of Polk County",
       "domain": "justice",
       "totalSeats": null,
@@ -1772,11 +1786,11 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-11-16",
+      "lastVerified": "2026-11-23",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
-      "id": 123,
+      "id": 124,
       "name": "Early Learning Coalition of Santa Rosa County",
       "domain": "justice",
       "totalSeats": null,
@@ -1786,11 +1800,11 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-11-16",
+      "lastVerified": "2026-11-23",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
-      "id": 124,
+      "id": 125,
       "name": "Early Learning Coalition of Sarasota County",
       "domain": "justice",
       "totalSeats": null,
@@ -1800,11 +1814,11 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-11-16",
+      "lastVerified": "2026-11-23",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
-      "id": 125,
+      "id": 126,
       "name": "Early Learning Coalition of Seminole County",
       "domain": "justice",
       "totalSeats": null,
@@ -1814,11 +1828,11 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-11-16",
+      "lastVerified": "2026-11-23",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
-      "id": 126,
+      "id": 127,
       "name": "Early Learning Coalition of Southwest Florida",
       "domain": "justice",
       "totalSeats": null,
@@ -1828,11 +1842,11 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-11-16",
+      "lastVerified": "2026-11-23",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
-      "id": 127,
+      "id": 128,
       "name": "Early Learning Coalition of St. Lucie County, Inc.",
       "domain": "justice",
       "totalSeats": null,
@@ -1842,11 +1856,11 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-11-16",
+      "lastVerified": "2026-11-23",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
-      "id": 128,
+      "id": 129,
       "name": "Early Learning Coalition of the Big Bend Region, Inc.",
       "domain": "justice",
       "totalSeats": null,
@@ -1856,11 +1870,11 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-11-16",
+      "lastVerified": "2026-11-23",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
-      "id": 129,
+      "id": 130,
       "name": "Early Learning Coalition of the Emerald Coast (Okaloosa and Walton Counties)",
       "domain": "justice",
       "totalSeats": null,
@@ -1870,11 +1884,11 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-11-16",
+      "lastVerified": "2026-11-23",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
-      "id": 130,
+      "id": 131,
       "name": "Early Learning Coalition of the Nature Coast (Dixie, Gilchrist, Levy, Citrus, and Sumter Counties)",
       "domain": "justice",
       "totalSeats": null,
@@ -1884,11 +1898,11 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-11-16",
+      "lastVerified": "2026-11-23",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
-      "id": 131,
+      "id": 132,
       "name": "East Central Florida Regional Planning Council, Region Six",
       "domain": "justice",
       "totalSeats": null,
@@ -1898,11 +1912,11 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-11-16",
+      "lastVerified": "2026-11-23",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
-      "id": 132,
+      "id": 133,
       "name": "Electrical Contractors Licensing Board",
       "domain": "justice",
       "totalSeats": null,
@@ -1912,11 +1926,11 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-11-16",
+      "lastVerified": "2026-11-23",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
-      "id": 133,
+      "id": 134,
       "name": "Emergency Communications Board",
       "domain": "justice",
       "totalSeats": null,
@@ -1926,11 +1940,11 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-11-16",
+      "lastVerified": "2026-11-23",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
-      "id": 134,
+      "id": 135,
       "name": "Environmental Regulation Commission",
       "domain": "environment",
       "totalSeats": 7,
@@ -1940,13 +1954,13 @@
       "constituent": "Floridians affected by state environmental standards",
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-11-16",
+      "lastVerified": "2026-11-23",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list",
       "mandate": "Sets Florida's environmental standards and rules for the Department of Environmental Protection. Seven members appointed by the Governor with Senate confirmation, representing agriculture, development, local government, the environmental community, the public and science (F.S. 403.804).",
       "seatSource": "https://www.flsenate.gov/laws/statutes/2025/403.804"
     },
     {
-      "id": 135,
+      "id": 136,
       "name": "Escambia Children's Trust",
       "domain": "justice",
       "totalSeats": null,
@@ -1956,11 +1970,11 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-11-16",
+      "lastVerified": "2026-11-23",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
-      "id": 136,
+      "id": 137,
       "name": "Flagler County Housing Authority",
       "domain": "housing",
       "totalSeats": null,
@@ -1970,11 +1984,11 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-11-16",
+      "lastVerified": "2026-11-23",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
-      "id": 137,
+      "id": 138,
       "name": "Florida Athletic Commission",
       "domain": "justice",
       "totalSeats": null,
@@ -1984,11 +1998,11 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-11-16",
+      "lastVerified": "2026-11-23",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
-      "id": 138,
+      "id": 139,
       "name": "Florida Building Code Administrators and Inspectors Board",
       "domain": "housing",
       "totalSeats": null,
@@ -1998,11 +2012,11 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-11-16",
+      "lastVerified": "2026-11-23",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
-      "id": 139,
+      "id": 140,
       "name": "Florida Building Commission",
       "domain": "housing",
       "totalSeats": 19,
@@ -2012,13 +2026,13 @@
       "constituent": "Every Floridian in a built structure · statewide building code",
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-11-16",
+      "lastVerified": "2026-11-23",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list",
       "mandate": "Develops and maintains the Florida Building Code. Nineteen members appointed by the Governor with Senate confirmation, representing design, construction, building-official, fire-safety and related sectors (F.S. 553.74).",
       "seatSource": "https://www.flsenate.gov/laws/statutes/2025/553.74"
     },
     {
-      "id": 140,
+      "id": 141,
       "name": "Florida Cancer Control and Research Advisory Council",
       "domain": "justice",
       "totalSeats": null,
@@ -2028,11 +2042,11 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-11-16",
+      "lastVerified": "2026-11-23",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
-      "id": 141,
+      "id": 142,
       "name": "Florida Center for Brain Tumor Research Scientific Advisory Council",
       "domain": "justice",
       "totalSeats": null,
@@ -2042,11 +2056,11 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-11-16",
+      "lastVerified": "2026-11-23",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
-      "id": 142,
+      "id": 143,
       "name": "Florida Center for Nursing Board of Directors",
       "domain": "health",
       "totalSeats": null,
@@ -2056,11 +2070,11 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-11-16",
+      "lastVerified": "2026-11-23",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
-      "id": 143,
+      "id": 144,
       "name": "Florida Children and Youth Cabinet",
       "domain": "justice",
       "totalSeats": null,
@@ -2070,11 +2084,11 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-11-16",
+      "lastVerified": "2026-11-23",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
-      "id": 144,
+      "id": 145,
       "name": "Florida Citrus Commission",
       "domain": "environment",
       "totalSeats": 11,
@@ -2084,13 +2098,13 @@
       "constituent": "Florida's citrus growers, processors & the industry",
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-11-16",
+      "lastVerified": "2026-11-23",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list",
       "mandate": "Governs the Florida Department of Citrus and the state's citrus marketing and research. Eleven members appointed by the Governor, each an experienced Florida citrus grower, shipper or processor (F.S. 601.04).",
       "seatSource": "https://www.flsenate.gov/laws/statutes/2024/601.04"
     },
     {
-      "id": 145,
+      "id": 146,
       "name": "Florida Commission on Community Service (Volunteer Florida)",
       "domain": "justice",
       "totalSeats": null,
@@ -2100,11 +2114,11 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-11-16",
+      "lastVerified": "2026-11-23",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
-      "id": 146,
+      "id": 147,
       "name": "Florida Commission on Human Relations",
       "domain": "justice",
       "totalSeats": null,
@@ -2114,11 +2128,11 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-11-16",
+      "lastVerified": "2026-11-23",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
-      "id": 147,
+      "id": 148,
       "name": "Florida Commission on Offender Review",
       "domain": "justice",
       "totalSeats": null,
@@ -2128,11 +2142,11 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-11-16",
+      "lastVerified": "2026-11-23",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
-      "id": 148,
+      "id": 149,
       "name": "Florida Communities Trust",
       "domain": "justice",
       "totalSeats": null,
@@ -2142,11 +2156,11 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-11-16",
+      "lastVerified": "2026-11-23",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
-      "id": 149,
+      "id": 150,
       "name": "Florida Coordinating Council for the Deaf and Hard of Hearing",
       "domain": "disability",
       "totalSeats": null,
@@ -2156,11 +2170,11 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-11-16",
+      "lastVerified": "2026-11-23",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
-      "id": 150,
+      "id": 151,
       "name": "Florida Council on Arts and Culture",
       "domain": "justice",
       "totalSeats": null,
@@ -2170,11 +2184,11 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-11-16",
+      "lastVerified": "2026-11-23",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
-      "id": 151,
+      "id": 152,
       "name": "Florida Development Finance Corporation",
       "domain": "justice",
       "totalSeats": null,
@@ -2184,11 +2198,11 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-11-16",
+      "lastVerified": "2026-11-23",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
-      "id": 152,
+      "id": 153,
       "name": "Florida Developmental Disabilities Council",
       "domain": "disability",
       "totalSeats": null,
@@ -2198,11 +2212,11 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-11-16",
+      "lastVerified": "2026-11-23",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
-      "id": 153,
+      "id": 154,
       "name": "Florida Elections Commission",
       "domain": "justice",
       "totalSeats": null,
@@ -2212,11 +2226,11 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-11-16",
+      "lastVerified": "2026-11-23",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
-      "id": 154,
+      "id": 155,
       "name": "Florida Endowment Foundation for Vocational Rehabilitation (Able Trust)",
       "domain": "justice",
       "totalSeats": null,
@@ -2226,11 +2240,11 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-11-16",
+      "lastVerified": "2026-11-23",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
-      "id": 155,
+      "id": 156,
       "name": "Florida Faith-Based and Community-Based Advisory Council",
       "domain": "justice",
       "totalSeats": null,
@@ -2240,11 +2254,11 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-11-16",
+      "lastVerified": "2026-11-23",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
-      "id": 156,
+      "id": 157,
       "name": "Florida First Responder Hero Award Selection Board",
       "domain": "justice",
       "totalSeats": null,
@@ -2254,11 +2268,11 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-11-16",
+      "lastVerified": "2026-11-23",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
-      "id": 157,
+      "id": 158,
       "name": "Florida Fish and Wildlife Conservation Commission",
       "domain": "environment",
       "totalSeats": 7,
@@ -2268,13 +2282,13 @@
       "constituent": "Florida's fish, wildlife & outdoors",
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-11-16",
+      "lastVerified": "2026-11-23",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list",
       "mandate": "Manages Florida's fish and wildlife resources — a constitutional commission. Seven members appointed by the Governor with Senate confirmation, staggered five-year terms (Fla. Const. Art. IV, Sec. 9).",
       "seatSource": "https://codes.findlaw.com/fl/florida-constitution1968-revision/fl-const-art-4-sect-9/"
     },
     {
-      "id": 158,
+      "id": 159,
       "name": "Florida Governor's Council on Indian Affairs, Inc.",
       "domain": "equity",
       "totalSeats": null,
@@ -2284,11 +2298,11 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-11-16",
+      "lastVerified": "2026-11-23",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
-      "id": 159,
+      "id": 160,
       "name": "Florida Greenways and Trails Council",
       "domain": "justice",
       "totalSeats": null,
@@ -2298,11 +2312,11 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-11-16",
+      "lastVerified": "2026-11-23",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
-      "id": 160,
+      "id": 161,
       "name": "Florida Healthy Kids Corporation Board of Directors",
       "domain": "health",
       "totalSeats": null,
@@ -2312,11 +2326,11 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-11-16",
+      "lastVerified": "2026-11-23",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
-      "id": 161,
+      "id": 162,
       "name": "Florida High School Athletic Association Board of Directors",
       "domain": "education",
       "totalSeats": null,
@@ -2326,11 +2340,11 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-11-16",
+      "lastVerified": "2026-11-23",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
-      "id": 162,
+      "id": 163,
       "name": "Florida Historical Commission",
       "domain": "justice",
       "totalSeats": null,
@@ -2340,11 +2354,11 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-11-16",
+      "lastVerified": "2026-11-23",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
-      "id": 163,
+      "id": 164,
       "name": "Florida Housing Finance Corporation",
       "domain": "housing",
       "totalSeats": null,
@@ -2354,11 +2368,11 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-11-16",
+      "lastVerified": "2026-11-23",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
-      "id": 164,
+      "id": 165,
       "name": "Florida Humanities Council",
       "domain": "justice",
       "totalSeats": null,
@@ -2368,11 +2382,11 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-11-16",
+      "lastVerified": "2026-11-23",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
-      "id": 165,
+      "id": 166,
       "name": "Florida Independent Living Council, Inc.",
       "domain": "disability",
       "totalSeats": null,
@@ -2382,11 +2396,11 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-11-16",
+      "lastVerified": "2026-11-23",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
-      "id": 166,
+      "id": 167,
       "name": "Florida Industrial and Phosphate Research Institute",
       "domain": "justice",
       "totalSeats": null,
@@ -2396,11 +2410,11 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-11-16",
+      "lastVerified": "2026-11-23",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
-      "id": 167,
+      "id": 168,
       "name": "Florida Inland Navigation District",
       "domain": "environment",
       "totalSeats": null,
@@ -2410,11 +2424,11 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-11-16",
+      "lastVerified": "2026-11-23",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
-      "id": 168,
+      "id": 169,
       "name": "Florida Interagency Coordinating Council for Infants and Toddlers",
       "domain": "justice",
       "totalSeats": null,
@@ -2424,11 +2438,11 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-11-16",
+      "lastVerified": "2026-11-23",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
-      "id": 169,
+      "id": 170,
       "name": "Florida Keys Aqueduct Authority",
       "domain": "justice",
       "totalSeats": null,
@@ -2438,11 +2452,11 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-11-16",
+      "lastVerified": "2026-11-23",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
-      "id": 170,
+      "id": 171,
       "name": "Florida Martin Luther King, Jr., Institute for Nonviolence",
       "domain": "justice",
       "totalSeats": null,
@@ -2452,11 +2466,11 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-11-16",
+      "lastVerified": "2026-11-23",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
-      "id": 171,
+      "id": 172,
       "name": "Florida Opportunity Fund Board of Directors",
       "domain": "justice",
       "totalSeats": null,
@@ -2466,11 +2480,11 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-11-16",
+      "lastVerified": "2026-11-23",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
-      "id": 172,
+      "id": 173,
       "name": "Florida Public Service Commission",
       "domain": "justice",
       "totalSeats": 5,
@@ -2480,13 +2494,13 @@
       "constituent": "Every Florida utility ratepayer · electric, gas, water, telecom",
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-11-16",
+      "lastVerified": "2026-11-23",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list",
       "mandate": "Regulates Florida's investor-owned electric, natural-gas, water, and telecom utilities and their rates. Five commissioners appointed by the Governor from a nominating council's slate, Senate-confirmed (F.S. 350.031).",
       "seatSource": "https://law.justia.com/codes/florida/title-xxvii/chapter-350/section-350-031/"
     },
     {
-      "id": 173,
+      "id": 174,
       "name": "Florida Real Estate Appraisal Board",
       "domain": "justice",
       "totalSeats": null,
@@ -2496,11 +2510,11 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-11-16",
+      "lastVerified": "2026-11-23",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
-      "id": 174,
+      "id": 175,
       "name": "Florida Real Estate Commission",
       "domain": "housing",
       "totalSeats": 7,
@@ -2510,13 +2524,13 @@
       "constituent": "Florida home buyers & licensed real estate brokers",
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-11-16",
+      "lastVerified": "2026-11-23",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list",
       "mandate": "Licenses and regulates Florida's real estate brokers and sales associates. Seven members appointed by the Governor with Senate confirmation — five licensees and two consumer members (F.S. 475.02).",
       "seatSource": "https://law.justia.com/codes/florida/title-xxxii/chapter-475/section-475-02/"
     },
     {
-      "id": 175,
+      "id": 176,
       "name": "Florida Rehabilitation Council",
       "domain": "justice",
       "totalSeats": null,
@@ -2526,11 +2540,11 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-11-16",
+      "lastVerified": "2026-11-23",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
-      "id": 176,
+      "id": 177,
       "name": "Florida School for the Deaf and the Blind Board of Trustees",
       "domain": "education",
       "totalSeats": null,
@@ -2540,11 +2554,11 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-11-16",
+      "lastVerified": "2026-11-23",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
-      "id": 177,
+      "id": 178,
       "name": "Florida Small Business Development Center Network Statewide Advisory Board",
       "domain": "justice",
       "totalSeats": null,
@@ -2554,11 +2568,11 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-11-16",
+      "lastVerified": "2026-11-23",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
-      "id": 178,
+      "id": 179,
       "name": "Florida Sports Foundation Board of Directors",
       "domain": "justice",
       "totalSeats": null,
@@ -2568,11 +2582,11 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-11-16",
+      "lastVerified": "2026-11-23",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
-      "id": 179,
+      "id": 180,
       "name": "Florida State College at Jacksonville District Board of Trustees",
       "domain": "education",
       "totalSeats": null,
@@ -2582,11 +2596,11 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-11-16",
+      "lastVerified": "2026-11-23",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
-      "id": 180,
+      "id": 181,
       "name": "Florida Transportation Commission",
       "domain": "environment",
       "totalSeats": 9,
@@ -2596,13 +2610,13 @@
       "constituent": "Florida travelers & the statewide transportation system",
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-11-16",
+      "lastVerified": "2026-11-23",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list",
       "mandate": "Citizen oversight board for the Florida Department of Transportation — policy, accountability, and major-project review. Nine members appointed by the Governor with Senate confirmation (F.S. 20.23).",
       "seatSource": "https://law.justia.com/codes/florida/title-iv/chapter-20/section-20-23/"
     },
     {
-      "id": 181,
+      "id": 182,
       "name": "Florida Trauma System Advisory Council",
       "domain": "health",
       "totalSeats": null,
@@ -2612,11 +2626,11 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-11-16",
+      "lastVerified": "2026-11-23",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
-      "id": 182,
+      "id": 183,
       "name": "Florida Veterans’ Hall of Fame Council",
       "domain": "justice",
       "totalSeats": null,
@@ -2626,11 +2640,11 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-11-16",
+      "lastVerified": "2026-11-23",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
-      "id": 183,
+      "id": 184,
       "name": "Florida Virtual School Board of Trustees",
       "domain": "education",
       "totalSeats": null,
@@ -2640,11 +2654,11 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-11-16",
+      "lastVerified": "2026-11-23",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
-      "id": 184,
+      "id": 185,
       "name": "Gainesville Regional Utilities Authority",
       "domain": "justice",
       "totalSeats": null,
@@ -2654,11 +2668,11 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-11-16",
+      "lastVerified": "2026-11-23",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
-      "id": 185,
+      "id": 186,
       "name": "Gainesville-Alachua County Regional Airport Authority",
       "domain": "justice",
       "totalSeats": null,
@@ -2668,11 +2682,11 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-11-16",
+      "lastVerified": "2026-11-23",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
-      "id": 186,
+      "id": 187,
       "name": "Gasparilla Island Bridge Authority",
       "domain": "environment",
       "totalSeats": null,
@@ -2682,11 +2696,11 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-11-16",
+      "lastVerified": "2026-11-23",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
-      "id": 187,
+      "id": 188,
       "name": "Governor's Mansion Commission",
       "domain": "justice",
       "totalSeats": null,
@@ -2696,11 +2710,11 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-11-16",
+      "lastVerified": "2026-11-23",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
-      "id": 188,
+      "id": 189,
       "name": "Governor's Panel on Excellence in Long-Term Care",
       "domain": "justice",
       "totalSeats": null,
@@ -2710,11 +2724,11 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-11-16",
+      "lastVerified": "2026-11-23",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
-      "id": 189,
+      "id": 190,
       "name": "Greater Orlando Aviation Authority",
       "domain": "environment",
       "totalSeats": null,
@@ -2724,11 +2738,11 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-11-16",
+      "lastVerified": "2026-11-23",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
-      "id": 190,
+      "id": 191,
       "name": "Gulf County Superintendent of Schools",
       "domain": "education",
       "totalSeats": null,
@@ -2738,11 +2752,11 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-11-16",
+      "lastVerified": "2026-11-23",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
-      "id": 191,
+      "id": 192,
       "name": "Hamilton County Development Authority Board of Supervisors",
       "domain": "justice",
       "totalSeats": null,
@@ -2752,11 +2766,11 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-11-16",
+      "lastVerified": "2026-11-23",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
-      "id": 192,
+      "id": 193,
       "name": "Hamilton County Memorial Hospital Board",
       "domain": "health",
       "totalSeats": null,
@@ -2766,11 +2780,11 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-11-16",
+      "lastVerified": "2026-11-23",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
-      "id": 193,
+      "id": 194,
       "name": "Hardee County Housing Authority",
       "domain": "housing",
       "totalSeats": null,
@@ -2780,11 +2794,11 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-11-16",
+      "lastVerified": "2026-11-23",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
-      "id": 194,
+      "id": 195,
       "name": "Health Care District of Palm Beach County",
       "domain": "health",
       "totalSeats": null,
@@ -2794,11 +2808,11 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-11-16",
+      "lastVerified": "2026-11-23",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
-      "id": 195,
+      "id": 196,
       "name": "Health Care Innovation Council",
       "domain": "health",
       "totalSeats": null,
@@ -2808,11 +2822,11 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-11-16",
+      "lastVerified": "2026-11-23",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
-      "id": 196,
+      "id": 197,
       "name": "Hernando County Housing Authority",
       "domain": "housing",
       "totalSeats": null,
@@ -2822,11 +2836,11 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-11-16",
+      "lastVerified": "2026-11-23",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
-      "id": 197,
+      "id": 198,
       "name": "Higher Education Facilities Financing Authority",
       "domain": "education",
       "totalSeats": null,
@@ -2836,11 +2850,11 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-11-16",
+      "lastVerified": "2026-11-23",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
-      "id": 198,
+      "id": 199,
       "name": "Highlands County Housing Authority",
       "domain": "environment",
       "totalSeats": null,
@@ -2850,11 +2864,11 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-11-16",
+      "lastVerified": "2026-11-23",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
-      "id": 199,
+      "id": 200,
       "name": "Holmes County Hospital Corporation",
       "domain": "health",
       "totalSeats": null,
@@ -2864,11 +2878,11 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-11-16",
+      "lastVerified": "2026-11-23",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
-      "id": 200,
+      "id": 201,
       "name": "Holmes County Housing Authority",
       "domain": "housing",
       "totalSeats": null,
@@ -2878,11 +2892,11 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-11-16",
+      "lastVerified": "2026-11-23",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
-      "id": 201,
+      "id": 202,
       "name": "Immokalee Water and Sewer District, Collier County",
       "domain": "environment",
       "totalSeats": null,
@@ -2892,11 +2906,11 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-11-16",
+      "lastVerified": "2026-11-23",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
-      "id": 202,
+      "id": 203,
       "name": "Indian River County Housing Authority",
       "domain": "equity",
       "totalSeats": null,
@@ -2906,11 +2920,11 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-11-16",
+      "lastVerified": "2026-11-23",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
-      "id": 203,
+      "id": 204,
       "name": "Indian River State College District Board of Trustees",
       "domain": "education",
       "totalSeats": null,
@@ -2920,11 +2934,11 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-11-16",
+      "lastVerified": "2026-11-23",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
-      "id": 204,
+      "id": 205,
       "name": "Institute for Freedom in the Americas Board of Directors",
       "domain": "justice",
       "totalSeats": null,
@@ -2934,11 +2948,11 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-11-16",
+      "lastVerified": "2026-11-23",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
-      "id": 205,
+      "id": 206,
       "name": "Jackson County Hospital District",
       "domain": "health",
       "totalSeats": null,
@@ -2948,11 +2962,11 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-11-16",
+      "lastVerified": "2026-11-23",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
-      "id": 206,
+      "id": 207,
       "name": "Jacksonville Port Authority",
       "domain": "justice",
       "totalSeats": null,
@@ -2962,11 +2976,11 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-11-16",
+      "lastVerified": "2026-11-23",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
-      "id": 207,
+      "id": 208,
       "name": "Jacksonville Transportation Authority",
       "domain": "justice",
       "totalSeats": null,
@@ -2976,11 +2990,11 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-11-16",
+      "lastVerified": "2026-11-23",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
-      "id": 208,
+      "id": 209,
       "name": "Judges of Compensation Claims",
       "domain": "justice",
       "totalSeats": null,
@@ -2990,11 +3004,11 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-11-16",
+      "lastVerified": "2026-11-23",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
-      "id": 209,
+      "id": 210,
       "name": "Judicial Qualifications Commission",
       "domain": "justice",
       "totalSeats": null,
@@ -3004,11 +3018,11 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-11-16",
+      "lastVerified": "2026-11-23",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
-      "id": 210,
+      "id": 211,
       "name": "Juvenile Justice and Delinquency Prevention State Advisory Group",
       "domain": "justice",
       "totalSeats": null,
@@ -3018,11 +3032,11 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-11-16",
+      "lastVerified": "2026-11-23",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
-      "id": 211,
+      "id": 212,
       "name": "Juvenile Welfare Board of Pinellas County",
       "domain": "justice",
       "totalSeats": null,
@@ -3032,11 +3046,11 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-11-16",
+      "lastVerified": "2026-11-23",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
-      "id": 212,
+      "id": 213,
       "name": "Lake Shore Hospital Authority of Columbia County",
       "domain": "health",
       "totalSeats": null,
@@ -3046,11 +3060,11 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-11-16",
+      "lastVerified": "2026-11-23",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
-      "id": 213,
+      "id": 214,
       "name": "Lee County Housing Authority",
       "domain": "housing",
       "totalSeats": null,
@@ -3060,11 +3074,11 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-11-16",
+      "lastVerified": "2026-11-23",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
-      "id": 214,
+      "id": 215,
       "name": "Lower Florida Keys Hospital District, Monroe County",
       "domain": "health",
       "totalSeats": null,
@@ -3074,11 +3088,11 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-11-16",
+      "lastVerified": "2026-11-23",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
-      "id": 215,
+      "id": 216,
       "name": "Madison County Board of County Commissioners",
       "domain": "justice",
       "totalSeats": null,
@@ -3088,11 +3102,11 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-11-16",
+      "lastVerified": "2026-11-23",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
-      "id": 216,
+      "id": 217,
       "name": "Madison County Health and Hospital Board",
       "domain": "health",
       "totalSeats": null,
@@ -3102,11 +3116,11 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-11-16",
+      "lastVerified": "2026-11-23",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
-      "id": 217,
+      "id": 218,
       "name": "Manatee County Board of County Commissioners",
       "domain": "justice",
       "totalSeats": null,
@@ -3116,11 +3130,11 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-11-16",
+      "lastVerified": "2026-11-23",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
-      "id": 218,
+      "id": 219,
       "name": "Manatee County Housing Authority",
       "domain": "housing",
       "totalSeats": null,
@@ -3130,11 +3144,11 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-11-16",
+      "lastVerified": "2026-11-23",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
-      "id": 219,
+      "id": 220,
       "name": "Medicaid Pharmaceutical and Therapeutics Committee",
       "domain": "health",
       "totalSeats": null,
@@ -3144,11 +3158,11 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-11-16",
+      "lastVerified": "2026-11-23",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
-      "id": 220,
+      "id": 221,
       "name": "Medical Examiners Commission",
       "domain": "health",
       "totalSeats": null,
@@ -3158,11 +3172,11 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-11-16",
+      "lastVerified": "2026-11-23",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
-      "id": 221,
+      "id": 222,
       "name": "Merritt Island Library District Board, Brevard County",
       "domain": "education",
       "totalSeats": null,
@@ -3172,11 +3186,11 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-11-16",
+      "lastVerified": "2026-11-23",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
-      "id": 222,
+      "id": 223,
       "name": "Metropolitan Planning Organization of Miami-Dade County",
       "domain": "justice",
       "totalSeats": null,
@@ -3186,11 +3200,11 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-11-16",
+      "lastVerified": "2026-11-23",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
-      "id": 223,
+      "id": 224,
       "name": "Miami River Commission Policy Committee",
       "domain": "justice",
       "totalSeats": null,
@@ -3200,11 +3214,11 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-11-16",
+      "lastVerified": "2026-11-23",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
-      "id": 224,
+      "id": 225,
       "name": "Mid-Bay Bridge Authority, Okaloosa County",
       "domain": "justice",
       "totalSeats": null,
@@ -3214,11 +3228,11 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-11-16",
+      "lastVerified": "2026-11-23",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
-      "id": 225,
+      "id": 226,
       "name": "Monroe County Housing Authority",
       "domain": "housing",
       "totalSeats": null,
@@ -3228,11 +3242,11 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-11-16",
+      "lastVerified": "2026-11-23",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
-      "id": 226,
+      "id": 227,
       "name": "North Central Florida Regional Housing Authority",
       "domain": "housing",
       "totalSeats": null,
@@ -3242,11 +3256,11 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-11-16",
+      "lastVerified": "2026-11-23",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
-      "id": 227,
+      "id": 228,
       "name": "North Central Florida Regional Planning Council, Region Three",
       "domain": "justice",
       "totalSeats": null,
@@ -3256,11 +3270,11 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-11-16",
+      "lastVerified": "2026-11-23",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
-      "id": 228,
+      "id": 229,
       "name": "Northeast Florida Regional Planning Council, Region Four",
       "domain": "justice",
       "totalSeats": null,
@@ -3270,11 +3284,11 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-11-16",
+      "lastVerified": "2026-11-23",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
-      "id": 229,
+      "id": 230,
       "name": "Northwest Florida Regional Housing Authority",
       "domain": "housing",
       "totalSeats": null,
@@ -3284,11 +3298,11 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-11-16",
+      "lastVerified": "2026-11-23",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
-      "id": 230,
+      "id": 231,
       "name": "Northwest Florida Water Management District Governing Board",
       "domain": "environment",
       "totalSeats": null,
@@ -3298,11 +3312,11 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-11-16",
+      "lastVerified": "2026-11-23",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
-      "id": 231,
+      "id": 232,
       "name": "One Church, One Child of Florida Corporation",
       "domain": "justice",
       "totalSeats": null,
@@ -3312,11 +3326,11 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-11-16",
+      "lastVerified": "2026-11-23",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
-      "id": 232,
+      "id": 233,
       "name": "Orange County Board of County Commissioners",
       "domain": "justice",
       "totalSeats": null,
@@ -3326,11 +3340,11 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-11-16",
+      "lastVerified": "2026-11-23",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
-      "id": 233,
+      "id": 234,
       "name": "Orange County Clerk of the Circuit Court and Comptroller",
       "domain": "justice",
       "totalSeats": null,
@@ -3340,11 +3354,11 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-11-16",
+      "lastVerified": "2026-11-23",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
-      "id": 234,
+      "id": 235,
       "name": "Palm Beach County Housing Authority",
       "domain": "housing",
       "totalSeats": null,
@@ -3354,11 +3368,11 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-11-16",
+      "lastVerified": "2026-11-23",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
-      "id": 235,
+      "id": 236,
       "name": "Palm Beach State College District Board of Trustees",
       "domain": "education",
       "totalSeats": null,
@@ -3368,11 +3382,11 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-11-16",
+      "lastVerified": "2026-11-23",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
-      "id": 236,
+      "id": 237,
       "name": "Pasco County Housing Authority",
       "domain": "housing",
       "totalSeats": null,
@@ -3382,11 +3396,11 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-11-16",
+      "lastVerified": "2026-11-23",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
-      "id": 237,
+      "id": 238,
       "name": "Pinellas County Housing Authority",
       "domain": "housing",
       "totalSeats": null,
@@ -3396,11 +3410,11 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-11-16",
+      "lastVerified": "2026-11-23",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
-      "id": 238,
+      "id": 239,
       "name": "Port St. Joe Port Authority",
       "domain": "justice",
       "totalSeats": null,
@@ -3410,11 +3424,11 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-11-16",
+      "lastVerified": "2026-11-23",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
-      "id": 239,
+      "id": 240,
       "name": "Prison Rehabilitative Industries and Diversified Enterprises, Inc., Board of Directors (PRIDE)",
       "domain": "justice",
       "totalSeats": null,
@@ -3424,11 +3438,11 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-11-16",
+      "lastVerified": "2026-11-23",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
-      "id": 240,
+      "id": 241,
       "name": "Public Swimming and Bathing Facilities Advisory Review Board",
       "domain": "justice",
       "totalSeats": null,
@@ -3438,11 +3452,11 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-11-16",
+      "lastVerified": "2026-11-23",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
-      "id": 241,
+      "id": 242,
       "name": "Rare Disease Advisory Council",
       "domain": "justice",
       "totalSeats": null,
@@ -3452,11 +3466,11 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-11-16",
+      "lastVerified": "2026-11-23",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
-      "id": 242,
+      "id": 243,
       "name": "Regulatory Council of Community Association Managers",
       "domain": "justice",
       "totalSeats": null,
@@ -3466,11 +3480,11 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-11-16",
+      "lastVerified": "2026-11-23",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
-      "id": 243,
+      "id": 244,
       "name": "Rehabilitation Council for the Blind",
       "domain": "disability",
       "totalSeats": null,
@@ -3480,11 +3494,11 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-11-16",
+      "lastVerified": "2026-11-23",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
-      "id": 244,
+      "id": 245,
       "name": "Sarasota County Charter Review Board",
       "domain": "education",
       "totalSeats": null,
@@ -3494,11 +3508,11 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-11-16",
+      "lastVerified": "2026-11-23",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
-      "id": 245,
+      "id": 246,
       "name": "Sarasota Manatee Airport Authority",
       "domain": "justice",
       "totalSeats": null,
@@ -3508,11 +3522,11 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-11-16",
+      "lastVerified": "2026-11-23",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
-      "id": 246,
+      "id": 247,
       "name": "School Board of Flagler County",
       "domain": "education",
       "totalSeats": null,
@@ -3522,11 +3536,11 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-11-16",
+      "lastVerified": "2026-11-23",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
-      "id": 247,
+      "id": 248,
       "name": "School Board of Highlands County",
       "domain": "education",
       "totalSeats": null,
@@ -3536,11 +3550,11 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-11-16",
+      "lastVerified": "2026-11-23",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
-      "id": 248,
+      "id": 249,
       "name": "School Board of Miami-Dade County",
       "domain": "education",
       "totalSeats": null,
@@ -3550,11 +3564,11 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-11-16",
+      "lastVerified": "2026-11-23",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
-      "id": 249,
+      "id": 250,
       "name": "Seagrass Restoration Technology Development Initiative Technology Advisory Council",
       "domain": "justice",
       "totalSeats": null,
@@ -3564,11 +3578,11 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-11-16",
+      "lastVerified": "2026-11-23",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
-      "id": 250,
+      "id": 251,
       "name": "Seminole County Housing Authority",
       "domain": "housing",
       "totalSeats": null,
@@ -3578,11 +3592,11 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-11-16",
+      "lastVerified": "2026-11-23",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
-      "id": 251,
+      "id": 252,
       "name": "Seminole State College of Florida District Board of Trustees",
       "domain": "education",
       "totalSeats": null,
@@ -3592,11 +3606,11 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-11-16",
+      "lastVerified": "2026-11-23",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
-      "id": 252,
+      "id": 253,
       "name": "Sheriff of Pasco County",
       "domain": "justice",
       "totalSeats": null,
@@ -3606,11 +3620,11 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-11-16",
+      "lastVerified": "2026-11-23",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
-      "id": 253,
+      "id": 254,
       "name": "South Broward Hospital District",
       "domain": "health",
       "totalSeats": null,
@@ -3620,11 +3634,11 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-11-16",
+      "lastVerified": "2026-11-23",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
-      "id": 254,
+      "id": 255,
       "name": "South Florida Regional Planning Council, Region Eleven",
       "domain": "justice",
       "totalSeats": null,
@@ -3634,11 +3648,11 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-11-16",
+      "lastVerified": "2026-11-23",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
-      "id": 255,
+      "id": 256,
       "name": "South Florida Water Management District Governing Board",
       "domain": "environment",
       "totalSeats": null,
@@ -3648,11 +3662,11 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-11-16",
+      "lastVerified": "2026-11-23",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
-      "id": 256,
+      "id": 257,
       "name": "Southeast Interstate Low-Level Radioactive Waste Management Commission",
       "domain": "justice",
       "totalSeats": null,
@@ -3662,11 +3676,11 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-11-16",
+      "lastVerified": "2026-11-23",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
-      "id": 257,
+      "id": 258,
       "name": "Southeast Volusia Hospital District",
       "domain": "health",
       "totalSeats": null,
@@ -3676,11 +3690,11 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-11-16",
+      "lastVerified": "2026-11-23",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
-      "id": 258,
+      "id": 259,
       "name": "Southwest Florida Regional Planning Council, Region Nine",
       "domain": "justice",
       "totalSeats": null,
@@ -3690,11 +3704,11 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-11-16",
+      "lastVerified": "2026-11-23",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
-      "id": 259,
+      "id": 260,
       "name": "Southwest Florida Water Management District Governing Board",
       "domain": "environment",
       "totalSeats": null,
@@ -3704,11 +3718,11 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-11-16",
+      "lastVerified": "2026-11-23",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
-      "id": 260,
+      "id": 261,
       "name": "Space Florida Board of Directors",
       "domain": "justice",
       "totalSeats": null,
@@ -3718,11 +3732,11 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-11-16",
+      "lastVerified": "2026-11-23",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
-      "id": 261,
+      "id": 262,
       "name": "St. Johns River Water Management District Governing Board",
       "domain": "environment",
       "totalSeats": null,
@@ -3732,11 +3746,11 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-11-16",
+      "lastVerified": "2026-11-23",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
-      "id": 262,
+      "id": 263,
       "name": "St. Lucie County Fire District",
       "domain": "justice",
       "totalSeats": null,
@@ -3746,11 +3760,11 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-11-16",
+      "lastVerified": "2026-11-23",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
-      "id": 263,
+      "id": 264,
       "name": "State Apprenticeship Advisory Council",
       "domain": "housing",
       "totalSeats": null,
@@ -3760,11 +3774,11 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-11-16",
+      "lastVerified": "2026-11-23",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
-      "id": 264,
+      "id": 265,
       "name": "State Board of Education",
       "domain": "education",
       "totalSeats": null,
@@ -3774,11 +3788,11 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-11-16",
+      "lastVerified": "2026-11-23",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
-      "id": 265,
+      "id": 266,
       "name": "State College of Florida, Manatee-Sarasota District Board of Trustees",
       "domain": "education",
       "totalSeats": null,
@@ -3788,11 +3802,11 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-11-16",
+      "lastVerified": "2026-11-23",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
-      "id": 266,
+      "id": 267,
       "name": "State Council for Interstate Juvenile Offender Supervision",
       "domain": "justice",
       "totalSeats": null,
@@ -3802,11 +3816,11 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-11-16",
+      "lastVerified": "2026-11-23",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
-      "id": 267,
+      "id": 268,
       "name": "State Emergency Response Commission",
       "domain": "justice",
       "totalSeats": null,
@@ -3816,11 +3830,11 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-11-16",
+      "lastVerified": "2026-11-23",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
-      "id": 268,
+      "id": 269,
       "name": "State Historical Records Advisory Board",
       "domain": "justice",
       "totalSeats": null,
@@ -3830,11 +3844,11 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-11-16",
+      "lastVerified": "2026-11-23",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
-      "id": 269,
+      "id": 270,
       "name": "State of Florida Correctional Medical Authority",
       "domain": "health",
       "totalSeats": null,
@@ -3844,11 +3858,11 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-11-16",
+      "lastVerified": "2026-11-23",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
-      "id": 270,
+      "id": 271,
       "name": "State Retirement Commission",
       "domain": "justice",
       "totalSeats": null,
@@ -3858,11 +3872,11 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-11-16",
+      "lastVerified": "2026-11-23",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
-      "id": 271,
+      "id": 272,
       "name": "Statewide Council on Opioid Abatement",
       "domain": "health",
       "totalSeats": null,
@@ -3872,11 +3886,11 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-11-16",
+      "lastVerified": "2026-11-23",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
-      "id": 272,
+      "id": 273,
       "name": "Statewide Drug Policy Advisory Council",
       "domain": "health",
       "totalSeats": null,
@@ -3886,11 +3900,11 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-11-16",
+      "lastVerified": "2026-11-23",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
-      "id": 273,
+      "id": 274,
       "name": "Suicide Prevention Coordinating Council",
       "domain": "justice",
       "totalSeats": null,
@@ -3900,11 +3914,11 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-11-16",
+      "lastVerified": "2026-11-23",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
-      "id": 274,
+      "id": 275,
       "name": "Sunshine Genetics Consortium Oversight Board",
       "domain": "justice",
       "totalSeats": null,
@@ -3914,11 +3928,11 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-11-16",
+      "lastVerified": "2026-11-23",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
-      "id": 275,
+      "id": 276,
       "name": "Sunshine Water Control District Board of Supervisors",
       "domain": "environment",
       "totalSeats": null,
@@ -3928,11 +3942,11 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-11-16",
+      "lastVerified": "2026-11-23",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
-      "id": 276,
+      "id": 277,
       "name": "Suwannee River Water Management District Governing Board",
       "domain": "environment",
       "totalSeats": null,
@@ -3942,11 +3956,11 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-11-16",
+      "lastVerified": "2026-11-23",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
-      "id": 277,
+      "id": 278,
       "name": "Tampa Bay Regional Planning Council, Region Eight",
       "domain": "justice",
       "totalSeats": null,
@@ -3956,11 +3970,11 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-11-16",
+      "lastVerified": "2026-11-23",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
-      "id": 278,
+      "id": 279,
       "name": "Tampa Port Authority",
       "domain": "justice",
       "totalSeats": null,
@@ -3970,11 +3984,11 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-11-16",
+      "lastVerified": "2026-11-23",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
-      "id": 279,
+      "id": 280,
       "name": "Tampa-Hillsborough County Expressway Authority",
       "domain": "justice",
       "totalSeats": null,
@@ -3984,11 +3998,11 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-11-16",
+      "lastVerified": "2026-11-23",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
-      "id": 280,
+      "id": 281,
       "name": "The Council on the Social Status of Black Men and Boys",
       "domain": "justice",
       "totalSeats": null,
@@ -3998,11 +4012,11 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-11-16",
+      "lastVerified": "2026-11-23",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
-      "id": 281,
+      "id": 282,
       "name": "The James Patrick Memorial Work Incentive Personal Attendant Services and Employees Assistance Program Oversight Council",
       "domain": "justice",
       "totalSeats": null,
@@ -4012,11 +4026,11 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-11-16",
+      "lastVerified": "2026-11-23",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
-      "id": 282,
+      "id": 283,
       "name": "Tobacco Education and Use Prevention Advisory Council",
       "domain": "education",
       "totalSeats": null,
@@ -4026,11 +4040,11 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-11-16",
+      "lastVerified": "2026-11-23",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
-      "id": 283,
+      "id": 284,
       "name": "Treasure Coast Regional Planning Council, Region Ten",
       "domain": "justice",
       "totalSeats": null,
@@ -4040,11 +4054,11 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-11-16",
+      "lastVerified": "2026-11-23",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
-      "id": 284,
+      "id": 285,
       "name": "Triumph Gulf Coast, Inc. Board of Directors",
       "domain": "justice",
       "totalSeats": null,
@@ -4054,11 +4068,11 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-11-16",
+      "lastVerified": "2026-11-23",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
-      "id": 285,
+      "id": 286,
       "name": "Union County Housing Authority",
       "domain": "housing",
       "totalSeats": null,
@@ -4068,11 +4082,11 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-11-16",
+      "lastVerified": "2026-11-23",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
-      "id": 286,
+      "id": 287,
       "name": "Valencia College District Board of Trustees",
       "domain": "education",
       "totalSeats": null,
@@ -4082,11 +4096,11 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-11-16",
+      "lastVerified": "2026-11-23",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
-      "id": 287,
+      "id": 288,
       "name": "Wekiva River Basin Commission",
       "domain": "justice",
       "totalSeats": null,
@@ -4096,11 +4110,11 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-11-16",
+      "lastVerified": "2026-11-23",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
-      "id": 288,
+      "id": 289,
       "name": "West Florida Regional Planning Council, Region One",
       "domain": "justice",
       "totalSeats": null,
@@ -4110,11 +4124,11 @@
       "constituent": null,
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-11-16",
+      "lastVerified": "2026-11-23",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list"
     },
     {
-      "id": 289,
+      "id": 290,
       "name": "Florida State Board of Education",
       "domain": "education",
       "totalSeats": 7,
@@ -4124,7 +4138,7 @@
       "constituent": "Florida K-12 students & families",
       "applyUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
       "sourceUrl": "https://eogforms.eog.myflorida.com/pages/SeatApplication.aspx",
-      "lastVerified": "2026-11-16",
+      "lastVerified": "2026-11-23",
       "criticalNote": "Listed in the Governor's Board Seat Application (inventory); FL publishes no central vacancy list",
       "mandate": "Chief policy body for Florida public education. Seven members appointed by the Governor to staggered four-year terms, Senate-confirmed (Fla. Const. art. IX).",
       "seatSource": "https://www.flsenate.gov/Laws/Constitution#A9S02"
